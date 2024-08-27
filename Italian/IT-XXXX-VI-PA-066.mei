@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:id="IT-XXXX-VI-PA-066">Andèmo Alla Guerra</title>
+        <title type="subtitle"/>
+        <respStmt>
+          <persName role="compiler">Vere Paiola</persName>
+          <persName role="informer">
+            <geogName>Vicenza</geogName>
+          </persName>
+          <persName role="encoder">Marco Bellano</persName>
+          <persName role="editor">Marco Bellano</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <publisher>co_POEM Reseach Project</publisher>
+        <date>2023</date>
+        <availability>To the best of our knowledge,
+                the full compositions on this site are in the public domain,
+                the excerpts are in the public domain or are allowable under fair-use,
+                and the few compositions that are still under copyright are used by permission.
+                These scores, are provided for educational use only and are not to be used commercially.
+            </availability>
+      </pubStmt>
+      <sourceDesc>
+        <source xml:id="to_add">
+          <biblStruct>
+            <monogr>
+              <imprint>
+                <title>Canti Popolari Vicentini</title>
+                <title type="subordinate"></title>
+                <respStmt>
+                  <persName role="compiler">Roberto Leydi</persName>
+                  <persName role="bibliography"></persName>
+                  <persName role="introduction">Neri Pozza</persName>
+                  <persName role="edition"></persName>
+                </respStmt>
+                <publisher>Neri Pozza</publisher>
+                <pubPlace>Vicenza (Vi), Italia</pubPlace>
+                <date>1981</date>
+                <extent type="pages"></extent>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </source>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc xml:id="encodingdesc-1lxhx5n">
+      <appInfo xml:id="appinfo-l0go6g">
+        <application xml:id="application-1k53v7c" isodate="2023-02-22T22:20:32" version="3.14.0-1474e80">
+          <name xml:id="name-1e51wyw">Verovio</name>
+          <p xml:id="p-i8zs3l">Transcoded from MusicXML</p>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <workList>
+      <work><title type="main">Andèmo Alla Guerra</title><author type="informant">Anonymous</author><incip type="lyrics"><incipText><head/></incipText></incip><key mode="major">C</key><meter>Binary</meter><tempo>Allegro Moderato</tempo><incip type="musical"><score><section><measure copyof="#mjiguwo"/><measure copyof="#m2jjsv9"/><measure copyof="#m1po03v"/></section></score></incip><langUsage>
+                    <language xml:lang="it"/>
+                </langUsage>
+                <notesStmt>
+                    <annot>Another version of IT121-XXXX-VI-PA-052
+
+                                          Andèmo alla guerra
+                                          col sciopo par terra
+                                          col sciopo par man:
+                                          pin! Pun! Pan!</annot>
+                </notesStmt>
+                <classification><termList><term type="genre">Children song</term><term type="region">Veneto</term><term type="district">Vicenza</term><term type="city">Vicenza</term></termList></classification></work>
+    </workList>
+  </meiHead>
+  <music>
+    <body>
+      <mdiv xml:id="m4upt9n">
+        <score xml:id="s1l4bqk">
+          <scoreDef xml:id="s116gm2z">
+            <pgHead xml:id="p4qjhno">
+              <rend xml:id="r578dfy" halign="center" valign="top">66. Andèmo Alla Guerra</rend>
+            </pgHead>
+            <staffGrp xml:id="su2r9wd">
+              <staffGrp xml:id="s2iaxkx">
+                <grpSym xml:id="g1y3r2x8" symbol="brace"/>
+                <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                  <label xml:id="ltwsv3b">Piano</label>
+                  <labelAbbr xml:id="lyry93b">Pno.</labelAbbr>
+                  <instrDef xml:id="i17mgj3d" midi.channel="0" midi.instrnum="0" midi.volume="78.00%"/>
+                  <clef xml:id="c2vv95f" shape="G" line="2"/>
+                  <keySig xml:id="k191nr5k" sig="0"/>
+                  <meterSig xml:id="mnyi9uu" count="2" unit="4"/>
+                </staffDef>
+              </staffGrp>
+            </staffGrp>
+            <ambitus>
+              <ambNote type="lowest" oct="4" pname="e"/>
+              <ambNote type="highest" oct="4" pname="b"/>
+            </ambitus>
+          </scoreDef>
+          <section xml:id="susrjma"><supplied type="rythymn pattern">
+                                <note dur="8"/>
+                                <note dur="8"/>
+                                <note dur="8"/>
+                                <note dur="8"/>
+                                <note dur="4"/>
+                            </supplied>
+                            <supplied type="phrases"><phrase n="1" startid="#nw0v57m" endid="#n1ry61uy" type="A"/></supplied><pb xml:id="p1ltu7fe"/><measure xml:id="mjiguwo" n="0"><mNum xml:id="mio7ftq"/><staff xml:id="s1rqjw0i" n="1"><layer xml:id="l5nijhx" n="1"><note xml:id="nw0v57m" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up" type="start"><verse xml:id="v1wxrgyg" n="1"><syl xml:id="s119wg1m" con="d" wordpos="i">An</syl></verse></note></layer></staff><tempo xml:id="t18uz7x7" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="72.000000" mm="72.000000" mm.unit="4"><rend xml:id="r1cdqfqm" fontweight="bold">Allegro moderato </rend><rend xml:id="r1e8gnno" fontfam="smufl"></rend> = 72</tempo></measure><measure xml:id="m2jjsv9" n="1"><staff xml:id="soj66zm" n="1"><layer xml:id="l78xw7i" n="1"><note xml:id="n10bb64d" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up"><verse xml:id="v9k4fwr" n="1"><syl xml:id="sy4fnq4" con="d" wordpos="m">dè</syl></verse></note><beam xml:id="b1f2p45x"><note xml:id="nmp4ye3" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up"><verse xml:id="v7yumet" n="1"><syl xml:id="s1qlz9m8" con="d" wordpos="m">mo al</syl></verse></note><note xml:id="n1gjz260" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up"><verse xml:id="v13j3vsq" n="1"><syl xml:id="sywmq8a" con="s" wordpos="t">la</syl></verse></note></beam></layer></staff></measure><measure xml:id="m1po03v" n="2"><staff xml:id="s1e2wlj5" n="1"><layer xml:id="lhenjkz" n="1"><note xml:id="nehne38" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up"><verse xml:id="v1oio1mm" n="1"><syl xml:id="s1ttxd3p" con="d" wordpos="i">gue</syl></verse></note><beam xml:id="b1o45vsx"><note xml:id="n1xlid2e" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up"><verse xml:id="v1yxl4kn" n="1"><syl xml:id="svxt55l" con="s" wordpos="t">ra</syl></verse></note><note xml:id="n1mubxz8" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up"><verse xml:id="va2o54i" n="1"><syl xml:id="s1bxnlmb" con="d" wordpos="i">col s</syl></verse></note></beam></layer></staff></measure><measure xml:id="m1o49iw4" n="3"><staff xml:id="spwrll7" n="1"><layer xml:id="l15g0ni0" n="1"><note xml:id="ny2vejz" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up"><verse xml:id="v1yc049g" n="1"><syl xml:id="s1ah7h2r" con="d" wordpos="m">cio</syl></verse></note><beam xml:id="bro6dxg"><note xml:id="n5v1bfh" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up"><verse xml:id="v16ydrf5" n="1"><syl xml:id="s1txkpyz" con="s" wordpos="t">po</syl></verse></note><note xml:id="n161qb8v" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up"><verse xml:id="v10fbds1" n="1"><syl xml:id="s1wit8vh" con="s" wordpos="s">par</syl></verse></note></beam></layer></staff></measure><sb xml:id="s2j7532"/><measure xml:id="m10ytkw8" n="4"><staff xml:id="s19ulg8q" n="1"><layer xml:id="l1xgbbd5" n="1"><note xml:id="nyizt0e" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up"><verse xml:id="v1km2llp" n="1"><syl xml:id="s1dsb1e8" con="d" wordpos="i">ter</syl></verse></note><beam xml:id="btzls37"><note xml:id="nkp8ile" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up"><verse xml:id="v3uvvd2" n="1"><syl xml:id="s25i1yy" con="s" wordpos="t">ra</syl></verse></note><note xml:id="n10rb14d" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up"><verse xml:id="v5f6798" n="1"><syl xml:id="ste4lfn" con="d" wordpos="i">col s</syl></verse></note></beam></layer></staff></measure><measure xml:id="m17f97n1" n="5"><staff xml:id="s1x5uktl" n="1"><layer xml:id="l15f8uqn" n="1"><note xml:id="n17ezpea" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up"><verse xml:id="v12gdiuj" n="1"><syl xml:id="s1sm1hrd" con="d" wordpos="m">cio</syl></verse></note><beam xml:id="boeedz6"><note xml:id="n1sclcm4" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up"><verse xml:id="v9g7ebr" n="1"><syl xml:id="s1lzdmai" con="s" wordpos="t">po</syl></verse></note><note xml:id="nawb379" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up"><verse xml:id="vfb5sse" n="1"><syl xml:id="szkv7r4" con="s" wordpos="s">par</syl></verse></note></beam></layer></staff></measure><measure xml:id="mrwxoqp" n="6"><staff xml:id="s10krk8a" n="1"><layer xml:id="l1owmj" n="1"><note xml:id="n2s8cbt" dur.ppq="4" dur="2" oct="4" pname="b" stem.dir="down"><verse xml:id="vzeq3ny" n="1"><syl xml:id="s1ljrvpj" con="s" wordpos="s">man:</syl></verse></note></layer></staff></measure><measure xml:id="mbjy7jf" n="7"><staff xml:id="s3levsj" n="1"><layer xml:id="l1o2eldk" n="1"><note xml:id="n4c55it" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up"><verse xml:id="v1ksczw" n="1"><syl xml:id="sxbt9t6" con="s" wordpos="s">Pin!</syl></verse></note><note xml:id="n5h1120" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up"><verse xml:id="vi6jfj" n="1"><syl xml:id="sh7uq2u" con="s" wordpos="s">Pun!</syl></verse></note></layer></staff></measure><measure xml:id="maimfgq" right="end" n="8"><staff xml:id="sac1p74" n="1"><layer xml:id="l1ak3dfn" n="1"><note xml:id="n1ry61uy" dur.ppq="4" dur="2" oct="4" pname="g" stem.dir="up" type="SR"><verse xml:id="vd8xir0" n="1"><syl xml:id="sb5mcq" con="s" wordpos="s">Pan!</syl></verse></note></layer></staff></measure></section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>

@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:id="IT-XXXX-VE-VA-016">Ti Toc Ti Toc Cavalo</title>
+        <title type="subtitle"/>
+        <respStmt>
+          <persName role="compiler">Gabriele Vardanega</persName>
+          <persName role="informer">
+            <geogName/>
+          </persName>
+          <persName role="encoder">Marco Bellano</persName>
+          <persName role="editor">Marco Bellano</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <publisher>co_POEM Reseach Project</publisher>
+        <date>2023</date>
+        <availability>To the best of our knowledge,
+                the full compositions on this site are in the public domain,
+                the excerpts are in the public domain or are allowable under fair-use,
+                and the few compositions that are still under copyright are used by permission.
+                These scores, are provided for educational use only and are not to be used commercially.
+            </availability>
+      </pubStmt>
+      <sourceDesc>
+        <source xml:id="to_add">
+          <biblStruct>
+            <monogr>
+              <imprint>
+                <title>Canti Del Grappa</title>
+                <title type="subordinate">Il Canto Popolare Nella Tradizione Orale Della Pedemontana Del Grappa</title>
+                <respStmt>
+                  <persName role="compiler">Gabriele Vardanega</persName>
+                  <persName role="bibliography"></persName>
+                  <persName role="introduction">Daniele Cunial</persName>
+                  <persName role="edition">Anna Cavarzan</persName>
+                </respStmt>
+                <publisher>Danilo Zanetti Editore</publisher>
+                <pubPlace>Caerano S. Marco (Tv), Italia</pubPlace>
+                <date>1999</date>
+                <extent type="pages">551.0</extent>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </source>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc xml:id="encodingdesc-1pt8zqo">
+      <appInfo xml:id="appinfo-1jsvz9m">
+        <application xml:id="application-1s416zb" isodate="2023-02-22T22:20:32" version="3.14.0-1474e80">
+          <name xml:id="name-rhp9j6">Verovio</name>
+          <p xml:id="p-1a472y">Transcoded from MusicXML</p>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <workList>
+      <work><title type="main">Ti Toc Ti Toc Cavalo</title><author type="informant">Anonymous</author><incip type="lyrics"><incipText><head/></incipText></incip><key mode="major">F</key><meter>Binary</meter><tempo>None</tempo><incip type="musical"><score><section><measure copyof="#m1mc9zvq"/><measure copyof="#m6esnxn"/><measure copyof="#mnd1tlm"/></section></score></incip><langUsage>
+                    <language xml:lang="it"/>
+                </langUsage>
+                <notesStmt>
+                    <annot>Ti toc ti toc cavalo
+                                                                  la mama è ndata al balo
+                                                                  pupà l'è ndato ai campi
+                                                                  co tre cavali bianchi
+                                                                  bianca la sela
+                                                                  adio Nineta bela.</annot>
+                </notesStmt>
+                <classification><termList><term type="genre">Children song</term><term type="region">Veneto</term><term type="district">Treviso</term><term type="city">Treviso</term></termList></classification></work>
+    </workList>
+  </meiHead>
+  <music>
+    <body>
+      <mdiv xml:id="m1fxzugl">
+        <score xml:id="s1haxqiy">
+          <scoreDef xml:id="sdagvq">
+            <pgHead xml:id="pdf7ae1">
+              <rend xml:id="rl55xiq" halign="center" valign="top">16. Ti toc ti toc cavalo</rend>
+            </pgHead>
+            <staffGrp xml:id="s1kctve4">
+              <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                <label xml:id="l1xx9wzn">Voice</label>
+                <labelAbbr xml:id="l30u08c">Vo.</labelAbbr>
+                <instrDef xml:id="iwlczlg" midi.channel="0" midi.instrnum="52" midi.volume="78.00%"/>
+                <clef xml:id="c1f79ny7" shape="G" line="2"/>
+                <keySig xml:id="kwvxfbc" sig="0"/>
+                <meterSig xml:id="m6hzbig" count="4" unit="4"/>
+              </staffDef>
+            </staffGrp>
+            <ambitus>
+              <ambNote type="lowest" oct="4" pname="d"/>
+              <ambNote type="highest" oct="5" pname="c"/>
+            </ambitus>
+          </scoreDef>
+          <section xml:id="s120lylx"><supplied type="rythymn pattern">
+                                <note dur="4"/>
+                                <note dur="8"/>
+                                <note dur="8"/>
+                            </supplied>
+                            <supplied type="phrases"><phrase n="1" startid="#n1pd1asj" endid="#n7zgs36" type="A"/><phrase n="2" startid="#ntduws5" endid="#n1fjksvd" type="CODA"/></supplied><pb xml:id="polwaz3"/><measure xml:id="m1mc9zvq" n="1"><staff xml:id="sytux64" n="1"><layer xml:id="l19t0qvz" n="1"><note xml:id="n1pd1asj" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up" type="start"><verse xml:id="v1pkwkf" n="1"><syl xml:id="s178ivxa" con="s" wordpos="s">Ti</syl></verse></note><beam xml:id="b1fpxh8f"><note xml:id="n17fn6wq" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="v1oyf4kr" n="1"><syl xml:id="s9gozhs" con="s" wordpos="s">toc</syl></verse></note><note xml:id="n1y8hgb1" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="vr600na" n="1"><syl xml:id="si5glqy" con="s" wordpos="s">ti</syl></verse></note><note xml:id="nyddkpg" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="vo1qdhl" n="1"><syl xml:id="smdalkl" con="s" wordpos="s">toc</syl></verse></note><note xml:id="n1u9tcbe" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="v5qmfac" n="1"><syl xml:id="s7teu37" con="d" wordpos="i">ca</syl></verse></note></beam></layer></staff><tempo xml:id="tthfy72" place="above" staff="1" tstamp="1.000000" midi.bpm="120.000000" mm="120.000000" mm.unit="4"><rend xml:id="rcybreb" fontfam="smufl"></rend> = 120</tempo></measure><measure xml:id="m6esnxn" n="2"><staff xml:id="s466p1s" n="1"><layer xml:id="l1bb6bph" n="1"><note xml:id="n1v0unyy" dur.ppq="2" dur="4" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="v11s9q75" n="1"><syl xml:id="s16oz4h6" con="d" wordpos="m">va</syl></verse></note><beam xml:id="b1h31wm5"><note xml:id="n1b93sez" dur.ppq="1" dur="8" oct="4" pname="d" vel="100" stem.dir="up"><verse xml:id="v1jl136c" n="1"><syl xml:id="s1udvfvv" con="s" wordpos="t">lo</syl></verse></note><note xml:id="n6osz8" dur.ppq="1" dur="8" oct="4" pname="d" vel="100" stem.dir="up"><verse xml:id="v1ahsrkl" n="1"><syl xml:id="s19sui6y" con="s" wordpos="s">la</syl></verse></note></beam><beam xml:id="bayq4e3"><note xml:id="n7wxkim" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="v1oht23h" n="1"><syl xml:id="sstndsf" con="d" wordpos="i">ma</syl></verse></note><note xml:id="nhor9ax" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="v18d0j9b" n="1"><syl xml:id="s1j2y1l0" con="s" wordpos="t">ma è</syl></verse></note><note xml:id="njnr8d9" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="vaonhhx" n="1"><syl xml:id="s18s3tk0" con="d" wordpos="i">nda</syl></verse></note><note xml:id="nss8bch" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="v1ixnqvt" n="1"><syl xml:id="spe9q84" con="s" wordpos="t">ta al</syl></verse></note></beam></layer></staff></measure><sb xml:id="s1p6scr"/><measure xml:id="mnd1tlm" n="3"><staff xml:id="sdka3uk" n="1"><layer xml:id="lx5be7u" n="1"><note xml:id="n1946tyv" dur.ppq="2" dur="4" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="v160ha17" n="1"><syl xml:id="s1rvqxx6" con="d" wordpos="i">ba</syl></verse></note><beam xml:id="b1mq4ed8"><note xml:id="ntxyhys" dur.ppq="1" dur="8" oct="4" pname="d" vel="100" stem.dir="up"><verse xml:id="v1nqdgpt" n="1"><syl xml:id="s1q8orev" con="s" wordpos="t">lo</syl></verse></note><note xml:id="n1l10vp0" dur.ppq="1" dur="8" oct="4" pname="d" vel="100" stem.dir="up"><verse xml:id="v1pi6x7s" n="1"><syl xml:id="scu8905" con="d" wordpos="i">pu</syl></verse></note></beam><beam xml:id="b1y1q6yx"><note xml:id="n1qa5pwd" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="v1oifqsu" n="1"><syl xml:id="sgjualc" con="s" wordpos="t">pà</syl></verse></note><note xml:id="nbifo7u" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="v1i40cp1" n="1"><syl xml:id="sgayite" con="s" wordpos="s">l'è</syl></verse></note><note xml:id="nx5v1qj" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="v1rau7uc" n="1"><syl xml:id="se19zmh" con="d" wordpos="i">nda</syl></verse></note><note xml:id="ns7a1cd" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="v10m7qvf" n="1"><syl xml:id="s243ms6" con="s" wordpos="t">to ai</syl></verse></note></beam></layer></staff></measure><measure xml:id="m12degop" n="4"><staff xml:id="s12707xp" n="1"><layer xml:id="l109jltz" n="1"><note xml:id="n14f03xd" dur.ppq="2" dur="4" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="vdk7hzc" n="1"><syl xml:id="sbwgy4k" con="d" wordpos="i">cam</syl></verse></note><beam xml:id="bkmu44e"><note xml:id="n1sewqmk" dur.ppq="1" dur="8" oct="4" pname="d" vel="100" stem.dir="up"><verse xml:id="v1lxc1nm" n="1"><syl xml:id="sdck29n" con="s" wordpos="t">pi</syl></verse></note><note xml:id="n11qguli" dur.ppq="1" dur="8" oct="4" pname="d" vel="100" stem.dir="up"><verse xml:id="vgdl2nm" n="1"><syl xml:id="s1boopxv" con="s" wordpos="s">co</syl></verse></note></beam><beam xml:id="b1d6f0wf"><note xml:id="n8297fg" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="vbz2zac" n="1"><syl xml:id="spxmt1p" con="s" wordpos="s">tre</syl></verse></note><note xml:id="ncycln6" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="v104udj9" n="1"><syl xml:id="sehkeqb" con="d" wordpos="i">ca</syl></verse></note><note xml:id="n6la6ec" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="vmyk13k" n="1"><syl xml:id="s1gbkjpc" con="d" wordpos="m">va</syl></verse></note><note xml:id="n1vqfnuh" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="vxcmuag" n="1"><syl xml:id="s9n9qq0" con="s" wordpos="t">li</syl></verse></note></beam></layer></staff></measure><sb xml:id="sex1p9e"/><measure xml:id="md0f1tj" n="5"><staff xml:id="s1cbil65" n="1"><layer xml:id="l13ae0eo" n="1"><note xml:id="n7zgs36" dur.ppq="2" dur="4" oct="4" pname="f" vel="100" stem.dir="up" type="end"><verse xml:id="v11uh08" n="1"><syl xml:id="s1r6ymr4" con="d" wordpos="i">bian</syl></verse></note><note xml:id="ntduws5" dur.ppq="2" dur="4" oct="4" pname="d" vel="100" stem.dir="up"><verse xml:id="vy62d4t" n="1"><syl xml:id="s1ldc6ti" con="s" wordpos="t">chi</syl></verse></note><note xml:id="n1vndsu" dur.ppq="2" dur="4" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="v1pu7ooy" n="1"><syl xml:id="sosvbal" con="d" wordpos="i">bian</syl></verse></note><beam xml:id="bvqv0id"><note xml:id="ndh9ixa" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="vtksu3q" n="1"><syl xml:id="st44gwp" con="s" wordpos="t">ca</syl></verse></note><note xml:id="nj19par" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="vzpmkgz" n="1"><syl xml:id="shxuueo" con="s" wordpos="s">la</syl></verse></note></beam></layer></staff><dir xml:id="di149sx" place="below" staff="1" tstamp="1.000000" vgrp="40">Nenia infantile: veniva cantata tenendo il bambino sulle ginocchia e facendolo dondolare,<lb xml:id="l1d13zxn"/>al verso finale lo si lasciava andare un po' simulando una caduta.</dir></measure><measure xml:id="msaw3yz" n="6"><staff xml:id="softciw" n="1"><layer xml:id="lk7syyd" n="1"><note xml:id="n14yvd97" dur.ppq="2" dur="4" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="v1j57jal" n="1"><syl xml:id="s19bzuyd" con="d" wordpos="i">se</syl></verse></note><note xml:id="ndv7izc" dur.ppq="2" dur="4" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="v1rbe2nc" n="1"><syl xml:id="s1j7i9rg" con="d" wordpos="m">la a</syl></verse></note><beam xml:id="b1b0btjt"><note xml:id="nz2ghdp" dur.ppq="1" dur="8" oct="5" pname="c" vel="100" stem.dir="up"><verse xml:id="v1542igw" n="1"><syl xml:id="s1xmu4lb" con="s" wordpos="t">dio</syl></verse></note><note xml:id="ncfnuzl" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="up" accid="f"><verse xml:id="vezyzyi" n="1"><syl xml:id="syfzgk" con="d" wordpos="i">Ni</syl></verse></note><note xml:id="nd7zxyc" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="v8o68k2" n="1"><syl xml:id="s1gu7jr1" con="d" wordpos="m">ne</syl></verse></note><note xml:id="n1yjkrhk" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="v1dq26vq" n="1"><syl xml:id="s1xby80m" con="s" wordpos="t">ta</syl></verse></note></beam></layer></staff></measure><measure xml:id="m1pavj2u" right="end" n="7"><staff xml:id="se9sks5" n="1"><layer xml:id="l1afn6i4" n="1"><note xml:id="nyc89z7" dur.ppq="2" dur="4" oct="4" pname="f" vel="100" head.shape="x" stem.dir="up"><verse xml:id="v1emt8r" n="1"><syl xml:id="s1d5s385" con="d" wordpos="i">be</syl></verse></note><note xml:id="n1fjksvd" dur.ppq="2" dur="4" oct="4" pname="f" vel="100" head.shape="x" stem.dir="up" type="R"><verse xml:id="vebxm9t" n="1"><syl xml:id="s9od4dw" con="s" wordpos="t">la</syl></verse></note></layer></staff></measure></section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>

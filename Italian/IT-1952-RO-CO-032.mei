@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:id="IT-1952-RO-CO-032">Dirindin, Dirindin, Dirindina</title>
+        <title type="subtitle"/>
+        <respStmt>
+          <persName role="compiler">Antonio Cornoldi</persName>
+          <persName role="informer">
+            <geogName>Ceneselli, Rovigo</geogName>
+          </persName>
+          <persName role="encoder">Marco Bellano</persName>
+          <persName role="editor">Marco Bellano</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <publisher>co_POEM Reseach Project</publisher>
+        <date>2023</date>
+        <availability>To the best of our knowledge,
+                the full compositions on this site are in the public domain,
+                the excerpts are in the public domain or are allowable under fair-use,
+                and the few compositions that are still under copyright are used by permission.
+                These scores, are provided for educational use only and are not to be used commercially.
+            </availability>
+      </pubStmt>
+      <sourceDesc>
+        <source xml:id="to_add">
+          <biblStruct>
+            <monogr>
+              <imprint>
+                <title>Ande, Bali E Cante Del Veneto</title>
+                <title type="subordinate"></title>
+                <respStmt>
+                  <persName role="compiler">Antonio Cornoldi</persName>
+                  <persName role="bibliography"></persName>
+                  <persName role="introduction">Roberto Leydi</persName>
+                  <persName role="edition"></persName>
+                </respStmt>
+                <publisher>Regione Veneto, Minelliana</publisher>
+                <pubPlace>Rovigo (Ro), Italia</pubPlace>
+                <date>2002</date>
+                <extent type="pages"></extent>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </source>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc xml:id="encodingdesc-v8yxuo">
+      <appInfo xml:id="appinfo-6bqmdd">
+        <application xml:id="application-ga41a0" isodate="2023-02-22T22:20:31" version="3.14.0-1474e80">
+          <name xml:id="name-8onvna">Verovio</name>
+          <p xml:id="p-18mer8q">Transcoded from MusicXML</p>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <workList>
+      <work><title type="main">Dirindin, Dirindin, Dirindina</title><author type="informant">Anonymous</author><incip type="lyrics"><incipText><head/></incipText></incip><key mode="major">E Flat</key><meter>Binary</meter><tempo>Allegro Con Moto</tempo><incip type="musical"><score><section><measure copyof="#m1e0rt3k"/><measure copyof="#m1vtslw3"/><measure copyof="#m117cvvg"/></section></score></incip><langUsage>
+                    <language xml:lang="it"/>
+                </langUsage>
+                <notesStmt>
+                    <annot>Dirindin, dirindin, dirindina
+                                                                  fosse festa ogni mattina.
+                                                                  Ben da bevare e da mangiare,
+                                                                  poca voja de lavorar.</annot>
+                </notesStmt>
+                <classification><termList><term type="genre">Children song</term><term type="region">Veneto</term><term type="district">Rovigo</term><term type="city">Rovigo</term></termList></classification></work>
+    </workList>
+  </meiHead>
+  <music>
+    <body>
+      <mdiv xml:id="m2ejaa4">
+        <score xml:id="sl01tqv">
+          <scoreDef xml:id="stq5shm">
+            <pgHead xml:id="pau0fnp">
+              <rend xml:id="rtphzn3" halign="center" valign="top">Dirindin, dirindin, dirindina</rend>
+            </pgHead>
+            <staffGrp xml:id="sxirymy">
+              <staffGrp xml:id="sbg4195">
+                <grpSym xml:id="g1wqagfa" symbol="brace"/>
+                <staffDef xml:id="P1" n="1" lines="5" ppq="12">
+                  <label xml:id="l1n0luvm">Piano</label>
+                  <labelAbbr xml:id="l1clgt9k">Pno.</labelAbbr>
+                  <instrDef xml:id="i1gs5k1v" midi.channel="0" midi.instrnum="0" midi.volume="78.00%"/>
+                  <clef xml:id="c1jui3p3" shape="G" line="2"/>
+                  <keySig xml:id="k1gx2m3t" sig="3f"/>
+                  <meterSig xml:id="mmlnb88" count="2" unit="4"/>
+                </staffDef>
+              </staffGrp>
+            </staffGrp>
+            <ambitus>
+              <ambNote type="lowest" oct="3" pname="b flat"/>
+              <ambNote type="highest" oct="5" pname="d"/>
+            </ambitus>
+          </scoreDef>
+          <section xml:id="s1ikac5"><supplied type="rythymn pattern">
+                                <note dur="8" dots="1"/>
+                                <note dur="16"/>
+                            </supplied>
+                            <supplied type="phrases"><phrase n="1" startid="#np2ic0z" endid="#n1hzrx2j" type="A"/><phrase n="3" startid="#n1fjaq6i" endid="#n1hzrx2j" type="A"/><phrase n="2" startid="#nkwf46g" endid="#n15g9rbm" type="B"/><phrase n="4" startid="#nkwf46g" endid="#ni81bw6" type="B"/></supplied><pb xml:id="p16jhcyf"/><measure xml:id="m1e0rt3k" n="0"><mNum xml:id="m19uqubn"/><staff xml:id="s1ca3amm" n="1"><layer xml:id="l137e0fd" n="1"><beam xml:id="bh4twpt"><note xml:id="np2ic0z" dur.ppq="3" dur="16" oct="3" pname="b" stem.dir="up" accid.ges="f" type="start"><verse xml:id="v1gvzgo4" n="1"><syl xml:id="shfxuo3" con="d" wordpos="i">Di</syl></verse></note><note xml:id="na16dna" dur.ppq="3" dur="16" oct="3" pname="b" stem.dir="up" accid.ges="f"><verse xml:id="v1kai2g7" n="1"><syl xml:id="s1up4n9k" con="d" wordpos="m">rin</syl></verse></note></beam></layer></staff><tempo xml:id="t1iipbhd" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="60.000000"><rend xml:id="r13e63nr" fontweight="bold">Allegro con moto</rend></tempo></measure><measure xml:id="m1vtslw3" left="rptstart" n="1"><staff xml:id="sttgpol" n="1"><layer xml:id="lbw222z" n="1"><beam xml:id="b1cijkb2"><note xml:id="n143ridi" dur.ppq="6" dur="8" oct="4" pname="e" stem.dir="up" accid.ges="f"><verse xml:id="vwvem6o" n="1"><syl xml:id="s1nn8t8i" con="s" wordpos="t">din,</syl></verse></note><note xml:id="n84udg4" dur.ppq="3" dur="16" oct="4" pname="e" stem.dir="up" accid.ges="f"><verse xml:id="v144k2r3" n="1"><syl xml:id="s1jsbtzp" con="d" wordpos="i">di</syl></verse></note><note xml:id="novoq3z" dur.ppq="3" dur="16" oct="4" pname="e" stem.dir="up" accid.ges="f"><verse xml:id="ve62mza" n="1"><syl xml:id="s1fm2qvs" con="d" wordpos="m">rin</syl></verse></note></beam><beam xml:id="b36i8xx"><note xml:id="nor4j9u" dur.ppq="6" dur="8" oct="4" pname="g" stem.dir="up"><verse xml:id="v1n40lxu" n="1"><syl xml:id="sw039zv" con="s" wordpos="t">din,</syl></verse></note><note xml:id="n17x11vq" dur.ppq="3" dur="16" oct="4" pname="g" stem.dir="up"><verse xml:id="v1r52ly2" n="1"><syl xml:id="syold2w" con="d" wordpos="i">di</syl></verse></note><note xml:id="nzffr3m" dur.ppq="3" dur="16" oct="4" pname="g" stem.dir="up"><verse xml:id="v1p74ylf" n="1"><syl xml:id="s1avgmf3" con="d" wordpos="m">rin</syl></verse></note></beam></layer></staff></measure><measure xml:id="m117cvvg" n="2"><staff xml:id="sp8yv9h" n="1"><layer xml:id="l11xw5zm" n="1"><tuplet xml:id="tjubch2" num="3" numbase="2" bracket.visible="true"><note xml:id="n1k6z7hv" dur.ppq="4" dur="8" oct="5" pname="c" stem.dir="down"><verse xml:id="v1ld66gm" n="1"><syl xml:id="sud1r5d" con="d" wordpos="m">di</syl></verse></note><note xml:id="n1xdus9a" dur.ppq="8" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f"><verse xml:id="vcu7t7n" n="1"><syl xml:id="svodkws" con="s" wordpos="t">na</syl></verse></note></tuplet><beam xml:id="b1fv3x3q"><note xml:id="nsubuxt" dots="1" dur.ppq="9" dur="8" oct="5" pname="d" stem.dir="down"><verse xml:id="v1izoswk" n="1"><syl xml:id="sf5twpa" con="d" wordpos="i">fos</syl></verse></note><note xml:id="n1gynkmw" dur.ppq="3" dur="16" oct="5" pname="c" stem.dir="down"><verse xml:id="vkod48p" n="1"><syl xml:id="s1wht07j" con="s" wordpos="t">se</syl></verse></note></beam></layer></staff><breath xml:id="bgaka2z" staff="1" tstamp="2.000000"/><fermata xml:id="f1jinq0v" staff="1" startid="#n1xdus9a" form="norm" place="above"/></measure><measure xml:id="m14l7ox7" n="3"><staff xml:id="s1vlhq0u" n="1"><layer xml:id="lucktsj" n="1"><beam xml:id="b1u7r9ry"><note xml:id="n1mrodtz" dots="1" dur.ppq="9" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f"><verse xml:id="v1y5jztf" n="1"><syl xml:id="s1doxo6h" con="d" wordpos="i">fe</syl></verse></note><note xml:id="n1ly6nno" dur.ppq="3" dur="16" oct="4" pname="b" stem.dir="down" accid.ges="f"><verse xml:id="v1skri77" n="1"><syl xml:id="ssdle6z" con="d" wordpos="m">sta o</syl></verse></note></beam><beam xml:id="bpe57iu"><note xml:id="n1hoys2r" dots="1" dur.ppq="9" dur="8" oct="4" pname="a" stem.dir="up" accid.ges="f"><verse xml:id="v18kg9du" n="1"><syl xml:id="s1dxhmb8" con="s" wordpos="t">gni</syl></verse></note><note xml:id="n1276i0h" dur.ppq="3" dur="16" oct="4" pname="a" stem.dir="up" accid.ges="f"><verse xml:id="vtderiq" n="1"><syl xml:id="s1xgeuvd" con="d" wordpos="i">mat</syl></verse></note></beam></layer></staff></measure><measure xml:id="m3h0k60" n="4"><staff xml:id="sj1j8gz" n="1"><layer xml:id="l15jdt3y" n="1"><tuplet xml:id="tid3ukz" num="3" numbase="2" bracket.visible="true"><note xml:id="n626gql" dur.ppq="4" dur="8" oct="4" pname="f" stem.dir="up"><verse xml:id="v1k4eug6" n="1"><syl xml:id="s6324gy" con="d" wordpos="m">ti</syl></verse></note><note xml:id="n1hzrx2j" dur.ppq="8" dur="4" oct="4" pname="e" stem.dir="up" accid.ges="f" type="end"><verse xml:id="va5x150" n="1"><syl xml:id="s2zdi0v" con="s" wordpos="t">na.</syl></verse></note></tuplet><beam xml:id="bozsvta"><note xml:id="nkwf46g" dots="1" dur.ppq="9" dur="8" oct="3" pname="b" stem.dir="up" accid.ges="f" type="start"><verse xml:id="v1c7mqih" n="1"><syl xml:id="s1eeyn2q" con="s" wordpos="s">Ben</syl></verse></note><note xml:id="ndg9au2" dur.ppq="3" dur="16" oct="3" pname="b" stem.dir="up" accid.ges="f"><verse xml:id="v16wm9ok" n="1"><syl xml:id="syd4clh" con="s" wordpos="s">da</syl></verse></note></beam></layer></staff><breath xml:id="b1dx2dls" staff="1" tstamp="2.000000"/><fermata xml:id="fqgv3mn" staff="1" startid="#n1hzrx2j" form="norm" place="above"/></measure><sb xml:id="stezwpw"/><measure xml:id="m1uz1z34" n="5"><staff xml:id="s1hxr9ri" n="1"><layer xml:id="lkhdbok" n="1"><beam xml:id="b1fjvwmf"><tuplet xml:id="t7bvogc" num="3" numbase="2" bracket.visible="false"><note xml:id="nkgihc9" dur.ppq="4" dur="8" oct="4" pname="e" stem.dir="up" accid.ges="f"><verse xml:id="vmw6afo" n="1"><syl xml:id="s1r7pq5" con="d" wordpos="i">be</syl></verse></note><note xml:id="nseqwrs" dur.ppq="4" dur="8" oct="4" pname="e" stem.dir="up" accid.ges="f"><verse xml:id="v1jq08ci" n="1"><syl xml:id="s17iekfh" con="d" wordpos="m">va</syl></verse></note><note xml:id="n228xf3" dur.ppq="4" dur="8" oct="4" pname="e" stem.dir="up" accid.ges="f"><verse xml:id="v36nccp" n="1"><syl xml:id="sg8u4df" con="s" wordpos="t">re e</syl></verse></note></tuplet></beam><beam xml:id="b1c86p18"><note xml:id="n1jkqxdr" dots="1" dur.ppq="9" dur="8" oct="4" pname="g" stem.dir="up"><verse xml:id="vuwp4ti" n="1"><syl xml:id="svsvfl" con="s" wordpos="s">da</syl></verse></note><note xml:id="n11c7mlw" dur.ppq="3" dur="16" oct="4" pname="g" stem.dir="up"><verse xml:id="v1twnlq2" n="1"><syl xml:id="s12h5ily" con="d" wordpos="i">man</syl></verse></note></beam></layer></staff></measure><measure xml:id="mpy91n9" n="6"><staff xml:id="s1c1y0di" n="1"><layer xml:id="lq2gu14" n="1"><tuplet xml:id="t1czojy0" num="3" numbase="2" bracket.visible="true"><note xml:id="n191aypv" dur.ppq="8" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f"><verse xml:id="v89vuir" n="1"><syl xml:id="skv1u3l" con="d" wordpos="m">gia</syl></verse></note><note xml:id="ngoprwo" dur.ppq="4" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f"><verse xml:id="v1wbdeah" n="1"><syl xml:id="sjnb47w" con="s" wordpos="t">re,</syl></verse></note></tuplet><beam xml:id="b1ra70vp"><note xml:id="nw46h7t" dots="1" dur.ppq="9" dur="8" oct="5" pname="d" stem.dir="down"><verse xml:id="v1i28cpc" n="1"><syl xml:id="s8ss3ib" con="d" wordpos="i">po</syl></verse></note><note xml:id="n1ijcnj3" dur.ppq="3" dur="16" oct="5" pname="c" stem.dir="down"><verse xml:id="v1bozsmk" n="1"><syl xml:id="s1ty9r89" con="s" wordpos="t">ca</syl></verse></note></beam></layer></staff></measure><measure xml:id="m1v6ajsg" n="7"><staff xml:id="s68v63y" n="1"><layer xml:id="ln2r35a" n="1"><beam xml:id="b1ctap43"><tuplet xml:id="td0kvlu" num="3" numbase="2" bracket.visible="false"><note xml:id="n1tlklba" dur.ppq="4" dur="8" oct="4" pname="b" stem.dir="up" accid.ges="f"><verse xml:id="vqeeguu" n="1"><syl xml:id="spiy14o" con="d" wordpos="i">vo</syl></verse></note><note xml:id="nzta9jt" dur.ppq="4" dur="8" oct="4" pname="a" stem.dir="up" accid.ges="f"><verse xml:id="vzsyh6f" n="1"><syl xml:id="s1x6k258" con="s" wordpos="t">ja</syl></verse></note><note xml:id="n1mkkdsb" dur.ppq="4" dur="8" oct="4" pname="g" stem.dir="up"><verse xml:id="vhdqcp3" n="1"><syl xml:id="s1g6ot8n" con="s" wordpos="s">de</syl></verse></note></tuplet></beam><beam xml:id="beccw4y"><note xml:id="n1e5o6kk" dots="1" dur.ppq="9" dur="8" oct="4" pname="f" stem.dir="up"><verse xml:id="v1qlxk89" n="1"><syl xml:id="s10iet37" con="d" wordpos="i">la</syl></verse></note><note xml:id="nu5gm6g" dur.ppq="3" dur="16" oct="4" pname="d" stem.dir="up"><verse xml:id="vtz3wlc" n="1"><syl xml:id="sptrv10" con="d" wordpos="m">vo</syl></verse></note></beam></layer></staff></measure><ending xml:id="e1azgug3" lendsym="angledown" n="1"><measure xml:id="moc5lxe" right="rptend" n="8"><staff xml:id="sus9ub2" n="1"><layer xml:id="l8miwk9" n="1"><note xml:id="n15g9rbm" dur.ppq="12" dur="4" oct="4" pname="e" stem.dir="up" accid.ges="f" type="R"><verse xml:id="v87td8h" n="1"><syl xml:id="s117o9ji" con="s" wordpos="t">rar.</syl></verse></note><rest xml:id="r1wmpt02" dur.ppq="6" dur="8"/><beam xml:id="b9usj9v"><note xml:id="n1fjaq6i" dur.ppq="3" dur="16" oct="3" pname="b" stem.dir="up" accid.ges="f"><verse xml:id="veo6a65" n="1"><syl xml:id="s1e65k0g" con="d" wordpos="i">Di</syl></verse></note><note xml:id="n1qnaw6m" dur.ppq="3" dur="16" oct="3" pname="b" stem.dir="up" accid.ges="f"><verse xml:id="v4f98de" n="1"><syl xml:id="s1wgrn4a" con="d" wordpos="m">rin</syl></verse></note></beam></layer></staff><fermata xml:id="fpzic78" staff="1" startid="#n15g9rbm" form="norm" place="above"/></measure></ending><ending xml:id="egnfghn" lendsym="angledown" n="2"><measure xml:id="m67h77i" right="end" n="9"><staff xml:id="ss8ximd" n="1"><layer xml:id="l1gqe78h" n="1"><note xml:id="ni81bw6" dur.ppq="12" dur="4" oct="4" pname="e" stem.dir="up" accid.ges="f"><verse xml:id="v6au5qi" n="1"><syl xml:id="s1szst40" con="s" wordpos="t">rar.</syl></verse></note><rest xml:id="rym68e1" dur.ppq="12" dur="4"/></layer></staff><fermata xml:id="f1x5fayl" staff="1" startid="#ni81bw6" form="norm" place="above"/></measure></ending></section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>

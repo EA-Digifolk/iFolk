@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:id="IT-XXXX-VI-PA-028">Nina Nana, Nina Nana</title>
+        <title type="subtitle"/>
+        <respStmt>
+          <persName role="compiler">Vere Paiola</persName>
+          <persName role="informer"><geogName>Vicenza</geogName></persName>
+          <persName role="encoder">Marco Bellano</persName>
+          <persName role="editor">Marco Bellano</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <publisher>co_POEM Reseach Project</publisher>
+        <date>2023</date>
+        <availability>To the best of our knowledge,
+                the full compositions on this site are in the public domain,
+                the excerpts are in the public domain or are allowable under fair-use,
+                and the few compositions that are still under copyright are used by permission.
+                These scores, are provided for educational use only and are not to be used commercially.
+            </availability>
+      </pubStmt>
+      <sourceDesc>
+        <source xml:id="to_add">
+          <biblStruct>
+            <monogr>
+              <imprint>
+                <title>Canti Popolari Vicentini</title>
+                <title type="subordinate"></title>
+                <respStmt>
+                  <persName role="compiler">Roberto Leydi</persName>
+                  <persName role="bibliography"></persName>
+                  <persName role="introduction">Neri Pozza</persName>
+                  <persName role="edition"></persName>
+                </respStmt>
+                <publisher>Neri Pozza</publisher>
+                <pubPlace>Vicenza (Vi), Italia</pubPlace>
+                <date>1981</date>
+                <extent type="pages"></extent>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </source>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc xml:id="encodingdesc-14j50t5">
+      <appInfo xml:id="appinfo-gju0ix">
+        <application xml:id="application-1q02kxw" isodate="2023-02-22T22:20:32" version="3.14.0-1474e80">
+          <name xml:id="name-1ivwnm7">Verovio</name>
+          <p xml:id="p-139vacw">Transcoded from MusicXML</p>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <workList>
+      <work><title type="main">Nina Nana, Nina Nana</title><author type="informant">Anonymous</author><incip type="lyrics"><incipText><head/></incipText></incip><key mode="major">F</key><meter>Binary</meter><tempo>Andantino</tempo><incip type="musical"><score><section><measure copyof="#m1ewkvxo"/><measure copyof="#mtctogm"/><measure copyof="#m2j25ma"/></section></score></incip><langUsage>
+               <language xml:lang="it"/>
+            </langUsage>
+            <notesStmt>
+               <annot>Nina nana, nina nana,
+                  la putela de la mama,
+                  de la mama, de la nona,
+                  del papà quando ritorna.
+                  Nina nana, nina nà.</annot>
+            </notesStmt>
+            <classification><termList><term type="genre">Lullaby</term><term type="region">Veneto</term><term type="district">Vicenza</term><term type="city">Vicenza</term></termList></classification></work>
+    </workList>
+  </meiHead>
+  <music>
+    <body>
+      <mdiv xml:id="m10imue9">
+        <score xml:id="sf888oq">
+          <scoreDef xml:id="swe23yg">
+            <pgHead xml:id="p13nfx8g">
+              <rend xml:id="rc6vbj8" halign="center" valign="top">28. Nina Nana, Nina Nana</rend>
+            </pgHead>
+            <staffGrp xml:id="s135di3">
+              <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                <label xml:id="ltrjubi">Voice</label>
+                <labelAbbr xml:id="lc299uv">Vo.</labelAbbr>
+                <instrDef xml:id="i1shegze" midi.channel="0" midi.instrnum="52" midi.volume="78.00%"/>
+                <clef xml:id="c1iy4v9t" shape="G" line="2"/>
+                <keySig xml:id="kzii7xe" sig="1f"/>
+                <meterSig xml:id="m17fu5za" count="2" unit="4"/>
+              </staffDef>
+            </staffGrp>
+            <ambitus>
+              <ambNote type="lowest" oct="4" pname="e"/>
+              <ambNote type="highest" oct="4" pname="b flat"/>
+            </ambitus>
+          </scoreDef>
+          <section xml:id="s13o8er8"><supplied type="rythymn pattern">
+                     <note dur="8"/>
+                     <note dur="8"/>
+                     <note dur="8"/>
+                     <note dur="8"/>
+                  </supplied>
+                  <supplied type="phrases"><phrase n="1" startid="#n11gfkwh" endid="#n1witkbe" type="A"/><phrase n="2" startid="#n1mn9t80" endid="#nbxu00u" type="A"/><phrase n="3" startid="#nlf0hr8" endid="#n15yxj2f" type="CODA"/></supplied><pb xml:id="p13jlamm"/><measure xml:id="m1ewkvxo" n="0"><mNum xml:id="m1b596dq"/><staff xml:id="s1sb6gyl" n="1"><layer xml:id="l1dtwd13" n="1"><beam xml:id="b3xyvvg"><note xml:id="n11gfkwh" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up" type="start"><verse xml:id="vi6bzwe" n="1"><syl xml:id="s1j9o0fu" con="d" wordpos="i">Ni</syl></verse></note><note xml:id="ne9zrlt" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="vwko2ji" n="1"><syl xml:id="suiba0n" con="s" wordpos="t">na</syl></verse></note></beam></layer></staff><tempo xml:id="tajlj0" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm="52.000000" mm.unit="4"><rend xml:id="r1skjzsn" fontweight="bold">Andantino </rend><rend xml:id="r1qb9rzl" fontfam="smufl"></rend> = 52</tempo></measure><measure xml:id="mtctogm" n="1"><staff xml:id="s1kp1bzg" n="1"><layer xml:id="l188oq86" n="1"><beam xml:id="bmtymhz"><note xml:id="n19h0sjf" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="v1impzyy" n="1"><syl xml:id="sf6fs62" con="d" wordpos="i">na</syl></verse></note><note xml:id="nwyw46d" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="up" accid.ges="f"><verse xml:id="v60pyt3" n="1"><syl xml:id="sl1px3j" con="s" wordpos="t">na,</syl></verse></note></beam><beam xml:id="bb6v0ud"><note xml:id="n1201ezy" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="v14b6slq" n="1"><syl xml:id="sohpckg" con="d" wordpos="i">ni</syl></verse></note><note xml:id="nuflktx" dur.ppq="1" dur="8" oct="4" pname="e" vel="100" stem.dir="up"><verse xml:id="vbkb4nd" n="1"><syl xml:id="sx374ux" con="s" wordpos="t">na</syl></verse></note></beam></layer></staff></measure><measure xml:id="m2j25ma" n="2"><staff xml:id="s1xep5k9" n="1"><layer xml:id="l1u4vsyc" n="1"><beam xml:id="b1bhpi0r"><note xml:id="n16m72vy" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="v1g84a5g" n="1"><syl xml:id="sdnlxc" con="d" wordpos="i">na</syl></verse></note><note xml:id="nv7xl5m" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="vpb548t" n="1"><syl xml:id="s1dj3zq4" con="s" wordpos="t">na</syl></verse></note></beam><beam xml:id="b15dy2l6"><note xml:id="n10wy50f" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="v1fm51bo" n="1"><syl xml:id="s1k5zbjy" con="s" wordpos="s">la</syl></verse></note><note xml:id="n19b0rax" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="v1we7eij" n="1"><syl xml:id="s7l08uj" con="d" wordpos="i">pu</syl></verse></note></beam></layer></staff></measure><sb xml:id="sjwcqrn"/><measure xml:id="m17anifb" n="3"><staff xml:id="s35bkzb" n="1"><layer xml:id="l1ivpkzy" n="1"><beam xml:id="b25bl35"><note xml:id="n1ao0qwd" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="v9oz6y5" n="1"><syl xml:id="scf6ps6" con="d" wordpos="m">te</syl></verse></note><note xml:id="n1rmpoaz" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="up" accid.ges="f"><verse xml:id="v1245mor" n="1"><syl xml:id="sf5dlej" con="s" wordpos="t">la</syl></verse></note></beam><beam xml:id="boua5e3"><note xml:id="n1vucwso" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="v100czxj" n="1"><syl xml:id="s1fyimyl" con="s" wordpos="s">de</syl></verse></note><note xml:id="nd8njlr" dur.ppq="1" dur="8" oct="4" pname="e" vel="100" stem.dir="up"><verse xml:id="v1o1aptv" n="1"><syl xml:id="s1l1p95q" con="s" wordpos="s">la</syl></verse></note></beam></layer></staff></measure><measure xml:id="m14s65sn" n="4"><staff xml:id="soxecu" n="1"><layer xml:id="lnrdpd9" n="1"><beam xml:id="b1ky1bfb"><note xml:id="n199q3wx" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="va29hj" n="1"><syl xml:id="s1tjmjay" con="d" wordpos="i">ma</syl></verse></note><note xml:id="n1witkbe" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up" type="end"><verse xml:id="vkz7njt" n="1"><syl xml:id="sr48tml" con="s" wordpos="t">ma,</syl></verse></note></beam><beam xml:id="bn12i7p"><note xml:id="n1mn9t80" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up" type="start"><verse xml:id="vda1n0b" n="1"><syl xml:id="s1g21qgj" con="s" wordpos="s">de</syl></verse></note><note xml:id="n1yxkb0n" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="v13euch1" n="1"><syl xml:id="sxt5zvy" con="s" wordpos="s">la</syl></verse></note></beam></layer></staff></measure><measure xml:id="m1724ysd" n="5"><staff xml:id="s1kx9dbe" n="1"><layer xml:id="l1inwotw" n="1"><beam xml:id="bwyfq78"><note xml:id="nf8598o" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="v1xapusk" n="1"><syl xml:id="sesuhi5" con="d" wordpos="i">ma</syl></verse></note><note xml:id="n177rfzy" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="up" accid.ges="f"><verse xml:id="vtdvfxo" n="1"><syl xml:id="s63iaoc" con="s" wordpos="t">ma</syl></verse></note></beam><beam xml:id="b1tobo97"><note xml:id="ntcafn1" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="v1rni1wd" n="1"><syl xml:id="s168yzl3" con="s" wordpos="s">de</syl></verse></note><note xml:id="n1bxtq6r" dur.ppq="1" dur="8" oct="4" pname="e" vel="100" stem.dir="up"><verse xml:id="vqkqju5" n="1"><syl xml:id="sv48psf" con="s" wordpos="s">la</syl></verse></note></beam></layer></staff></measure><measure xml:id="mgjyypr" n="6"><staff xml:id="s12x8z33" n="1"><layer xml:id="l1vun5xz" n="1"><beam xml:id="btsct25"><note xml:id="n16xua59" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="v1hcnnaq" n="1"><syl xml:id="s1b88idp" con="d" wordpos="i">no</syl></verse></note><note xml:id="n157n1zt" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="v86rwjs" n="1"><syl xml:id="s1qaskz5" con="s" wordpos="t">na,</syl></verse></note></beam><beam xml:id="bjt19g4"><note xml:id="n1fkjyr8" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="v1iplo49" n="1"><syl xml:id="s1we78az" con="s" wordpos="s">del</syl></verse></note><note xml:id="n1qdxxv" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="vkke7jg" n="1"><syl xml:id="svq0sl9" con="d" wordpos="i">pa</syl></verse></note></beam></layer></staff></measure><sb xml:id="s1c742lk"/><measure xml:id="m164ooel" n="7"><staff xml:id="srwfixr" n="1"><layer xml:id="l15jhihc" n="1"><beam xml:id="bwycwc0"><note xml:id="n1cbwma3" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="v10d6z2b" n="1"><syl xml:id="sa3l434" con="s" wordpos="t">pà</syl></verse></note><note xml:id="npwaaq4" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="up" accid.ges="f"><verse xml:id="v76wszh" n="1"><syl xml:id="stn3h4a" con="d" wordpos="i">quan</syl></verse></note></beam><beam xml:id="bralj60"><note xml:id="ng1ymlo" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="v17dni4o" n="1"><syl xml:id="s1tajvpf" con="s" wordpos="t">do</syl></verse></note><note xml:id="n1j0y4qm" dur.ppq="1" dur="8" oct="4" pname="e" vel="100" stem.dir="up"><verse xml:id="vyf0bo9" n="1"><syl xml:id="s1y94moe" con="d" wordpos="i">ri</syl></verse></note></beam></layer></staff></measure><measure xml:id="mdvyh9x" n="8"><staff xml:id="saymlmh" n="1"><layer xml:id="l1apk5in" n="1"><beam xml:id="bli9pse"><note xml:id="n4ceqiu" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="v1f0zy9n" n="1"><syl xml:id="s1q6ytq7" con="d" wordpos="m">tor</syl></verse></note><note xml:id="nbxu00u" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up" type="end"><verse xml:id="v17z0q8p" n="1"><syl xml:id="s1x3b7lp" con="s" wordpos="t">na.</syl></verse></note></beam><beam xml:id="b1c2zqw9"><note xml:id="nlf0hr8" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up" type="start"><verse xml:id="v1hmf5i2" n="1"><syl xml:id="sf1htmg" con="d" wordpos="i">Ni</syl></verse></note><note xml:id="n1vs44qr" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="v1psdi01" n="1"><syl xml:id="s1xxhe" con="s" wordpos="t">na</syl></verse></note></beam></layer></staff></measure><measure xml:id="m7kws3x" n="9"><staff xml:id="su2ulxj" n="1"><layer xml:id="l11bglyw" n="1"><beam xml:id="btskrg"><note xml:id="n1hu7t9c" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="vrz2bly" n="1"><syl xml:id="shvulzp" con="d" wordpos="i">na</syl></verse></note><note xml:id="n1s856q2" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="up" accid.ges="f"><verse xml:id="v1b2l64j" n="1"><syl xml:id="snbjail" con="s" wordpos="t">na,</syl></verse></note></beam><beam xml:id="bgi0vet"><note xml:id="n12pu9wi" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="v1navnl9" n="1"><syl xml:id="smbx9rc" con="d" wordpos="i">ni</syl></verse></note><note xml:id="n13hw0v4" dur.ppq="1" dur="8" oct="4" pname="e" vel="100" stem.dir="up"><verse xml:id="vt72s0j" n="1"><syl xml:id="s1ostou1" con="s" wordpos="t">na</syl></verse></note></beam></layer></staff></measure><measure xml:id="m9b59vx" right="end" n="10"><staff xml:id="s1xst56j" n="1"><layer xml:id="l122vpmo" n="1"><note xml:id="n15yxj2f" dur.ppq="4" dur="2" oct="4" pname="f" vel="100" stem.dir="up" type="R"><verse xml:id="v190w7zk" n="1"><syl xml:id="s193iw38" con="s" wordpos="s">nà.</syl></verse></note></layer></staff></measure></section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>

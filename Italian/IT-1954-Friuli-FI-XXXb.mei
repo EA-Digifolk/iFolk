@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:id="IT-1954-Friuli-FI-XXXb">Nine-nane</title>
+        <title type="subtitle"/>
+        <respStmt>
+          <persName role="compiler">Adelgiso Fior</persName>
+          <persName role="informer">Girani Petrozzi, Ersilia Gambierasi<geogName>Friuli</geogName></persName>
+          <persName role="encoder">Marco Bellano</persName>
+          <persName role="editor">Marco Bellano</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <publisher>co_POEM Reseach Project</publisher>
+        <date>2023</date>
+        <availability>To the best of our knowledge,
+                the full compositions on this site are in the public domain,
+                the excerpts are in the public domain or are allowable under fair-use,
+                and the few compositions that are still under copyright are used by permission.
+                These scores, are provided for educational use only and are not to be used commercially.
+            </availability>
+      </pubStmt>
+      <sourceDesc>
+        <source xml:id="to_add">
+          <biblStruct>
+            <monogr>
+              <imprint>
+                <title>Villotte E Canti Del Friùli</title>
+                <title type="subordinate">Antologia Di Canti Friulani, Con Versione In Italiano E Saggi Di Notazione Musicale</title>
+                <respStmt>
+                  <persName role="compiler"></persName>
+                  <persName role="bibliography"></persName>
+                  <persName role="introduction"></persName>
+                  <persName role="edition"></persName>
+                </respStmt>
+                <publisher>Edizioni Piva</publisher>
+                <pubPlace>Milano (Mi), Italia</pubPlace>
+                <date>1954</date>
+                <extent type="pages"></extent>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </source>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc xml:id="encodingdesc-1tvk9vw">
+      <appInfo xml:id="appinfo-rn5e6">
+        <application xml:id="application-1jfyq3n" isodate="2023-02-22T22:20:31" version="3.14.0-1474e80">
+          <name xml:id="name-1w04ity">Verovio</name>
+          <p xml:id="p-106vatx">Transcoded from MusicXML</p>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <workList>
+      <work><title type="main">Nine-nane</title><author type="informant">Girani Petrozzi, Ersilia Gambierasi</author><incip type="lyrics"><incipText><head/></incipText></incip><key mode="major">F</key><meter>Ternary</meter><tempo>None</tempo><incip type="musical"><score><section><measure copyof="#m1pmxgbn"/><measure copyof="#mdqp9av"/><measure copyof="#m1fijwya"/></section></score></incip><langUsage>
+                    <language xml:lang="it"/>
+                </langUsage>
+                <notesStmt>
+                    <annot>Sta cidìn, fâs la nanute,
+                                          la nanute cu'l papà,
+                                          'e dondòle la scunute,
+                                          ma la mame no lu sa.
+
+                                          Pùare mama, 'e jè tornade
+                                          tal paîs dal bon Gesù:
+                                          a ciatàle, une zornade
+                                          ancie nô larìn lassù...
+
+                                          'E fâs nane la giatute,
+                                          al fâs nane il cocodè;
+                                          ancie ti fâs la nanute:
+                                          il papà l'è cà cun te.
+
+                                          Nine-nane, nine-nane,
+                                          o rosute dal miò amôr...
+                                          Jè la vite une condane
+                                          dute a glorie dal Signôr.</annot>
+                </notesStmt>
+                <classification><termList><term type="genre">Lullaby</term><term type="region">Friuli</term><term type="district"/><term type="city"></term></termList></classification></work>
+    </workList>
+  </meiHead>
+  <music>
+    <body>
+      <mdiv xml:id="m1s0j268">
+        <score xml:id="s139ayr5">
+          <scoreDef xml:id="shweh6k">
+            <pgHead xml:id="pbnes97">
+              <rend xml:id="rnpo4cf" halign="center" valign="top">Nine-Nane</rend>
+            </pgHead>
+            <staffGrp xml:id="s1xxn7dc">
+              <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                <label xml:id="l1t5vp2d">Voice</label>
+                <labelAbbr xml:id="l20s99a">Vo.</labelAbbr>
+                <instrDef xml:id="i10rtt1k" midi.channel="0" midi.instrnum="52" midi.volume="78.00%"/>
+                <clef xml:id="cvt5sp1" shape="G" line="2"/>
+                <keySig xml:id="k1wzfxrw" sig="1f"/>
+                <meterSig xml:id="ml0c0l1" count="3" unit="8"/>
+              </staffDef>
+            </staffGrp>
+            <ambitus>
+              <ambNote type="lowest" oct="4" pname="f"/>
+              <ambNote type="highest" oct="5" pname="e"/>
+            </ambitus>
+          </scoreDef>
+          <section xml:id="sy6rpae"><supplied type="rythymn pattern">
+                                <note dur="4"/>
+                                <note dur="8"/>
+                            </supplied>
+                            <supplied type="phrases"><phrase n="1" startid="#n1buwm7v" endid="#n60mbpy" type="A"/></supplied><pb xml:id="pli2hhc"/><measure xml:id="m1pmxgbn" n="1"><staff xml:id="s1jb9o3c" n="1"><layer xml:id="l1y1o4he" n="1"><rest xml:id="r7n3x6w" dur.ppq="1" dur="8"/><beam xml:id="bdb94qd"><note xml:id="n1buwm7v" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up" type="start"><verse xml:id="v1doaxjc" n="1"><syl xml:id="s18o58lt" con="d" wordpos="i">S</syl></verse></note><note xml:id="nre9cyx" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="up" accid.ges="f"><verse xml:id="v1v03n9a" n="1"><syl xml:id="s1q15008" con="d" wordpos="m">ta</syl></verse></note></beam></layer></staff><tempo xml:id="tffrx5m" place="above" staff="1" tstamp="1.000000" midi.bpm="60.000000" mm="60.000000" mm.unit="4"><rend xml:id="rrt06lo" fontfam="smufl"></rend> = 60</tempo></measure><measure xml:id="mdqp9av" n="2"><staff xml:id="s1tayjly" n="1"><layer xml:id="lsoff2h" n="1"><note xml:id="n47rbsk" dur.ppq="2" dur="4" oct="5" pname="c" vel="100" stem.dir="down"><verse xml:id="vih7k87" n="1"><syl xml:id="s12im34u" con="d" wordpos="m">ci</syl></verse></note><note xml:id="nnz1dxv" dur.ppq="1" dur="8" oct="5" pname="c" vel="100" stem.dir="down"><verse xml:id="vr7xdc6" n="1"><syl xml:id="s1nmymbt" con="s" wordpos="t">dín,</syl></verse></note></layer></staff></measure><measure xml:id="m1fijwya" n="3"><staff xml:id="soi1sy5" n="1"><layer xml:id="l5n9oaj" n="1"><beam xml:id="bzsvco5"><note xml:id="nw777n5" dur.ppq="1" dur="8" oct="5" pname="c" vel="100" stem.dir="down"><verse xml:id="vt3dd5t" n="1"><syl xml:id="s1ss2nhj" con="s" wordpos="s">fâs</syl></verse></note><note xml:id="nwbdiee" dur.ppq="1" dur="8" oct="5" pname="e" vel="100" stem.dir="down"><verse xml:id="v5tuy61" n="1"><syl xml:id="s7u9urg" con="s" wordpos="s">la</syl></verse></note><note xml:id="npnho0l" dur.ppq="1" dur="8" oct="5" pname="d" vel="100" stem.dir="down"><verse xml:id="v1tgffqi" n="1"><syl xml:id="sx82yo5" con="d" wordpos="i">na</syl></verse></note></beam></layer></staff></measure><measure xml:id="m3ou1kf" n="4"><staff xml:id="sjvi3vz" n="1"><layer xml:id="l14dnyhc" n="1"><note xml:id="np60f3t" dur.ppq="1" dur="8" oct="5" pname="c" vel="100" stem.dir="down"><verse xml:id="vuhjfrl" n="1"><syl xml:id="st89j3d" con="d" wordpos="m">nu</syl></verse></note><note xml:id="n1xhn93c" dur.ppq="2" dur="4" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="v1afje19" n="1"><syl xml:id="s9tuo6i" con="u" wordpos="t">te</syl></verse></note></layer></staff><tie xml:id="tyqmhl7" startid="#n1xhn93c" endid="#n17hcoad"/></measure><measure xml:id="m1jru1et" n="5"><staff xml:id="s18e5ut4" n="1"><layer xml:id="l1dy93wu" n="1"><beam xml:id="b1ez5txm"><note xml:id="n17hcoad" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up"/><note xml:id="newjdaa" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="v1yr6c56" n="1"><syl xml:id="s13crlcn" con="s" wordpos="s">la</syl></verse></note><note xml:id="n1kqa5nt" dur.ppq="1" dur="8" oct="5" pname="c" vel="100" stem.dir="up"><verse xml:id="v1syw0g8" n="1"><syl xml:id="sjerm69" con="d" wordpos="i">na</syl></verse></note></beam></layer></staff></measure><measure xml:id="mbbezck" n="6"><staff xml:id="s1lpeb0r" n="1"><layer xml:id="l181q9zn" n="1"><note xml:id="n1eq7qi5" dur.ppq="2" dur="4" oct="4" pname="b" vel="100" stem.dir="down" accid.ges="f"><verse xml:id="v15yda6q" n="1"><syl xml:id="sbi5z3r" con="d" wordpos="m">nu</syl></verse></note><note xml:id="nyhnwve" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down" accid.ges="f"><verse xml:id="v1l9hy3q" n="1"><syl xml:id="soi8dcj" con="s" wordpos="t">te</syl></verse></note></layer></staff></measure><measure xml:id="mgpr2xl" n="7"><staff xml:id="s21usan" n="1"><layer xml:id="l1noulc5" n="1"><beam xml:id="bbu4y1o"><note xml:id="nnhgayr" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="up" accid.ges="f"><verse xml:id="vvnhuii" n="1"><syl xml:id="s13bpuo6" con="u" wordpos="s">cu'l</syl></verse></note><note xml:id="nu8eh5u" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up"/><note xml:id="n1u6euaq" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="v6kxlmg" n="1"><syl xml:id="s1gnvir5" con="d" wordpos="i">pa</syl></verse></note></beam></layer></staff></measure><measure xml:id="m1mhcj1g" n="8"><staff xml:id="s5corpf" n="1"><layer xml:id="l1em0lbq" n="1"><note xml:id="nggfszi" dots="1" dur.ppq="3" dur="4" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="v1q5k329" n="1"><syl xml:id="s1we8hf2" con="s" wordpos="t">pà,</syl></verse></note></layer></staff></measure><sb xml:id="s1m88o70"/><measure xml:id="m1ewto45" n="9"><staff xml:id="s3kr4gs" n="1"><layer xml:id="l1d2xdo2" n="1"><beam xml:id="bo3ryl"><note xml:id="n1gasaev" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="v1wbnudr" n="1"><syl xml:id="s1a7sda4" con="s" wordpos="s">'e</syl></verse></note><note xml:id="n1bsd6at" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="via4hc2" n="1"><syl xml:id="s1p19yal" con="d" wordpos="i">don</syl></verse></note><note xml:id="n1ysuk9f" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="up" accid.ges="f"><verse xml:id="v1ob1e1j" n="1"><syl xml:id="sg93nam" con="d" wordpos="m">dò</syl></verse></note></beam></layer></staff></measure><measure xml:id="m16tetf7" n="10"><staff xml:id="s39wr14" n="1"><layer xml:id="luyxair" n="1"><note xml:id="n1mp4pju" dur.ppq="2" dur="4" oct="5" pname="c" vel="100" stem.dir="down"><verse xml:id="vdttjoo" n="1"><syl xml:id="stkhhg4" con="s" wordpos="t">le</syl></verse></note><note xml:id="n2sp664" dur.ppq="1" dur="8" oct="5" pname="c" vel="100" stem.dir="down"><verse xml:id="v10ob9o1" n="1"><syl xml:id="s1epw65y" con="s" wordpos="s">la</syl></verse></note></layer></staff></measure><measure xml:id="mfq4htz" n="11"><staff xml:id="szk3ai" n="1"><layer xml:id="lzcd1ki" n="1"><beam xml:id="b1i59c87"><note xml:id="n1g1skbe" dur.ppq="1" dur="8" oct="5" pname="c" vel="100" stem.dir="down"><verse xml:id="vr48bqa" n="1"><syl xml:id="s19l828z" con="d" wordpos="m">scu</syl></verse></note><note xml:id="n314wdu" dur.ppq="1" dur="8" oct="5" pname="e" vel="100" stem.dir="down"/><note xml:id="n19b71a2" dur.ppq="1" dur="8" oct="5" pname="d" vel="100" stem.dir="down"><verse xml:id="vohijiq" n="1"><syl xml:id="s1m806mh" con="d" wordpos="m">nu</syl></verse></note></beam></layer></staff><dir xml:id="d27youy" place="below" staff="1" tstamp="1.000000" vgrp="40">Pùare mama, 'e jè tornade<lb xml:id="l1bmb8vg"/>tal paîs dal bon Gesù:<lb xml:id="l10zebkt"/>a ciatàle, une zornade<lb xml:id="l1ewrtid"/>ancie nô larìn lassù...<lb xml:id="l1hp65le"/>
+                        <lb xml:id="ltu8p06"/>'E fâs nane la giatut<lb xml:id="l1sxpkbb"/>al fâs nane il cocodè;<lb xml:id="l1rylh6s"/>ancie ti fâs la nanute:<lb xml:id="l1k7xyak"/>il papà l'è cà cun te.<lb xml:id="lx0i47o"/>
+                        <lb xml:id="l105haxp"/>Nine-nane, nine-nane,<lb xml:id="l186lwzs"/>o rosute dal miò amôr...<lb xml:id="l1o0c5ou"/>Jè la vite une condane<lb xml:id="l13ihw5j"/>dute a glorie dal Signôr.</dir></measure><measure xml:id="m17i6p54" n="12"><staff xml:id="svktmaf" n="1"><layer xml:id="lfyxz4q" n="1"><note xml:id="nlsza1w" dur.ppq="1" dur="8" oct="5" pname="c" vel="100" stem.dir="down"/><note xml:id="n1a502ou" dur.ppq="2" dur="4" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="v10o0tdw" n="1"><syl xml:id="s1x0h559" con="u" wordpos="t">te</syl></verse></note></layer></staff><tie xml:id="t4kyn8n" startid="#n1a502ou" endid="#n11p4pra"/></measure><measure xml:id="m9krza4" n="13"><staff xml:id="s1x9ola4" n="1"><layer xml:id="l1phn6mm" n="1"><beam xml:id="beukwtf"><note xml:id="n11p4pra" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up"/><note xml:id="n1dax3pv" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="vi30g92" n="1"><syl xml:id="s19qag0c" con="s" wordpos="s">ma</syl></verse></note><note xml:id="n19cksf" dur.ppq="1" dur="8" oct="5" pname="c" vel="100" stem.dir="up"><verse xml:id="vm6342x" n="1"><syl xml:id="suwesgw" con="s" wordpos="s">la</syl></verse></note></beam></layer></staff></measure><measure xml:id="mb8up51" n="14"><staff xml:id="sbk96b4" n="1"><layer xml:id="l1xwuuxt" n="1"><note xml:id="ntc91kk" dur.ppq="2" dur="4" oct="4" pname="b" vel="100" stem.dir="down" accid.ges="f"><verse xml:id="v7nonoi" n="1"><syl xml:id="sd6b1xw" con="d" wordpos="i">ma</syl></verse></note><note xml:id="n10pjtk2" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down" accid.ges="f"><verse xml:id="v1pdsud9" n="1"><syl xml:id="s30y5wx" con="s" wordpos="t">me</syl></verse></note></layer></staff></measure><measure xml:id="m1wzty30" n="15"><staff xml:id="sckn2on" n="1"><layer xml:id="l1un7mil" n="1"><beam xml:id="b1uvtetd"><note xml:id="n14ffnyy" dur.ppq="1" dur="8" oct="5" pname="c" vel="100" stem.dir="up"><verse xml:id="vhckjxv" n="1"><syl xml:id="sg4k1vk" con="s" wordpos="s">no</syl></verse></note><note xml:id="nyxsxp4" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="vx4fwoj" n="1"><syl xml:id="s15x1a5s" con="u" wordpos="s">lu</syl></verse></note><note xml:id="n1lc10zg" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"/></beam></layer></staff></measure><measure xml:id="ml62uui" right="end" n="16"><staff xml:id="s1jjhjhf" n="1"><layer xml:id="l12o30mq" n="1"><note xml:id="n60mbpy" dots="1" dur.ppq="3" dur="4" oct="4" pname="f" vel="100" stem.dir="up" type="R"><verse xml:id="v225dq4" n="1"><syl xml:id="s12ucy4r" con="s" wordpos="s">sa.</syl></verse></note></layer></staff></measure></section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:id="IT-XXXX-VI-PA-031">Totò Totò Musseta</title>
+        <title type="subtitle"/>
+        <respStmt>
+          <persName role="compiler">Vere Paiola</persName>
+          <persName role="informer"><geogName>Vicenza</geogName></persName>
+          <persName role="encoder">Marco Bellano</persName>
+          <persName role="editor">Marco Bellano</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <publisher>co_POEM Reseach Project</publisher>
+        <date>2023</date>
+        <availability>To the best of our knowledge,
+                the full compositions on this site are in the public domain,
+                the excerpts are in the public domain or are allowable under fair-use,
+                and the few compositions that are still under copyright are used by permission.
+                These scores, are provided for educational use only and are not to be used commercially.
+            </availability>
+      </pubStmt>
+      <sourceDesc>
+        <source xml:id="to_add">
+          <biblStruct>
+            <monogr>
+              <imprint>
+                <title>Canti Popolari Vicentini</title>
+                <title type="subordinate"></title>
+                <respStmt>
+                  <persName role="compiler">Roberto Leydi</persName>
+                  <persName role="bibliography"></persName>
+                  <persName role="introduction">Neri Pozza</persName>
+                  <persName role="edition"></persName>
+                </respStmt>
+                <publisher>Neri Pozza</publisher>
+                <pubPlace>Vicenza (Vi), Italia</pubPlace>
+                <date>1981</date>
+                <extent type="pages"></extent>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </source>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc xml:id="encodingdesc-qpdrn5">
+      <appInfo xml:id="appinfo-16doqfq">
+        <application xml:id="application-yeusg6" isodate="2023-02-22T22:20:32" version="3.14.0-1474e80">
+          <name xml:id="name-8udogt">Verovio</name>
+          <p xml:id="p-1i5mjuu">Transcoded from MusicXML</p>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <workList>
+      <work><title type="main">Totò Totò Musseta</title><author type="informant">Anonymous</author><incip type="lyrics"><incipText><head/></incipText></incip><key mode="major">C</key><meter>Binary</meter><tempo>Allegro Moderato</tempo><incip type="musical"><score><section><measure copyof="#mln9558"/><measure copyof="#m1ieknt0"/><measure copyof="#m39bm92"/></section></score></incip><langUsage>
+                <language xml:lang="it"/>
+            </langUsage>
+            <notesStmt>
+                <annot>Alternate version of IT-121-1952-RO-CO-020a
+
+                                      Totò, totò musseta,
+                                      la mama vien da messa
+                                      co le tetine piene
+                                      par darghele ale putine,
+                                      le putine no ne vole,
+                                      el popà ghe le fa tore;
+                                      ciama l’Adriana
+                                      che sona la campana,
+                                      che sona el canpanon,
+                                      buta (nome del bambino) zo dal balcon</annot>
+            </notesStmt>
+            <classification><termList><term type="genre">Children song</term><term type="region">Veneto</term><term type="district">Vicenza</term><term type="city">Vicenza</term></termList></classification></work>
+    </workList>
+  </meiHead>
+  <music>
+    <body>
+      <mdiv xml:id="mqzt1hz">
+        <score xml:id="s17ctr39">
+          <scoreDef xml:id="sspk5rx">
+            <pgHead xml:id="p1dy2sk1">
+              <rend xml:id="r1bpf4v0" halign="center" valign="top">31. Toto' Toto' Musseta</rend>
+            </pgHead>
+            <staffGrp xml:id="sdmu27v">
+              <staffGrp xml:id="sotmu8x">
+                <grpSym xml:id="g105ptn2" symbol="brace"/>
+                <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                  <label xml:id="l1qlo34e">Piano</label>
+                  <labelAbbr xml:id="l7pe2ma">Pno.</labelAbbr>
+                  <instrDef xml:id="i1k1661j" midi.channel="0" midi.instrnum="0" midi.volume="78.00%"/>
+                  <clef xml:id="cl6hzsk" shape="G" line="2"/>
+                  <keySig xml:id="kx1tsxf" sig="0"/>
+                  <meterSig xml:id="mbvmjxi" count="6" unit="8"/>
+                </staffDef>
+              </staffGrp>
+            </staffGrp>
+            <ambitus>
+              <ambNote type="lowest" oct="4" pname="e"/>
+              <ambNote type="highest" oct="4" pname="a"/>
+            </ambitus>
+          </scoreDef>
+          <section xml:id="syhq20z"><supplied type="rythymn pattern">
+                            <note dur="4"/>
+                            <note dur="8"/>
+                            <note dur="4"/>
+                            <note dur="8"/>
+                        </supplied>
+                    <supplied type="phrases"><phrase n="1" startid="#n1cdspob" endid="#nobsk51" type="A"/><phrase n="2" startid="#nvfusn" endid="#nobsk51" type="A"/></supplied><pb xml:id="prnp08c"/><measure xml:id="mln9558" n="0"><mNum xml:id="m5jkj59"/><staff xml:id="s1t0lsj9" n="1"><layer xml:id="l1vg1fp4" n="1"><note xml:id="n1cdspob" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up" type="start"><verse xml:id="v7mykic" n="1"><syl xml:id="s176mm4e" con="d" wordpos="i">To</syl></verse></note></layer></staff><tempo xml:id="tk7swio" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="108.000000" mm="72.000000" mm.unit="4" mm.dots="1"><rend xml:id="r1aywayh" fontweight="bold">Allegro moderato </rend><rend xml:id="r1tucpt6" fontfam="smufl"></rend> = 72</tempo></measure><measure xml:id="m1ieknt0" left="rptstart" n="1"><staff xml:id="s18pqins" n="1"><layer xml:id="l170qi9h" n="1"><note xml:id="n5sgsu1" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up"><verse xml:id="v1w02mff" n="1"><syl xml:id="sd8p52v" con="s" wordpos="t">tò,</syl></verse><verse xml:id="v14hdr3p" n="2"><syl xml:id="s1ou50y4" con="s" wordpos="s">papà</syl></verse><verse xml:id="v14qpxbn" n="3"><syl xml:id="s1g3rchf" con="d" wordpos="m">an</syl></verse><verse xml:id="v112nt9e" n="4"><syl xml:id="s1ji8sdf" con="d" wordpos="m">ge</syl></verse><verse xml:id="vecahua" n="5"><syl xml:id="s11h2i0n" con="d" wordpos="i">suo</syl></verse><verse xml:id="v1523680" n="6"><syl xml:id="s15jvjy3" con="d" wordpos="i">suo</syl></verse></note><note xml:id="nxkbb9s" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up"><verse xml:id="v1dm8d29" n="1"><syl xml:id="saud44b" con="d" wordpos="i">to</syl></verse><verse xml:id="v1knw01l" n="2"><syl xml:id="s12683cr" con="d" wordpos="i">é an</syl></verse><verse xml:id="vjek3lr" n="4"><syl xml:id="siodxtm" con="s" wordpos="t">lla è</syl></verse><verse xml:id="v70dl8j" n="5"><syl xml:id="sz7rbk4" con="d" wordpos="m">na</syl></verse><verse xml:id="vlkm0d4" n="6"><syl xml:id="s4ukd59" con="d" wordpos="m">na</syl></verse></note><note xml:id="n1lormmq" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up"><verse xml:id="vx81564" n="1"><syl xml:id="s7wkq76" con="s" wordpos="t">tò,</syl></verse><verse xml:id="v9crop8" n="2"><syl xml:id="s1n1arol" con="d" wordpos="m">da</syl></verse><verse xml:id="vob98fq" n="3"><syl xml:id="se0r4y" con="s" wordpos="t">ca</syl></verse><verse xml:id="vyqzz91" n="4"><syl xml:id="s2bm7qq" con="s" wordpos="s">andata</syl></verse><verse xml:id="v7euiph" n="5"><syl xml:id="sayzvcv" con="s" wordpos="t">va il</syl></verse><verse xml:id="vrsd1ku" n="6"><syl xml:id="sws64m" con="s" wordpos="t">va la</syl></verse></note><note xml:id="nw9ixa5" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up"><verse xml:id="v19ien12" n="1"><syl xml:id="swlr7tb" con="d" wordpos="i">mus</syl></verse><verse xml:id="v1wzc0we" n="2"><syl xml:id="sipewiq" con="s" wordpos="t">to ai</syl></verse><verse xml:id="v12ne1mq" n="3"><syl xml:id="s1qn8ube" con="s" wordpos="s">la</syl></verse><verse xml:id="v1ged04l" n="4"><syl xml:id="s1ef3gvw" con="d" wordpos="i">al  cas</syl></verse><verse xml:id="v1po60c" n="5"><syl xml:id="sbopl56" con="d" wordpos="i">vio</syl></verse><verse xml:id="v1mbs33i" n="6"><syl xml:id="sx1x616" con="d" wordpos="i">chi</syl></verse></note></layer></staff></measure><measure xml:id="m39bm92" n="2"><staff xml:id="s1pkcnhq" n="1"><layer xml:id="lg47kbt" n="1"><note xml:id="n1ea1r5o" dots="1" dur.ppq="3" dur="4" oct="4" pname="g" stem.dir="up"><verse xml:id="v1gc2hfa" n="1"><syl xml:id="s1pmdo5h" con="d" wordpos="m">sè</syl></verse><verse xml:id="v2ma8g6" n="2"><syl xml:id="s128zguk" con="d" wordpos="i">cam</syl></verse><verse xml:id="v1bg88bc" n="3"><syl xml:id="s1sngus1" con="d" wordpos="i">sel</syl></verse><verse xml:id="v1uhxria" n="4"><syl xml:id="s1h6ruva" con="d" wordpos="m">tel</syl></verse><verse xml:id="v1qc48aj" n="5"><syl xml:id="s1a66m8h" con="d" wordpos="m">li</syl></verse><verse xml:id="v1l0u081" n="6"><syl xml:id="sylll8w" con="d" wordpos="m">tar</syl></verse></note><note xml:id="n85pp7m" dur.ppq="2" dur="4" oct="4" pname="e" stem.dir="up"><verse xml:id="vc7abs3" n="1"><syl xml:id="s16fzezx" con="s" wordpos="t">ta</syl></verse><verse xml:id="v12ax4zl" n="2"><syl xml:id="shlbkog" con="s" wordpos="t">pi</syl></verse><verse xml:id="vhjlmmf" n="3"><syl xml:id="s1bwtiuf" con="s" wordpos="t">la</syl></verse><verse xml:id="vvnbqbh" n="4"><syl xml:id="s1b6o5fb" con="s" wordpos="t">lo</syl></verse><verse xml:id="v1x3vezf" n="5"><syl xml:id="so77evt" con="s" wordpos="t">no</syl></verse><verse xml:id="v12vnas9" n="6"><syl xml:id="sara2lt" con="s" wordpos="t">ra</syl></verse></note><note xml:id="nla8lqm" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up"><verse xml:id="v1iqilru" n="1"><syl xml:id="s1gni5bz" con="s" wordpos="s">la</syl></verse><verse xml:id="v1695e5m" n="2"><syl xml:id="smpvvy" con="s" wordpos="s">con</syl></verse><verse xml:id="v1v85hh5" n="3"><syl xml:id="s1fgmh7e" con="d" wordpos="i">buon</syl></verse><verse xml:id="vqo8cfy" n="4"><syl xml:id="s1eet8on" con="d" wordpos="i">per tro</syl></verse><verse xml:id="v8bluam" n="5"><syl xml:id="s1a1xm9m" con="s" wordpos="s">per</syl></verse><verse xml:id="vmdvjn6" n="6"><syl xml:id="sxuof73" con="s" wordpos="s">per</syl></verse></note></layer></staff></measure><sb xml:id="sxyxu47"/><measure xml:id="mw9cqvy" n="3"><staff xml:id="s14mtaxr" n="1"><layer xml:id="llrfrc3" n="1"><note xml:id="n57r932" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up"><verse xml:id="v1vpleeq" n="1"><syl xml:id="s11sud7p" con="d" wordpos="i">ma</syl></verse><verse xml:id="v1w38isp" n="2"><syl xml:id="s6fpcx7" con="s" wordpos="s">tre</syl></verse><verse xml:id="vx6vdgc" n="3"><syl xml:id="snw0wk5" con="d" wordpos="m">gior</syl></verse><verse xml:id="v1yfl4di" n="4"><syl xml:id="s182i0yl" con="d" wordpos="m">va</syl></verse><verse xml:id="v1nata79" n="5"><syl xml:id="s59slc2" con="s" wordpos="s">la</syl></verse><verse xml:id="vcdm04b" n="6"><syl xml:id="s1f5gtlb" con="s" wordpos="s">la</syl></verse></note><note xml:id="n1xx945a" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up"><verse xml:id="v1ndgvsx" n="1"><syl xml:id="srvap0e" con="s" wordpos="t">ma</syl></verse><verse xml:id="v11p478p" n="2"><syl xml:id="sjrzy0t" con="d" wordpos="i">ca</syl></verse><verse xml:id="v1aefwsc" n="3"><syl xml:id="s1700i92" con="s" wordpos="t">no</syl></verse><verse xml:id="v1kif7ij" n="4"><syl xml:id="skkje49" con="s" wordpos="t">re un</syl></verse><verse xml:id="vmncawa" n="5"><syl xml:id="s179nmxo" con="s" wordpos="s">strada</syl></verse><verse xml:id="v3k1hv0" n="6"><syl xml:id="s1qe1ufw" con="s" wordpos="s">strada</syl></verse></note><note xml:id="nfonto4" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up"><verse xml:id="v1d1qx33" n="1"><syl xml:id="s4f5fxw" con="s" wordpos="s">vien</syl></verse><verse xml:id="v1xwe16k" n="2"><syl xml:id="siezmkl" con="d" wordpos="m">val</syl></verse><verse xml:id="v1nzisxb" n="3"><syl xml:id="s110xvui" con="d" wordpos="i">da</syl></verse><verse xml:id="v1suzoiz" n="5"><syl xml:id="spsg6a7" con="s" wordpos="s">di</syl></verse><verse xml:id="v1b3b3bf" n="6"><syl xml:id="sbkon4j" con="s" wordpos="s">di</syl></verse><verse xml:id="v1upkbjp" n="4"><syl xml:id="s1tmm9dg" con="d" wordpos="i">vec</syl></verse></note><note xml:id="n1cu79q1" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up"><verse xml:id="vdbqpnw" n="1"><syl xml:id="sb9aj2x" con="s" wordpos="s">da</syl></verse><verse xml:id="v1q3zqiv" n="2"><syl xml:id="s1njd29s" con="s" wordpos="s">li</syl></verse><verse xml:id="va9tino" n="3"><syl xml:id="s1b10bg0" con="d" wordpos="m">mi</syl></verse><verse xml:id="v1osidsf" n="4"><syl xml:id="s17zrzre" con="d" wordpos="m">chie</syl></verse><verse xml:id="vpbljhh" n="5"><syl xml:id="s1fu5ufl" con="d" wordpos="i">To</syl></verse><verse xml:id="v14666lo" n="6"><syl xml:id="ss9sgyf" con="d" wordpos="i">No</syl></verse></note></layer></staff></measure><ending xml:id="e1tl7hx2" lendsym="angledown" n="1, 2, 3, 4, 5"><measure xml:id="m8y3htk" right="rptend" n="4"><staff xml:id="s1kb8z0j" n="1"><layer xml:id="l4v4o5p" n="1"><note xml:id="ni3we0r" dots="1" dur.ppq="3" dur="4" oct="4" pname="g" stem.dir="up"><verse xml:id="vooi137" n="1"><syl xml:id="s1eht31q" con="d" wordpos="i">mes</syl></verse><verse xml:id="v177d4ie" n="2"><syl xml:id="s1d0q7xf" con="d" wordpos="i">bian</syl></verse><verse xml:id="v1mzpmnk" n="3"><syl xml:id="stwn2wl" con="d" wordpos="m">gel</syl></verse><verse xml:id="vpfcm2s" n="4"><syl xml:id="s5fcawk" con="d" wordpos="m">re</syl></verse><verse xml:id="vrdtlrw" n="5"><syl xml:id="s1hxorpz" con="d" wordpos="m">ri</syl></verse></note><note xml:id="nobsk51" dur.ppq="2" dur="4" oct="4" pname="e" stem.dir="up" type="R"><verse xml:id="v2hrimj" n="1"><syl xml:id="s1rwzn1v" con="s" wordpos="t">sa.</syl></verse><verse xml:id="v11u4myn" n="2"><syl xml:id="s1nai2tc" con="s" wordpos="t">chi</syl></verse><verse xml:id="v1i25bje" n="3"><syl xml:id="s1me5q4h" con="s" wordpos="t">la</syl></verse><verse xml:id="v14wyea0" n="4"><syl xml:id="soh749k" con="s" wordpos="t">lo</syl></verse><verse xml:id="vefo9j5" n="5"><syl xml:id="s10h7m7p" con="s" wordpos="t">no</syl></verse></note><note xml:id="nvfusn" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up"><verse xml:id="v180upas" n="1"><syl xml:id="s1p7cdp7" con="s" wordpos="s">Il</syl></verse><verse xml:id="v7gh0to" n="2"><syl xml:id="s1wr80dz" con="d" wordpos="i">Bi</syl></verse><verse xml:id="v1p2yjvw" n="3"><syl xml:id="s1bt8r2t" con="d" wordpos="i">dami</syl></verse><verse xml:id="v58x977" n="4"><syl xml:id="s1538cl3" con="s" wordpos="s">che</syl></verse><verse xml:id="v1g52rjp" n="5"><syl xml:id="s1p343tt" con="s" wordpos="s">che</syl></verse></note></layer></staff></measure></ending><ending xml:id="ec10jvx" lendsym="none" n="6"><measure xml:id="m1ykiwgw" right="dbl" n="5"><staff xml:id="s1ily4vj" n="1"><layer xml:id="l7lv7su" n="1"><note xml:id="n1bf39qj" dots="1" dur.ppq="3" dur="4" oct="4" pname="g" stem.dir="up"><verse xml:id="v1dbqsnk" n="6"><syl xml:id="shutcu7" con="d" wordpos="m">var</syl></verse></note><note xml:id="n1k7g623" dots="1" dur.ppq="3" dur="4" oct="4" pname="e" stem.dir="up"><verse xml:id="v7c8ncu" n="6"><syl xml:id="s1yva41f" con="s" wordpos="t">ra.</syl></verse></note></layer></staff></measure></ending><measure xml:id="m1cgdtwb" n="6"><staff xml:id="s37l09" n="1"><layer xml:id="l26b94g" n="1"><note xml:id="n117eo3x" dots="1" dur.ppq="3" dur="4" oct="4" pname="g" head.shape="x" stem.dir="up"><verse xml:id="v7q0uyy" n="6"><syl xml:id="s1quc19e" con="s" wordpos="s">Uno</syl></verse></note><note xml:id="n1dd43og" dots="1" dur.ppq="3" dur="4" oct="4" pname="a" head.shape="x" stem.dir="up"><verse xml:id="v1qapds0" n="6"><syl xml:id="srwp25l" con="s" wordpos="s">Due</syl></verse></note></layer></staff></measure><measure xml:id="m1yv5fk1" right="end" n="7"><staff xml:id="s1g99sxc" n="1"><layer xml:id="l15xxubc" n="1"><note xml:id="n1txqrx0" dots="1" dur.ppq="3" dur="4" oct="4" pname="g" head.shape="x" stem.dir="up"><verse xml:id="v1wibra6" n="6"><syl xml:id="skdo8i2" con="s" wordpos="s">Tre</syl></verse></note><note xml:id="nqcbi2y" dots="1" dur.ppq="3" dur="4" oct="4" pname="e" head.shape="x" stem.dir="up"><verse xml:id="vakbvee" n="6"><syl xml:id="s1cx6v4r" con="s" wordpos="s">Sbarra!</syl></verse></note></layer></staff></measure></section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>

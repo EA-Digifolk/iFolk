@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:id="IT-XXXX-VI-PA-057">Dove Vai Bela Vecchietta Con Quel Garbo</title>
+        <title type="subtitle"/>
+        <respStmt>
+          <persName role="compiler">Vere Paiola</persName>
+          <persName role="informer">
+            <geogName>Vicenza</geogName>
+          </persName>
+          <persName role="encoder">Marco Bellano</persName>
+          <persName role="editor">Marco Bellano</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <publisher>co_POEM Reseach Project</publisher>
+        <date>2023</date>
+        <availability>To the best of our knowledge,
+                the full compositions on this site are in the public domain,
+                the excerpts are in the public domain or are allowable under fair-use,
+                and the few compositions that are still under copyright are used by permission.
+                These scores, are provided for educational use only and are not to be used commercially.
+            </availability>
+      </pubStmt>
+      <sourceDesc>
+        <source xml:id="to_add">
+          <biblStruct>
+            <monogr>
+              <imprint>
+                <title>Canti Popolari Vicentini</title>
+                <title type="subordinate"></title>
+                <respStmt>
+                  <persName role="compiler">Roberto Leydi</persName>
+                  <persName role="bibliography"></persName>
+                  <persName role="introduction">Neri Pozza</persName>
+                  <persName role="edition"></persName>
+                </respStmt>
+                <publisher>Neri Pozza</publisher>
+                <pubPlace>Vicenza (Vi), Italia</pubPlace>
+                <date>1981</date>
+                <extent type="pages"></extent>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </source>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc xml:id="encodingdesc-ta63ig">
+      <appInfo xml:id="appinfo-1nm1bh1">
+        <application xml:id="application-1mo7lc6" isodate="2023-02-22T22:20:32" version="3.14.0-1474e80">
+          <name xml:id="name-oof96f">Verovio</name>
+          <p xml:id="p-195to">Transcoded from MusicXML</p>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <workList>
+      <work><title type="main">Dove Vai Bela Vecchietta Con Quel Garbo</title><author type="informant">Anonymous</author><incip type="lyrics"><incipText><head/></incipText></incip><key mode="major">D</key><meter>Binary</meter><tempo>Allegretto</tempo><incip type="musical"><score><section><measure copyof="#m3fsr4a"/><measure copyof="#m17u4nwp"/><measure copyof="#map3kzg"/></section></score></incip><langUsage>
+                    <language xml:lang="it"/>
+                </langUsage>
+                <notesStmt>
+                    <annot>Dove vai bela vecchietta
+                                                                  con quel garbo con quel garbo.
+                                                                  Dove vai bela vecchietta
+                                                                  con quel garbo così.</annot>
+                </notesStmt>
+                <classification><termList><term type="genre">Children song</term><term type="region">Veneto</term><term type="district">Vicenza</term><term type="city">Vicenza</term></termList></classification></work>
+    </workList>
+  </meiHead>
+  <music>
+    <body>
+      <mdiv xml:id="m1csek2m">
+        <score xml:id="s1eomx55">
+          <scoreDef xml:id="sycritk">
+            <pgHead xml:id="piw5oid">
+              <rend xml:id="r1qb6zw7" halign="center" valign="top">57.  Dove Vai Bela Vecchietta Con Quel Garbo?</rend>
+            </pgHead>
+            <staffGrp xml:id="s1a6qp1j">
+              <staffGrp xml:id="snl5eov">
+                <grpSym xml:id="g1qyhd3f" symbol="brace"/>
+                <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                  <label xml:id="l9jkmoh">Piano</label>
+                  <labelAbbr xml:id="l1mfhr6f">Pno.</labelAbbr>
+                  <instrDef xml:id="iv85vhc" midi.channel="0" midi.instrnum="0" midi.volume="78.00%"/>
+                  <clef xml:id="c1360wbi" shape="G" line="2"/>
+                  <keySig xml:id="kd1zlxm" sig="2s"/>
+                  <meterSig xml:id="m1npjqlw" count="6" unit="8"/>
+                </staffDef>
+              </staffGrp>
+            </staffGrp>
+            <ambitus>
+              <ambNote type="lowest" oct="4" pname="d"/>
+              <ambNote type="highest" oct="4" pname="b"/>
+            </ambitus>
+          </scoreDef>
+          <section xml:id="s12asvk5"><supplied type="rythymn pattern">
+                                <note dur="4"/>
+                                <note dur="8"/>
+                            </supplied>
+                            <supplied type="phrases"><phrase n="1" startid="#ncmeskw" endid="#n10vyfye" type="A"/><phrase n="2" startid="#n1xefox3" endid="#nxwc4m6" type="B"/></supplied><pb xml:id="p87s8v8"/><measure xml:id="m3fsr4a" n="0"><mNum xml:id="m11tv7de"/><staff xml:id="sh8dfyh" n="1"><layer xml:id="l1h2qv9i" n="1"><note xml:id="ncmeskw" dur.ppq="2" dur="4" oct="4" pname="d" stem.dir="up" type="start"><verse xml:id="v1us5c6z" n="1"><syl xml:id="s18idlki" con="d" wordpos="i">Do</syl></verse></note><note xml:id="n1v47t0e" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up" accid.ges="s"><verse xml:id="v3r8ecf" n="1"><syl xml:id="s10y4muv" con="s" wordpos="t">ve</syl></verse></note></layer></staff><tempo xml:id="tjfae15" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="108.000000" mm="72.000000" mm.unit="4" mm.dots="1"><rend xml:id="r19fs0rv" fontweight="bold">Allegretto </rend><rend xml:id="r1z0x67z" fontfam="smufl"></rend> = 72</tempo></measure><measure xml:id="m17u4nwp" n="1"><staff xml:id="soicv9" n="1"><layer xml:id="l1r6gf9c" n="1"><note xml:id="nffgo7j" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up"><verse xml:id="v1n04ipq" n="1"><syl xml:id="s1lzbxir" con="s" wordpos="s">vai</syl></verse></note><note xml:id="n1m6n4en" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up"><verse xml:id="v4bu03f" n="1"><syl xml:id="s8v5jpf" con="d" wordpos="i">be</syl></verse></note><note xml:id="n1c9cmsz" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up"><verse xml:id="v1h601e3" n="1"><syl xml:id="s13t6psh" con="s" wordpos="t">la</syl></verse></note><note xml:id="n1m7oxvm" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up"><verse xml:id="vh10s5c" n="1"><syl xml:id="s1brx58x" con="d" wordpos="i">vec</syl></verse></note></layer></staff></measure><measure xml:id="map3kzg" n="2"><staff xml:id="s8pj4q3" n="1"><layer xml:id="l9svtkx" n="1"><note xml:id="n136jdrf" dur.ppq="2" dur="4" oct="4" pname="b" stem.dir="down"><verse xml:id="v1wf14cu" n="1"><syl xml:id="s1tmlrqo" con="d" wordpos="m">chiet</syl></verse></note><note xml:id="n1ht6501" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up"><verse xml:id="vkjixk0" n="1"><syl xml:id="s39lcgt" con="s" wordpos="s">ta</syl></verse></note><note xml:id="n98ii93" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up"><verse xml:id="v1rotxcl" n="1"><syl xml:id="s1tkv74m" con="s" wordpos="s">con</syl></verse></note><note xml:id="n1lm1lc4" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up" accid.ges="s"><verse xml:id="vtv77xw" n="1"><syl xml:id="sh6mafq" con="s" wordpos="s">quel</syl></verse></note></layer></staff></measure><sb xml:id="s17vivjd"/><measure xml:id="m1k7qapj" n="3"><staff xml:id="s1uvy4pm" n="1"><layer xml:id="le9h10c" n="1"><note xml:id="n1lynu1" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up"><verse xml:id="v1d41d2y" n="1"><syl xml:id="s11snsp9" con="d" wordpos="i">gar</syl></verse></note><note xml:id="n16wmym" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up"><verse xml:id="v7otogq" n="1"><syl xml:id="snfza33" con="s" wordpos="t">bo</syl></verse></note><note xml:id="nbkewzh" dur.ppq="2" dur="4" oct="4" pname="e" stem.dir="up"><verse xml:id="v10dcu8t" n="1"><syl xml:id="s1a9lsut" con="s" wordpos="s">con</syl></verse></note><note xml:id="n1ayakdv" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up"><verse xml:id="v1f426yv" n="1"><syl xml:id="s1vasnao" con="s" wordpos="s">quel</syl></verse></note></layer></staff></measure><measure xml:id="m1g1xtk8" n="4"><staff xml:id="szvopui" n="1"><layer xml:id="l1unednt" n="1"><note xml:id="n1yggcgo" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up" accid.ges="s"><verse xml:id="v801944" n="1"><syl xml:id="sluzw24" con="d" wordpos="i">gar</syl></verse></note><note xml:id="n10vyfye" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up" type="end"><verse xml:id="v1bqgf3t" n="1"><syl xml:id="srx22w7" con="s" wordpos="t">bo.</syl></verse></note><note xml:id="n1xefox3" dur.ppq="2" dur="4" oct="4" pname="d" stem.dir="up" type="start"><verse xml:id="v1jv7wvf" n="1"><syl xml:id="sjik0sw" con="d" wordpos="i">Do</syl></verse></note><note xml:id="n13v1igo" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up" accid.ges="s"><verse xml:id="v19rvxfq" n="1"><syl xml:id="ss5js1u" con="s" wordpos="t">ve</syl></verse></note></layer></staff></measure><measure xml:id="mtcejwd" n="5"><staff xml:id="s10r1tex" n="1"><layer xml:id="l1bwfy6d" n="1"><note xml:id="nwilk4w" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up"><verse xml:id="vhx7p6m" n="1"><syl xml:id="s1lafva7" con="s" wordpos="s">vai</syl></verse></note><note xml:id="n1o04osa" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up"><verse xml:id="v5pqo7l" n="1"><syl xml:id="s1ggwfdn" con="d" wordpos="i">be</syl></verse></note><note xml:id="n1skroer" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up"><verse xml:id="vkf1v8y" n="1"><syl xml:id="s1qbnudi" con="s" wordpos="t">la</syl></verse></note><note xml:id="n18ho9x3" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up"><verse xml:id="vcpdpbc" n="1"><syl xml:id="s12lrht2" con="d" wordpos="i">vec</syl></verse></note></layer></staff></measure><sb xml:id="s1isdhj3"/><measure xml:id="m9fzpa" n="6"><staff xml:id="s1s44kes" n="1"><layer xml:id="l9v6kvp" n="1"><note xml:id="nhp05ev" dur.ppq="2" dur="4" oct="4" pname="b" stem.dir="down"><verse xml:id="v1rx8nsq" n="1"><syl xml:id="s1hmax1v" con="d" wordpos="m">chiet</syl></verse></note><note xml:id="nie8ijw" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up"><verse xml:id="v8o3fx4" n="1"><syl xml:id="s1q93vih" con="s" wordpos="t">ta</syl></verse></note><note xml:id="n6csgky" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up"><verse xml:id="v1m92pkg" n="1"><syl xml:id="s1hhrn06" con="s" wordpos="s">con</syl></verse></note><note xml:id="n19pefmm" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up" accid.ges="s"><verse xml:id="vzna8jx" n="1"><syl xml:id="s106rzfu" con="s" wordpos="s">quel</syl></verse></note></layer></staff></measure><measure xml:id="m1pm6vcg" n="7"><staff xml:id="sftxoos" n="1"><layer xml:id="l184mdnz" n="1"><note xml:id="n1bjybzr" dots="1" dur.ppq="3" dur="4" oct="4" pname="e" stem.dir="up"><verse xml:id="v1viuh8f" n="1"><syl xml:id="s1urgg36" con="d" wordpos="i">gar</syl></verse></note><note xml:id="n1vbytqq" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up"><verse xml:id="v1utcl3" n="1"><syl xml:id="s39kzk6" con="s" wordpos="t">bo</syl></verse></note><note xml:id="n1hww3xt" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up"><verse xml:id="v3s0b9n" n="1"><syl xml:id="skv13if" con="d" wordpos="i">co</syl></verse></note></layer></staff></measure><measure xml:id="mcbtzrf" right="end" n="8"><staff xml:id="s1gk8eag" n="1"><layer xml:id="l1l8z58h" n="1"><note xml:id="nxwc4m6" dots="1" dur.ppq="6" dur="2" oct="4" pname="d" stem.dir="up" type="R"><verse xml:id="v1uvwoqm" n="1"><syl xml:id="s12cn30d" con="s" wordpos="t">sì.</syl></verse></note></layer></staff></measure></section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>

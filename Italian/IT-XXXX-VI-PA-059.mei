@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:id="IT-XXXX-VI-PA-059">Il Bel Castello Mattutino</title>
+        <title type="subtitle"/>
+        <respStmt>
+          <persName role="compiler">Vere Paiola</persName>
+          <persName role="informer">
+            <geogName>Vicenza</geogName>
+          </persName>
+          <persName role="encoder">Marco Bellano</persName>
+          <persName role="editor">Marco Bellano</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <publisher>co_POEM Reseach Project</publisher>
+        <date>2023</date>
+        <availability>To the best of our knowledge,
+                the full compositions on this site are in the public domain,
+                the excerpts are in the public domain or are allowable under fair-use,
+                and the few compositions that are still under copyright are used by permission.
+                These scores, are provided for educational use only and are not to be used commercially.
+            </availability>
+      </pubStmt>
+      <sourceDesc>
+        <source xml:id="to_add">
+          <biblStruct>
+            <monogr>
+              <imprint>
+                <title>Canti Popolari Vicentini</title>
+                <title type="subordinate"></title>
+                <respStmt>
+                  <persName role="compiler">Roberto Leydi</persName>
+                  <persName role="bibliography"></persName>
+                  <persName role="introduction">Neri Pozza</persName>
+                  <persName role="edition"></persName>
+                </respStmt>
+                <publisher>Neri Pozza</publisher>
+                <pubPlace>Vicenza (Vi), Italia</pubPlace>
+                <date>1981</date>
+                <extent type="pages"></extent>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </source>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc xml:id="encodingdesc-ve5l3q">
+      <appInfo xml:id="appinfo-snk4w7">
+        <application xml:id="application-1crin91" isodate="2023-02-22T22:20:32" version="3.14.0-1474e80">
+          <name xml:id="name-fdom86">Verovio</name>
+          <p xml:id="p-quzvxk">Transcoded from MusicXML</p>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <workList>
+      <work><title type="main">Il Bel Castello Mattutino</title><author type="informant">Anonymous</author><incip type="lyrics"><incipText><head/></incipText></incip><key mode="major">G</key><meter>Binary</meter><tempo>Allegro Moderato</tempo><incip type="musical"><score><section><measure copyof="#m1dpq6yq"/><measure copyof="#m1cr4lga"/><measure copyof="#mbobm08"/></section></score></incip><langUsage>
+                    <language xml:lang="it"/>
+                </langUsage>
+                <notesStmt>
+                    <annot>Il bel castello mattutino,
+                                                          tino, tino,
+                                                          il bel castello mattutino,
+                                                          tino, tino, tà.</annot>
+                </notesStmt>
+                <classification><termList><term type="genre">Children song</term><term type="region">Veneto</term><term type="district">Vicenza</term><term type="city">Vicenza</term></termList></classification></work>
+    </workList>
+  </meiHead>
+  <music>
+    <body>
+      <mdiv xml:id="m14rle2k">
+        <score xml:id="s13pb51h">
+          <scoreDef xml:id="sg9wxp">
+            <pgHead xml:id="pl66s2c">
+              <rend xml:id="r1l7mwy1" halign="center" valign="top">59. Il Bel Castello Mattutino</rend>
+            </pgHead>
+            <staffGrp xml:id="s129c1a3">
+              <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                <label xml:id="l7zerw9">Voice</label>
+                <labelAbbr xml:id="lco5s8v">Vo.</labelAbbr>
+                <instrDef xml:id="i6oluvi" midi.channel="0" midi.instrnum="52" midi.volume="78.00%"/>
+                <clef xml:id="cllgm4w" shape="G" line="2"/>
+                <keySig xml:id="ks660f3" sig="0"/>
+                <meterSig xml:id="mh2sgc5" count="2" unit="4"/>
+              </staffDef>
+            </staffGrp>
+            <ambitus>
+              <ambNote type="lowest" oct="4" pname="g"/>
+              <ambNote type="highest" oct="5" pname="d"/>
+            </ambitus>
+          </scoreDef>
+          <section xml:id="s3jz8g5"><supplied type="rythymn pattern">
+                                <note dur="8"/>
+                                <note dur="8"/>
+                                <note dur="8"/>
+                                <note dur="8"/>
+                            </supplied>
+                            <supplied type="phrases"><phrase n="1" startid="" endid="#nfcwigh" type="A"/><phrase n="2" startid="#n1fef2vy" endid="#nbjv9jk" type="B"/></supplied><pb xml:id="pka81ag"/><measure xml:id="m1dpq6yq" n="1"><staff xml:id="s1qzfa41" n="1"><layer xml:id="llclvs1" n="1"><rest xml:id="rrki5vr" dur.ppq="2" dur="4"/><note xml:id="n14twpcb" dur.ppq="2" dur="4" oct="5" pname="d" vel="100" stem.dir="down"><verse xml:id="vq8x8fd" n="1"><syl xml:id="svqj3qf" con="s" wordpos="s">Il</syl></verse></note></layer></staff><tempo xml:id="tf8wk7t" place="above" staff="1" tstamp="1.000000" midi.bpm="120.000000" mm="120.000000" mm.unit="4"><rend xml:id="r14gl05s" fontfam="smufl"></rend> = 120</tempo></measure><measure xml:id="m1cr4lga" n="2"><staff xml:id="ssb8g0a" n="1"><layer xml:id="l1t6v34b" n="1"><note xml:id="n190kw6o" dur.ppq="2" dur="4" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="vi79yh9" n="1"><syl xml:id="s1csktv3" con="s" wordpos="s">bel</syl></verse></note><note xml:id="n1q1ud8s" dur.ppq="2" dur="4" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="v1muapqd" n="1"><syl xml:id="s1sez13y" con="d" wordpos="i">ca</syl></verse></note></layer></staff></measure><measure xml:id="mbobm08" n="3"><staff xml:id="sdbnain" n="1"><layer xml:id="l1pyog44" n="1"><beam xml:id="bavzftj"><note xml:id="nqji16l" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down"><verse xml:id="v1tihwdy" n="1"><syl xml:id="s4x3bob" con="d" wordpos="m">stel</syl></verse></note><note xml:id="n1v3458e" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down"><verse xml:id="vcl9k2h" n="1"><syl xml:id="ssih2t8" con="s" wordpos="t">lo</syl></verse></note></beam><beam xml:id="b1hmkkcy"><note xml:id="ncz6g6o" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down"><verse xml:id="voummzw" n="1"><syl xml:id="sw8cs5q" con="d" wordpos="i">mat</syl></verse></note><note xml:id="n7g2vvx" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down"><verse xml:id="vibu6jc" n="1"><syl xml:id="suoad4l" con="d" wordpos="m">tu</syl></verse></note></beam></layer></staff></measure><sb xml:id="sde2kfq"/><measure xml:id="m8jj8w2" n="4"><staff xml:id="srn1dkt" n="1"><layer xml:id="l1xtrzrl" n="1"><beam xml:id="b1uprpk2"><note xml:id="n1hwu64u" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="v1pttyq5" n="1"><syl xml:id="s1cbrfso" con="d" wordpos="m">ti</syl></verse></note><note xml:id="nfcwigh" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up" type="end"><verse xml:id="v1j1u3z1" n="1"><syl xml:id="s1ngl4o3" con="s" wordpos="t">no,</syl></verse></note></beam><beam xml:id="bi8kogy"><note xml:id="n1fef2vy" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up" type="start"><verse xml:id="vbrdpf7" n="1"><syl xml:id="six9ypy" con="d" wordpos="i">ti</syl></verse></note><note xml:id="n1on4fjq" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="v1q3ijpg" n="1"><syl xml:id="s10ej0ir" con="s" wordpos="t">no,</syl></verse></note></beam></layer></staff></measure><measure xml:id="mlobl4n" n="5"><staff xml:id="s1tv5gix" n="1"><layer xml:id="lhl53lj" n="1"><beam xml:id="b1pu207v"><note xml:id="ncrox28" dur.ppq="1" dur="8" oct="5" pname="d" vel="100" stem.dir="down"><verse xml:id="vkucedo" n="1"><syl xml:id="sd5ssyo" con="d" wordpos="i">ti</syl></verse></note><note xml:id="n1rx7g27" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down"><verse xml:id="v1tv2szh" n="1"><syl xml:id="s1xfmv72" con="s" wordpos="t">no,</syl></verse></note></beam><note xml:id="nrilp90" dur.ppq="2" dur="4" oct="5" pname="d" vel="100" stem.dir="down"><verse xml:id="vxkyfcd" n="1"><syl xml:id="s15cels6" con="s" wordpos="s">il</syl></verse></note></layer></staff></measure><measure xml:id="mfpf610" n="6"><staff xml:id="sjzs4qa" n="1"><layer xml:id="l1s1vndl" n="1"><note xml:id="nt2bfow" dur.ppq="2" dur="4" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="v190clqg" n="1"><syl xml:id="s1n9mjry" con="s" wordpos="s">bel</syl></verse></note><note xml:id="n4qp2xa" dur.ppq="2" dur="4" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="vqqun8k" n="1"><syl xml:id="sl6f5dx" con="d" wordpos="i">ca</syl></verse></note></layer></staff></measure><sb xml:id="s88z35y"/><measure xml:id="mevcun0" n="7"><staff xml:id="s28crk" n="1"><layer xml:id="l1vmkdwr" n="1"><beam xml:id="blwp3nr"><note xml:id="nqhilsg" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down"><verse xml:id="vhyzady" n="1"><syl xml:id="sap70cv" con="d" wordpos="m">stel</syl></verse></note><note xml:id="n1vl957o" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down"><verse xml:id="vbv568p" n="1"><syl xml:id="s17y8dcs" con="s" wordpos="t">lo</syl></verse></note></beam><beam xml:id="b4vukuf"><note xml:id="n1r5e14r" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down"><verse xml:id="v1x0k2v0" n="1"><syl xml:id="sgu20w9" con="d" wordpos="i">mat</syl></verse></note><note xml:id="n1ffdwce" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down"><verse xml:id="v1sxlitz" n="1"><syl xml:id="sw1jzha" con="d" wordpos="m">tu</syl></verse></note></beam></layer></staff></measure><measure xml:id="mg1af8q" n="8"><staff xml:id="shl6g1y" n="1"><layer xml:id="l6fln2e" n="1"><beam xml:id="b18bgvvb"><note xml:id="nbjv9jk" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up" type="R"><verse xml:id="v94wc1g" n="1"><syl xml:id="s1vaoq4m" con="d" wordpos="m">ti</syl></verse></note><note xml:id="n13y11lh" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="v14eqkqj" n="1"><syl xml:id="s1yr5072" con="s" wordpos="t">no,</syl></verse></note></beam><beam xml:id="b1wlr28a"><note xml:id="n146f36j" dur.ppq="1" dur="8" oct="5" pname="d" vel="100" stem.dir="down"><verse xml:id="v1lmixwz" n="1"><syl xml:id="sov9hd" con="d" wordpos="i">ti</syl></verse></note><note xml:id="n1aj3oga" dur.ppq="1" dur="8" oct="5" pname="d" vel="100" stem.dir="down"><verse xml:id="v11v47ca" n="1"><syl xml:id="s124yx9f" con="s" wordpos="t">no,</syl></verse></note></beam></layer></staff></measure><measure xml:id="m1d55iku" right="end" n="9"><staff xml:id="s1njjdmv" n="1"><layer xml:id="lz60ub" n="1"><note xml:id="nqaqvea" dur.ppq="2" dur="4" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="vnylr1p" n="1"><syl xml:id="s1q3m01j" con="s" wordpos="s">tà.</syl></verse></note><rest xml:id="r1pu4x4j" dur.ppq="2" dur="4"/></layer></staff></measure></section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>
