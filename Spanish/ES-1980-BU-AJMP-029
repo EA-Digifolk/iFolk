@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:id="ES-1980-BU-AJMP-029">No Title</title>
+        <title type="subtitle"/>
+        <respStmt>
+          <persName role="compiler">Antonio José Martínez Palacios</persName>
+          <persName role="informer">
+            <geogName></geogName>
+          </persName>
+          <persName role="encoder">Rebeca Gea Martínez</persName>
+          <persName role="editor">Rebeca Gea Martínez</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <publisher>co_POEM Reseach Project</publisher>
+        <date>2023</date>
+        <availability>To the best of our knowledge,
+                the full compositions on this site are in the public domain,
+                the excerpts are in the public domain or are allowable under fair-use,
+                and the few compositions that are still under copyright are used by permission.
+                These scores, are provided for educational use only and are not to be used commercially.
+            </availability>
+      </pubStmt>
+      <sourceDesc>
+        <source xml:id="to_add">
+          <biblStruct>
+            <monogr>
+              <imprint>
+                <title>Colección De Cantos Populares Burgaleses</title>
+                <title type="subordinate">Nuevo Cancionero Burgalés, Premio Nacional De Música De 1932</title>
+                <respStmt>
+                  <persName role="compiler">Antonio José Martínez Palacios</persName>
+                  <persName role="bibliography"></persName>
+                  <persName role="introduction">Jesús Barriuso Gutiérrez, Fernándo García Romero, Miguel Ángel Palacios Garoz</persName>
+                  <persName role="edition"></persName>
+                </respStmt>
+                <publisher>Unión Musical Española, S.A.</publisher>
+                <pubPlace>Madrid</pubPlace>
+                <date>1980</date>
+                <extent type="pages">207.0</extent>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </source>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc xml:id="encodingdesc-1ddmzts">
+      <appInfo xml:id="appinfo-17jeb0t">
+        <application xml:id="application-jiej4b" isodate="2023-02-22T22:18:32" version="3.14.0-1474e80">
+          <name xml:id="name-1ojmqct">Verovio</name>
+          <p xml:id="p-1fsghs4">Transcoded from MusicXML</p>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <workList>
+      <work><title type="main">No Title</title><author type="informant">Anonymous</author><incip type="lyrics"><incipText><head/></incipText></incip><key mode="major">C</key><meter>Binary</meter><tempo>None</tempo><incip type="musical"><score><section><measure copyof="#mt5fvsl"/><measure copyof="#mmjrxgv"/></section></score></incip><langUsage>
+               <language xml:lang="es"/>
+            </langUsage>
+            <notesStmt>
+               <annot/>
+            </notesStmt>
+            <classification><termList><term type="genre">Children song</term><term type="region">Castilla y León</term><term type="district">Burgos</term><term type="city"></term></termList></classification></work>
+    </workList>
+  </meiHead>
+  <music>
+    <body>
+      <mdiv xml:id="meg4a9j">
+        <score xml:id="s1v9cpf4">
+          <scoreDef xml:id="sknq1kd">
+            <staffGrp xml:id="sbig19m">
+              <staffDef xml:id="P1" n="1" lines="5" ppq="4" trans.diat="-7" trans.semi="-12">
+                <label xml:id="lzwvgye">Nylon Guitar</label>
+                <labelAbbr xml:id="l6zthgt">GuitNyl</labelAbbr>
+                <instrDef xml:id="i54imp4" midi.channel="0" midi.instrnum="24" midi.volume="77.00%"/>
+                <clef xml:id="c1nlrtqz" shape="G" line="2"/>
+                <keySig xml:id="k1l7kt23" sig="0"/>
+                <meterSig xml:id="m17qxffl" count="2" unit="4"/>
+              </staffDef>
+            </staffGrp>
+            <ambitus>
+              <ambNote type="lowest" oct="4" pname="c"/>
+              <ambNote type="highest" oct="5" pname="d"/>
+            </ambitus>
+          </scoreDef>
+          <section xml:id="s148lumk"><supplied type="rythymn pattern">
+                     <beam>
+                        <note dur="8"/>
+                        <note dur="8"/>
+                     </beam>
+                     <beam>
+                        <note dur="8"/>
+                        <note dur="8"/>
+                     </beam>
+                     <note dur="4"/>
+                   </supplied>
+                  <supplied type="phrases"/><pb xml:id="p1h4msuh"/><measure xml:id="mt5fvsl" n="1"><staff xml:id="s17wxkt2" n="1"><layer xml:id="ljl066a" n="1"><note xml:id="n1c3wn5q" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up"><verse xml:id="vhb1lkw" n="1"><syl xml:id="s2kcf5k" con="d" wordpos="i">An</syl></verse></note></layer></staff></measure><measure xml:id="mmjrxgv" left="rptstart" n="2"><staff xml:id="s1eovmpo" n="1"><layer xml:id="l47rqas" n="1"><beam xml:id="b1oqs912"><note xml:id="n1sf6jxo" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up"><verse xml:id="v1xzy5zq" n="1"><syl xml:id="st87ov6" con="d" wordpos="m">dan</syl></verse><verse xml:id="vfzek6l" n="2"><syl xml:id="s1wg6jds" con="d" wordpos="i">tan</syl></verse><verse xml:id="v1xbcgcg" n="3"><syl xml:id="s163llm1" con="d" wordpos="i">Ru</syl></verse></note><note xml:id="n19pobjl" dur.ppq="1" dur="16" oct="4" pname="g" stem.dir="up"><verse xml:id="v1b911p5" n="1"><syl xml:id="s1pki9xg" con="s" wordpos="t">do</syl></verse><verse xml:id="vmzfav" n="2"><syl xml:id="sanex05" con="u" wordpos="t">do</syl></verse><verse xml:id="vf649hd" n="3"><syl xml:id="sws7frr" con="d" wordpos="m">bi</syl></verse></note><note xml:id="nup68nz" dur.ppq="1" dur="16" oct="4" pname="g" stem.dir="up"><verse xml:id="v1e0dcxc" n="1"><syl xml:id="soa4g8e" con="s" wordpos="s">por</syl></verse><verse xml:id="v18f713g" n="3"><syl xml:id="s514m9w" con="s" wordpos="t">a</syl></verse></note></beam><beam xml:id="bu3qupb"><note xml:id="n1defiwg" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up"><verse xml:id="v17l2b8v" n="1"><syl xml:id="s9r2z6d" con="s" wordpos="s">un</syl></verse><verse xml:id="v13pvd5x" n="2"><syl xml:id="s1vfzsla" con="d" wordpos="i">des</syl></verse><verse xml:id="vxzrcn6" n="3"><syl xml:id="s1oq8t0x" con="s" wordpos="s">de</syl></verse></note><note xml:id="ndc0ypy" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up"><verse xml:id="v13h74bn" n="1"><syl xml:id="sihdhqn" con="d" wordpos="i">ca</syl></verse><verse xml:id="v13nlhs6" n="2"><syl xml:id="s33hrvn" con="d" wordpos="m">can</syl></verse><verse xml:id="vzj6egl" n="3"><syl xml:id="s1hzpoqv" con="d" wordpos="i">ca</syl></verse></note></beam></layer></staff><tie xml:id="t2pfa6l" startid="#n19pobjl" endid="#nup68nz"/></measure><measure xml:id="mi7ch0g" n="3"><staff xml:id="s13iiqr2" n="1"><layer xml:id="l15p9x7k" n="1"><note xml:id="n1ocwyj5" dur.ppq="4" dur="4" oct="4" pname="g" stem.dir="up"><verse xml:id="v1d20jbm" n="1"><syl xml:id="s8pnnh7" con="d" wordpos="m">mi</syl></verse><verse xml:id="v1x5qn8x" n="2"><syl xml:id="sdwxv12" con="d" wordpos="m">san</syl></verse><verse xml:id="vaqcdsx" n="3"><syl xml:id="slcnq1n" con="d" wordpos="m">be</syl></verse></note><note xml:id="nn0njgz" dur.ppq="4" dur="4" oct="5" pname="c" stem.dir="down"><verse xml:id="v1l1egfv" n="1"><syl xml:id="sts43i4" con="s" wordpos="t">no,</syl></verse><verse xml:id="vwarjpv" n="2"><syl xml:id="s16339r7" con="s" wordpos="t">do,</syl></verse><verse xml:id="v1h5zzbc" n="3"><syl xml:id="s1sz9vj4" con="s" wordpos="t">llos,</syl></verse></note></layer></staff></measure><measure xml:id="m1qgnjt9" n="4"><staff xml:id="sdeso3" n="1"><layer xml:id="lair0bw" n="1"><beam xml:id="bn7zl9v"><note xml:id="n1qe4wu2" dur.ppq="2" dur="8" oct="4" pname="b" stem.dir="down"><verse xml:id="vjhaink" n="1"><syl xml:id="svjxy7p" con="d" wordpos="i">can</syl></verse><verse xml:id="v9q03cu" n="2"><syl xml:id="s1jeevba" con="s" wordpos="s">por</syl></verse><verse xml:id="v1ybhg2u" n="3"><syl xml:id="s1jickgq" con="d" wordpos="i">blan</syl></verse></note><note xml:id="nmrq37k" dur.ppq="2" dur="8" oct="5" pname="d" stem.dir="down"><verse xml:id="v1gjt530" n="1"><syl xml:id="s16s7u9c" con="d" wordpos="m">sa</syl></verse><verse xml:id="v48ngku" n="2"><syl xml:id="s1g1d6me" con="d" wordpos="i">a</syl></verse><verse xml:id="v34u07d" n="3"><syl xml:id="s3qmhf8" con="s" wordpos="t">ca</syl></verse></note></beam><beam xml:id="b1ppormg"><note xml:id="n1g1f4zy" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down"><verse xml:id="v1kizvf5" n="1"><syl xml:id="s38i45i" con="s" wordpos="t">do</syl></verse><verse xml:id="v5vjvy8" n="2"><syl xml:id="s1atwx7m" con="s" wordpos="t">llí</syl></verse><verse xml:id="v14yzo9z" n="3"><syl xml:id="s1ie31zc" con="s" wordpos="s">de</syl></verse></note><note xml:id="n1ljlndt" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="down"><verse xml:id="v1evjnzq" n="1"><syl xml:id="swketnk" con="d" wordpos="i">de an</syl></verse><verse xml:id="v1fh6nmq" n="2"><syl xml:id="s1stdult" con="d" wordpos="i">pa</syl></verse><verse xml:id="vqt9kd4" n="3"><syl xml:id="s1b0fupn" con="d" wordpos="i">co</syl></verse></note></beam></layer></staff></measure><sb xml:id="szns3rx"/><measure xml:id="mnrum8g" n="5"><staff xml:id="szh10ip" n="1"><layer xml:id="lgdr488" n="1"><note xml:id="nzh5aby" dots="1" dur.ppq="6" dur="4" oct="4" pname="g" stem.dir="up"><verse xml:id="v55wkeu" n="1"><syl xml:id="srib66b" con="s" wordpos="t">dar,</syl></verse><verse xml:id="v1ff9bbs" n="2"><syl xml:id="sop1dy4" con="s" wordpos="t">só</syl></verse><verse xml:id="v1u9724h" n="3"><syl xml:id="s1j05fze" con="s" wordpos="t">lor,</syl></verse></note><note xml:id="nsaqi8l" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up"><verse xml:id="vufrfu0" n="1"><syl xml:id="s1cb5rjj" con="s" wordpos="s">a</syl></verse><verse xml:id="vat33mh" n="2"><syl xml:id="s1jm2oiz" con="d" wordpos="i">u</syl></verse><verse xml:id="v108anvi" n="3"><syl xml:id="s4wostx" con="d" wordpos="i">del</syl></verse></note></layer></staff></measure><measure xml:id="mef71if" n="6"><staff xml:id="sy3og2n" n="1"><layer xml:id="lhtsjh7" n="1"><beam xml:id="b13vkytl"><note xml:id="n18vo13i" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up"><verse xml:id="v11ynyjk" n="1"><syl xml:id="s1ktmm1c" con="s" wordpos="s">la</syl></verse><verse xml:id="v1nftomu" n="2"><syl xml:id="s9m179n" con="s" wordpos="t">na</syl></verse><verse xml:id="vnz9oec" n="3"><syl xml:id="s1di8wnf" con="d" wordpos="m">ga</syl></verse></note><note xml:id="n1kr1zn3" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up"><verse xml:id="v1rcep1i" n="1"><syl xml:id="s11ff7zc" con="d" wordpos="i">som</syl></verse><verse xml:id="vbad7jb" n="2"><syl xml:id="s1ci1lk4" con="d" wordpos="i">ni</syl></verse><verse xml:id="v1dahxih" n="3"><syl xml:id="s29mk3s" con="s" wordpos="t">da</syl></verse></note></beam><beam xml:id="b14k27nx"><note xml:id="n1dpbjtm" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up"><verse xml:id="v1ljtvqc" n="1"><syl xml:id="s1xow5wn" con="s" wordpos="t">bra</syl></verse><verse xml:id="v1h9qhzn" n="2"><syl xml:id="s1vw7moz" con="s" wordpos="t">ña</syl></verse><verse xml:id="v1fmf11u" n="3"><syl xml:id="suqguj" con="s" wordpos="s">de</syl></verse></note><note xml:id="nicuwsh" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up"><verse xml:id="vj2qhbw" n="1"><syl xml:id="s1ivfcgv" con="s" wordpos="s">de un</syl></verse><verse xml:id="v1g9cvhb" n="2"><syl xml:id="s1sk118n" con="s" wordpos="s">muy</syl></verse><verse xml:id="v1fhgja7" n="3"><syl xml:id="sos2dfl" con="d" wordpos="i">cin</syl></verse></note></beam></layer></staff></measure><measure xml:id="m1gt5p6b" n="7"><staff xml:id="sqs0fvk" n="1"><layer xml:id="l4qb4ec" n="1"><note xml:id="nv4x8yk" dur.ppq="4" dur="4" oct="4" pname="e" stem.dir="up"><verse xml:id="v1jvdl3k" n="1"><syl xml:id="s1ackpb" con="d" wordpos="i">ár</syl></verse><verse xml:id="v1ubw5ll" n="2"><syl xml:id="s1e8xvn1" con="d" wordpos="i">gua</syl></verse><verse xml:id="v6gewi3" n="3"><syl xml:id="s1ewysux" con="d" wordpos="m">tu</syl></verse></note><beam xml:id="btadlkj"><note xml:id="n1a2zt0r" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up"><verse xml:id="v1olptq9" n="1"><syl xml:id="s642ixf" con="s" wordpos="t">bol</syl></verse><verse xml:id="v1py7bua" n="2"><syl xml:id="s1ln6uiq" con="u" wordpos="t">pa</syl></verse><verse xml:id="v1wzqziv" n="3"><syl xml:id="sb8pbsv" con="s" wordpos="t">ra,</syl></verse></note><note xml:id="n1b5rby0" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up"><verse xml:id="v1eclrry" n="1"><syl xml:id="sgaox2o" con="s" wordpos="s">me</syl></verse><verse xml:id="v1wozfk4" n="3"><syl xml:id="sshhj1d" con="d" wordpos="i">a</syl></verse></note></beam></layer></staff><tie xml:id="t1n54gf0" startid="#n1a2zt0r" endid="#n1b5rby0"/></measure><measure xml:id="m1cetruz" n="8"><staff xml:id="spfbdo7" n="1"><layer xml:id="lyx9qtz" n="1"><beam xml:id="bq5cg1y"><note xml:id="nqsweep" dur.ppq="2" dur="8" oct="4" pname="d" stem.dir="up"><verse xml:id="v1sua1br" n="1"><syl xml:id="s1yro9gm" con="d" wordpos="i">pu</syl></verse><verse xml:id="vnketrn" n="2"><syl xml:id="s17yqq67" con="s" wordpos="s">que</syl></verse><verse xml:id="v9ix560" n="3"><syl xml:id="sftldt6" con="s" wordpos="t">si</syl></verse></note><note xml:id="nj0rcfe" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up"><verse xml:id="v1xq37ji" n="1"><syl xml:id="s1vdf1n1" con="s" wordpos="t">se a</syl></verse><verse xml:id="vc4qdcu" n="2"><syl xml:id="s1lvuatt" con="d" wordpos="i">me e</syl></verse><verse xml:id="v1psuhsn" n="3"><syl xml:id="s1h9oqrr" con="s" wordpos="s">la</syl></verse></note></beam><beam xml:id="b1amw5pf"><note xml:id="nwt52n7" dur.ppq="2" dur="8" oct="4" pname="e" stem.dir="up"><verse xml:id="vxqg198" n="1"><syl xml:id="s1pvwwyr" con="d" wordpos="i">des</syl></verse><verse xml:id="v10eirxm" n="2"><syl xml:id="s11533yo" con="d" wordpos="m">na</syl></verse><verse xml:id="v1snifb5" n="3"><syl xml:id="s1b4ekan" con="d" wordpos="i">quie</syl></verse></note><note xml:id="nxhl9oj" dur.ppq="2" dur="8" oct="4" pname="d" stem.dir="up"><verse xml:id="v1n50lcw" n="1"><syl xml:id="s1di0fm2" con="d" wordpos="m">can</syl></verse><verse xml:id="v1td42hf" n="2"><syl xml:id="sxq2etb" con="d" wordpos="m">mo</syl></verse><verse xml:id="v1au071a" n="3"><syl xml:id="s1xqeiqu" con="s" wordpos="t">ro</syl></verse></note></beam></layer></staff></measure><ending xml:id="ej99wha" lendsym="angledown" n="1"><measure xml:id="mgivagc" right="rptend" n="9"><staff xml:id="swk6s9a" n="1"><layer xml:id="lqnh024" n="1"><note xml:id="nln5ksv" dur.ppq="4" dur="4" oct="4" pname="c" stem.dir="up"><verse xml:id="v15cofy8" n="1"><syl xml:id="s1yjvme4" con="s" wordpos="t">sar.</syl></verse></note><rest xml:id="roiopgt" dur.ppq="2" dur="8"/><note xml:id="n1sa7034" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up"><verse xml:id="v1pbh4rg" n="1"><syl xml:id="s1fm08b1" con="d" wordpos="i">Es</syl></verse></note></layer></staff></measure></ending><ending xml:id="eifuo00" lendsym="angledown" n="2"><measure xml:id="m4n8y3r" right="rptend" n="10"><staff xml:id="s1egcydu" n="1"><layer xml:id="l1ivijdy" n="1"><note xml:id="n1n39tfw" dur.ppq="4" dur="4" oct="4" pname="c" stem.dir="up"><verse xml:id="v9nh5p3" n="2"><syl xml:id="suny78e" con="s" wordpos="t">ró.</syl></verse></note><rest xml:id="ri66us7" dur.ppq="4" dur="4"/></layer></staff></measure></ending><ending xml:id="ej8edjg" lendsym="angledown" n="3"><measure xml:id="m1527ove" right="end" n="11"><staff xml:id="soywfr2" n="1"><layer xml:id="lu42nxf" n="1"><note xml:id="n1oc5ir8" dur.ppq="4" dur="4" oct="4" pname="c" stem.dir="up"><verse xml:id="v1u0tldg" n="3"><syl xml:id="s1rzyl1z" con="s" wordpos="s">yó.</syl></verse></note><rest xml:id="r13cwe87" dur.ppq="2" dur="8"/></layer></staff></measure></ending></section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>
