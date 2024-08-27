@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:id="ES-1948-CB-CO-103">Bartolo Tuvo Una Flauta</title>
+        <title type="subtitle">Bartolo Tuvo Una Flauta</title>
+        <respStmt>
+          <persName role="compiler">Córdova y Oña</persName>
+          <persName role="informer"><geogName/></persName>
+          <persName role="encoder">Sara González</persName>
+          <persName role="editor"/>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <publisher>co_POEM Reseach Project</publisher>
+        <date>2023</date>
+        <availability>To the best of our knowledge,
+                the full compositions on this site are in the public domain,
+                the excerpts are in the public domain or are allowable under fair-use,
+                and the few compositions that are still under copyright are used by permission.
+                These scores, are provided for educational use only and are not to be used commercially.
+            </availability>
+      </pubStmt>
+      <sourceDesc>
+        <source xml:id="to_add">
+          <biblStruct>
+            <monogr>
+              <imprint>
+                <title>Cancionero Popular De La Provincia De Santander</title>
+                <title type="subordinate">Cancionero Infantil Español, Libro Primero</title>
+                <respStmt>
+                  <persName role="compiler">Sixto Córdova Y Oña</persName>
+                  <persName role="bibliography"></persName>
+                  <persName role="introduction"></persName>
+                  <persName role="edition"></persName>
+                </respStmt>
+                <publisher>Excma. Diputación Provincial De Santander</publisher>
+                <pubPlace>Santander</pubPlace>
+                <date>1948</date>
+                <extent type="pages">391.0</extent>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </source>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc xml:id="encodingdesc-12wx5lm">
+      <appInfo xml:id="appinfo-ue6btj">
+        <application xml:id="application-198kmd" isodate="2023-02-22T22:18:25" version="3.14.0-1474e80">
+          <name xml:id="name-bes8n">Verovio</name>
+          <p xml:id="p-c8yncq">Transcoded from MusicXML</p>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <workList>
+      <work><title type="main">Bartolo Tuvo Una Flauta</title><author type="informant">Anonymous</author><incip type="lyrics"><incipText><head>Bartolo tuvo una flauta</head></incipText></incip><key mode="major">Bb</key><meter>Binary</meter><tempo>Allegro Moderato</tempo><incip type="musical"><score><section><measure copyof="#ms6vbuc"/><measure copyof="#m10mkyup"/></section></score></incip><langUsage>
+         <language xml:lang="es"/>
+      </langUsage>
+      <notesStmt>
+         <annot>Esta canción se repite sin cesar hasta cansarse.</annot>
+      </notesStmt>
+      <classification><termList><term type="genre">Children song</term><term type="region">Cantabria</term><term type="district">Santander</term><term type="city"></term></termList></classification></work>
+    </workList>
+  </meiHead>
+  <music>
+    <body>
+      <mdiv xml:id="mckdckr">
+        <score xml:id="scqyxdk">
+          <scoreDef xml:id="s1p78xtg">
+            <pgHead xml:id="p1wd4xy">
+              <rend xml:id="ryqot1" halign="center" valign="top">103. Bartolo tuvo una flauta.</rend>
+            </pgHead>
+            <staffGrp xml:id="sbk8u4l">
+              <staffDef xml:id="P1" n="1" lines="5" ppq="4">
+                <label xml:id="l48ju8n">Piano</label>
+                <labelAbbr xml:id="lttjdni">Pno.</labelAbbr>
+                <instrDef xml:id="i1l8xwvd" midi.channel="0" midi.instrnum="0" midi.volume="78.00%"/>
+                <clef xml:id="c128vmds" shape="G" line="2"/>
+                <keySig xml:id="k1myys2z" sig="2f"/>
+                <meterSig xml:id="mls4fcg" count="2" unit="4"/>
+              </staffDef>
+            </staffGrp>
+            <ambitus>
+              <ambNote type="lowest" oct="4" pname="f"/>
+              <ambNote type="highest" oct="5" pname="c"/>
+            </ambitus>
+          </scoreDef>
+          <section xml:id="s2r8qfd"><supplied type="rythymn pattern">
+                  <note dur="8"/>
+                  <beam>
+                     <note dur="8"/>
+                     <note dur="16"/>
+                     <note dur="16"/>
+                  </beam>
+                  <beam>
+                     <note dur="8"/>
+                     <note dur="8"/>
+                  </beam>
+                  <note dur="8"/>
+                  <note dur="4"/>
+               </supplied>
+               <supplied type="phrases"><phrase n="1" startid="#n1drh0qq" endid="#nmtxnyy" type="A"/><phrase n="3" startid="#nmtxnyy" endid="#nmtxnyy" type="A"/><phrase n="2" startid="#n4gbx0r" endid="#nul2wkn" type="A"/></supplied><pb xml:id="p1d1ewol"/><measure xml:id="ms6vbuc" n="0"><mNum xml:id="m1k0rxt9"/><staff xml:id="sl7zq1z" n="1"><layer xml:id="l1wm6vs2" n="1"><note xml:id="n1drh0qq" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up"><verse xml:id="ve82llg" n="1"><syl xml:id="sg5wt69" con="d" wordpos="i">Bar</syl></verse></note></layer></staff><tempo xml:id="ttw64jh" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="116.000000"><rend xml:id="r1rf18v9" fontweight="bold">Allegro moderato.</rend></tempo><tempo xml:id="t1xjv7nm" place="above" staff="1" tstamp="1.000000" midi.bpm="116.000000" mm="116.000000" mm.unit="4"><rend xml:id="r16i209f" fontfam="smufl"></rend> = 116</tempo></measure><measure xml:id="m10mkyup" left="rptstart" n="1"><staff xml:id="sq2ru2j" n="1"><layer xml:id="leoi9gg" n="1"><beam xml:id="b17d2d28"><note xml:id="n4gbx0r" dur.ppq="2" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f"><verse xml:id="vsyli50" n="1"><syl xml:id="sek0569" con="d" wordpos="m">to</syl></verse></note><note xml:id="n1x8izmw" dur.ppq="1" dur="16" oct="4" pname="b" stem.dir="down" accid.ges="f"><verse xml:id="v681440" n="1"><syl xml:id="s8vna4r" con="d" wordpos="m">lo/tu</syl></verse></note><note xml:id="nahd6tq" dur.ppq="1" dur="16" oct="4" pname="b" stem.dir="down" accid.ges="f"><verse xml:id="vzvdllb" n="1"><syl xml:id="s1mh2ujz" con="s" wordpos="t">vo</syl></verse></note></beam><beam xml:id="b1et1i8c"><note xml:id="n164fil4" dur.ppq="2" dur="8" oct="4" pname="b" stem.dir="up" accid.ges="f"><verse xml:id="v5r1yr6" n="1"><syl xml:id="s9uj0pz" con="d" wordpos="i">u</syl></verse></note><note xml:id="n152vn6z" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up"><verse xml:id="v1h8pfre" n="1"><syl xml:id="s1c0ah3n" con="s" wordpos="t">na</syl></verse></note></beam></layer></staff></measure><measure xml:id="m1bs6xxs" n="2"><staff xml:id="s1xbdz36" n="1"><layer xml:id="l1sy9ki2" n="1"><note xml:id="n1tlzvyj" dur.ppq="2" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f"><verse xml:id="v8oyl6w" n="1"><syl xml:id="s1hzkgmk" con="d" wordpos="i">flau</syl></verse></note><note xml:id="n10ddyan" dur.ppq="4" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f"><verse xml:id="v1xcpl6p" n="1"><syl xml:id="s1u8bgb" con="s" wordpos="t">ta</syl></verse></note><note xml:id="n1fu2np6" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up"><verse xml:id="vugw2u1" n="1"><syl xml:id="sl2f8a2" con="s" wordpos="s">con</syl></verse></note></layer></staff></measure><measure xml:id="m1qamhd1" n="3"><staff xml:id="s8cdvjj" n="1"><layer xml:id="l1m3961b" n="1"><beam xml:id="b4avjas"><note xml:id="nzj63ib" dur.ppq="2" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f"><verse xml:id="vqjsugb" n="1"><syl xml:id="s1k4qz5h" con="s" wordpos="s">un</syl></verse></note><note xml:id="nugf80o" dur.ppq="1" dur="16" oct="4" pname="b" stem.dir="down" accid.ges="f"><verse xml:id="v16h7geh" n="1"><syl xml:id="s1ufk1nh" con="d" wordpos="i">a</syl></verse></note><note xml:id="n19m0ek1" dur.ppq="1" dur="16" oct="4" pname="b" stem.dir="down" accid.ges="f"><verse xml:id="v168943x" n="1"><syl xml:id="s185y1ko" con="d" wordpos="m">gu</syl></verse></note></beam><beam xml:id="by4f7ek"><note xml:id="nxhshw3" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up"><verse xml:id="vvqj0cs" n="1"><syl xml:id="so5hk8v" con="d" wordpos="m">je</syl></verse></note><note xml:id="n1dzty7m" dur.ppq="2" dur="8" oct="4" pname="b" stem.dir="up" accid.ges="f"><verse xml:id="vbh0reo" n="1"><syl xml:id="sepvptg" con="s" wordpos="t">ro</syl></verse></note></beam></layer></staff></measure><measure xml:id="m1r3n3hm" n="4"><staff xml:id="sxl2yu4" n="1"><layer xml:id="l14hjnfi" n="1"><note xml:id="njjuhc8" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down"><verse xml:id="v2mvea" n="1"><syl xml:id="s104bxyz" con="d" wordpos="i">so</syl></verse></note><note xml:id="nspg5cz" dur.ppq="4" dur="4" oct="5" pname="c" stem.dir="down"><verse xml:id="v5mdhmv" n="1"><syl xml:id="sjijyp1" con="s" wordpos="t">lo</syl></verse></note><note xml:id="n4myaxq" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up"><verse xml:id="v1grs37y" n="1"><syl xml:id="s67amiu" con="s" wordpos="s">y a</syl></verse></note></layer></staff></measure><sb xml:id="spd7oa1"/><measure xml:id="mwkrowo" n="5"><staff xml:id="s1fbiy4e" n="1"><layer xml:id="l15uxrx2" n="1"><beam xml:id="b1472vpa"><note xml:id="n9f72qa" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down"><verse xml:id="v43pigv" n="1"><syl xml:id="szn6m60" con="d" wordpos="i">to</syl></verse></note><note xml:id="nonmgrx" dur.ppq="1" dur="16" oct="5" pname="c" stem.dir="down"><verse xml:id="v2yg25o" n="1"><syl xml:id="s137473j" con="s" wordpos="t">dos</syl></verse></note><note xml:id="n8bup4s" dur.ppq="1" dur="16" oct="5" pname="c" stem.dir="down"><verse xml:id="v1h0jm9n" n="1"><syl xml:id="s1mvjdib" con="s" wordpos="s">da</syl></verse></note></beam><beam xml:id="bh29axe"><note xml:id="nrrm1z7" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down"><verse xml:id="vkoq6oo" n="1"><syl xml:id="sj7dfdf" con="d" wordpos="i">ba</syl></verse></note><note xml:id="n1n0ihq3" dur.ppq="2" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f"><verse xml:id="v1u6ds3g" n="1"><syl xml:id="shbklxn" con="d" wordpos="m">la</syl></verse></note></beam></layer></staff></measure><measure xml:id="m16kxen8" n="6"><staff xml:id="sd3t2sm" n="1"><layer xml:id="l1monq16" n="1"><beam xml:id="biedxu0"><note xml:id="nw3ku5y" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up"><verse xml:id="vx9yluo" n="1"><syl xml:id="swrabou" con="d" wordpos="m">la</syl></verse></note><note xml:id="nc7oznz" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up"><verse xml:id="vgkpugj" n="1"><syl xml:id="s9ymyhz" con="s" wordpos="t">ta</syl></verse></note></beam><beam xml:id="b1ju5gq9"><note xml:id="n1b1kdow" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up"><verse xml:id="v129f5hw" n="1"><syl xml:id="spqq1j2" con="s" wordpos="s">con</syl></verse></note><note xml:id="n1awk8n" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up"><verse xml:id="vcyjfcl" n="1"><syl xml:id="s1tnpyis" con="s" wordpos="s">su</syl></verse></note></beam></layer></staff></measure><measure xml:id="mat3o2" right="rptend" n="7"><staff xml:id="snrioxo" n="1"><layer xml:id="l1u2q3e6" n="1"><beam xml:id="b6u0zi4"><note xml:id="nn4kvo9" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up"><verse xml:id="v9uhfr8" n="1"><syl xml:id="s16xcp3d" con="d" wordpos="i">flau</syl></verse></note><note xml:id="n1wciz6o" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up"><verse xml:id="v1t9yafy" n="1"><syl xml:id="s10cvuw0" con="s" wordpos="t">ta el</syl></verse></note></beam><beam xml:id="b1apmun3"><note xml:id="n6o0tzg" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up"><verse xml:id="v5g65k9" n="1"><syl xml:id="s1rl3ujv" con="s" wordpos="s">buen</syl></verse></note><note xml:id="nmtxnyy" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up" type="SR"><verse xml:id="vqmlaw" n="1"><syl xml:id="somkbli" con="d" wordpos="i">Bar</syl></verse></note></beam></layer></staff></measure><measure xml:id="m1hnyhla" right="end" n="8"><staff xml:id="sdy6il4" n="1"><layer xml:id="l1uyv32m" n="1"><beam xml:id="b1udv9rn"><note xml:id="n1or8nq8" dur.ppq="2" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f"><verse xml:id="vei68pw" n="1"><syl xml:id="s1ixqd21" con="d" wordpos="m">to</syl></verse></note><note xml:id="nul2wkn" dur.ppq="2" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f" type="R"><verse xml:id="v1ioi2vj" n="1"><syl xml:id="sgw2vjs" con="s" wordpos="t">lo.</syl></verse></note></beam><rest xml:id="r1mbuvk2" dur.ppq="4" dur="4"/></layer></staff><dir xml:id="dus6j6y" place="above" staff="1" tstamp="1.000000" vgrp="200"><rend xml:id="rua13fp" fontstyle="italic">Para terminar.</rend></dir><dir xml:id="d5pyr11" place="below" staff="1" tstamp="1.000000" vgrp="40">Esta canción se repite sin cesar hasta cansarse.</dir></measure></section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>
