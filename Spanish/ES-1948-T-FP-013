@@ -1,20 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title xml:id="ES-1948-T-FP-013" type="main">Canción De Cuna</title>
+            <title type="main" xml:id="ES-1948-T-FP-013">Canción De Cuna</title>
             <title type="subtitle">La Don, Don. La Mare</title>
             <respStmt>
                <persName role="lyricist">Tarragona (Cataluña)</persName>
                <persName role="compiler">Pedrell Sabaté</persName>
-               <persName role="informer">
-                  <geogName />
-               </persName>
+               <persName role="informer"><geogName/></persName>
                <persName role="encoder">Sara González</persName>
-               <persName role="editor" />
+               <persName role="editor"/>
             </respStmt>
          </titleStmt>
          <pubStmt>
@@ -33,12 +31,12 @@
                   <monogr>
                      <imprint>
                         <title>Cancionero Musical Popular Español</title>
-                        <title type="subordinate" />
+                        <title type="subordinate"></title>
                         <respStmt>
                            <persName role="compiler">Felipe Pedrell Sabaté</persName>
-                           <persName role="bibliography" />
-                           <persName role="introduction" />
-                           <persName role="edition" />
+                           <persName role="bibliography"></persName>
+                           <persName role="introduction"></persName>
+                           <persName role="edition"></persName>
                         </respStmt>
                         <publisher>Boileau, Editorial De Música</publisher>
                         <pubPlace>Barcelona</pubPlace>
@@ -56,37 +54,22 @@
                <name xml:id="name-mgumrp">Verovio</name>
                <p xml:id="p-1275xrg">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="ac20yyi1" enddate="2024-08-27T15:24:16" startdate="2024-08-27T14:48:57" version="1.0.14">
-               <name xml:id="n86zsc71">mei-friend</name>
-               <p xml:id="pjq0yel1">First edit by mei-friend 1.0.14, 23 May 2024.</p>
-            </application>
          </appInfo>
       </encodingDesc>
       <workList>
          <work>
             <title type="main">Canción De Cuna</title>
             <author type="informant">Anonymous</author>
-            <incip type="lyrics">
-               <incipText>
-                  <head> La don, don. La mare</head>
-               </incipText>
-            </incip>
+            <incip type="lyrics"><incipText><head> La don, don. La mare</head></incipText></incip>
             <key mode="locrian">G</key>
             <meter>Ternary</meter>
             <tempo>None</tempo>
-            <incip type="musical">
-               <score>
-                  <section>
-                     /n<measure copyof="#m45j7pc" />
-                     /n<measure copyof="#mhy19tw" />
-                  </section>
-               </score>
-            </incip>
+            <incip type="musical"><score><section><measure copyof="#m45j7pc"/><measure copyof="#mhy19tw"/></section></score></incip>
             <langUsage>
-               <language xml:lang="cat" />
+               <language xml:lang="cat"/>
             </langUsage>
             <notesStmt>
-               <annot />
+               <annot/>
             </notesStmt>
             <classification>
                <termList>
@@ -104,7 +87,7 @@
          <mdiv xml:id="m1x8okag">
             <score xml:id="s1g9bzfn">
                <scoreDef xml:id="s2ytofn">
-                  <pgHead xml:id="pkhfm4l" func="first">
+                  <pgHead xml:id="pkhfm4l">
                      <rend xml:id="r1atu9s7" halign="center" valign="top">13) Canción de cuna</rend>
                      <rend xml:id="r13kkk2a" halign="left" valign="bottom">Tarragona (Cataluña)</rend>
                   </pgHead>
@@ -112,16 +95,30 @@
                      <staffDef xml:id="P1" n="1" lines="5" ppq="1">
                         <label xml:id="l1ncmytw">Piano</label>
                         <labelAbbr xml:id="l11mx5vh">Pno.</labelAbbr>
-                        <instrDef xml:id="i1ajc45m" midi.channel="0" midi.instrnum="0" midi.volume="78.00%" />
-                        <clef xml:id="c1k1baf9" shape="G" line="2" />
-                        <keySig xml:id="kgubyjw" sig="0" />
-                        <meterSig xml:id="m19p7ozq" count="3" unit="4" />
+                        <instrDef xml:id="i1ajc45m" midi.channel="0" midi.instrnum="0" midi.volume="78.00%"/>
+                        <clef xml:id="c1k1baf9" shape="G" line="2"/>
+                        <keySig xml:id="kgubyjw" sig="0"/>
+                        <meterSig xml:id="m19p7ozq" count="3" unit="4"/>
                      </staffDef>
                   </staffGrp>
+                  <ambitus>
+                     <ambNote type="lowest" oct="4" pname="d"/>
+                     <ambNote type="highest" oct="5" pname="c"/>
+                  </ambitus>
                </scoreDef>
-               <section xml:id="sfuc1mq">
-                  <supplied xml:id="seorcgb" type="rythymn pattern" />
-                  <supplied xml:id="ss50uif1" type="phrases" />
+               <section xml:id="sfuc1mq"><supplied type="rythymn pattern">
+                  <note dur="4"/>
+                  <note dur="4"/>
+                  <note dur="4"/>
+                  </supplied>
+                  <supplied type="phrases">
+                     <phrase n="1" startid="#n1p464dj" endid="#ngnrgry" type="A1"/>
+                     <phrase n="2" startid="#njls746" endid="#n16ao9pr" type="A2"/>
+                     <phrase n="3" startid="#n107n2xv" endid="#n16fgxpt" type="B1"/>
+                     <phrase n="4" startid="#n1fm4i2b" endid="#n1d15z2o" type="B2"/>
+                     <phrase n="5" startid="#n1p464dj2" endid="#ngnrgry2" type="A1"/>
+                     <phrase n="6" startid="#njls7462" endid="#n16ao9pr2" type="A2"/>
+                  </supplied>
                   <pb xml:id="p1lwhib3" />
                   <measure xml:id="m45j7pc" left="rptstart" n="1">
                      <staff xml:id="smlbxvs" n="1">
