@@ -56,7 +56,7 @@
       </appInfo>
     </encodingDesc>
     <workList>
-      <work><title type="main">Papà Papà Bilin</title><author type="informant">Anonymous</author><incip type="lyrics"><incipText><head/></incipText></incip><key mode="major">D</key><meter>Binary</meter><tempo>Larghetto</tempo><incip type="musical"><score><section><measure copyof="#mx3txal"/><measure copyof="#m1siuzpl"/><measure copyof="#m85vsnm"/></section></score></incip><langUsage>
+      <work><title type="main">Papà Papà Bilin</title><author type="informant">Anonymous</author><incip type="lyrics"><incipText><head/></incipText></incip><key mode="aeolian2">F#</key><meter>Binary</meter><tempo>Larghetto</tempo><incip type="musical"><score><section><measure copyof="#mx3txal"/><measure copyof="#m1siuzpl"/><measure copyof="#m85vsnm"/></section></score></incip><langUsage>
                     <language xml:lang="it"/>
                 </langUsage>
                 <notesStmt>
