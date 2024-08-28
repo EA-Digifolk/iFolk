@@ -1,111 +1,489 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
-  <meiHead>
-    <fileDesc>
-      <titleStmt>
-        <title type="main" xml:id="IT-XXXX-VI-PA-049">Tiràtela = Ben Tirata</title>
-        <title type="subtitle"/>
-        <respStmt>
-          <persName role="compiler">Vere Paiola</persName>
-          <persName role="informer">
-            <geogName>Vicenza</geogName>
-          </persName>
-          <persName role="encoder">Marco Bellano</persName>
-          <persName role="editor">Marco Bellano</persName>
-        </respStmt>
-      </titleStmt>
-      <pubStmt>
-        <publisher>co_POEM Reseach Project</publisher>
-        <date>2023</date>
-        <availability>To the best of our knowledge,
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="IT-XXXX-VI-PA-049">
+                    Tiràtela = Ben Tirata
+                </title>
+                <title type="subtitle"/>
+                <respStmt>
+                    <persName role="compiler">
+                        Vere Paiola
+                    </persName>
+                    <persName role="informer">
+                        <geogName>
+                            Vicenza
+                        </geogName>
+                    </persName>
+                    <persName role="encoder">
+                        Marco Bellano
+                    </persName>
+                    <persName role="editor">
+                        Marco Bellano
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <pubStmt>
+                <publisher>
+                    co_POEM Reseach Project
+                </publisher>
+                <date>
+                    2023
+                </date>
+                <availability>
+                    To the best of our knowledge,
                 the full compositions on this site are in the public domain,
                 the excerpts are in the public domain or are allowable under fair-use,
                 and the few compositions that are still under copyright are used by permission.
                 These scores, are provided for educational use only and are not to be used commercially.
-            </availability>
-      </pubStmt>
-      <sourceDesc>
-        <source xml:id="to_add">
-          <biblStruct>
-            <monogr>
-              <imprint>
-                <title>Canti Popolari Vicentini</title>
-                <title type="subordinate"></title>
-                <respStmt>
-                  <persName role="compiler">Roberto Leydi</persName>
-                  <persName role="bibliography"></persName>
-                  <persName role="introduction">Neri Pozza</persName>
-                  <persName role="edition"></persName>
-                </respStmt>
-                <publisher>Neri Pozza</publisher>
-                <pubPlace>Vicenza (Vi), Italia</pubPlace>
-                <date>1981</date>
-                <extent type="pages"></extent>
-              </imprint>
-            </monogr>
-          </biblStruct>
-        </source>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc xml:id="encodingdesc-igz6n6">
-      <appInfo xml:id="appinfo-1x4fyra">
-        <application xml:id="application-1ub7dhe" isodate="2023-02-22T22:20:32" version="3.14.0-1474e80">
-          <name xml:id="name-degmd0">Verovio</name>
-          <p xml:id="p-8345nj">Transcoded from MusicXML</p>
-        </application>
-      </appInfo>
-    </encodingDesc>
-    <workList>
-      <work><title type="main">Tiràtela = Ben Tirata</title><author type="informant">Anonymous</author><incip type="lyrics"><incipText><head/></incipText></incip><key mode="major">F</key><meter>Binary</meter><tempo>Allegro Moderato</tempo><incip type="musical"><score><section><measure copyof="#mx4hzg5"/><measure copyof="#max2ua7"/><measure copyof="#mh8g2ko"/></section></score></incip><langUsage>
+                </availability>
+            </pubStmt>
+            <sourceDesc>
+                <source xml:id="to_add">
+                    <biblStruct>
+                        <monogr>
+                            <imprint>
+                                <title>
+                                    Canti Popolari Vicentini
+                                </title>
+                                <title type="subordinate"/>
+                                <respStmt>
+                                    <persName role="compiler">
+                                        Roberto Leydi
+                                    </persName>
+                                    <persName role="bibliography"/>
+                                    <persName role="introduction">
+                                        Neri Pozza
+                                    </persName>
+                                    <persName role="edition"/>
+                                </respStmt>
+                                <publisher>
+                                    Neri Pozza
+                                </publisher>
+                                <pubPlace>
+                                    Vicenza (Vi), Italia
+                                </pubPlace>
+                                <date>
+                                    1981
+                                </date>
+                                <extent type="pages"/>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc xml:id="encodingdesc-igz6n6">
+            <appInfo xml:id="appinfo-1x4fyra">
+                <application xml:id="application-1ub7dhe" isodate="2023-02-22T22:20:32" version="3.14.0-1474e80">
+                    <name xml:id="name-degmd0">
+                        Verovio
+                    </name>
+                    <p xml:id="p-8345nj">
+                        Transcoded from MusicXML
+                    </p>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <workList>
+            <work>
+                <title type="main">
+                    Tiràtela = Ben Tirata
+                </title>
+                <author type="informant">
+                    Anonymous
+                </author>
+                <incip type="lyrics">
+                    <incipText>
+                        <head/>
+                    </incipText>
+                </incip>
+                <key mode="major">
+                    F
+                </key>
+                <meter>
+                    Binary
+                </meter>
+                <tempo>
+                    Allegro Moderato
+                </tempo>
+                <incip type="musical">
+                    <score>
+                        <section>
+                            <measure copyof="#mx4hzg5"/>
+                            <measure copyof="#max2ua7"/>
+                            <measure copyof="#mh8g2ko"/>
+                        </section>
+                    </score>
+                </incip>
+                <langUsage>
                     <language xml:lang="it"/>
                 </langUsage>
                 <notesStmt>
-                    <annot>Passa il Re d'Italia
+                    <annot>
+                        Passa il Re d'Italia
                                           con tutti i suoi soldati
                                           con tutti i richiamati
                                           e le bombe del cannon.
-                                          Pim! Pum! Pan!</annot>
+                                          Pim! Pum! Pan!
+                    </annot>
                 </notesStmt>
-                <classification><termList><term type="genre">Children song</term><term type="region">Veneto</term><term type="district">Vicenza</term><term type="city">Vicenza</term></termList></classification></work>
-    </workList>
-  </meiHead>
-  <music>
-    <body>
-      <mdiv xml:id="mt570c8">
-        <score xml:id="s180ilc0">
-          <scoreDef xml:id="sbcrz21">
-            <pgHead xml:id="p1rt2eck">
-              <rend xml:id="rr645en" halign="center" valign="top">49. Tiràtela = Ben Tirata</rend>
-            </pgHead>
-            <staffGrp xml:id="sjtznsy">
-              <staffDef xml:id="P1" n="1" lines="5" ppq="2">
-                <label xml:id="l1c01te9">Voice</label>
-                <labelAbbr xml:id="lbxlq97">Vo.</labelAbbr>
-                <instrDef xml:id="if14s0w" midi.channel="0" midi.instrnum="52" midi.volume="78.00%"/>
-                <clef xml:id="c1m3pnui" shape="G" line="2"/>
-                <keySig xml:id="kei8pdf" sig="1f"/>
-                <meterSig xml:id="m1y7c0ez" count="2" unit="4"/>
-              </staffDef>
-            </staffGrp>
-            <ambitus>
-              <ambNote type="lowest" oct="4" pname="c"/>
-              <ambNote type="highest" oct="5" pname="c"/>
-            </ambitus>
-          </scoreDef>
-          <section xml:id="si0rre0"><supplied type="rythymn pattern">
-                                <note dur="8"/>
-                                <note dur="8"/>
-                                <note dur="8"/>
-                                <note dur="8"/>
-                            </supplied>
-                            <pb xml:id="puyz5ul"/><measure xml:id="mx4hzg5" n="1"><staff xml:id="szxvfm8" n="1"><layer xml:id="l1aedour" n="1"><beam xml:id="b11uk4b3"><note xml:id="n2jequs" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up" type="start"><verse xml:id="vs5792f" n="1"><syl xml:id="sa1d6mm" con="d" wordpos="i">Pas</syl></verse></note><note xml:id="nuyop18" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="v42mvz" n="1"><syl xml:id="sbnfu0k" con="s" wordpos="t">sa il</syl></verse></note></beam><beam xml:id="btz6dsw"><note xml:id="n1hvtlyv" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="vb8vo2p" n="1"><syl xml:id="s1v7yzuw" con="s" wordpos="s">Re</syl></verse></note><note xml:id="n1g80aee" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="v9q3iwp" n="1"><syl xml:id="svjb3o5" con="d" wordpos="i">d'I</syl></verse></note></beam></layer></staff><tempo xml:id="t10t9fxs" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm="80.000000" mm.unit="4"><rend xml:id="r8g1inz" fontweight="bold">Allegro moderato </rend><rend xml:id="r1rppved" fontfam="smufl"></rend> = 80</tempo></measure><measure xml:id="max2ua7" n="2"><staff xml:id="s922dkb" n="1"><layer xml:id="l1j8cgq3" n="1"><note xml:id="n1yya83t" dur.ppq="2" dur="4" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="v1pg3acc" n="1"><syl xml:id="s16ub457" con="d" wordpos="m">ta</syl></verse></note><beam xml:id="bdjt1y5"><note xml:id="n1lhfo52" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="v1yikqje" n="1"><syl xml:id="sw9bdc1" con="s" wordpos="t">lia</syl></verse></note><note xml:id="n10pba38" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="v1ou1pwi" n="1"><syl xml:id="s1dklxja" con="s" wordpos="s">con</syl></verse></note></beam></layer></staff></measure><sb xml:id="s1ffe4u7"/><measure xml:id="mh8g2ko" n="3"><staff xml:id="sp3eazm" n="1"><layer xml:id="l474ffb" n="1"><beam xml:id="b1svukxv"><note xml:id="n1fhpf6j" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="v1o84ro6" n="1"><syl xml:id="smje5c4" con="d" wordpos="i">tut</syl></verse></note><note xml:id="nz1y9zs" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="vj6xjrq" n="1"><syl xml:id="s48itib" con="s" wordpos="t">ti i</syl></verse></note></beam><beam xml:id="b2cd97z"><note xml:id="nkrxdbp" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="vsrocjk" n="1"><syl xml:id="sbifr1u" con="s" wordpos="s">suoi</syl></verse></note><note xml:id="numo3ol" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="v9s0cwg" n="1"><syl xml:id="s13ryh0g" con="d" wordpos="i">sol</syl></verse></note></beam></layer></staff></measure><measure xml:id="mti7g8a" n="4"><staff xml:id="shf8brq" n="1"><layer xml:id="ljqsbs9" n="1"><note xml:id="nbzjuvq" dur.ppq="2" dur="4" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="v10kmma9" n="1"><syl xml:id="s18c1ycj" con="d" wordpos="m">da</syl></verse></note><beam xml:id="b58ytom"><note xml:id="ndleslu" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up" type="end"><verse xml:id="v3obu64" n="1"><syl xml:id="s17yjoav" con="s" wordpos="t">ti</syl></verse></note><note xml:id="n1wyl55" dur.ppq="1" dur="8" oct="4" pname="c" vel="100" stem.dir="up" type="start"><verse xml:id="v1bpvwsm" n="1"><syl xml:id="s1ejvipm" con="s" wordpos="s">con</syl></verse></note></beam></layer></staff></measure><measure xml:id="m1irousm" n="5"><staff xml:id="sd7oay3" n="1"><layer xml:id="l17ai02o" n="1"><beam xml:id="b12e5dg0"><note xml:id="n1ukwhoh" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="vguww4m" n="1"><syl xml:id="s176m8i" con="d" wordpos="i">tut</syl></verse></note><note xml:id="nuf5nkd" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="v1acl3n3" n="1"><syl xml:id="s13kprtx" con="s" wordpos="t">ti i</syl></verse></note></beam><beam xml:id="b19tazfc"><note xml:id="nsh7wzp" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up"><verse xml:id="vtkh19n" n="1"><syl xml:id="s8bec42" con="d" wordpos="i">ri</syl></verse></note><note xml:id="n18cvfjg" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="v8u3v4b" n="1"><syl xml:id="s5bxjxg" con="d" wordpos="m">chia</syl></verse></note></beam></layer></staff></measure><sb xml:id="s3kjtk4"/><measure xml:id="mccojq0" n="6"><staff xml:id="s1ho5lhl" n="1"><layer xml:id="l1m262ad" n="1"><note xml:id="n1jma8d2" dur.ppq="2" dur="4" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="vepmoqg" n="1"><syl xml:id="s1bcvko7" con="d" wordpos="m">ma</syl></verse></note><beam xml:id="bqtv6ah"><note xml:id="n1ugzok4" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="vohw3k4" n="1"><syl xml:id="sejb1r1" con="s" wordpos="t">ti e</syl></verse></note><note xml:id="n11alshv" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="vaw1rp6" n="1"><syl xml:id="s1u3uch" con="s" wordpos="s">le</syl></verse></note></beam></layer></staff><dir xml:id="drueop5" place="below" staff="1" tstamp="1.000000" vgrp="40">Le bambine si dispongono in fila e passano sotto l'arco formato dalle braccia di due compagne, <lb xml:id="lm3usku"/>che rappresentano i numeri dispari. Ma prima devono rispondere in coro quelle della fila, con le <lb xml:id="l17qpd0n"/>parole dei numeri pari. poi cantando passano sotto l'arco cantando la musica.<lb xml:id="l1orosz"/>
-                        <lb xml:id="l5qtweo"/>1 = Tiràtela<lb xml:id="lerpg7a"/>2 = Ben Tirata<lb xml:id="l1e226on"/>3 = Fa un gropo<lb xml:id="l1gsack7"/>4 = Lo go fato<lb xml:id="l1qskp6x"/>5 = Fàghene un altro<lb xml:id="ltqx4ns"/>6 = Lo farò<lb xml:id="lcmbaqz"/>7 = Verzi la porta che passarò<lb xml:id="l15nbwko"/>8 = La porta xe rota, no se pol passar!<lb xml:id="lp9urh1"/>9 = Fàla giustare<lb xml:id="l9erkic"/>10 = No gò schèi par pagarla<lb xml:id="lycgogy"/>11 = Par stavolta passarò!<lb xml:id="l1vf81nj"/>
-                        <lb xml:id="l1waltae"/>
-                     </dir></measure><measure xml:id="m2ez0n2" n="7"><staff xml:id="s324pip" n="1"><layer xml:id="l172o34e" n="1"><beam xml:id="bbr774f"><note xml:id="n1prtnwp" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="v60zped" n="1"><syl xml:id="s1gvag4y" con="d" wordpos="i">bom</syl></verse></note><note xml:id="n1errdse" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="vdebwol" n="1"><syl xml:id="s9s9k4k" con="s" wordpos="t">be</syl></verse></note></beam><beam xml:id="b1y63tl7"><note xml:id="n81l2jw" dur.ppq="1" dur="8" oct="5" pname="c" vel="100" stem.dir="down"><verse xml:id="v1s7jc7h" n="1"><syl xml:id="s113lhd5" con="s" wordpos="s">del</syl></verse></note><note xml:id="n1vi8p9h" dur.ppq="1" dur="8" oct="5" pname="c" vel="100" stem.dir="down"><verse xml:id="vrxeu58" n="1"><syl xml:id="ssacqao" con="d" wordpos="i">ca</syl></verse></note></beam></layer></staff></measure><measure xml:id="m6u7hoh" right="end" n="8"><staff xml:id="sct5fco" n="1"><layer xml:id="lvj09d2" n="1"><note xml:id="nqesnmm" dur.ppq="4" dur="2" oct="4" pname="f" vel="100" stem.dir="up" type="R"><verse xml:id="vhaqsfy" n="1"><syl xml:id="s112dhah" con="s" wordpos="t">non.    (Gridato: Pin! Pum! Pan!)</syl></verse></note></layer></staff><fermata xml:id="f1gbjnj9" staff="1" startid="#nqesnmm" form="norm" place="above"/></measure></section>
-        </score>
-      </mdiv>
-    </body>
-  </music>
+                <classification>
+                    <termList>
+                        <term type="genre">
+                            Children song
+                        </term>
+                        <term type="region">
+                            Veneto
+                        </term>
+                        <term type="district">
+                            Vicenza
+                        </term>
+                        <term type="city">
+                            Vicenza
+                        </term>
+                    </termList>
+                </classification>
+            </work>
+        </workList>
+    </meiHead>
+    <music>
+        <body>
+            <mdiv xml:id="mt570c8">
+                <score xml:id="s180ilc0">
+                    <scoreDef xml:id="sbcrz21">
+                        <pgHead xml:id="p1rt2eck">
+                            <rend xml:id="rr645en" halign="center" valign="top">
+                                49. Tiràtela = Ben Tirata
+                            </rend>
+                        </pgHead>
+                        <staffGrp xml:id="sjtznsy">
+                            <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                                <label xml:id="l1c01te9">
+                                    Voice
+                                </label>
+                                <labelAbbr xml:id="lbxlq97">
+                                    Vo.
+                                </labelAbbr>
+                                <instrDef xml:id="if14s0w" midi.channel="0" midi.instrnum="52" midi.volume="78.00%"/>
+                                <clef xml:id="c1m3pnui" shape="G" line="2"/>
+                                <keySig xml:id="kei8pdf" sig="1f"/>
+                                <meterSig xml:id="m1y7c0ez" count="2" unit="4"/>
+                            </staffDef>
+                        </staffGrp>
+                        <ambitus>
+                            <ambNote type="lowest" oct="4" pname="c"/>
+                            <ambNote type="highest" oct="5" pname="c"/>
+                        </ambitus>
+                    </scoreDef>
+                    <section xml:id="si0rre0">
+                        <supplied type="rythymn pattern">
+                            <note dur="8"/>
+                            <note dur="8"/>
+                            <note dur="8"/>
+                            <note dur="8"/>
+                        </supplied>
+                        <pb xml:id="puyz5ul"/>
+                        <measure xml:id="mx4hzg5" n="1">
+                            <staff xml:id="szxvfm8" n="1">
+                                <layer xml:id="l1aedour" n="1">
+                                    <beam xml:id="b11uk4b3">
+                                        <note xml:id="n2jequs" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up" type="start">
+                                            <verse xml:id="vs5792f" n="1">
+                                                <syl xml:id="sa1d6mm" con="d" wordpos="i">
+                                                    Pas
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="nuyop18" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up">
+                                            <verse xml:id="v42mvz" n="1">
+                                                <syl xml:id="sbnfu0k" con="s" wordpos="t">
+                                                    sa il
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </beam>
+                                    <beam xml:id="btz6dsw">
+                                        <note xml:id="n1hvtlyv" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up">
+                                            <verse xml:id="vb8vo2p" n="1">
+                                                <syl xml:id="s1v7yzuw" con="s" wordpos="s">
+                                                    Re
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="n1g80aee" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up">
+                                            <verse xml:id="v9q3iwp" n="1">
+                                                <syl xml:id="svjb3o5" con="d" wordpos="i">
+                                                    d'I
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <tempo xml:id="t10t9fxs" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm="80.000000" mm.unit="4">
+                                <rend xml:id="r8g1inz" fontweight="bold">
+                                    Allegro moderato
+                                </rend>
+                                <rend xml:id="r1rppved" fontfam="smufl">
+                                    
+                                </rend>
+                                = 80
+                            </tempo>
+                        </measure>
+                        <measure xml:id="max2ua7" n="2">
+                            <staff xml:id="s922dkb" n="1">
+                                <layer xml:id="l1j8cgq3" n="1">
+                                    <note xml:id="n1yya83t" dur.ppq="2" dur="4" oct="4" pname="a" vel="100" stem.dir="up">
+                                        <verse xml:id="v1pg3acc" n="1">
+                                            <syl xml:id="s16ub457" con="d" wordpos="m">
+                                                ta
+                                            </syl>
+                                        </verse>
+                                    </note>
+                                    <beam xml:id="bdjt1y5">
+                                        <note xml:id="n1lhfo52" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up">
+                                            <verse xml:id="v1yikqje" n="1">
+                                                <syl xml:id="sw9bdc1" con="s" wordpos="t">
+                                                    lia
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="n10pba38" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up">
+                                            <verse xml:id="v1ou1pwi" n="1">
+                                                <syl xml:id="s1dklxja" con="s" wordpos="s">
+                                                    con
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <sb xml:id="s1ffe4u7"/>
+                        <measure xml:id="mh8g2ko" n="3">
+                            <staff xml:id="sp3eazm" n="1">
+                                <layer xml:id="l474ffb" n="1">
+                                    <beam xml:id="b1svukxv">
+                                        <note xml:id="n1fhpf6j" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up">
+                                            <verse xml:id="v1o84ro6" n="1">
+                                                <syl xml:id="smje5c4" con="d" wordpos="i">
+                                                    tut
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="nz1y9zs" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up">
+                                            <verse xml:id="vj6xjrq" n="1">
+                                                <syl xml:id="s48itib" con="s" wordpos="t">
+                                                    ti i
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </beam>
+                                    <beam xml:id="b2cd97z">
+                                        <note xml:id="nkrxdbp" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up">
+                                            <verse xml:id="vsrocjk" n="1">
+                                                <syl xml:id="sbifr1u" con="s" wordpos="s">
+                                                    suoi
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="numo3ol" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up">
+                                            <verse xml:id="v9s0cwg" n="1">
+                                                <syl xml:id="s13ryh0g" con="d" wordpos="i">
+                                                    sol
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="mti7g8a" n="4">
+                            <staff xml:id="shf8brq" n="1">
+                                <layer xml:id="ljqsbs9" n="1">
+                                    <note xml:id="nbzjuvq" dur.ppq="2" dur="4" oct="4" pname="a" vel="100" stem.dir="up">
+                                        <verse xml:id="v10kmma9" n="1">
+                                            <syl xml:id="s18c1ycj" con="d" wordpos="m">
+                                                da
+                                            </syl>
+                                        </verse>
+                                    </note>
+                                    <beam xml:id="b58ytom">
+                                        <note xml:id="ndleslu" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up" type="end">
+                                            <verse xml:id="v3obu64" n="1">
+                                                <syl xml:id="s17yjoav" con="s" wordpos="t">
+                                                    ti
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="n1wyl55" dur.ppq="1" dur="8" oct="4" pname="c" vel="100" stem.dir="up" type="start">
+                                            <verse xml:id="v1bpvwsm" n="1">
+                                                <syl xml:id="s1ejvipm" con="s" wordpos="s">
+                                                    con
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="m1irousm" n="5">
+                            <staff xml:id="sd7oay3" n="1">
+                                <layer xml:id="l17ai02o" n="1">
+                                    <beam xml:id="b12e5dg0">
+                                        <note xml:id="n1ukwhoh" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up">
+                                            <verse xml:id="vguww4m" n="1">
+                                                <syl xml:id="s176m8i" con="d" wordpos="i">
+                                                    tut
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="nuf5nkd" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up">
+                                            <verse xml:id="v1acl3n3" n="1">
+                                                <syl xml:id="s13kprtx" con="s" wordpos="t">
+                                                    ti i
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </beam>
+                                    <beam xml:id="b19tazfc">
+                                        <note xml:id="nsh7wzp" dur.ppq="1" dur="8" oct="4" pname="f" vel="100" stem.dir="up">
+                                            <verse xml:id="vtkh19n" n="1">
+                                                <syl xml:id="s8bec42" con="d" wordpos="i">
+                                                    ri
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="n18cvfjg" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up">
+                                            <verse xml:id="v8u3v4b" n="1">
+                                                <syl xml:id="s5bxjxg" con="d" wordpos="m">
+                                                    chia
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <sb xml:id="s3kjtk4"/>
+                        <measure xml:id="mccojq0" n="6">
+                            <staff xml:id="s1ho5lhl" n="1">
+                                <layer xml:id="l1m262ad" n="1">
+                                    <note xml:id="n1jma8d2" dur.ppq="2" dur="4" oct="4" pname="a" vel="100" stem.dir="up">
+                                        <verse xml:id="vepmoqg" n="1">
+                                            <syl xml:id="s1bcvko7" con="d" wordpos="m">
+                                                ma
+                                            </syl>
+                                        </verse>
+                                    </note>
+                                    <beam xml:id="bqtv6ah">
+                                        <note xml:id="n1ugzok4" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up">
+                                            <verse xml:id="vohw3k4" n="1">
+                                                <syl xml:id="sejb1r1" con="s" wordpos="t">
+                                                    ti e
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="n11alshv" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up">
+                                            <verse xml:id="vaw1rp6" n="1">
+                                                <syl xml:id="s1u3uch" con="s" wordpos="s">
+                                                    le
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <dir xml:id="drueop5" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                                Le bambine si dispongono in fila e passano sotto l'arco formato dalle braccia di due compagne,
+                                <lb xml:id="lm3usku"/>
+                                che rappresentano i numeri dispari. Ma prima devono rispondere in coro quelle della fila, con le
+                                <lb xml:id="l17qpd0n"/>
+                                parole dei numeri pari. poi cantando passano sotto l'arco cantando la musica.
+                                <lb xml:id="l1orosz"/>
+                                <lb xml:id="l5qtweo"/>
+                                1 = Tiràtela
+                                <lb xml:id="lerpg7a"/>
+                                2 = Ben Tirata
+                                <lb xml:id="l1e226on"/>
+                                3 = Fa un gropo
+                                <lb xml:id="l1gsack7"/>
+                                4 = Lo go fato
+                                <lb xml:id="l1qskp6x"/>
+                                5 = Fàghene un altro
+                                <lb xml:id="ltqx4ns"/>
+                                6 = Lo farò
+                                <lb xml:id="lcmbaqz"/>
+                                7 = Verzi la porta che passarò
+                                <lb xml:id="l15nbwko"/>
+                                8 = La porta xe rota, no se pol passar!
+                                <lb xml:id="lp9urh1"/>
+                                9 = Fàla giustare
+                                <lb xml:id="l9erkic"/>
+                                10 = No gò schèi par pagarla
+                                <lb xml:id="lycgogy"/>
+                                11 = Par stavolta passarò!
+                                <lb xml:id="l1vf81nj"/>
+                                <lb xml:id="l1waltae"/>
+                            </dir>
+                        </measure>
+                        <measure xml:id="m2ez0n2" n="7">
+                            <staff xml:id="s324pip" n="1">
+                                <layer xml:id="l172o34e" n="1">
+                                    <beam xml:id="bbr774f">
+                                        <note xml:id="n1prtnwp" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up">
+                                            <verse xml:id="v60zped" n="1">
+                                                <syl xml:id="s1gvag4y" con="d" wordpos="i">
+                                                    bom
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="n1errdse" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up">
+                                            <verse xml:id="vdebwol" n="1">
+                                                <syl xml:id="s9s9k4k" con="s" wordpos="t">
+                                                    be
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </beam>
+                                    <beam xml:id="b1y63tl7">
+                                        <note xml:id="n81l2jw" dur.ppq="1" dur="8" oct="5" pname="c" vel="100" stem.dir="down">
+                                            <verse xml:id="v1s7jc7h" n="1">
+                                                <syl xml:id="s113lhd5" con="s" wordpos="s">
+                                                    del
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="n1vi8p9h" dur.ppq="1" dur="8" oct="5" pname="c" vel="100" stem.dir="down">
+                                            <verse xml:id="vrxeu58" n="1">
+                                                <syl xml:id="ssacqao" con="d" wordpos="i">
+                                                    ca
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="m6u7hoh" right="end" n="8">
+                            <staff xml:id="sct5fco" n="1">
+                                <layer xml:id="lvj09d2" n="1">
+                                    <note xml:id="nqesnmm" dur.ppq="4" dur="2" oct="4" pname="f" vel="100" stem.dir="up" type="R">
+                                        <verse xml:id="vhaqsfy" n="1">
+                                            <syl xml:id="s112dhah" con="s" wordpos="t">
+                                                non.    (Gridato: Pin! Pum! Pan!)
+                                            </syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <fermata xml:id="f1gbjnj9" staff="1" startid="#nqesnmm" form="norm" place="above"/>
+                        </measure>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
 </mei>

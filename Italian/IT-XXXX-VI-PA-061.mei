@@ -1,109 +1,411 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
-  <meiHead>
-    <fileDesc>
-      <titleStmt>
-        <title type="main" xml:id="IT-XXXX-VI-PA-061">Lo Ligheremo</title>
-        <title type="subtitle"/>
-        <respStmt>
-          <persName role="compiler">Vere Paiola</persName>
-          <persName role="informer">
-            <geogName>Vicenza</geogName>
-          </persName>
-          <persName role="encoder">Marco Bellano</persName>
-          <persName role="editor">Marco Bellano</persName>
-        </respStmt>
-      </titleStmt>
-      <pubStmt>
-        <publisher>co_POEM Reseach Project</publisher>
-        <date>2023</date>
-        <availability>To the best of our knowledge,
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="IT-XXXX-VI-PA-061">
+                    Lo Ligheremo
+                </title>
+                <title type="subtitle"/>
+                <respStmt>
+                    <persName role="compiler">
+                        Vere Paiola
+                    </persName>
+                    <persName role="informer">
+                        <geogName>
+                            Vicenza
+                        </geogName>
+                    </persName>
+                    <persName role="encoder">
+                        Marco Bellano
+                    </persName>
+                    <persName role="editor">
+                        Marco Bellano
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <pubStmt>
+                <publisher>
+                    co_POEM Reseach Project
+                </publisher>
+                <date>
+                    2023
+                </date>
+                <availability>
+                    To the best of our knowledge,
                 the full compositions on this site are in the public domain,
                 the excerpts are in the public domain or are allowable under fair-use,
                 and the few compositions that are still under copyright are used by permission.
                 These scores, are provided for educational use only and are not to be used commercially.
-            </availability>
-      </pubStmt>
-      <sourceDesc>
-        <source xml:id="to_add">
-          <biblStruct>
-            <monogr>
-              <imprint>
-                <title>Canti Popolari Vicentini</title>
-                <title type="subordinate"></title>
-                <respStmt>
-                  <persName role="compiler">Roberto Leydi</persName>
-                  <persName role="bibliography"></persName>
-                  <persName role="introduction">Neri Pozza</persName>
-                  <persName role="edition"></persName>
-                </respStmt>
-                <publisher>Neri Pozza</publisher>
-                <pubPlace>Vicenza (Vi), Italia</pubPlace>
-                <date>1981</date>
-                <extent type="pages"></extent>
-              </imprint>
-            </monogr>
-          </biblStruct>
-        </source>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc xml:id="encodingdesc-1st1nph">
-      <appInfo xml:id="appinfo-bmk6tk">
-        <application xml:id="application-1mnq6ya" isodate="2023-02-22T22:20:32" version="3.14.0-1474e80">
-          <name xml:id="name-kx17a8">Verovio</name>
-          <p xml:id="p-1mb6md8">Transcoded from MusicXML</p>
-        </application>
-      </appInfo>
-    </encodingDesc>
-    <workList>
-      <work><title type="main">Lo Ligheremo</title><author type="informant">Anonymous</author><incip type="lyrics"><incipText><head/></incipText></incip><key mode="major">G</key><meter>Triple</meter><tempo>Moderato</tempo><incip type="musical"><score><section><measure copyof="#ml0tw07"/><measure copyof="#m7q21tb"/><measure copyof="#m1rj5agk"/></section></score></incip><langUsage>
+                </availability>
+            </pubStmt>
+            <sourceDesc>
+                <source xml:id="to_add">
+                    <biblStruct>
+                        <monogr>
+                            <imprint>
+                                <title>
+                                    Canti Popolari Vicentini
+                                </title>
+                                <title type="subordinate"/>
+                                <respStmt>
+                                    <persName role="compiler">
+                                        Roberto Leydi
+                                    </persName>
+                                    <persName role="bibliography"/>
+                                    <persName role="introduction">
+                                        Neri Pozza
+                                    </persName>
+                                    <persName role="edition"/>
+                                </respStmt>
+                                <publisher>
+                                    Neri Pozza
+                                </publisher>
+                                <pubPlace>
+                                    Vicenza (Vi), Italia
+                                </pubPlace>
+                                <date>
+                                    1981
+                                </date>
+                                <extent type="pages"/>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc xml:id="encodingdesc-1st1nph">
+            <appInfo xml:id="appinfo-bmk6tk">
+                <application xml:id="application-1mnq6ya" isodate="2023-02-22T22:20:32" version="3.14.0-1474e80">
+                    <name xml:id="name-kx17a8">
+                        Verovio
+                    </name>
+                    <p xml:id="p-1mb6md8">
+                        Transcoded from MusicXML
+                    </p>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <workList>
+            <work>
+                <title type="main">
+                    Lo Ligheremo
+                </title>
+                <author type="informant">
+                    Anonymous
+                </author>
+                <incip type="lyrics">
+                    <incipText>
+                        <head/>
+                    </incipText>
+                </incip>
+                <key mode="major">
+                    G
+                </key>
+                <meter>
+                    Triple
+                </meter>
+                <tempo>
+                    Moderato
+                </tempo>
+                <incip type="musical">
+                    <score>
+                        <section>
+                            <measure copyof="#ml0tw07"/>
+                            <measure copyof="#m7q21tb"/>
+                            <measure copyof="#m1rj5agk"/>
+                        </section>
+                    </score>
+                </incip>
+                <langUsage>
                     <language xml:lang="it"/>
                 </langUsage>
                 <notesStmt>
-                    <annot>Lo ligheremo,
+                    <annot>
+                        Lo ligheremo,
                                           l'uccideremo,
                                           lo ligheremo,
-                                          l'uccideremo.</annot>
+                                          l'uccideremo.
+                    </annot>
                 </notesStmt>
-                <classification><termList><term type="genre">Children song</term><term type="region">Veneto</term><term type="district">Vicenza</term><term type="city">Vicenza</term></termList></classification></work>
-    </workList>
-  </meiHead>
-  <music>
-    <body>
-      <mdiv xml:id="m1ckfes7">
-        <score xml:id="srisw7p">
-          <scoreDef xml:id="s8pj4op">
-            <pgHead xml:id="p167aahp">
-              <rend xml:id="r1hzjc3t" halign="center" valign="top">61. Lo Ligheremo</rend>
-            </pgHead>
-            <staffGrp xml:id="s1201ky4">
-              <staffDef xml:id="P1" n="1" lines="5" ppq="2">
-                <label xml:id="l1aw0n8p">Voice</label>
-                <labelAbbr xml:id="l1hmfpiv">Vo.</labelAbbr>
-                <instrDef xml:id="iznxjwr" midi.channel="0" midi.instrnum="52" midi.volume="78.00%"/>
-                <clef xml:id="c1lhlow2" shape="G" line="2"/>
-                <keySig xml:id="k15i2x6k" sig="0"/>
-                <meterSig xml:id="m1jrql2a" count="3" unit="4"/>
-              </staffDef>
-            </staffGrp>
-            <ambitus>
-              <ambNote type="lowest" oct="4" pname="g"/>
-              <ambNote type="highest" oct="4" pname="b"/>
-            </ambitus>
-          </scoreDef>
-          <section xml:id="smg909e"><supplied type="rythymn pattern">
-                                <note dur="4"/>
-                                <note dur="8"/>
-                                <note dur="8"/>
-                            </supplied>
-                            <supplied type="phrases"><phrase n="1" startid="#n17y2z7" endid="#n1amkbf3" type="A"/></supplied><pb xml:id="p1eqi8bm"/><measure xml:id="ml0tw07" n="1"><staff xml:id="srhfd10" n="1"><layer xml:id="l1njalax" n="1"><rest xml:id="r1f3drnd" dur.ppq="2" dur="4"/><rest xml:id="rbk8b67" dur.ppq="1" dur="8"/><note xml:id="n17y2z7" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up" type="start"><verse xml:id="vtrzbx7" n="1"><syl xml:id="s2eauze" con="s" wordpos="s">Lo</syl></verse></note><beam xml:id="bvdc9tl"><note xml:id="no63rb9" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down"><verse xml:id="vcpptqz" n="1"><syl xml:id="scmb2ki" con="d" wordpos="i">li</syl></verse></note><note xml:id="n1fasu4q" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down"><verse xml:id="vfiv44c" n="1"><syl xml:id="stlmyt0" con="d" wordpos="m">gje</syl></verse></note></beam></layer></staff><tempo xml:id="ttca6n7" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm="80.000000" mm.unit="4"><rend xml:id="r1nkfftq" fontweight="bold">Moderato </rend><rend xml:id="r14la4rk" fontfam="smufl"></rend> = 80</tempo></measure><measure xml:id="m7q21tb" n="2"><staff xml:id="s1oeyk7c" n="1"><layer xml:id="lp7a5ae" n="1"><note xml:id="nk0ecqy" dur.ppq="2" dur="4" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="v1m37bpg" n="1"><syl xml:id="s17gojld" con="d" wordpos="m">re</syl></verse></note><beam xml:id="b1tqkz82"><note xml:id="n3mf8e7" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="vy64ft7" n="1"><syl xml:id="s1nw2ftk" con="s" wordpos="t">mo</syl></verse></note><note xml:id="n1beq4h7" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="vlyobpd" n="1"><syl xml:id="svkmxzu" con="d" wordpos="i">l'uc</syl></verse></note></beam><beam xml:id="b16rjwry"><note xml:id="n1vjza04" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down"><verse xml:id="vw49nft" n="1"><syl xml:id="s10bmlnq" con="d" wordpos="m">ci</syl></verse></note><note xml:id="n1q213ma" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down"><verse xml:id="v84djxp" n="1"><syl xml:id="s1xuub9m" con="d" wordpos="m">de</syl></verse></note></beam></layer></staff></measure><sb xml:id="sp90eqk"/><measure xml:id="m1rj5agk" n="3"><staff xml:id="s1n528un" n="1"><layer xml:id="lluxk7j" n="1"><note xml:id="n1sg4x6g" dur.ppq="2" dur="4" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="vgwu620" n="1"><syl xml:id="s1sz4jr9" con="d" wordpos="m">re</syl></verse></note><beam xml:id="b14fj6kg"><note xml:id="nppagvd" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="vzwyq0" n="1"><syl xml:id="s15uhrx4" con="s" wordpos="t">mo</syl></verse></note><note xml:id="n15eqo9z" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="vgmi43n" n="1"><syl xml:id="s8lh0k1" con="s" wordpos="s">lo</syl></verse></note></beam><beam xml:id="b1tdx76u"><note xml:id="n19pplnv" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down"><verse xml:id="vsxey37" n="1"><syl xml:id="sifjkjf" con="d" wordpos="i">li</syl></verse></note><note xml:id="nr9yfro" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down"><verse xml:id="v11w12cs" n="1"><syl xml:id="s1jg7lae" con="d" wordpos="m">ghe</syl></verse></note></beam></layer></staff></measure><measure xml:id="mfi2xns" n="4"><staff xml:id="sfpclne" n="1"><layer xml:id="ltj9e49" n="1"><note xml:id="n1y8snkt" dur.ppq="2" dur="4" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="v1hrfdm3" n="1"><syl xml:id="sdcrraa" con="d" wordpos="m">re</syl></verse></note><beam xml:id="b4xoz03"><note xml:id="n3p7gy0" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="v1tbqpnp" n="1"><syl xml:id="s12ugtfg" con="s" wordpos="t">mo</syl></verse></note><note xml:id="n118zy9z" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up"><verse xml:id="v8mg3q2" n="1"><syl xml:id="s1tpkjrg" con="d" wordpos="i">l'uc</syl></verse></note></beam><beam xml:id="b1qrf2xw"><note xml:id="ng5eutr" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down"><verse xml:id="v1q64s6u" n="1"><syl xml:id="sv1s5gu" con="d" wordpos="m">ci</syl></verse></note><note xml:id="n7rit49" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down"><verse xml:id="v1rq927f" n="1"><syl xml:id="s1ugg47a" con="d" wordpos="m">de</syl></verse></note></beam></layer></staff><dir xml:id="dq2fd1n" place="below" staff="1" tstamp="1.000000" vgrp="40">Un cerchio di bimbi.<lb xml:id="lr12o6u"/>
-                        <lb xml:id="lhztndk"/>Solo (parlando)           Panierino avete cotto il pane?<lb xml:id="l1dwfryx"/>Tutti                            Si, ma con bruciato!<lb xml:id="ljd8m9t"/>Solo                             Chi è stato?<lb xml:id="l107z81b"/>Tutti                           Quel brutto briccone di ... (nome)<lb xml:id="l1mfio57"/>
-                        <lb xml:id="l1dlnqjs"/>
-                        <lb xml:id="liyg744"/>I cerchio si rompe e sempre presi per mano girano in fila.<lb xml:id="l1toy1ze"/>Il capo fila si ferma vivino al prescelto mentre il resto della<lb xml:id="l57z8uv"/>dila gli si attorciglia, cantando la musica.</dir></measure><measure xml:id="mx236hg" right="end" n="5"><staff xml:id="s18x9tgk" n="1"><layer xml:id="l1dsnwhk" n="1"><note xml:id="n1kl5dnb" dur.ppq="2" dur="4" oct="4" pname="g" vel="100" stem.dir="up"><verse xml:id="v15b6olw" n="1"><syl xml:id="snb4jkv" con="d" wordpos="m">re</syl></verse></note><note xml:id="n1amkbf3" dur.ppq="2" dur="4" oct="4" pname="g" vel="100" stem.dir="up" type="R"><verse xml:id="vlcetar" n="1"><syl xml:id="srgol1d" con="s" wordpos="t">mo.</syl></verse></note><rest xml:id="r6gvgxy" dur.ppq="2" dur="4"/></layer></staff></measure></section>
-        </score>
-      </mdiv>
-    </body>
-  </music>
+                <classification>
+                    <termList>
+                        <term type="genre">
+                            Children song
+                        </term>
+                        <term type="region">
+                            Veneto
+                        </term>
+                        <term type="district">
+                            Vicenza
+                        </term>
+                        <term type="city">
+                            Vicenza
+                        </term>
+                    </termList>
+                </classification>
+            </work>
+        </workList>
+    </meiHead>
+    <music>
+        <body>
+            <mdiv xml:id="m1ckfes7">
+                <score xml:id="srisw7p">
+                    <scoreDef xml:id="s8pj4op">
+                        <pgHead xml:id="p167aahp">
+                            <rend xml:id="r1hzjc3t" halign="center" valign="top">
+                                61. Lo Ligheremo
+                            </rend>
+                        </pgHead>
+                        <staffGrp xml:id="s1201ky4">
+                            <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                                <label xml:id="l1aw0n8p">
+                                    Voice
+                                </label>
+                                <labelAbbr xml:id="l1hmfpiv">
+                                    Vo.
+                                </labelAbbr>
+                                <instrDef xml:id="iznxjwr" midi.channel="0" midi.instrnum="52" midi.volume="78.00%"/>
+                                <clef xml:id="c1lhlow2" shape="G" line="2"/>
+                                <keySig xml:id="k15i2x6k" sig="0"/>
+                                <meterSig xml:id="m1jrql2a" count="3" unit="4"/>
+                            </staffDef>
+                        </staffGrp>
+                        <ambitus>
+                            <ambNote type="lowest" oct="4" pname="g"/>
+                            <ambNote type="highest" oct="4" pname="b"/>
+                        </ambitus>
+                    </scoreDef>
+                    <section xml:id="smg909e">
+                        <supplied type="rythymn pattern">
+                            <note dur="4"/>
+                            <note dur="8"/>
+                            <note dur="8"/>
+                        </supplied>
+                        <supplied type="phrases">
+                            <phrase n="1" startid="#n17y2z7" endid="#n1amkbf3" type="A"/>
+                        </supplied>
+                        <pb xml:id="p1eqi8bm"/>
+                        <measure xml:id="ml0tw07" n="1">
+                            <staff xml:id="srhfd10" n="1">
+                                <layer xml:id="l1njalax" n="1">
+                                    <rest xml:id="r1f3drnd" dur.ppq="2" dur="4"/>
+                                    <rest xml:id="rbk8b67" dur.ppq="1" dur="8"/>
+                                    <note xml:id="n17y2z7" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up" type="start">
+                                        <verse xml:id="vtrzbx7" n="1">
+                                            <syl xml:id="s2eauze" con="s" wordpos="s">
+                                                Lo
+                                            </syl>
+                                        </verse>
+                                    </note>
+                                    <beam xml:id="bvdc9tl">
+                                        <note xml:id="no63rb9" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down">
+                                            <verse xml:id="vcpptqz" n="1">
+                                                <syl xml:id="scmb2ki" con="d" wordpos="i">
+                                                    li
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="n1fasu4q" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down">
+                                            <verse xml:id="vfiv44c" n="1">
+                                                <syl xml:id="stlmyt0" con="d" wordpos="m">
+                                                    gje
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <tempo xml:id="ttca6n7" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm="80.000000" mm.unit="4">
+                                <rend xml:id="r1nkfftq" fontweight="bold">
+                                    Moderato
+                                </rend>
+                                <rend xml:id="r14la4rk" fontfam="smufl">
+                                    
+                                </rend>
+                                = 80
+                            </tempo>
+                        </measure>
+                        <measure xml:id="m7q21tb" n="2">
+                            <staff xml:id="s1oeyk7c" n="1">
+                                <layer xml:id="lp7a5ae" n="1">
+                                    <note xml:id="nk0ecqy" dur.ppq="2" dur="4" oct="4" pname="a" vel="100" stem.dir="up">
+                                        <verse xml:id="v1m37bpg" n="1">
+                                            <syl xml:id="s17gojld" con="d" wordpos="m">
+                                                re
+                                            </syl>
+                                        </verse>
+                                    </note>
+                                    <beam xml:id="b1tqkz82">
+                                        <note xml:id="n3mf8e7" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up">
+                                            <verse xml:id="vy64ft7" n="1">
+                                                <syl xml:id="s1nw2ftk" con="s" wordpos="t">
+                                                    mo
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="n1beq4h7" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up">
+                                            <verse xml:id="vlyobpd" n="1">
+                                                <syl xml:id="svkmxzu" con="d" wordpos="i">
+                                                    l'uc
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </beam>
+                                    <beam xml:id="b16rjwry">
+                                        <note xml:id="n1vjza04" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down">
+                                            <verse xml:id="vw49nft" n="1">
+                                                <syl xml:id="s10bmlnq" con="d" wordpos="m">
+                                                    ci
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="n1q213ma" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down">
+                                            <verse xml:id="v84djxp" n="1">
+                                                <syl xml:id="s1xuub9m" con="d" wordpos="m">
+                                                    de
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <sb xml:id="sp90eqk"/>
+                        <measure xml:id="m1rj5agk" n="3">
+                            <staff xml:id="s1n528un" n="1">
+                                <layer xml:id="lluxk7j" n="1">
+                                    <note xml:id="n1sg4x6g" dur.ppq="2" dur="4" oct="4" pname="g" vel="100" stem.dir="up">
+                                        <verse xml:id="vgwu620" n="1">
+                                            <syl xml:id="s1sz4jr9" con="d" wordpos="m">
+                                                re
+                                            </syl>
+                                        </verse>
+                                    </note>
+                                    <beam xml:id="b14fj6kg">
+                                        <note xml:id="nppagvd" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up">
+                                            <verse xml:id="vzwyq0" n="1">
+                                                <syl xml:id="s15uhrx4" con="s" wordpos="t">
+                                                    mo
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="n15eqo9z" dur.ppq="1" dur="8" oct="4" pname="g" vel="100" stem.dir="up">
+                                            <verse xml:id="vgmi43n" n="1">
+                                                <syl xml:id="s8lh0k1" con="s" wordpos="s">
+                                                    lo
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </beam>
+                                    <beam xml:id="b1tdx76u">
+                                        <note xml:id="n19pplnv" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down">
+                                            <verse xml:id="vsxey37" n="1">
+                                                <syl xml:id="sifjkjf" con="d" wordpos="i">
+                                                    li
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="nr9yfro" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down">
+                                            <verse xml:id="v11w12cs" n="1">
+                                                <syl xml:id="s1jg7lae" con="d" wordpos="m">
+                                                    ghe
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="mfi2xns" n="4">
+                            <staff xml:id="sfpclne" n="1">
+                                <layer xml:id="ltj9e49" n="1">
+                                    <note xml:id="n1y8snkt" dur.ppq="2" dur="4" oct="4" pname="a" vel="100" stem.dir="up">
+                                        <verse xml:id="v1hrfdm3" n="1">
+                                            <syl xml:id="sdcrraa" con="d" wordpos="m">
+                                                re
+                                            </syl>
+                                        </verse>
+                                    </note>
+                                    <beam xml:id="b4xoz03">
+                                        <note xml:id="n3p7gy0" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up">
+                                            <verse xml:id="v1tbqpnp" n="1">
+                                                <syl xml:id="s12ugtfg" con="s" wordpos="t">
+                                                    mo
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="n118zy9z" dur.ppq="1" dur="8" oct="4" pname="a" vel="100" stem.dir="up">
+                                            <verse xml:id="v8mg3q2" n="1">
+                                                <syl xml:id="s1tpkjrg" con="d" wordpos="i">
+                                                    l'uc
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </beam>
+                                    <beam xml:id="b1qrf2xw">
+                                        <note xml:id="ng5eutr" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down">
+                                            <verse xml:id="v1q64s6u" n="1">
+                                                <syl xml:id="sv1s5gu" con="d" wordpos="m">
+                                                    ci
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="n7rit49" dur.ppq="1" dur="8" oct="4" pname="b" vel="100" stem.dir="down">
+                                            <verse xml:id="v1rq927f" n="1">
+                                                <syl xml:id="s1ugg47a" con="d" wordpos="m">
+                                                    de
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <dir xml:id="dq2fd1n" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                                Un cerchio di bimbi.
+                                <lb xml:id="lr12o6u"/>
+                                <lb xml:id="lhztndk"/>
+                                Solo (parlando)           Panierino avete cotto il pane?
+                                <lb xml:id="l1dwfryx"/>
+                                Tutti                            Si, ma con bruciato!
+                                <lb xml:id="ljd8m9t"/>
+                                Solo                             Chi è stato?
+                                <lb xml:id="l107z81b"/>
+                                Tutti                           Quel brutto briccone di ... (nome)
+                                <lb xml:id="l1mfio57"/>
+                                <lb xml:id="l1dlnqjs"/>
+                                <lb xml:id="liyg744"/>
+                                I cerchio si rompe e sempre presi per mano girano in fila.
+                                <lb xml:id="l1toy1ze"/>
+                                Il capo fila si ferma vivino al prescelto mentre il resto della
+                                <lb xml:id="l57z8uv"/>
+                                dila gli si attorciglia, cantando la musica.
+                            </dir>
+                        </measure>
+                        <measure xml:id="mx236hg" right="end" n="5">
+                            <staff xml:id="s18x9tgk" n="1">
+                                <layer xml:id="l1dsnwhk" n="1">
+                                    <note xml:id="n1kl5dnb" dur.ppq="2" dur="4" oct="4" pname="g" vel="100" stem.dir="up">
+                                        <verse xml:id="v15b6olw" n="1">
+                                            <syl xml:id="snb4jkv" con="d" wordpos="m">
+                                                re
+                                            </syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="n1amkbf3" dur.ppq="2" dur="4" oct="4" pname="g" vel="100" stem.dir="up" type="R">
+                                        <verse xml:id="vlcetar" n="1">
+                                            <syl xml:id="srgol1d" con="s" wordpos="t">
+                                                mo.
+                                            </syl>
+                                        </verse>
+                                    </note>
+                                    <rest xml:id="r6gvgxy" dur.ppq="2" dur="4"/>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
 </mei>

@@ -1,104 +1,293 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
-  <meiHead>
-    <fileDesc>
-      <titleStmt>
-        <title type="main" xml:id="IT-XXXX-VE-VA-015">Campanò</title>
-        <title type="subtitle"/>
-        <respStmt>
-          <persName role="compiler">Gabriele Vardanega</persName>
-          <persName role="informer"><geogName/></persName>
-          <persName role="encoder">Marco Bellano</persName>
-          <persName role="editor">Marco Bellano</persName>
-        </respStmt>
-      </titleStmt>
-      <pubStmt>
-        <publisher>co_POEM Reseach Project</publisher>
-        <date>2023</date>
-        <availability>To the best of our knowledge,
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:id="IT-XXXX-VE-VA-015">
+                    Campanò
+                </title>
+                <title type="subtitle"/>
+                <respStmt>
+                    <persName role="compiler">
+                        Gabriele Vardanega
+                    </persName>
+                    <persName role="informer">
+                        <geogName/>
+                    </persName>
+                    <persName role="encoder">
+                        Marco Bellano
+                    </persName>
+                    <persName role="editor">
+                        Marco Bellano
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <pubStmt>
+                <publisher>
+                    co_POEM Reseach Project
+                </publisher>
+                <date>
+                    2023
+                </date>
+                <availability>
+                    To the best of our knowledge,
                 the full compositions on this site are in the public domain,
                 the excerpts are in the public domain or are allowable under fair-use,
                 and the few compositions that are still under copyright are used by permission.
                 These scores, are provided for educational use only and are not to be used commercially.
-            </availability>
-      </pubStmt>
-      <sourceDesc>
-        <source xml:id="to_add">
-          <biblStruct>
-            <monogr>
-              <imprint>
-                <title>Canti Del Grappa</title>
-                <title type="subordinate">Il Canto Popolare Nella Tradizione Orale Della Pedemontana Del Grappa</title>
-                <respStmt>
-                  <persName role="compiler">Gabriele Vardanega</persName>
-                  <persName role="bibliography"></persName>
-                  <persName role="introduction">Daniele Cunial</persName>
-                  <persName role="edition">Anna Cavarzan</persName>
-                </respStmt>
-                <publisher>Danilo Zanetti Editore</publisher>
-                <pubPlace>Caerano S. Marco (Tv), Italia</pubPlace>
-                <date>1999</date>
-                <extent type="pages">551.0</extent>
-              </imprint>
-            </monogr>
-          </biblStruct>
-        </source>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc xml:id="encodingdesc-3yj6nh">
-      <appInfo xml:id="appinfo-106i31t">
-        <application xml:id="application-3jpims" isodate="2023-02-22T22:20:32" version="3.14.0-1474e80">
-          <name xml:id="name-htphy9">Verovio</name>
-          <p xml:id="p-18su848">Transcoded from MusicXML</p>
-        </application>
-      </appInfo>
-    </encodingDesc>
-    <workList>
-      <work><title type="main">Campanò</title><author type="informant">Anonymous</author><incip type="lyrics"><incipText><head/></incipText></incip><key mode="major">C</key><meter>Binary</meter><tempo>None</tempo><incip type="musical"><score><section><measure copyof="#mffo475"/><measure copyof="#m1l38mul"/></section></score></incip><langUsage>
+                </availability>
+            </pubStmt>
+            <sourceDesc>
+                <source xml:id="to_add">
+                    <biblStruct>
+                        <monogr>
+                            <imprint>
+                                <title>
+                                    Canti Del Grappa
+                                </title>
+                                <title type="subordinate">
+                                    Il Canto Popolare Nella Tradizione Orale Della Pedemontana Del Grappa
+                                </title>
+                                <respStmt>
+                                    <persName role="compiler">
+                                        Gabriele Vardanega
+                                    </persName>
+                                    <persName role="bibliography"/>
+                                    <persName role="introduction">
+                                        Daniele Cunial
+                                    </persName>
+                                    <persName role="edition">
+                                        Anna Cavarzan
+                                    </persName>
+                                </respStmt>
+                                <publisher>
+                                    Danilo Zanetti Editore
+                                </publisher>
+                                <pubPlace>
+                                    Caerano S. Marco (Tv), Italia
+                                </pubPlace>
+                                <date>
+                                    1999
+                                </date>
+                                <extent type="pages">
+                                    551.0
+                                </extent>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc xml:id="encodingdesc-3yj6nh">
+            <appInfo xml:id="appinfo-106i31t">
+                <application xml:id="application-3jpims" isodate="2023-02-22T22:20:32" version="3.14.0-1474e80">
+                    <name xml:id="name-htphy9">
+                        Verovio
+                    </name>
+                    <p xml:id="p-18su848">
+                        Transcoded from MusicXML
+                    </p>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <workList>
+            <work>
+                <title type="main">
+                    Campanò
+                </title>
+                <author type="informant">
+                    Anonymous
+                </author>
+                <incip type="lyrics">
+                    <incipText>
+                        <head/>
+                    </incipText>
+                </incip>
+                <key mode="major">
+                    C
+                </key>
+                <meter>
+                    Binary
+                </meter>
+                <tempo>
+                    None
+                </tempo>
+                <incip type="musical">
+                    <score>
+                        <section>
+                            <measure copyof="#mffo475"/>
+                            <measure copyof="#m1l38mul"/>
+                        </section>
+                    </score>
+                </incip>
+                <langUsage>
                     <language xml:lang="it"/>
                 </langUsage>
                 <notesStmt>
-                    <annot>Ten tene none
-                                          none none tente.</annot>
+                    <annot>
+                        Ten tene none
+                                          none none tente.
+                    </annot>
                 </notesStmt>
-                <classification><termList><term type="genre">Children song</term><term type="region">Veneto</term><term type="district">Treviso</term><term type="city">Treviso</term></termList></classification></work>
-    </workList>
-  </meiHead>
-  <music>
-    <body>
-      <mdiv xml:id="mtmxkpf">
-        <score xml:id="snuidsj">
-          <scoreDef xml:id="soucdnf">
-            <pgHead xml:id="p1shasd2">
-              <rend xml:id="rp64qhh" halign="center" valign="top">15. Campanò</rend>
-            </pgHead>
-            <staffGrp xml:id="s1u4m8o1">
-              <staffDef xml:id="P1" n="1" lines="5" ppq="2">
-                <label xml:id="l1ui529c">Voice</label>
-                <labelAbbr xml:id="l2jrgth">Vo.</labelAbbr>
-                <instrDef xml:id="iaov82a" midi.channel="0" midi.instrnum="52" midi.volume="78.00%"/>
-                <clef xml:id="c1i9fym0" shape="G" line="2"/>
-                <keySig xml:id="kg1j3dh" sig="0"/>
-                <meterSig xml:id="m1dlkqh4" count="4" unit="4"/>
-              </staffDef>
-            </staffGrp>
-            <ambitus>
-              <ambNote type="lowest" oct="4" pname="c"/>
-              <ambNote type="highest" oct="4" pname="e"/>
-            </ambitus>
-          </scoreDef>
-          <section xml:id="stmn6qu"><supplied type="rythymn pattern">
-                                <note dur="4"/>
-                                <beam>
-                                    <note dur="8"/>
-                                    <note dur="8"/>
-                                </beam>
-                            </supplied>
-                            <measure xml:id="mffo475" n="1"><staff xml:id="s4hdta8" n="1"><layer xml:id="l14nrjnq" n="1"><note xml:id="n1n2v5h" dur.ppq="2" dur="4" oct="4" pname="e" vel="100" stem.dir="up" type="start"><verse xml:id="v1hz5uvq" n="1"><syl xml:id="sb3droq" con="s" wordpos="s">Ten</syl></verse></note><beam xml:id="bkm3s1x"><note xml:id="niwof52" dur.ppq="1" dur="8" oct="4" pname="e" vel="100" stem.dir="up"><verse xml:id="v11qs5vp" n="1"><syl xml:id="s1o0fzmx" con="d" wordpos="i">te</syl></verse></note><note xml:id="n1dq80jb" dur.ppq="1" dur="8" oct="4" pname="e" vel="100" stem.dir="up"><verse xml:id="v1vvga5h" n="1"><syl xml:id="s1v2h426" con="s" wordpos="t">ne</syl></verse></note></beam><note xml:id="nh3pje3" dur.ppq="2" dur="4" oct="4" pname="d" vel="100" stem.dir="up"><verse xml:id="vsrvsfb" n="1"><syl xml:id="s1tatdl3" con="d" wordpos="i">no</syl></verse></note><note xml:id="nriclbn" dur.ppq="2" dur="4" oct="4" pname="d" vel="100" stem.dir="up"><verse xml:id="vlyi6r6" n="1"><syl xml:id="s11cwxy9" con="s" wordpos="t">ne</syl></verse></note></layer></staff><dir xml:id="d69u6ob" place="below" staff="1" tstamp="1.000000" vgrp="40">Questo motivo veniva suonato con le campane, azionate manualmente da due o tre persone,<lb xml:id="lz3uszc"/>nell feste patronali;<lb xml:id="l1c21k9l"/>Poteva anche venir cantato dai ragazzi come strofa canzonatoria per beffeggiare qualcuno.</dir></measure><measure xml:id="m1l38mul" right="end" n="2"><staff xml:id="s1a7s5mq" n="1"><layer xml:id="llndn86" n="1"><beam xml:id="b1m93pg2"><note xml:id="n1s5krsd" dur.ppq="1" dur="8" oct="4" pname="e" vel="100" stem.dir="up"><verse xml:id="vjtvour" n="1"><syl xml:id="sjvfcso" con="d" wordpos="i">no</syl></verse></note><note xml:id="nff7v4w" dur.ppq="1" dur="8" oct="4" pname="d" vel="100" stem.dir="up"><verse xml:id="vqcu6s2" n="1"><syl xml:id="s1dsdk3s" con="s" wordpos="t">ne</syl></verse></note><note xml:id="n1k4c45g" dur.ppq="1" dur="8" oct="4" pname="e" vel="100" stem.dir="up"><verse xml:id="v2b9fon" n="1"><syl xml:id="s688eme" con="d" wordpos="i">no</syl></verse></note><note xml:id="n1d7b1wy" dur.ppq="1" dur="8" oct="4" pname="d" vel="100" stem.dir="up"><verse xml:id="v1d55cwp" n="1"><syl xml:id="svovqho" con="s" wordpos="t">ne</syl></verse></note></beam><note xml:id="n1yyukbd" dur.ppq="2" dur="4" oct="4" pname="c" vel="100" stem.dir="up"><verse xml:id="v1ixs9r9" n="1"><syl xml:id="s7hau1l" con="d" wordpos="i">ten</syl></verse></note><note xml:id="n1bnyuui" dur.ppq="2" dur="4" oct="4" pname="c" vel="100" stem.dir="up"><verse xml:id="vx443rx" n="1"><syl xml:id="s6ckxf1" con="s" wordpos="t">te</syl></verse></note></layer></staff></measure></section>
-        </score>
-      </mdiv>
-    </body>
-  </music>
+                <classification>
+                    <termList>
+                        <term type="genre">
+                            Children song
+                        </term>
+                        <term type="region">
+                            Veneto
+                        </term>
+                        <term type="district">
+                            Treviso
+                        </term>
+                        <term type="city">
+                            Treviso
+                        </term>
+                    </termList>
+                </classification>
+            </work>
+        </workList>
+    </meiHead>
+    <music>
+        <body>
+            <mdiv xml:id="mtmxkpf">
+                <score xml:id="snuidsj">
+                    <scoreDef xml:id="soucdnf">
+                        <pgHead xml:id="p1shasd2">
+                            <rend xml:id="rp64qhh" halign="center" valign="top">
+                                15. Campanò
+                            </rend>
+                        </pgHead>
+                        <staffGrp xml:id="s1u4m8o1">
+                            <staffDef xml:id="P1" n="1" lines="5" ppq="2">
+                                <label xml:id="l1ui529c">
+                                    Voice
+                                </label>
+                                <labelAbbr xml:id="l2jrgth">
+                                    Vo.
+                                </labelAbbr>
+                                <instrDef xml:id="iaov82a" midi.channel="0" midi.instrnum="52" midi.volume="78.00%"/>
+                                <clef xml:id="c1i9fym0" shape="G" line="2"/>
+                                <keySig xml:id="kg1j3dh" sig="0"/>
+                                <meterSig xml:id="m1dlkqh4" count="4" unit="4"/>
+                            </staffDef>
+                        </staffGrp>
+                        <ambitus>
+                            <ambNote type="lowest" oct="4" pname="c"/>
+                            <ambNote type="highest" oct="4" pname="e"/>
+                        </ambitus>
+                    </scoreDef>
+                    <section xml:id="stmn6qu">
+                        <supplied type="rythymn pattern">
+                            <note dur="4"/>
+                            <beam>
+                                <note dur="8"/>
+                                <note dur="8"/>
+                            </beam>
+                        </supplied>
+                        <measure xml:id="mffo475" n="1">
+                            <staff xml:id="s4hdta8" n="1">
+                                <layer xml:id="l14nrjnq" n="1">
+                                    <note xml:id="n1n2v5h" dur.ppq="2" dur="4" oct="4" pname="e" vel="100" stem.dir="up" type="start">
+                                        <verse xml:id="v1hz5uvq" n="1">
+                                            <syl xml:id="sb3droq" con="s" wordpos="s">
+                                                Ten
+                                            </syl>
+                                        </verse>
+                                    </note>
+                                    <beam xml:id="bkm3s1x">
+                                        <note xml:id="niwof52" dur.ppq="1" dur="8" oct="4" pname="e" vel="100" stem.dir="up">
+                                            <verse xml:id="v11qs5vp" n="1">
+                                                <syl xml:id="s1o0fzmx" con="d" wordpos="i">
+                                                    te
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="n1dq80jb" dur.ppq="1" dur="8" oct="4" pname="e" vel="100" stem.dir="up">
+                                            <verse xml:id="v1vvga5h" n="1">
+                                                <syl xml:id="s1v2h426" con="s" wordpos="t">
+                                                    ne
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </beam>
+                                    <note xml:id="nh3pje3" dur.ppq="2" dur="4" oct="4" pname="d" vel="100" stem.dir="up">
+                                        <verse xml:id="vsrvsfb" n="1">
+                                            <syl xml:id="s1tatdl3" con="d" wordpos="i">
+                                                no
+                                            </syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="nriclbn" dur.ppq="2" dur="4" oct="4" pname="d" vel="100" stem.dir="up">
+                                        <verse xml:id="vlyi6r6" n="1">
+                                            <syl xml:id="s11cwxy9" con="s" wordpos="t">
+                                                ne
+                                            </syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <dir xml:id="d69u6ob" place="below" staff="1" tstamp="1.000000" vgrp="40">
+                                Questo motivo veniva suonato con le campane, azionate manualmente da due o tre persone,
+                                <lb xml:id="lz3uszc"/>
+                                nell feste patronali;
+                                <lb xml:id="l1c21k9l"/>
+                                Poteva anche venir cantato dai ragazzi come strofa canzonatoria per beffeggiare qualcuno.
+                            </dir>
+                        </measure>
+                        <measure xml:id="m1l38mul" right="end" n="2">
+                            <staff xml:id="s1a7s5mq" n="1">
+                                <layer xml:id="llndn86" n="1">
+                                    <beam xml:id="b1m93pg2">
+                                        <note xml:id="n1s5krsd" dur.ppq="1" dur="8" oct="4" pname="e" vel="100" stem.dir="up">
+                                            <verse xml:id="vjtvour" n="1">
+                                                <syl xml:id="sjvfcso" con="d" wordpos="i">
+                                                    no
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="nff7v4w" dur.ppq="1" dur="8" oct="4" pname="d" vel="100" stem.dir="up">
+                                            <verse xml:id="vqcu6s2" n="1">
+                                                <syl xml:id="s1dsdk3s" con="s" wordpos="t">
+                                                    ne
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="n1k4c45g" dur.ppq="1" dur="8" oct="4" pname="e" vel="100" stem.dir="up">
+                                            <verse xml:id="v2b9fon" n="1">
+                                                <syl xml:id="s688eme" con="d" wordpos="i">
+                                                    no
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="n1d7b1wy" dur.ppq="1" dur="8" oct="4" pname="d" vel="100" stem.dir="up">
+                                            <verse xml:id="v1d55cwp" n="1">
+                                                <syl xml:id="svovqho" con="s" wordpos="t">
+                                                    ne
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </beam>
+                                    <note xml:id="n1yyukbd" dur.ppq="2" dur="4" oct="4" pname="c" vel="100" stem.dir="up">
+                                        <verse xml:id="v1ixs9r9" n="1">
+                                            <syl xml:id="s7hau1l" con="d" wordpos="i">
+                                                ten
+                                            </syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="n1bnyuui" dur.ppq="2" dur="4" oct="4" pname="c" vel="100" stem.dir="up">
+                                        <verse xml:id="vx443rx" n="1">
+                                            <syl xml:id="s6ckxf1" con="s" wordpos="t">
+                                                te
+                                            </syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
 </mei>

@@ -3,20 +3,32 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title type="main" xml:id="PT-1999-XX-DM-024">Faixinha Verde</title>
+                <title type="main" xml:id="PT-1999-XX-DM-024">
+                    Faixinha Verde
+                </title>
                 <title type="subtitle"/>
                 <respStmt>
-                    <persName role="compiler">Domingos Morais</persName>
+                    <persName role="compiler">
+                        Domingos Morais
+                    </persName>
                     <persName role="informer">
                         <geogName/>
                     </persName>
-                    <persName role="encoder">Rebeca Gea Martínez</persName>
-                    <persName role="editor">Rebeca Gea Martínez</persName>
+                    <persName role="encoder">
+                        Rebeca Gea Martínez
+                    </persName>
+                    <persName role="editor">
+                        Rebeca Gea Martínez
+                    </persName>
                 </respStmt>
             </titleStmt>
             <pubStmt>
-                <publisher>co_POEM Reseach Project (Universidad de Salamanca)</publisher>
-                <date>2023</date>
+                <publisher>
+                    co_POEM Reseach Project (Universidad de Salamanca)
+                </publisher>
+                <date>
+                    2023
+                </date>
                 <availability>
                     To the best of our knowledge,
                                                             the full compositions on this site are in the public domain,
@@ -30,15 +42,27 @@
                     <biblStruct>
                         <monogr>
                             <imprint>
-                                <title>Cantar em português</title>
-                                <title type="subordinate">Selecção, versões karaoke e notas</title>
+                                <title>
+                                    Cantar em português
+                                </title>
+                                <title type="subordinate">
+                                    Selecção, versões karaoke e notas
+                                </title>
                                 <respStmt>
-                                    <persName role="recopilador">Domingos Morais</persName>
+                                    <persName role="recopilador">
+                                        Domingos Morais
+                                    </persName>
                                 </respStmt>
-                                <publisher>Universidad de Minho/</publisher>
+                                <publisher>
+                                    Universidad de Minho/
+                                </publisher>
                                 <pubPlace/>
-                                <date>1999</date>
-                                <extent type="pages">76</extent>
+                                <date>
+                                    1999
+                                </date>
+                                <extent type="pages">
+                                    76
+                                </extent>
                             </imprint>
                         </monogr>
                     </biblStruct>
@@ -48,25 +72,38 @@
         <encodingDesc xml:id="encodingdesc-1ny3yd2">
             <appInfo xml:id="appinfo-1luw420">
                 <application xml:id="application-19o1obi" isodate="2023-02-13T12:01:39" version="3.14.0-1474e80">
-                    <name xml:id="name-o4ps3t">Verovio</name>
-                    <p xml:id="p-1o7157u">Transcoded from MusicXML</p>
+                    <name xml:id="name-o4ps3t">
+                        Verovio
+                    </name>
+                    <p xml:id="p-1o7157u">
+                        Transcoded from MusicXML
+                    </p>
                 </application>
             </appInfo>
         </encodingDesc>
-
         <workList>
             <work>
-                <title type="main">Faixinha verde</title>
-                <author type="informant">Anonymous</author>
+                <title type="main">
+                    Faixinha verde
+                </title>
+                <author type="informant">
+                    Anonymous
+                </author>
                 <incip type="lyrics">
                     <incipText>
                         <lg>
-                            <l>Faixinha verde</l>
+                            <l>
+                                Faixinha verde
+                            </l>
                         </lg>
                     </incipText>
                 </incip>
-                <key mode="aeolian37">E</key>
-                <meter>Binary</meter>
+                <key mode="aeolian37">
+                    E
+                </key>
+                <meter>
+                    Binary
+                </meter>
                 <tempo/>
                 <incip type="musical">
                     <score>
@@ -84,7 +121,13 @@
                 </notesStmt>
                 <classification>
                     <termList>
-                        <term type="genre">Children song</term><term type="region"/><term type="district"/><term type="city"/></termList>
+                        <term type="genre">
+                            Children song
+                        </term>
+                        <term type="region"/>
+                        <term type="district"/>
+                        <term type="city"/>
+                    </termList>
                 </classification>
             </work>
         </workList>
@@ -95,12 +138,18 @@
                 <score xml:id="s16cub4s">
                     <scoreDef xml:id="s1i7gsqz">
                         <pgHead xml:id="p1v4q01y">
-                            <rend xml:id="r12ojw9o" halign="center" valign="top">Faixinha Verde</rend>
+                            <rend xml:id="r12ojw9o" halign="center" valign="top">
+                                Faixinha Verde
+                            </rend>
                         </pgHead>
                         <staffGrp xml:id="s13i2jsg">
                             <staffDef xml:id="P1" n="1" lines="5" ppq="4">
-                                <label xml:id="lxvuojf">Voice</label>
-                                <labelAbbr xml:id="l1jbjcj0">Vo.</labelAbbr>
+                                <label xml:id="lxvuojf">
+                                    Voice
+                                </label>
+                                <labelAbbr xml:id="l1jbjcj0">
+                                    Vo.
+                                </labelAbbr>
                                 <instrDef xml:id="i681p14" midi.channel="0" midi.instrnum="53" midi.volume="78.00%"/>
                                 <clef xml:id="c12qwmjr" shape="G" line="2"/>
                                 <keySig xml:id="kiwzl0g" sig="1s"/>
@@ -129,16 +178,24 @@
                                     <beam xml:id="brqhj24">
                                         <note xml:id="n1ttqhqv" dots="1" dur.ppq="3" dur="8" oct="4" pname="e" vel="100" stem.dir="up">
                                             <verse xml:id="v1vzcbho" n="1">
-                                                <syl xml:id="s1g8boq6" con="d" wordpos="i">Fai</syl>
+                                                <syl xml:id="s1g8boq6" con="d" wordpos="i">
+                                                    Fai
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v15a47bl" n="2">
-                                                <syl xml:id="sksxlmg" con="d" wordpos="i">Fai</syl>
+                                                <syl xml:id="sksxlmg" con="d" wordpos="i">
+                                                    Fai
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v65hpwh" n="3">
-                                                <syl xml:id="s5b32k5" con="d" wordpos="i">Fai</syl>
+                                                <syl xml:id="s5b32k5" con="d" wordpos="i">
+                                                    Fai
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1e1y0ct" n="4">
-                                                <syl xml:id="s109hk0n" con="d" wordpos="i">Fai</syl>
+                                                <syl xml:id="s109hk0n" con="d" wordpos="i">
+                                                    Fai
+                                                </syl>
                                             </verse>
                                         </note>
                                         <note xml:id="nm5n1mq" dur.ppq="1" dur="16" oct="4" pname="d" vel="100" stem.dir="up" accid="s"/>
@@ -146,38 +203,57 @@
                                     <beam xml:id="byeclaj">
                                         <note xml:id="n4nov2y" dur.ppq="2" dur="8" oct="4" pname="e" vel="100" stem.dir="up">
                                             <verse xml:id="v19hmssy" n="1">
-                                                <syl xml:id="s1xnzsan" con="d" wordpos="m">xi</syl>
+                                                <syl xml:id="s1xnzsan" con="d" wordpos="m">
+                                                    xi
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1x6sgxp" n="2">
-                                                <syl xml:id="slpvkv3" con="d" wordpos="m">xi</syl>
+                                                <syl xml:id="slpvkv3" con="d" wordpos="m">
+                                                    xi
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1qyc2lp" n="3">
-                                                <syl xml:id="shqxop7" con="d" wordpos="i">xi</syl>
+                                                <syl xml:id="shqxop7" con="d" wordpos="i">
+                                                    xi
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1kea5hd" n="4">
-                                                <syl xml:id="s1d2mykm" con="d" wordpos="m">xi</syl>
+                                                <syl xml:id="s1d2mykm" con="d" wordpos="m">
+                                                    xi
+                                                </syl>
                                             </verse>
                                         </note>
                                         <note xml:id="n12yfefn" dur.ppq="2" dur="8" oct="4" pname="f" vel="100" stem.dir="up" accid.ges="s">
                                             <verse xml:id="v7ejcpy" n="1">
-                                                <syl xml:id="s1vr2cz2" con="s" wordpos="t">nha</syl>
+                                                <syl xml:id="s1vr2cz2" con="s" wordpos="t">
+                                                    nha
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1ln4wbz" n="2">
-                                                <syl xml:id="s1gsoap0" con="s" wordpos="t">nha</syl>
+                                                <syl xml:id="s1gsoap0" con="s" wordpos="t">
+                                                    nha
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1fk6m0w" n="3">
-                                                <syl xml:id="schrwiu" con="s" wordpos="t">nha</syl>
+                                                <syl xml:id="schrwiu" con="s" wordpos="t">
+                                                    nha
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1shm79g" n="4">
-                                                <syl xml:id="s15hwgel" con="s" wordpos="t">nha</syl>
+                                                <syl xml:id="s15hwgel" con="s" wordpos="t">
+                                                    nha
+                                                </syl>
                                             </verse>
                                         </note>
                                     </beam>
                                 </layer>
                             </staff>
                             <tempo xml:id="togt7z5" place="above" staff="1" tstamp="1.000000" midi.bpm="120.000000" mm="120.000000" mm.unit="4">
-                                <rend xml:id="r115ho64" fontfam="smufl"></rend>
-                                = 120</tempo>
+                                <rend xml:id="r115ho64" fontfam="smufl">
+                                    
+                                </rend>
+                                = 120
+                            </tempo>
                             <slur xml:id="s1423w9w" startid="#n1ttqhqv" endid="#nm5n1mq" curvedir="below"/>
                         </measure>
                         <measure xml:id="m1wrrkla" n="2">
@@ -186,60 +262,92 @@
                                     <beam xml:id="b3cixra">
                                         <note xml:id="n1fiwqkj" dur.ppq="2" dur="8" oct="4" pname="g" vel="100" stem.dir="up">
                                             <verse xml:id="v1r06j61" n="1">
-                                                <syl xml:id="sn8f46g" con="d" wordpos="i">ver</syl>
+                                                <syl xml:id="sn8f46g" con="d" wordpos="i">
+                                                    ver
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1jv289u" n="2">
-                                                <syl xml:id="s1u1z99a" con="d" wordpos="i">ver</syl>
+                                                <syl xml:id="s1u1z99a" con="d" wordpos="i">
+                                                    ver
+                                                </syl>
                                             </verse>
                                             <verse xml:id="vsf7u9i" n="3">
-                                                <syl xml:id="sos8nbt" con="d" wordpos="i">ver</syl>
+                                                <syl xml:id="sos8nbt" con="d" wordpos="i">
+                                                    ver
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v19mvqjx" n="4">
-                                                <syl xml:id="s1ry9de0" con="d" wordpos="i">ver</syl>
+                                                <syl xml:id="s1ry9de0" con="d" wordpos="i">
+                                                    ver
+                                                </syl>
                                             </verse>
                                         </note>
                                         <note xml:id="n18ldkfa" dur.ppq="2" dur="8" oct="4" pname="g" vel="100" stem.dir="up">
                                             <verse xml:id="vhl55qs" n="1">
-                                                <syl xml:id="s1aglekp" con="s" wordpos="t">de,</syl>
+                                                <syl xml:id="s1aglekp" con="s" wordpos="t">
+                                                    de,
+                                                </syl>
                                             </verse>
                                             <verse xml:id="vapw5kw" n="2">
-                                                <syl xml:id="sdrx0ip" con="s" wordpos="t">de,</syl>
+                                                <syl xml:id="sdrx0ip" con="s" wordpos="t">
+                                                    de,
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1v8ib2l" n="3">
-                                                <syl xml:id="shihkz2" con="s" wordpos="t">de,</syl>
+                                                <syl xml:id="shihkz2" con="s" wordpos="t">
+                                                    de,
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v6b7cx1" n="4">
-                                                <syl xml:id="svqohyf" con="s" wordpos="t">de,</syl>
+                                                <syl xml:id="svqohyf" con="s" wordpos="t">
+                                                    de,
+                                                </syl>
                                             </verse>
                                         </note>
                                     </beam>
                                     <beam xml:id="blf0m35">
                                         <note xml:id="n14gu2ul" dur.ppq="2" dur="8" oct="4" pname="f" vel="100" stem.dir="up" accid.ges="s">
                                             <verse xml:id="v12ggh48" n="1">
-                                                <syl xml:id="su2r8aw" con="s" wordpos="s">não</syl>
+                                                <syl xml:id="su2r8aw" con="s" wordpos="s">
+                                                    não
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1of4wcz" n="2">
-                                                <syl xml:id="smiz15w" con="s" wordpos="s">do</syl>
+                                                <syl xml:id="smiz15w" con="s" wordpos="s">
+                                                    do
+                                                </syl>
                                             </verse>
                                             <verse xml:id="vtkc1qk" n="3">
-                                                <syl xml:id="s1jfbc96" con="s" wordpos="s">do</syl>
+                                                <syl xml:id="s1jfbc96" con="s" wordpos="s">
+                                                    do
+                                                </syl>
                                             </verse>
                                             <verse xml:id="vj42v18" n="4">
-                                                <syl xml:id="s71terl" con="s" wordpos="s">não</syl>
+                                                <syl xml:id="s71terl" con="s" wordpos="s">
+                                                    não
+                                                </syl>
                                             </verse>
                                         </note>
                                         <note xml:id="n7i7bbc" dur.ppq="2" dur="8" oct="4" pname="e" vel="100" stem.dir="up">
                                             <verse xml:id="v7waete" n="1">
-                                                <syl xml:id="s11vdl8q" con="s" wordpos="s">ma</syl>
+                                                <syl xml:id="s11vdl8q" con="s" wordpos="s">
+                                                    ma
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1tr03gy" n="2">
-                                                <syl xml:id="s1atztmu" con="d" wordpos="i">pa</syl>
+                                                <syl xml:id="s1atztmu" con="d" wordpos="i">
+                                                    pa
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1ehi9y6" n="3">
-                                                <syl xml:id="s1fg925h" con="d" wordpos="i">pa</syl>
+                                                <syl xml:id="s1fg925h" con="d" wordpos="i">
+                                                    pa
+                                                </syl>
                                             </verse>
                                             <verse xml:id="vys7rr9" n="4">
-                                                <syl xml:id="s54xffa" con="s" wordpos="s">ma</syl>
+                                                <syl xml:id="s54xffa" con="s" wordpos="s">
+                                                    ma
+                                                </syl>
                                             </verse>
                                         </note>
                                     </beam>
@@ -251,16 +359,24 @@
                                 <layer xml:id="l117mwh4" n="1">
                                     <note xml:id="n1j5ovl7" dur.ppq="2" dur="8" oct="4" pname="g" vel="100" stem.dir="up">
                                         <verse xml:id="v51bydz" n="1">
-                                            <syl xml:id="sgfxrg5" con="d" wordpos="i">das</syl>
+                                            <syl xml:id="sgfxrg5" con="d" wordpos="i">
+                                                das
+                                            </syl>
                                         </verse>
                                         <verse xml:id="v1o497bz" n="2">
-                                            <syl xml:id="s1i3z3ds" con="d" wordpos="m">ni</syl>
+                                            <syl xml:id="s1i3z3ds" con="d" wordpos="m">
+                                                ni
+                                            </syl>
                                         </verse>
                                         <verse xml:id="vbb82aq" n="3">
-                                            <syl xml:id="shleqaq" con="d" wordpos="m">ni</syl>
+                                            <syl xml:id="shleqaq" con="d" wordpos="m">
+                                                ni
+                                            </syl>
                                         </verse>
                                         <verse xml:id="v10qmjuw" n="4">
-                                            <syl xml:id="so6lg2o" con="d" wordpos="i">das</syl>
+                                            <syl xml:id="so6lg2o" con="d" wordpos="i">
+                                                das
+                                            </syl>
                                         </verse>
                                     </note>
                                     <note xml:id="n1wb41ci" dots="1" dur.ppq="6" dur="4" oct="4" pname="f" vel="100" stem.dir="up" accid.ges="s"/>
@@ -276,16 +392,24 @@
                                         <note xml:id="n1enas42" dur.ppq="2" dur="8" oct="4" pname="f" vel="100" stem.dir="up" accid.ges="s"/>
                                         <note xml:id="n9923b4" dur.ppq="2" dur="8" oct="4" pname="g" vel="100" stem.dir="up">
                                             <verse xml:id="v1prsqk0" n="1">
-                                                <syl xml:id="s1uff56h" con="u" wordpos="t">teis</syl>
+                                                <syl xml:id="s1uff56h" con="u" wordpos="t">
+                                                    teis
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v19t31s8" n="2">
-                                                <syl xml:id="s1o1ka4i" con="u" wordpos="t">nho</syl>
+                                                <syl xml:id="s1o1ka4i" con="u" wordpos="t">
+                                                    nho
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1jttqbj" n="3">
-                                                <syl xml:id="s53bgbh" con="u" wordpos="t">nho</syl>
+                                                <syl xml:id="s53bgbh" con="u" wordpos="t">
+                                                    nho
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1yz7ixq" n="4">
-                                                <syl xml:id="s1pyc2k2" con="u" wordpos="s">teis</syl>
+                                                <syl xml:id="s1pyc2k2" con="u" wordpos="s">
+                                                    teis
+                                                </syl>
                                             </verse>
                                         </note>
                                     </beam>
@@ -303,24 +427,36 @@
                                 <layer xml:id="l1p6sfna" n="1">
                                     <note xml:id="nhsj67o" dur.ppq="4" dur="4" oct="4" pname="f" vel="100" stem.dir="up" accid.ges="s">
                                         <verse xml:id="v1c6cul6" n="1">
-                                            <syl xml:id="s6dd03u" con="u" wordpos="s">vós,</syl>
+                                            <syl xml:id="s6dd03u" con="u" wordpos="s">
+                                                vós,
+                                            </syl>
                                         </verse>
                                         <verse xml:id="v1e3xl9f" n="2">
-                                            <syl xml:id="s14acum3" con="d" wordpos="i">fi</syl>
+                                            <syl xml:id="s14acum3" con="d" wordpos="i">
+                                                fi
+                                            </syl>
                                         </verse>
                                         <verse xml:id="v7m4fw3" n="3">
-                                            <syl xml:id="s1yz2aev" con="d" wordpos="i">cla</syl>
+                                            <syl xml:id="s1yz2aev" con="d" wordpos="i">
+                                                cla
+                                            </syl>
                                         </verse>
                                         <verse xml:id="v1pqfwgv" n="4">
-                                            <syl xml:id="s3egugj" con="u" wordpos="s">vós,</syl>
+                                            <syl xml:id="s3egugj" con="u" wordpos="s">
+                                                vós,
+                                            </syl>
                                         </verse>
                                     </note>
                                     <note xml:id="nb6kmwn" dur.ppq="4" dur="4" oct="4" pname="d" vel="100" stem.dir="up">
                                         <verse xml:id="vic2il1" n="2">
-                                            <syl xml:id="sg6hmux" con="u" wordpos="t">no,</syl>
+                                            <syl xml:id="sg6hmux" con="u" wordpos="t">
+                                                no,
+                                            </syl>
                                         </verse>
                                         <verse xml:id="vwlwsgq" n="3">
-                                            <syl xml:id="sqghu2" con="u" wordpos="t">ro,</syl>
+                                            <syl xml:id="sqghu2" con="u" wordpos="t">
+                                                ro,
+                                            </syl>
                                         </verse>
                                     </note>
                                 </layer>
@@ -341,45 +477,69 @@
                                 <layer xml:id="l1jz0tt9" n="1">
                                     <note xml:id="nr4pfu" dur.ppq="4" dur="4" oct="4" pname="e" vel="100" stem.dir="up">
                                         <verse xml:id="vepkye7" n="1">
-                                            <syl xml:id="s1nuqq2q" con="d" wordpos="i">o</syl>
+                                            <syl xml:id="s1nuqq2q" con="d" wordpos="i">
+                                                o
+                                            </syl>
                                         </verse>
                                         <verse xml:id="v1nz0m7o" n="2">
-                                            <syl xml:id="s1junfrn" con="s" wordpos="s">não</syl>
+                                            <syl xml:id="s1junfrn" con="s" wordpos="s">
+                                                não
+                                            </syl>
                                         </verse>
                                         <verse xml:id="v6qq0qe" n="3">
-                                            <syl xml:id="slkazh2" con="s" wordpos="s">não</syl>
+                                            <syl xml:id="slkazh2" con="s" wordpos="s">
+                                                não
+                                            </syl>
                                         </verse>
                                         <verse xml:id="v18vckil" n="4">
-                                            <syl xml:id="s16gdlkn" con="d" wordpos="i">o</syl>
+                                            <syl xml:id="s16gdlkn" con="d" wordpos="i">
+                                                o
+                                            </syl>
                                         </verse>
                                     </note>
                                     <beam xml:id="b54wbgm">
                                         <note xml:id="nb3mgm2" dur.ppq="2" dur="8" oct="4" pname="f" vel="100" stem.dir="up" accid.ges="s">
                                             <verse xml:id="v11vzp5i" n="1">
-                                                <syl xml:id="s1x54gn" con="d" wordpos="m">lhi</syl>
+                                                <syl xml:id="s1x54gn" con="d" wordpos="m">
+                                                    lhi
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1qxdn3y" n="2">
-                                                <syl xml:id="s1ol1c4p" con="s" wordpos="s">ma</syl>
+                                                <syl xml:id="s1ol1c4p" con="s" wordpos="s">
+                                                    ma
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1g9sxz7" n="3">
-                                                <syl xml:id="s8sw7jw" con="s" wordpos="s">ma</syl>
+                                                <syl xml:id="s8sw7jw" con="s" wordpos="s">
+                                                    ma
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1i0s2he" n="4">
-                                                <syl xml:id="sjesws9" con="d" wordpos="m">lhi</syl>
+                                                <syl xml:id="sjesws9" con="d" wordpos="m">
+                                                    lhi
+                                                </syl>
                                             </verse>
                                         </note>
                                         <note xml:id="nj6o107" dur.ppq="2" dur="8" oct="4" pname="g" vel="100" stem.dir="up" accid="s">
                                             <verse xml:id="vs08vqc" n="1">
-                                                <syl xml:id="s17a0xsy" con="s" wordpos="t">nhos</syl>
+                                                <syl xml:id="s17a0xsy" con="s" wordpos="t">
+                                                    nhos
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v11leu5j" n="2">
-                                                <syl xml:id="s4fs2qn" con="d" wordpos="i">das</syl>
+                                                <syl xml:id="s4fs2qn" con="d" wordpos="i">
+                                                    das
+                                                </syl>
                                             </verse>
                                             <verse xml:id="vydztdh" n="3">
-                                                <syl xml:id="s1b7kk76" con="d" wordpos="i">das</syl>
+                                                <syl xml:id="s1b7kk76" con="d" wordpos="i">
+                                                    das
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1x0oxye" n="4">
-                                                <syl xml:id="s131atxe" con="s" wordpos="t">nhos</syl>
+                                                <syl xml:id="s131atxe" con="s" wordpos="t">
+                                                    nhos
+                                                </syl>
                                             </verse>
                                         </note>
                                     </beam>
@@ -392,60 +552,92 @@
                                     <beam xml:id="b1m73jc0">
                                         <note xml:id="nv2lkmh" dur.ppq="2" dur="8" oct="4" pname="a" vel="100" stem.dir="up">
                                             <verse xml:id="vtf0qto" n="1">
-                                                <syl xml:id="s1tx45gb" con="d" wordpos="i">ver</syl>
+                                                <syl xml:id="s1tx45gb" con="d" wordpos="i">
+                                                    ver
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v10jn62b" n="2">
-                                                <syl xml:id="s1aj01zo" con="s" wordpos="t">teis</syl>
+                                                <syl xml:id="s1aj01zo" con="s" wordpos="t">
+                                                    teis
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1c0b2t9" n="3">
-                                                <syl xml:id="s8kimwb" con="s" wordpos="t">teis</syl>
+                                                <syl xml:id="s8kimwb" con="s" wordpos="t">
+                                                    teis
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1xlkw54" n="4">
-                                                <syl xml:id="s1g3jx04" con="d" wordpos="i">ver</syl>
+                                                <syl xml:id="s1g3jx04" con="d" wordpos="i">
+                                                    ver
+                                                </syl>
                                             </verse>
                                         </note>
                                         <note xml:id="n1s933hd" dur.ppq="2" dur="8" oct="4" pname="g" vel="100" stem.dir="up" accid="s">
                                             <verse xml:id="vvehee0" n="1">
-                                                <syl xml:id="sj05q3o" con="s" wordpos="t">des,</syl>
+                                                <syl xml:id="sj05q3o" con="s" wordpos="t">
+                                                    des,
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1wwo9aq" n="2">
-                                                <syl xml:id="srlaeex" con="d" wordpos="i">cu</syl>
+                                                <syl xml:id="srlaeex" con="d" wordpos="i">
+                                                    cu
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1pxhvir" n="3">
-                                                <syl xml:id="s15xmfng" con="d" wordpos="i">pri</syl>
+                                                <syl xml:id="s15xmfng" con="d" wordpos="i">
+                                                    pri
+                                                </syl>
                                             </verse>
                                             <verse xml:id="vhbhtex" n="4">
-                                                <syl xml:id="s1ibnb71" con="s" wordpos="t">des,</syl>
+                                                <syl xml:id="s1ibnb71" con="s" wordpos="t">
+                                                    des,
+                                                </syl>
                                             </verse>
                                         </note>
                                     </beam>
                                     <beam xml:id="bo66xww">
                                         <note xml:id="n3quy5u" dur.ppq="2" dur="8" oct="4" pname="f" vel="100" stem.dir="up" accid.ges="s">
                                             <verse xml:id="vrbsfgw" n="1">
-                                                <syl xml:id="sljp9c9" con="s" wordpos="s">bem</syl>
+                                                <syl xml:id="sljp9c9" con="s" wordpos="s">
+                                                    bem
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1wyrg3d" n="2">
-                                                <syl xml:id="saz1oi6" con="d" wordpos="i">nha</syl>
+                                                <syl xml:id="saz1oi6" con="d" wordpos="i">
+                                                    nha
+                                                </syl>
                                             </verse>
                                             <verse xml:id="vjnxze5" n="3">
-                                                <syl xml:id="s12jipa9" con="s" wordpos="t">mo,</syl>
+                                                <syl xml:id="s12jipa9" con="s" wordpos="t">
+                                                    mo,
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1tupx9" n="4">
-                                                <syl xml:id="sbltvw4" con="s" wordpos="s">bem</syl>
+                                                <syl xml:id="sbltvw4" con="s" wordpos="s">
+                                                    bem
+                                                </syl>
                                             </verse>
                                         </note>
                                         <note xml:id="n1101bjv" dur.ppq="2" dur="8" oct="4" pname="e" vel="100" stem.dir="up">
                                             <verse xml:id="v1vl4u23" n="1">
-                                                <syl xml:id="svp8osl" con="s" wordpos="s">lhe</syl>
+                                                <syl xml:id="svp8osl" con="s" wordpos="s">
+                                                    lhe
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1x45tqv" n="2">
-                                                <syl xml:id="sxnv2ck" con="s" wordpos="t">do,</syl>
+                                                <syl xml:id="sxnv2ck" con="s" wordpos="t">
+                                                    do,
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v133l6wn" n="3">
-                                                <syl xml:id="s1quoyt2" con="s" wordpos="s">nem</syl>
+                                                <syl xml:id="s1quoyt2" con="s" wordpos="s">
+                                                    nem
+                                                </syl>
                                             </verse>
                                             <verse xml:id="v1uk1fy9" n="4">
-                                                <syl xml:id="s8u8enf" con="s" wordpos="s">lhe</syl>
+                                                <syl xml:id="s8u8enf" con="s" wordpos="s">
+                                                    lhe
+                                                </syl>
                                             </verse>
                                         </note>
                                     </beam>
@@ -457,16 +649,24 @@
                                 <layer xml:id="l8rzom8" n="1">
                                     <note xml:id="n1tvtl6r" dots="1" dur.ppq="6" dur="4" oct="4" pname="e" vel="100" stem.dir="up">
                                         <verse xml:id="vyx738e" n="1">
-                                            <syl xml:id="sgk6436" con="d" wordpos="i">mi</syl>
+                                            <syl xml:id="sgk6436" con="d" wordpos="i">
+                                                mi
+                                            </syl>
                                         </verse>
                                         <verse xml:id="v1n6exp4" n="2">
-                                            <syl xml:id="s1rktgbo" con="s" wordpos="s">nem</syl>
+                                            <syl xml:id="s1rktgbo" con="s" wordpos="s">
+                                                nem
+                                            </syl>
                                         </verse>
                                         <verse xml:id="veay7nk" n="3">
-                                            <syl xml:id="sjrd1xd" con="d" wordpos="i">cu</syl>
+                                            <syl xml:id="sjrd1xd" con="d" wordpos="i">
+                                                cu
+                                            </syl>
                                         </verse>
                                         <verse xml:id="v1jbsurv" n="4">
-                                            <syl xml:id="ss8lavt" con="d" wordpos="i">mi</syl>
+                                            <syl xml:id="ss8lavt" con="d" wordpos="i">
+                                                mi
+                                            </syl>
                                         </verse>
                                     </note>
                                     <note xml:id="n1eyv362" dur.ppq="2" dur="8" oct="4" pname="d" vel="100" stem.dir="up" accid="s"/>
@@ -479,16 +679,24 @@
                                 <layer xml:id="l1ldynh7" n="1">
                                     <note xml:id="n88ym49" dur.ppq="8" dur="2" oct="4" pname="f" vel="100" stem.dir="up" accid.ges="s">
                                         <verse xml:id="v1nq9eag" n="1">
-                                            <syl xml:id="sgn59mw" con="s" wordpos="t">rais</syl>
+                                            <syl xml:id="sgn59mw" con="s" wordpos="t">
+                                                rais
+                                            </syl>
                                         </verse>
                                         <verse xml:id="vsqq5ud" n="2">
-                                            <syl xml:id="stxd24g" con="d" wordpos="i">pri</syl>
+                                            <syl xml:id="stxd24g" con="d" wordpos="i">
+                                                pri
+                                            </syl>
                                         </verse>
                                         <verse xml:id="vuiy1ft" n="3">
-                                            <syl xml:id="s1k15yqp" con="d" wordpos="m">nha</syl>
+                                            <syl xml:id="s1k15yqp" con="d" wordpos="m">
+                                                nha
+                                            </syl>
                                         </verse>
                                         <verse xml:id="vhspzml" n="4">
-                                            <syl xml:id="s6c5x87" con="s" wordpos="t">rais</syl>
+                                            <syl xml:id="s6c5x87" con="s" wordpos="t">
+                                                rais
+                                            </syl>
                                         </verse>
                                     </note>
                                 </layer>
@@ -499,16 +707,24 @@
                                 <layer xml:id="l15tgkev" n="1">
                                     <note xml:id="nmjiscp" dur.ppq="8" dur="2" oct="4" pname="e" vel="100" stem.dir="up">
                                         <verse xml:id="v3cxj1n" n="1">
-                                            <syl xml:id="sky8glb" con="u" wordpos="s">vós.</syl>
+                                            <syl xml:id="sky8glb" con="u" wordpos="s">
+                                                vós.
+                                            </syl>
                                         </verse>
                                         <verse xml:id="v10l9thz" n="2">
-                                            <syl xml:id="s1gi3c1c" con="u" wordpos="t">mo.</syl>
+                                            <syl xml:id="s1gi3c1c" con="u" wordpos="t">
+                                                mo.
+                                            </syl>
                                         </verse>
                                         <verse xml:id="v143f8bn" n="3">
-                                            <syl xml:id="s1yu2pc8" con="u" wordpos="s">do.</syl>
+                                            <syl xml:id="s1yu2pc8" con="u" wordpos="s">
+                                                do.
+                                            </syl>
                                         </verse>
                                         <verse xml:id="vk1c72u" n="4">
-                                            <syl xml:id="sjfqy7y" con="u" wordpos="s">vós.</syl>
+                                            <syl xml:id="sjfqy7y" con="u" wordpos="s">
+                                                vós.
+                                            </syl>
                                         </verse>
                                     </note>
                                 </layer>
