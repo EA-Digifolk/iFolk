@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
   <meiHead>
     <fileDesc>
       <titleStmt>
@@ -30,17 +28,17 @@
             <monogr>
               <imprint>
                 <title>Canti Popolari Vicentini</title>
-                <title type="subordinate"></title>
+                <title type="subordinate"/>
                 <respStmt>
                   <persName role="compiler">Roberto Leydi</persName>
-                  <persName role="bibliography"></persName>
+                  <persName role="bibliography"/>
                   <persName role="introduction">Neri Pozza</persName>
-                  <persName role="edition"></persName>
+                  <persName role="edition"/>
                 </respStmt>
                 <publisher>Neri Pozza</publisher>
                 <pubPlace>Vicenza (Vi), Italia</pubPlace>
                 <date>1981</date>
-                <extent type="pages"></extent>
+                <extent type="pages"/>
               </imprint>
             </monogr>
           </biblStruct>
@@ -56,7 +54,7 @@
       </appInfo>
     </encodingDesc>
     <workList>
-      <work><title type="main">Totò Totò Musseta</title><author type="informant">Anonymous</author><incip type="lyrics"><incipText><head/></incipText></incip><key mode="major">C</key><meter>Binary</meter><tempo>Allegro Moderato</tempo><incip type="musical"><score><section><measure copyof="#mln9558"/><measure copyof="#m1ieknt0"/><measure copyof="#m39bm92"/></section></score></incip><langUsage>
+      <work><title type="main">Totò Totò Musseta</title><author type="informant">Anonymous</author><incip type="lyrics"><incipText><head/></incipText></incip><key mode="protomelodic">E</key><meter>Binary</meter><tempo>Allegro Moderato</tempo><incip type="musical"><score><section><measure copyof="#mln9558"/><measure copyof="#m1ieknt0"/><measure copyof="#m39bm92"/></section></score></incip><langUsage>
                 <language xml:lang="it"/>
             </langUsage>
             <notesStmt>

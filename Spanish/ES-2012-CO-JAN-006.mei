@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:id="ES-2012-CO-JAN-006">Coplas De Columpio</title>
+        <title type="subtitle">La Niña Que Está En La Bamba Es Mi Novia</title>
+        <respStmt>
+          <persName role="compiler">Algíbez Nuín</persName>
+          <persName role="informer"><geogName/></persName>
+          <persName role="encoder">Sara González</persName>
+          <persName role="editor"/>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <publisher>co_POEM Reseach Project</publisher>
+        <date>2023</date>
+        <availability>To the best of our knowledge,
+                the full compositions on this site are in the public domain,
+                the excerpts are in the public domain or are allowable under fair-use,
+                and the few compositions that are still under copyright are used by permission.
+                These scores, are provided for educational use only and are not to be used commercially.
+            </availability>
+      </pubStmt>
+      <sourceDesc>
+        <source xml:id="to_add">
+          <biblStruct>
+            <monogr>
+              <imprint>
+                <title>Cancionero Musical De Provincia De Córdoba (1886-1936)</title>
+                <title type="subordinate"/>
+                <respStmt>
+                  <persName role="compiler">José Algíbez Nuín</persName>
+                  <persName role="bibliography"/>
+                  <persName role="introduction"/>
+                  <persName role="edition">Edición Mecanografiada Con Anotaciones Manuscritas</persName>
+                </respStmt>
+                <publisher>Fondo De Música Tradicionalmusicatradicional.Eu</publisher>
+                <pubPlace>Online</pubPlace>
+                <date>2012</date>
+                <extent type="pages"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </source>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc xml:id="encodingdesc-ih6zql">
+      <appInfo xml:id="appinfo-127rlrs">
+        <application xml:id="application-1pb9mrh" isodate="2023-02-22T22:18:36" version="3.14.0-1474e80">
+          <name xml:id="name-1e9n805">Verovio</name>
+          <p xml:id="p-q0g9mc">Transcoded from MusicXML</p>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <workList>
+      <work><title type="main">Coplas De Columpio</title><author type="informant">Anonymous</author><incip type="lyrics"><incipText><head>La niña que está en la bamba es mi novia</head></incipText></incip><key mode="aeolian3">C</key><meter>Ternary</meter><tempo>None</tempo><incip type="musical"><score><section><measure copyof="#m1rm6998"/><measure copyof="#m9apo43"/></section></score></incip><langUsage>
+               <language xml:lang="es"/>
+            </langUsage>
+            <notesStmt>
+               <annot>C.M.P.P.C.-
+                  
+                  (El Carpio)
+                  Canción num. 6. Del columpio. Esta canción ofrece la característica de que el novio estaba balanceando a su 
+                  prometida mientras cantaba bastantes coplas algunas intencionadas.
+                  
+                  Letra:
+                  La niña que está en la bamba
+                  Yo le quisiera poner
+                  la corona en la cabeza.</annot>
+            </notesStmt>
+            <classification><termList><term type="genre">Children song</term><term type="region">Andalucía</term><term type="district">Córdoba</term><term type="city">El Carpio</term></termList></classification></work>
+    </workList>
+  </meiHead>
+  <music>
+    <body>
+      <mdiv xml:id="mycnrgr">
+        <score xml:id="s8w29e">
+          <scoreDef xml:id="s1npb171">
+            <pgHead xml:id="plk7axu">
+              <rend xml:id="rzijcx8" halign="center" valign="top">Canción num 6. De Columpio.</rend>
+            </pgHead>
+            <staffGrp xml:id="sjgyyax">
+              <staffDef xml:id="P1" n="1" lines="5" ppq="6">
+                <label xml:id="l1gy96a9">Piano</label>
+                <labelAbbr xml:id="l1kz00t0">Pno.</labelAbbr>
+                <instrDef xml:id="i17ho3lg" midi.channel="0" midi.instrnum="0" midi.volume="78.00%"/>
+                <clef xml:id="c1f8hl04" shape="G" line="2"/>
+                <keySig xml:id="k1nogvm5" sig="0"/>
+                <meterSig xml:id="mhumq8z" count="3" unit="4"/>
+              </staffDef>
+            </staffGrp>
+            <ambitus>
+              <ambNote type="lowest" oct="4" pname="g"/>
+              <ambNote type="highest" oct="5" pname="f"/>
+            </ambitus>
+          </scoreDef>
+          <section xml:id="spymh23"><supplied type="rythymn pattern">
+                  <beam>
+                  <note dur="8"/>
+                  <note dur="16"/>
+                  <note dur="16"/>
+                  <note dur="16"/>
+                  </beam>
+               </supplied>
+               <supplied type="phrases"><phrase n="1" startid="#n65k8zx" endid="#n15jzkjz" type="A"/><phrase n="2" startid="#n13t0p62" endid="#n1y8h6fi" type="B"/><phrase n="5" startid="#n13t0p62" endid="#n1ni28uo" type="B"/><phrase n="3" startid="#n65k8zx" endid="#n15jzkjz" type="A"/><phrase n="4" startid="#n1nzg5yy" endid="#n13js12l" type="B2"/></supplied><pb xml:id="p1jrxskh"/><measure xml:id="m1rm6998" n="1"><staff xml:id="sa6w017" n="1"><layer xml:id="l1otfcsu" n="1"><beam xml:id="b1ev5g08"><note xml:id="n65k8zx" dur.ppq="3" dur="8" oct="4" pname="g" stem.dir="up"><verse xml:id="v1h3jaaq" n="1"><syl xml:id="s5gb59m" con="s" wordpos="s">La</syl></verse><verse xml:id="vtllq0y" n="2"><syl xml:id="s1msfn3t" con="s" wordpos="s">La</syl></verse></note><note xml:id="n1n11a25" dur.ppq="3" dur="8" oct="5" pname="c" stem.dir="up"><verse xml:id="v9tywkg" n="1"><syl xml:id="s1jg7n6y" con="d" wordpos="i">ni</syl></verse><verse xml:id="vg64zy" n="2"><syl xml:id="sgufym6" con="d" wordpos="i">ni</syl></verse></note></beam><beam xml:id="b1tfr9ja"><note xml:id="np0ajvx" dur.ppq="3" dur="8" oct="5" pname="d" stem.dir="down"><verse xml:id="v1f1weh6" n="1"><syl xml:id="s1x85cgh" con="s" wordpos="t">ña</syl></verse><verse xml:id="v1foj5ul" n="2"><syl xml:id="s1y77gdb" con="s" wordpos="t">ña</syl></verse></note><note xml:id="n1iqnmhw" dur.ppq="3" dur="8" oct="5" pname="e" stem.dir="down"><verse xml:id="vua5dat" n="1"><syl xml:id="s1cjrbvv" con="s" wordpos="s">que</syl></verse><verse xml:id="v1s908c4" n="2"><syl xml:id="sh9d2go" con="s" wordpos="s">que</syl></verse></note></beam><beam xml:id="b8por3q"><note xml:id="n10jaowb" dur.ppq="3" dur="8" oct="5" pname="f" stem.dir="down"><verse xml:id="v1dl7464" n="1"><syl xml:id="s1wkakuu" con="d" wordpos="i">es</syl></verse><verse xml:id="v1d8dnu8" n="2"><syl xml:id="szwo02l" con="d" wordpos="i">es</syl></verse></note><note xml:id="n13wndvj" dur.ppq="3" dur="8" oct="5" pname="e" stem.dir="down"><verse xml:id="vyk7q1d" n="1"><syl xml:id="s1q40ukh" con="s" wordpos="t">tá en</syl></verse><verse xml:id="v1ll201l" n="2"><syl xml:id="s58imod" con="s" wordpos="t">tá en</syl></verse></note></beam></layer></staff><dir xml:id="db3po57" place="above" staff="1" tstamp="1.000000" vgrp="200"><lb xml:id="locznlc"/>C.M.P.P.C.-<lb xml:id="l1hxtlqn"/><lb xml:id="lbtculv"/>(El Carpio)<lb xml:id="l1hxybxe"/>Canción num. 6. Del columpio. Esta canción ofrece la característica de<lb xml:id="l1se7og9"/>que el novio estaba balanceando a su<lb xml:id="lx6506w"/>prometida mientras cantaba bastantes coplas algunas intencionadas.<lb xml:id="l17o5k1w"/>
+                     </dir><dir xml:id="d1jr5ywu" place="above" staff="1" tstamp="1.000000" vgrp="200">Canción nº. 6.<lb xml:id="l1g7l2it"/>
+                        <rend xml:id="r1a6s5o" fontstyle="italic"> De columpio</rend>
+                        <lb xml:id="l1osara4"/>
+                        <rend xml:id="r1a3w3rw" fontstyle="normal">.</rend>
+                     </dir></measure><measure xml:id="m9apo43" n="2"><staff xml:id="s1lukgiz" n="1"><layer xml:id="lonzc56" n="1"><beam xml:id="b1du5vz5"><note xml:id="njtdxso" dur.ppq="3" dur="8" oct="5" pname="f" stem.dir="down"><verse xml:id="vlynd24" n="1"><syl xml:id="s9eqtue" con="s" wordpos="s">la</syl></verse><verse xml:id="v29l3v2" n="2"><syl xml:id="s1h7ubmx" con="s" wordpos="s">la</syl></verse></note><tuplet xml:id="t1wc0g0y" num="3" numbase="2" bracket.visible="false"><note xml:id="naxu8xm" dur.ppq="1" dur="16" oct="5" pname="e" stem.dir="down"><verse xml:id="v1bae9f2" n="1"><syl xml:id="s16k5pqh" con="d" wordpos="i">bam</syl></verse><verse xml:id="v1b3aceq" n="2"><syl xml:id="s6e5330" con="d" wordpos="i">bam</syl></verse></note><note xml:id="n1lgd2fy" dur.ppq="1" dur="16" oct="5" pname="f" stem.dir="down"/><note xml:id="n1q3zgaw" dur.ppq="1" dur="16" oct="5" pname="e" stem.dir="down"/></tuplet></beam><note xml:id="n1xo2f14" dur.ppq="6" dur="4" oct="5" pname="d" stem.dir="down"><verse xml:id="ve4ma5r" n="1"><syl xml:id="s1dsn044" con="s" wordpos="t">ba</syl></verse><verse xml:id="vcqxyoe" n="2"><syl xml:id="sw7ax1x" con="s" wordpos="t">ba</syl></verse></note><note xml:id="n8kq5f1" dur.ppq="6" dur="4" oct="5" pname="e" stem.dir="down"><verse xml:id="vi24hj" n="1"><syl xml:id="svb6820" con="s" wordpos="s">es</syl></verse><verse xml:id="viqkwjj" n="2"><syl xml:id="s198103r" con="s" wordpos="s">Yo</syl></verse></note></layer></staff></measure><measure xml:id="mevrpi4" n="3"><staff xml:id="ss9wb7q" n="1"><layer xml:id="ln8mufi" n="1"><beam xml:id="b15ixd37"><note xml:id="nba3v25" dur.ppq="3" dur="8" oct="5" pname="f" stem.dir="down"><verse xml:id="v9sdtr7" n="1"><syl xml:id="svz5z6i" con="s" wordpos="s">mi</syl></verse><verse xml:id="vlp084g" n="2"><syl xml:id="sbzda5c" con="s" wordpos="s">le</syl></verse></note><tuplet xml:id="twhjx61" num="3" numbase="2" bracket.visible="false"><note xml:id="n18wmrjj" dur.ppq="1" dur="16" oct="5" pname="e" stem.dir="down"><verse xml:id="v1xn54ds" n="1"><syl xml:id="s1me47hy" con="d" wordpos="i">no</syl></verse><verse xml:id="v1ta2w6x" n="2"><syl xml:id="skseb0w" con="d" wordpos="i">qui</syl></verse></note><note xml:id="nl70kws" dur.ppq="1" dur="16" oct="5" pname="f" stem.dir="down"/><note xml:id="n2s5wwd" dur.ppq="1" dur="16" oct="5" pname="e" stem.dir="down"/></tuplet></beam><note xml:id="n721w06" dur.ppq="6" dur="4" oct="5" pname="d" stem.dir="down"><verse xml:id="v1utgtgj" n="1"><syl xml:id="s1pycmre" con="s" wordpos="t">via</syl></verse><verse xml:id="v1b2jbh7" n="2"><syl xml:id="s1b6mc0z" con="d" wordpos="m">sie</syl></verse></note><note xml:id="n1rg8f83" dur.ppq="6" dur="4" oct="5" pname="c" stem.dir="down"><verse xml:id="v1169wg3" n="1"><syl xml:id="s1r4lnu0" con="s" wordpos="s">y no</syl></verse><verse xml:id="v1fp8apn" n="2"><syl xml:id="snn8gyv" con="s" wordpos="t">ra</syl></verse></note></layer></staff></measure><measure xml:id="my84jxc" n="4"><staff xml:id="s1jus582" n="1"><layer xml:id="lbnbj8v" n="1"><beam xml:id="b1tin9xy"><tuplet xml:id="t1xearjr" num="3" numbase="2" bracket.visible="false"><note xml:id="nlx0mh7" dur.ppq="1" dur="16" oct="4" pname="b" stem.dir="down"><verse xml:id="v1bzmfl5" n="1"><syl xml:id="s1hoh85m" con="u" wordpos="s">me</syl></verse><verse xml:id="v1s7gdoq" n="2"><syl xml:id="s4poqez" con="d" wordpos="i">po</syl></verse></note><note xml:id="n18bygwb" dur.ppq="1" dur="16" oct="5" pname="c" stem.dir="down"/><note xml:id="n1ol4qf6" breaksec="1" dur.ppq="1" dur="16" oct="4" pname="b" stem.dir="down"/></tuplet><note xml:id="n1v10obn" dur.ppq="3" dur="8" oct="4" pname="a" stem.dir="down"><verse xml:id="v9djotb" n="1"><syl xml:id="s143mjsc" con="d" wordpos="i">pe</syl></verse><verse xml:id="v17f3wpl" n="2"><syl xml:id="sy9orne" con="u" wordpos="t">ner</syl></verse></note></beam><note xml:id="n15jzkjz" dur.ppq="12" dur="2" oct="4" pname="g" stem.dir="up" type="SR"><verse xml:id="v1xcrptk" n="1"><syl xml:id="s9jzhwz" con="s" wordpos="t">sa,</syl></verse></note></layer></staff></measure><sb xml:id="s4i1b8o"/><ending xml:id="e1vzjnpc" lendsym="angledown" n="1"><measure xml:id="m40jx8p" n="5"><staff xml:id="s135yz7n" n="1"><layer xml:id="l19bjmac" n="1"><beam xml:id="b1knwa9j"><note xml:id="n13t0p62" dur.ppq="3" dur="8" oct="5" pname="d" stem.dir="down"><verse xml:id="v1kabqnz" n="1"><syl xml:id="s14xkpgq" con="s" wordpos="s">es</syl></verse><verse xml:id="vyqm6wt" n="2"><syl xml:id="scskk4i" con="s" wordpos="s">la</syl></verse></note><note xml:id="n16xqt5m" dur.ppq="3" dur="8" oct="5" pname="e" stem.dir="down"><verse xml:id="vmwfr1s" n="1"><syl xml:id="s13lo5nb" con="s" wordpos="s">mi</syl></verse><verse xml:id="vfwlrry" n="2"><syl xml:id="sad881u" con="d" wordpos="i">co</syl></verse></note></beam><beam xml:id="bd9p857"><note xml:id="n1qso9pl" dur.ppq="3" dur="8" oct="5" pname="f" stem.dir="down"><verse xml:id="vfmhg2j" n="1"><syl xml:id="sdsz2fb" con="d" wordpos="i">no</syl></verse><verse xml:id="v1g97ned" n="2"><syl xml:id="slxtyso" con="d" wordpos="m">ro</syl></verse></note><note xml:id="n1rcm9we" dur.ppq="3" dur="8" oct="5" pname="e" stem.dir="down"><verse xml:id="v1ie1q05" n="1"><syl xml:id="s1bfek2b" con="s" wordpos="t">via</syl></verse><verse xml:id="vlzq03y" n="2"><syl xml:id="sje3glu" con="s" wordpos="t">na</syl></verse></note></beam><beam xml:id="bm78czk"><note xml:id="n7gdly3" dur.ppq="3" dur="8" oct="5" pname="d" stem.dir="down"><verse xml:id="v4ch00t" n="1"><syl xml:id="scsjlwo" con="s" wordpos="s">y no</syl></verse><verse xml:id="v8vwmjw" n="2"><syl xml:id="sdvrxuo" con="s" wordpos="s">en</syl></verse></note><note xml:id="nif00xl" dur.ppq="3" dur="8" oct="5" pname="c" stem.dir="down"><verse xml:id="vqpic5v" n="1"><syl xml:id="s16yw73x" con="s" wordpos="s">me</syl></verse><verse xml:id="vqzxga7" n="2"><syl xml:id="s1q1v71m" con="s" wordpos="s">la</syl></verse></note></beam></layer></staff></measure><measure xml:id="m1gojg7s" right="rptend" n="6"><staff xml:id="srl4pdk" n="1"><layer xml:id="lmbay48" n="1"><beam xml:id="bppcipd"><tuplet xml:id="t1krgcin" num="3" numbase="2" bracket.visible="false"><note xml:id="nxn8lj8" dur.ppq="1" dur="16" oct="4" pname="b" stem.dir="down"><verse xml:id="vg72aiy" n="1"><syl xml:id="s156tugo" con="d" wordpos="i">pe</syl></verse><verse xml:id="v13kw8zx" n="2"><syl xml:id="s112nkwh" con="d" wordpos="i">ca</syl></verse></note><note xml:id="n1yzpso4" dur.ppq="1" dur="16" oct="5" pname="c" stem.dir="down"/><note xml:id="nkh20u4" breaksec="1" dur.ppq="1" dur="16" oct="4" pname="b" stem.dir="down"/></tuplet><note xml:id="ng1b4o5" dur.ppq="3" dur="8" oct="4" pname="a" stem.dir="down"><verse xml:id="v1dovuaf" n="2"><syl xml:id="si92bw6" con="d" wordpos="m">be</syl></verse></note></beam><note xml:id="n1y8h6fi" dur.ppq="12" dur="2" oct="4" pname="g" stem.dir="up" type="SR"><verse xml:id="v1qvus0i" n="1"><syl xml:id="snxsg6d" con="s" wordpos="t">sa</syl></verse><verse xml:id="vibjipd" n="2"><syl xml:id="sc628sk" con="s" wordpos="t">za.</syl></verse></note></layer></staff></measure></ending><ending xml:id="ep3iqz5" lendsym="none" n="2"><measure xml:id="m19bgiij" n="7"><staff xml:id="s6yswyv" n="1"><layer xml:id="l1mqskg6" n="1"><beam xml:id="bnx9ut7"><note xml:id="n1nzg5yy" dur.ppq="3" dur="8" oct="5" pname="c" stem.dir="down"><verse xml:id="v61s70u" n="1"><syl xml:id="sm4rv7l" con="s" wordpos="s">es</syl></verse><verse xml:id="v1d7zhpm" n="2"><syl xml:id="snvmuly" con="s" wordpos="s">la</syl></verse></note><note xml:id="n3tldbx" dur.ppq="3" dur="8" oct="5" pname="d" stem.dir="down"><verse xml:id="vdem0h8" n="1"><syl xml:id="s9xdxgf" con="s" wordpos="s">mi</syl></verse><verse xml:id="v1hykbdo" n="2"><syl xml:id="swgtnye" con="d" wordpos="i">co</syl></verse></note></beam><beam xml:id="b1wj5bie"><note xml:id="n19ydz6j" dur.ppq="3" dur="8" oct="5" pname="e" stem.dir="down" accid="f"><verse xml:id="v1dyp968" n="1"><syl xml:id="spqubkw" con="d" wordpos="i">no</syl></verse><verse xml:id="v11wedge" n="2"><syl xml:id="svdj4sj" con="d" wordpos="m">ro</syl></verse></note><note xml:id="n1ni28uo" dur.ppq="3" dur="8" oct="5" pname="d" stem.dir="down"><verse xml:id="v14qneag" n="1"><syl xml:id="s1wh5ilq" con="s" wordpos="t">via</syl></verse><verse xml:id="v1crklms" n="2"><syl xml:id="s114wqvz" con="s" wordpos="t">na</syl></verse></note></beam><beam xml:id="b1jmekjv"><note xml:id="nhctu5e" dur.ppq="3" dur="8" oct="5" pname="e" stem.dir="down" accid.ges="f"><verse xml:id="vvdzyss" n="1"><syl xml:id="sa2wy2m" con="s" wordpos="s">y no</syl></verse><verse xml:id="v1udjwea" n="2"><syl xml:id="s1g2ljwy" con="s" wordpos="s">en</syl></verse></note><note xml:id="npyomqu" dur.ppq="3" dur="8" oct="5" pname="f" stem.dir="down"><verse xml:id="v1c7tzlj" n="1"><syl xml:id="s19u7psq" con="s" wordpos="s">me</syl></verse><verse xml:id="v1mbpfah" n="2"><syl xml:id="s10pq812" con="s" wordpos="s">la</syl></verse></note></beam></layer></staff><dir xml:id="dqy8h9b" place="above" staff="1" tstamp="1.000000" vgrp="200">menos</dir></measure></ending><measure xml:id="m7szzh9" right="end" n="8"><staff xml:id="s1mugwdw" n="1"><layer xml:id="l1rud1x8" n="1"><beam xml:id="b1590jtb"><tuplet xml:id="tgxsv7v" num="3" numbase="2" bracket.visible="false"><note xml:id="n4itkvv" dur.ppq="1" dur="16" oct="5" pname="d" stem.dir="down"><verse xml:id="v16f8597" n="1"><syl xml:id="sjr4w6i" con="d" wordpos="i">pe</syl></verse><verse xml:id="vywch1a" n="2"><syl xml:id="skmr5mp" con="d" wordpos="i">ca</syl></verse></note><note xml:id="n1n38q9s" dur.ppq="1" dur="16" oct="5" pname="e" stem.dir="down" accid="f"/><note xml:id="nq5nq1f" breaksec="1" dur.ppq="1" dur="16" oct="5" pname="d" stem.dir="down"/></tuplet><note xml:id="nfobvq3" dur.ppq="3" dur="8" oct="5" pname="c" stem.dir="down"><verse xml:id="vvyb2au" n="2"><syl xml:id="s16h43ld" con="d" wordpos="m">be</syl></verse></note></beam><note xml:id="n13js12l" dur.ppq="6" dur="4" oct="5" pname="c" stem.dir="down" type="R"><verse xml:id="v1izy2br" n="1"><syl xml:id="sk9awxl" con="s" wordpos="t">sa</syl></verse><verse xml:id="v1oq1co3" n="2"><syl xml:id="s157e222" con="s" wordpos="t">za.</syl></verse></note><rest xml:id="r1m1fzog" dur.ppq="6" dur="4"/></layer></staff><dir xml:id="d1x85f3a" place="below" staff="1" tstamp="1.500000" vgrp="40">La niña que está en la bamba<lb xml:id="ld0obz9"/>Yo le quisiera poner<lb xml:id="l8req3f"/>la corona en la cabeza.<lb xml:id="ldtcaib"/>
+                     </dir><tie xml:id="t9qlmle" startid="#nfobvq3" endid="#n13js12l"/><dir xml:id="d6h4nk2" type="dacapo" place="above" staff="1" tstamp="4.000000" vgrp="200"><rend xml:id="r19gfrtr" halign="right">D.C.</rend></dir></measure></section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>

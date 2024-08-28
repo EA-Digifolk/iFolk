@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
   <meiHead>
     <fileDesc>
       <titleStmt>
@@ -30,17 +28,17 @@
             <monogr>
               <imprint>
                 <title>Ande, Bali E Cante Del Veneto</title>
-                <title type="subordinate"></title>
+                <title type="subordinate"/>
                 <respStmt>
                   <persName role="compiler">Antonio Cornoldi</persName>
-                  <persName role="bibliography"></persName>
+                  <persName role="bibliography"/>
                   <persName role="introduction">Roberto Leydi</persName>
-                  <persName role="edition"></persName>
+                  <persName role="edition"/>
                 </respStmt>
                 <publisher>Regione Veneto, Minelliana</publisher>
                 <pubPlace>Rovigo (Ro), Italia</pubPlace>
                 <date>2002</date>
-                <extent type="pages"></extent>
+                <extent type="pages"/>
               </imprint>
             </monogr>
           </biblStruct>

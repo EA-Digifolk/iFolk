@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
     <meiHead>
         <fileDesc>
             <titleStmt>
@@ -10,7 +8,7 @@
                 <respStmt>
                     <persName role="compiler">Domingos Morais</persName>
                     <persName role="informer">
-                        <geogName></geogName>
+                        <geogName/>
                     </persName>
                     <persName role="encoder">Rebeca Gea Martínez</persName>
                     <persName role="editor">Rebeca Gea Martínez</persName>
@@ -35,9 +33,9 @@
                                 <title type="subordinate">Selecção, Versões Karaoke E Notas</title>
                                 <respStmt>
                                     <persName role="compiler">Domingos Morais</persName>
-                                    <persName role="bibliography"></persName>
-                                    <persName role="introduction"></persName>
-                                    <persName role="edition"></persName>
+                                    <persName role="bibliography"/>
+                                    <persName role="introduction"/>
+                                    <persName role="edition"/>
                                 </respStmt>
                                 <publisher>Universidade do Minho</publisher>
                                 <pubPlace>Online</pubPlace>
@@ -64,7 +62,7 @@
                 <incip type="lyrics">
                     <incipText><head/></incipText>
                 </incip>
-                <key mode="eolian">E</key>
+                <key mode="aeolian6">E</key>
                 <meter>Binary</meter>
                 <tempo>None</tempo>
                 <incip type="musical">

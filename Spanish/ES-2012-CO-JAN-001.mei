@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title type="main" xml:id="ES-2012-CO-JAN-001">Coplas De Corro</title>
+        <title type="subtitle">Alce Vd La Patita Que Hay Un Charquito</title>
+        <respStmt>
+          <persName role="compiler">Algíbez Nuín</persName>
+          <persName role="informer">Rafael [?] Director De La Banda Municipal Del Carpio En El Año 1934<geogName/></persName>
+          <persName role="encoder">Sara González</persName>
+          <persName role="editor"/>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <publisher>co_POEM Reseach Project</publisher>
+        <date>2023</date>
+        <availability>To the best of our knowledge,
+                the full compositions on this site are in the public domain,
+                the excerpts are in the public domain or are allowable under fair-use,
+                and the few compositions that are still under copyright are used by permission.
+                These scores, are provided for educational use only and are not to be used commercially.
+            </availability>
+      </pubStmt>
+      <sourceDesc>
+        <source xml:id="to_add">
+          <biblStruct>
+            <monogr>
+              <imprint>
+                <title>Cancionero Musical De Provincia De Córdoba (1886-1936)</title>
+                <title type="subordinate"/>
+                <respStmt>
+                  <persName role="compiler">José Algíbez Nuín</persName>
+                  <persName role="bibliography"/>
+                  <persName role="introduction"/>
+                  <persName role="edition">Edición Mecanografiada Con Anotaciones Manuscritas</persName>
+                </respStmt>
+                <publisher>Fondo De Música Tradicionalmusicatradicional.Eu</publisher>
+                <pubPlace>Online</pubPlace>
+                <date>2012</date>
+                <extent type="pages"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </source>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc xml:id="encodingdesc-idwubq">
+      <appInfo xml:id="appinfo-13k7z0v">
+        <application xml:id="application-1dx98nb" isodate="2023-02-22T22:18:36" version="3.14.0-1474e80">
+          <name xml:id="name-1908svy">Verovio</name>
+          <p xml:id="p-v4wonr">Transcoded from MusicXML</p>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <workList>
+      <work><title type="main">Coplas De Corro</title><author type="informant">Rafael [?] Director De La Banda Municipal Del Carpio En El Año 1934</author><incip type="lyrics"><incipText><head> Alce Vd la patita que hay un charquito</head></incipText></incip><key mode="ionian">C</key><meter>Binary</meter><tempo>None</tempo><incip type="musical"><score><section><measure copyof="#m982ero"/><measure copyof="#m1c2uxvc"/></section></score></incip><langUsage>
+               <language xml:lang="es"/>
+            </langUsage>
+            <notesStmt>
+               <annot>Canción num. 1. De corro. La cantan jóvenes de ambos sexos romando corro y así cantan bastantes letras. 
+                  Recogido de Rafael [?], director Banda Municipal del Carpio, año 1934.
+               
+               Los zapatitos, niña, son de canela
+               y por esos los hombres vuelan que vuelan.
+               Los zapatitos, niña, son de limón
+               y por eso los hombres dicen que no.</annot>
+            </notesStmt>
+            <classification><termList><term type="genre">Children song</term><term type="region">Andalucía</term><term type="district">Córdoba</term><term type="city">El Carpio</term></termList></classification></work>
+    </workList>
+  </meiHead>
+  <music>
+    <body>
+      <mdiv xml:id="mq0npdf">
+        <score xml:id="svafpbc">
+          <scoreDef xml:id="srx232h">
+            <pgHead xml:id="pehom2n">
+              <rend xml:id="rp8fa3a" halign="center" valign="top">EL CARPIO</rend>
+              <rend xml:id="r1sdhlyb" halign="center" valign="top">Canción nº 1. Coplas de corro.</rend>
+            </pgHead>
+            <staffGrp xml:id="s8op3gg">
+              <staffDef xml:id="P1" n="1" lines="5" ppq="4">
+                <label xml:id="l1dw5rn2">Piano</label>
+                <labelAbbr xml:id="lhw5tv8">Pno.</labelAbbr>
+                <instrDef xml:id="i1jriv45" midi.channel="0" midi.instrnum="0" midi.volume="78.00%"/>
+                <clef xml:id="czlmh8t" shape="G" line="2"/>
+                <keySig xml:id="k42gdre" sig="0"/>
+                <meterSig xml:id="meqqlz3" count="6" unit="8"/>
+              </staffDef>
+            </staffGrp>
+            <ambitus>
+              <ambNote type="lowest" oct="4" pname="d"/>
+              <ambNote type="highest" oct="5" pname="c"/>
+            </ambitus>
+          </scoreDef>
+          <section xml:id="s1h82cl1"><supplied type="rythymn pattern">
+                  <beam>
+                  <note dur="8"/>
+                  <note dur="16"/>
+                  <note dur="16"/>
+                  </beam>
+                  <note dur="4"/>
+                  <note dur="4"/>
+               </supplied>
+               <supplied type="phrases"><phrase n="1" startid="#nwip4m0" endid="#n1gjplo9" type="A"/><phrase n="5" startid="#n161tnzf" endid="#n1gjplo9" type="A"/><phrase n="2" startid="#n6l9otd" endid="#n413yn3" type="A2"/><phrase n="6" startid="#n6l9otd" endid="" type="A2"/><phrase n="3" startid="" endid="#n1gjplo9" type="A"/><phrase n="4" startid="#n6l9otd" endid="#n413yn3" type="A2"/><phrase n="7" startid="#n6l9otd" endid="" type="A2"/></supplied><pb xml:id="p19gyh6d"/><measure xml:id="m982ero" n="0"><mNum xml:id="m1oabhqz"/><staff xml:id="s1s86fgg" n="1"><layer xml:id="l1vf2udo" n="1"><beam xml:id="bnzube7"><note xml:id="nwip4m0" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up"><verse xml:id="v1h60dn4" n="1"><syl xml:id="sr2tsw7" con="d" wordpos="i">Al</syl></verse></note><note xml:id="n1x025vo" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up"><verse xml:id="v1tzke61" n="1"><syl xml:id="s1wx7gsi" con="s" wordpos="t">ce</syl></verse></note></beam></layer></staff><dir xml:id="d1l320y2" place="above" staff="1" tstamp="1.000000" vgrp="200"><lb xml:id="l19rozlu"/><lb xml:id="lce23fh"/><lb xml:id="loz47xc"/></dir><dir xml:id="dwqahl1" place="above" staff="1" tstamp="1.000000" vgrp="200">Canción num. 1. De corro. La cantan jóvenes de ambos sexos romando corro <lb xml:id="l102mhye"/>y así cantan bastantes letras. <lb xml:id="lthyfmi"/>
+                        <rend xml:id="rd79ekn" fontstyle="italic">Recogido de Rafael </rend>
+                        <lb xml:id="l1d8kmhh"/>
+                        <rend xml:id="rs0mxiz" fontstyle="normal">[?]</rend>
+                        <lb xml:id="lb92kft"/>
+                        <rend xml:id="r1wmn67g" fontstyle="italic">, director Banda Municipal del Carpio, año 1934.</rend>
+                        <lb xml:id="l17v00rt"/>
+                     </dir></measure><measure xml:id="m1c2uxvc" left="rptstart" n="1"><staff xml:id="s1mfrrib" n="1"><layer xml:id="l387k27" n="1"><beam xml:id="b1sav1mu"><note xml:id="n1c67jqu" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down"><verse xml:id="vb8iydl" n="1"><syl xml:id="s1az24p8" con="s" wordpos="s">Vd</syl></verse></note><note xml:id="n1i9egyo" dur.ppq="1" dur="16" oct="4" pname="b" stem.dir="down"><verse xml:id="vt123zy" n="1"><syl xml:id="s1wn3ef5" con="s" wordpos="s">la</syl></verse></note><note xml:id="nrrr1hx" dur.ppq="1" dur="16" oct="4" pname="a" stem.dir="down"><verse xml:id="vdeb4rf" n="1"><syl xml:id="s1rm7rp0" con="d" wordpos="i">pa</syl></verse></note></beam><note xml:id="n1ib6d43" dur.ppq="4" dur="4" oct="5" pname="c" stem.dir="down"><verse xml:id="v1tticpr" n="1"><syl xml:id="st0gn92" con="d" wordpos="m">ti</syl></verse></note><note xml:id="ns5mae" dur.ppq="4" dur="4" oct="4" pname="b" stem.dir="down"><verse xml:id="v162911l" n="1"><syl xml:id="s1fq8j2x" con="s" wordpos="t">ta</syl></verse></note></layer></staff></measure><measure xml:id="maunz2v" right="dbl" n="2"><staff xml:id="sed8e1y" n="1"><layer xml:id="l1rv8jfc" n="1"><beam xml:id="b1fs9icj"><note xml:id="n5kxrda" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up"><verse xml:id="vx4l0hr" n="1"><syl xml:id="s14rs93b" con="s" wordpos="s">que</syl></verse></note><note xml:id="nwmanim" dur.ppq="1" dur="16" oct="4" pname="g" stem.dir="up"><verse xml:id="v1c3f744" n="1"><syl xml:id="sj9q2t5" con="s" wordpos="s">hay</syl></verse></note><note xml:id="nunhnqe" dur.ppq="1" dur="16" oct="4" pname="f" stem.dir="up"><verse xml:id="v1c6ux82" n="1"><syl xml:id="s1bk0gg6" con="s" wordpos="s">un</syl></verse></note></beam><note xml:id="n1j9axmw" dur.ppq="4" dur="4" oct="4" pname="a" stem.dir="up"><verse xml:id="vebrqzj" n="1"><syl xml:id="s1jtp3v" con="d" wordpos="i">char</syl></verse></note><note xml:id="n1gjplo9" dur.ppq="4" dur="4" oct="4" pname="g" stem.dir="up" type="R"><verse xml:id="v1fhx1qf" n="1"><syl xml:id="s12d25n4" con="d" wordpos="m">qui</syl></verse></note></layer></staff></measure><scoreDef xml:id="s13poka6"><meterSig xml:id="m50jaz" count="2" unit="8"/></scoreDef><measure xml:id="m1cqav7x" right="dbl" n="3"><staff xml:id="s941nza" n="1"><layer xml:id="li871f8" n="1"><beam xml:id="b1qmekeh"><note xml:id="n6l9otd" dur.ppq="2" dur="8" oct="4" pname="e" stem.dir="up" type="SR"><verse xml:id="vuklpt2" n="1"><syl xml:id="sdf5t8k" con="s" wordpos="t">to</syl></verse></note><note xml:id="n1e96524" dur.ppq="2" dur="8" oct="4" pname="e" stem.dir="up"><verse xml:id="v1adhnvh" n="1"><syl xml:id="s1nmcjux" con="s" wordpos="s">y se</syl></verse></note></beam></layer></staff></measure><sb xml:id="s1ds80eo"/><scoreDef xml:id="sz8cplx"><meterSig xml:id="m1cv7g1i" count="3" unit="4"/></scoreDef><measure xml:id="m180xzok" n="4"><staff xml:id="s1mvvk9z" n="1"><layer xml:id="l1fz5n4d" n="1"><beam xml:id="bl533xp"><note xml:id="nlgh0ab" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up"><verse xml:id="v6f43hu" n="1"><syl xml:id="ssfaoc5" con="s" wordpos="s">va</syl></verse></note><note xml:id="nv9cwqf" dur.ppq="1" dur="16" oct="4" pname="f" stem.dir="up"><verse xml:id="v1s1ddn5" n="1"><syl xml:id="sq854mt" con="s" wordpos="s">Vd</syl></verse></note><note xml:id="nyanmls" dur.ppq="1" dur="16" oct="4" pname="e" stem.dir="up"><verse xml:id="vzbnsjf" n="1"><syl xml:id="ssu0nuy" con="s" wordpos="s">a</syl></verse></note></beam><note xml:id="n1dmeh2c" dur.ppq="4" dur="4" oct="4" pname="g" stem.dir="up"><verse xml:id="v1151wjg" n="1"><syl xml:id="s1rjaykl" con="d" wordpos="i">mo</syl></verse></note><note xml:id="n1xunnzj" dur.ppq="4" dur="4" oct="4" pname="f" stem.dir="up"><verse xml:id="v1xefud8" n="1"><syl xml:id="s1fga58z" con="s" wordpos="t">jar</syl></verse></note></layer></staff><dir xml:id="d98oroz" staff="1" tstamp="3.000000" vgrp="40">Los zapatitos, niña, son de canela<lb xml:id="lgcvzm4"/>y por esos los hombres vuelan que vuelan.<lb xml:id="l1nhm62n"/>Los zapatitos, niña, son de limón<lb xml:id="l13hlz3x"/>y por eso los hombres dicen que no.<lb xml:id="l10a5tyv"/>
+                     </dir></measure><measure xml:id="m1avbzru" right="rptend" n="5"><staff xml:id="s1r8glzp" n="1"><layer xml:id="ly1dy0y" n="1"><beam xml:id="b1y279u7"><note xml:id="nhva7hr" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up"><verse xml:id="v1c4eouh" n="1"><syl xml:id="sgunqbk" con="s" wordpos="s">los</syl></verse></note><note xml:id="n17ylaxi" dur.ppq="1" dur="16" oct="4" pname="e" stem.dir="up"><verse xml:id="vx3f0p0" n="1"><syl xml:id="s11loezz" con="d" wordpos="i">za</syl></verse></note><note xml:id="nd66oh1" dur.ppq="1" dur="16" oct="4" pname="d" stem.dir="up"><verse xml:id="vrvqpc1" n="1"><syl xml:id="snnqk4p" con="d" wordpos="m">pa</syl></verse></note></beam><note xml:id="n161tnzf" dur.ppq="4" dur="4" oct="4" pname="f" stem.dir="up"><verse xml:id="v1rqb06h" n="1"><syl xml:id="s10670wy" con="d" wordpos="m">ti</syl></verse></note><note xml:id="n413yn3" dur.ppq="4" dur="4" oct="4" pname="e" stem.dir="up" type="SR"><verse xml:id="vbcfng7" n="1"><syl xml:id="szws7wj" con="s" wordpos="t">tos</syl></verse></note></layer></staff></measure></section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>
