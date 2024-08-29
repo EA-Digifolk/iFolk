@@ -6,7 +6,7 @@ Dataset of Spanish, Italian and Portuguese folk tunes in symbolic MEI (Music Enc
 Files that are not correct yet:
 - [ ] iFolk/Italian/IT-1954-Friuli-Fl-XXX.mei
 - [x] iFolk/Spanish/ES-1948-CB-CO-120.mei 
-- [ ] iFolk/Spanish/ES-1948-CB-CO-244.mei 
+- [x] iFolk/Spanish/ES-1948-CB-CO-244.mei 
 - [ ] iFolk/Spanish/ES-1948-CB-CO-304.mei 
 - [ ] iFolk/Spanish/ES-1948-CB-CO-310.mei 
 - [ ] iFolk/Spanish/ES-1948-CB-CO-312.mei 
