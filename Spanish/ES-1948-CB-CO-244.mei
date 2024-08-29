@@ -1,20 +1,82 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
     <meiHead>
-        <fileDesc>
+               <fileDesc>
             <titleStmt>
-                <title>
-                    244. A la Virgen María.
+                <title type="main" xml:id="ES-1948-CB-CO-244">
+                    244. A La Virgen María
                 </title>
-                <respStmt/>
+                <title type="subtitle">
+                    244. A La Virgen María
+                </title>
+                <respStmt>
+                    <persName role="compiler">
+                        Córdova y Oña
+                    </persName>
+                    <persName role="informer">
+                        <geogName/>
+                    </persName>
+                    <persName role="encoder">
+                        Sara González
+                    </persName>
+                    <persName role="editor"/>
+                </respStmt>
             </titleStmt>
             <pubStmt>
-                <date isodate="2022-11-28" type="encoding-date">
-                    2022-11-28
+                <publisher>
+                    co_POEM Reseach Project
+                </publisher>
+                <date>
+                    2023
                 </date>
+                <availability>
+                    To the best of our knowledge,
+                the full compositions on this site are in the public domain,
+                the excerpts are in the public domain or are allowable under fair-use,
+                and the few compositions that are still under copyright are used by permission.
+                These scores, are provided for educational use only and are not to be used commercially.
+                </availability>
             </pubStmt>
-        </fileDesc>
-        <encodingDesc xml:id="encodingdesc-1ezoowk">
+            <sourceDesc>
+                <source xml:id="to_add">
+                    <biblStruct>
+                        <monogr>
+                            <imprint>
+                                <title>
+                                    Cancionero Popular De La Provincia De Santander
+                                </title>
+                                <title type="subordinate">
+                                    Cancionero Infantil Español, Libro Primero
+                                </title>
+                                <respStmt>
+                                    <persName role="compiler">
+                                        Sixto Córdova Y Oña
+                                    </persName>
+                                    <persName role="bibliography"/>
+                                    <persName role="introduction"/>
+                                    <persName role="edition"/>
+                                </respStmt>
+                                <publisher>
+                                    Excma. Diputación Provincial De Santander
+                                </publisher>
+                                <pubPlace>
+                                    Santander
+                                </pubPlace>
+                                <date>
+                                    1948
+                                </date>
+                                <extent type="pages">
+                                    391.0
+                                </extent>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+                </source>
+            </sourceDesc>
+        </fileDesc> 
+       <encodingDesc xml:id="encodingdesc-1ezoowk">
             <appInfo xml:id="appinfo-t5rnhn">
                 <application xml:id="application-7wwgi8" isodate="2023-02-22T22:18:28" version="3.14.0-1474e80">
                     <name xml:id="name-v3dbuv">
@@ -26,6 +88,74 @@
                 </application>
             </appInfo>
         </encodingDesc>
+       <workList>
+            <work>
+                <title type="main">
+                    A La Virgen María
+                </title>
+                <author type="informant">
+                    Anonymous
+                </author>
+                <incip type="lyrics">
+                    <incipText>
+                        <head>
+                            A la Virgen María
+                        </head>
+                    </incipText>
+                </incip>
+                <key mode="minor">
+                    G
+                </key>
+                <meter>
+                		Compound
+                </meter>
+                <tempo>
+                    Alegro moderado, q=120
+                </tempo>
+                <incip type="musical">
+                    <score>
+                        <section>
+                            <measure copyof="#mfgml6j"/>
+                            <measure copyof="#m1kgvj9e"/>
+                        </section>
+                    </score>
+                </incip>
+                <langUsage>
+                    <language xml:lang="es"/>
+                </langUsage>
+                <notesStmt>
+                    <annot>
+                       A la Virgen María 
+                       le han hecho un manto 
+                       de color de los cielos, 
+                       azul y blanco,
+                       y de lo que ha sobrado 
+                       le han hecho al Niño,
+                       pantalón y chaqueta 
+                       para el domingo.
+                       
+                       El Niño Jesús me ha dicho
+                       que no se lo diga a nadie,
+                       que su corazón y el mío
+                       estan cerrados con llave.
+                    </annot>
+                </notesStmt>
+                <classification>
+                    <termList>
+                        <term type="genre">
+                            Children song
+                        </term>
+                        <term type="region">
+                            Cantabria
+                        </term>
+                        <term type="district">
+                            Santander
+                        </term>
+                        <term type="city"/>
+                    </termList>
+                </classification>
+            </work>
+        </workList>
     </meiHead>
     <music>
         <body>
@@ -50,9 +180,29 @@
                                 <keySig xml:id="k1kgaikc" sig="2f"/>
                                 <meterSig xml:id="mb3m11o" count="3" unit="4"/>
                             </staffDef>
-                        </staffGrp>
+                        </staffGrp><ambitus>
+                            <ambNote type="lowest" oct="4" pname="d"/>
+                            <ambNote type="highest" oct="5" pname="d"/>
+                        </ambitus>
                     </scoreDef>
                     <section xml:id="s1ew0ocx">
+                        <supplied type="rythymn pattern">
+                            <beam>
+                                <note dur="8"/>
+                                <note dur="8"/>
+                            </beam>
+                           <note dur="4"/>
+                            <beam>
+                                <note dur="8"/>
+                                <note dur="8"/>
+                            </beam>
+                        </supplied>
+                        <supplied type="phrases">
+                            <phrase n="1" startid="#niw7tgs" endid="#n9y5l9d" type="A1"/>
+                            <phrase n="1" startid="#n1c3ca1g" endid="#nbf7n5m" type="A2"/>
+                            <phrase n="3" startid="#n5j1iri" endid="#ne5zb8j" type="B1"/>
+                            <phrase n="4" startid="#n19h8qyw" endid="#n111t74n" type="B2"/>
+                        </supplied>
                         <pb xml:id="p1df9iqv"/>
                         <measure xml:id="mcf26t7" n="0">
                             <mNum xml:id="m1rz0cve"/>
@@ -80,10 +230,7 @@
                                 <rend xml:id="rpbskvi" fontfam="FreeSerif" fontweight="bold">
                                     Alegro moderado
                                 </rend>
-                                <rend xml:id="r1xvl7r4" fontfam="smufl">
-                                    
-                                </rend>
-                                = 120
+                                ♩ = 120
                             </tempo>
                         </measure>
                         <measure xml:id="mfgml6j" left="rptstart" right="dbl" n="1">
