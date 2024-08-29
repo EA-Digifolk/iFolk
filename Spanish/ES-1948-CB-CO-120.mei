@@ -99,14 +99,14 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="minor">
+                <key mode="aeolian">
                     G
                 </key>
                 <meter>
-                    binario
+                    Binary
                 </meter>
                 <tempo>
-                    Alegro moderato; Alegro moderato. q=114
+                    Alegro moderato, ♩=114
                 </tempo>
                 <incip type="musical">
                     <score>
@@ -166,6 +166,10 @@
                                 <meterSig xml:id="m1esnn6q" count="2" unit="4"/>
                             </staffDef>
                         </staffGrp>
+                       <ambitus>
+                          <ambNote type="lowest" oct="4" pname="f"/>
+                          <ambNote type="highest" oct="5" pname="d"/>
+                       </ambitus>
                     </scoreDef>
                     <section xml:id="sd7hq7i">
                        <supplied type="rythymn pattern">
@@ -212,15 +216,10 @@
                             </staff>
                             <tempo xml:id="t92cdew" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="116.000000">
                                 <rend xml:id="rfb695y" fontweight="bold">
-                                    Alegro moderato. 
+                                    Alegro moderato.
                                 </rend>
-                                <lb xml:id="l8h4rah"/>
-                                <rend xml:id="rylb69n" fontfam="Helsinki Text Std">
-                                    q
-                                </rend>
-                                <lb xml:id="l1dxskl8"/>
                                 <rend xml:id="r5cpev4" fontfam="Edwin">
-                                    = 114
+                                   ♩ = 114
                                 </rend>
                             </tempo>
                         </measure>
