@@ -9,7 +9,7 @@ Files that are not correct yet:
 - [x] iFolk/Spanish/ES-1948-CB-CO-244.mei 
 - [x] iFolk/Spanish/ES-1948-CB-CO-304.mei 
 - [x] iFolk/Spanish/ES-1948-CB-CO-310.mei 
-- [ ] iFolk/Spanish/ES-1948-CB-CO-312.mei 
+- [x] iFolk/Spanish/ES-1948-CB-CO-312.mei 
 - [ ] iFolk/Spanish/ES-1948-CB-CO-314.mei 
 - [ ] iFolk/Spanish/ES-1948-CB-CO-332.mei 
 - [ ] iFolk/Spanish/ES-1948-CB-CO-354.mei 
