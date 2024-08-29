@@ -3,18 +3,78 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title>
-                    332. Con los ojos del alma. — Río verde.
+                <title type="main" xml:id="ES-1948-CB-CO-332">
+                    332. Con los ojos del alma.
                 </title>
-                <respStmt/>
+                <title type="subtitle">
+                    Río Verde.
+                </title>
+                <respStmt>
+                    <persName role="compiler">
+                        Córdova y Oña
+                    </persName>
+                    <persName role="informer">
+                        <geogName/>
+                    </persName>
+                    <persName role="encoder">
+                        Sara González
+                    </persName>
+                    <persName role="editor"/>
+                </respStmt>
             </titleStmt>
             <pubStmt>
-                <date isodate="2022-11-28" type="encoding-date">
-                    2022-11-28
+                <publisher>
+                    co_POEM Reseach Project
+                </publisher>
+                <date>
+                    2023
                 </date>
+                <availability>
+                    To the best of our knowledge,
+                the full compositions on this site are in the public domain,
+                the excerpts are in the public domain or are allowable under fair-use,
+                and the few compositions that are still under copyright are used by permission.
+                These scores, are provided for educational use only and are not to be used commercially.
+                </availability>
             </pubStmt>
+            <sourceDesc>
+                <source xml:id="to_add">
+                    <biblStruct>
+                        <monogr>
+                            <imprint>
+                                <title>
+                                    Cancionero Popular De La Provincia De Santander
+                                </title>
+                                <title type="subordinate">
+                                    Cancionero Infantil Español, Libro Primero
+                                </title>
+                                <respStmt>
+                                    <persName role="compiler">
+                                        Sixto Córdova Y Oña
+                                    </persName>
+                                    <persName role="bibliography"/>
+                                    <persName role="introduction"/>
+                                    <persName role="edition"/>
+                                </respStmt>
+                                <publisher>
+                                    Excma. Diputación Provincial De Santander
+                                </publisher>
+                                <pubPlace>
+                                    Santander
+                                </pubPlace>
+                                <date>
+                                    1948
+                                </date>
+                                <extent type="pages">
+                                    391.0
+                                </extent>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+                </source>
+            </sourceDesc>
         </fileDesc>
-        <encodingDesc xml:id="encodingdesc-2vk77h">
+       <encodingDesc xml:id="encodingdesc-2vk77h">
             <appInfo xml:id="appinfo-umqv1">
                 <application xml:id="application-18aqhm5" isodate="2023-02-22T22:18:30" version="3.14.0-1474e80">
                     <name xml:id="name-omh4zk">
@@ -26,6 +86,95 @@
                 </application>
             </appInfo>
         </encodingDesc>
+       <workList>
+            <work>
+                <title type="main">
+                    Con los ojos del alma. Río Verde.
+                </title>
+                <author type="informant">
+                    Anonymous
+                </author>
+                <incip type="lyrics">
+                    <incipText>
+                        <head>
+                           Con los ojos del alma te estoy mirando
+                           y con los dela cara, disimulando.
+                           
+                           Río, río verde, trilara lará,
+                         	donde las mis amigas se van a embarcar
+                           para Puerto Rico, para Puerto Real,
+                           puerto de Valencia, a orilla del mar.
+                           
+                           Duerme, niño chiquito, duerme mi alma;
+                           duérmete lucerito de la mañana.
+                           
+                           Río, río verde, trilara lará,
+                         	donde las mis amigas se van a embarcar
+                           para Puerto Rico, para Puerto Real,
+                           puerto de Valencia, a orilla del mar.
+                        </head>
+                    </incipText>
+                </incip>
+                <key mode="major">
+                    C
+                </key>
+                <meter>
+                    Binary
+                </meter>
+                <tempo>
+                    Alegro vivo
+                </tempo>
+                <incip type="musical">
+                    <score>
+                        <section>
+                            <measure copyof="#m1x25lde"/>
+                            <measure copyof="#m13ffakp"/>
+                        </section>
+                    </score>
+                </incip>
+                <langUsage>
+                    <language xml:lang="es"/>
+                </langUsage>
+                <notesStmt>
+                    <annot>
+                        
+                           Con los ojos del alma te estoy mirando
+                           y con los dela cara, disimulando.
+                           
+                           Río, río verde, trilara lará,
+                         	donde las mis amigas se van a embarcar
+                           para Puerto Rico, para Puerto Real,
+                           puerto de Valencia, a orilla del mar.
+                           
+                           Duerme, niño chiquito, duerme mi alma;
+                           duérmete lucerito de la mañana.
+                           
+                           Río, río verde, trilara lará,
+                         	donde las mis amigas se van a embarcar
+                           para Puerto Rico, para Puerto Real,
+                           puerto de Valencia, a orilla del mar.
+                       
+                       Canción bailable de Lantueno, adoptada por las niñas.
+                       Recuerda al canto infantil
+                       "Yo tenía una torre de chocolate".
+                    </annot>
+                </notesStmt>
+                <classification>
+                    <termList>
+                        <term type="genre">
+                            Children song
+                        </term>
+                        <term type="region">
+                            Cantabria
+                        </term>
+                        <term type="district">
+                            Santander
+                        </term>
+                        <term type="city"/>
+                    </termList>
+                </classification>
+            </work>
+        </workList>
     </meiHead>
     <music>
         <body>
@@ -69,12 +218,8 @@
                             </staff>
                             <tempo xml:id="t1az2wl8" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="160.000000" mm="160.000000" mm.unit="4">
                                 <rend xml:id="rriu1ae" fontfam="FreeSerif" fontweight="bold">
-                                    Alegro vivo.
+                                    Alegro vivo. ♩ = 160
                                 </rend>
-                                <rend xml:id="rw7itm1" fontfam="smufl">
-                                    
-                                </rend>
-                                = 160
                             </tempo>
                         </measure>
                         <measure xml:id="m1nn3jyy" left="rptstart" n="1">
