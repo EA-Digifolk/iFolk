@@ -200,9 +200,7 @@
                         </supplied>
                         <supplied type="phrases">
                             <phrase n="1" startid="#n1oo7uhg" endid="#noqm9n4" type="A"/>
-                            <phrase n="2" startid="" endid="#n2vpmyi" type="B"/>
-                            <phrase n="3" startid="#n1oo7uhg" endid="#noqm9n4" type="A"/>
-                            <phrase n="4" startid="" endid="#n2vpmyi" type="B"/>
+                            <phrase n="2" startid="#nbcypid" endid="#n2vpmyi" type="B"/>
                         </supplied>
                         <pb xml:id="p17qypqo"/>
                         <measure xml:id="m6e7lhi" n="1">
