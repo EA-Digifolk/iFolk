@@ -193,13 +193,7 @@
                         </supplied>
                         <supplied type="phrases">
                             <phrase n="1" startid="#n1ov7rn4" endid="#n3odtum" type="A"/>
-                            <phrase n="5" startid="#n1ov7rn4" endid="#n1qynrnd" type="A"/>
-                            <phrase n="2" startid="#n1ov7rn4" endid="#n3odtum" type="A"/>
-                            <phrase n="6" startid="#n1ov7rn4" endid="#n1qynrnd" type="A"/>
-                            <phrase n="3" startid="#nhimjdp" endid="#n1o9f562" type="A2"/>
-                            <phrase n="7" startid="#nhimjdp" endid="" type="A2"/>
-                            <phrase n="4" startid="#nhimjdp" endid="#n1o9f562" type="A2"/>
-                            <phrase n="8" startid="#nhimjdp" endid="" type="A2"/>
+                            <phrase n="2" startid="#nhimjdp" endid="#n1o9f562" type="A2"/>
                         </supplied>
                         <measure xml:id="m1l7klrx" left="rptstart" n="1">
                             <staff xml:id="sqqz7vw" n="1">
