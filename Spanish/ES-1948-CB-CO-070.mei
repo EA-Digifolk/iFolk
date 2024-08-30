@@ -165,17 +165,10 @@
                         <supplied type="rythymn pattern"/>
                         <supplied type="phrases">
                             <phrase n="1" startid="#n1qe2753" endid="#n1y5xfxb" type="A"/>
-                            <phrase n="8" startid="#n1qe2753" endid="#npcr6oj" type="A"/>
-                            <phrase n="2" startid="#n1qe2753" endid="#n1y5xfxb" type="A"/>
-                            <phrase n="9" startid="#n1qe2753" endid="#npcr6oj" type="A"/>
-                            <phrase n="3" startid="#npcr6oj" endid="#n1kiotwv" type="B"/>
-                            <phrase n="4" startid="#n18bjyiw" endid="#nwezvnm" type="CODA"/>
-                            <phrase n="10" startid="#n18bjyiw" endid="" type="CODA"/>
-                            <phrase n="5" startid="#n1qe2753" endid="#n1y5xfxb" type="A"/>
-                            <phrase n="11" startid="#n1qe2753" endid="#npcr6oj" type="A"/>
-                            <phrase n="6" startid="#npcr6oj" endid="#n1kiotwv" type="B"/>
-                            <phrase n="7" startid="#n18bjyiw" endid="#nwezvnm" type="CODA"/>
-                            <phrase n="12" startid="#n18bjyiw" endid="" type="CODA"/>
+                            <phrase n="2" startid="#npcr6oj" endid="#nbydevn" type="B"/>
+                            <phrase n="3" startid="#nyxmss6" endid="#n1kiotwv" type="C"/>
+                            <phrase n="4" startid="#n18bjyiw" endid="#n1jjndrv" type="D"/>
+                            <phrase n="5" startid="#n15l36jk" endid="#nwezvnm" type="E"/>
                         </supplied>
                         <pb xml:id="p1uris8h"/>
                         <measure xml:id="mxbwqnr" n="1">
