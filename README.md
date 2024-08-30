@@ -28,7 +28,7 @@ Dataset of Spanish, Italian and Portuguese folk tunes in symbolic MEI (Music Enc
 
 #### Incomplete/Wrong:
 
-- [ ] IT-1952-RO-CO-020a
+- [x] IT-1952-RO-CO-020a
 - [ ] IT-1952-RO-CO-031a
 - [ ] IT-1957-TO-NI-169b
 - [ ] IT-XXXX-RO-CO-046
