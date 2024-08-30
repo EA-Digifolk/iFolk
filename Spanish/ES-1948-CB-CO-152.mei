@@ -190,10 +190,6 @@
                         <supplied type="phrases">
                             <phrase n="1" startid="#ny0gf81" endid="#n1ong47p" type="A"/>
                             <phrase n="2" startid="#nj5i9vy" endid="#nyni0q6" type="CODA"/>
-                            <phrase n="5" startid="#nj5i9vy" endid="" type="CODA"/>
-                            <phrase n="3" startid="#ny0gf81" endid="#n1ong47p" type="A"/>
-                            <phrase n="4" startid="#nj5i9vy" endid="#nyni0q6" type="CODA"/>
-                            <phrase n="6" startid="#nj5i9vy" endid="" type="CODA"/>
                         </supplied>
                         <measure xml:id="mjj0v9i" n="1">
                             <staff xml:id="s5cl8tq" n="1">
