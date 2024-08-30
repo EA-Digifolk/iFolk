@@ -203,9 +203,6 @@
                         <supplied type="phrases">
                             <phrase n="1" startid="#nxkw1ln" endid="#n60vnqn" type="A"/>
                             <phrase n="2" startid="#n1i904in" endid="#n16ar52t" type="A2"/>
-                            <phrase n="4" startid="#n1i904in" endid="" type="A2"/>
-                            <phrase n="3" startid="#n1i904in" endid="#n16ar52t" type="A2"/>
-                            <phrase n="5" startid="#n1i904in" endid="" type="A2"/>
                         </supplied>
                         <pb xml:id="p2jjx9d"/>
                         <measure xml:id="m1icgdk1" n="1">
@@ -238,11 +235,7 @@
                             </staff>
                             <tempo xml:id="t1g9xfgp" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="138.000000" mm="138.000000" mm.unit="8">
                                 <rend xml:id="r1dv17z4" fontfam="FreeSerif" fontweight="bold">
-                                    Andantino. (M.M.
-                                </rend>
-                                <lb xml:id="l17dm2ca"/>
-                                <rend xml:id="rn7i63r" fontfam="FreeSerif" fontweight="bold">
-                                    )
+                                    Andantino. (M.M.)
                                 </rend>
                                 <rend xml:id="r1f7sctt" fontfam="smufl">
                                     
