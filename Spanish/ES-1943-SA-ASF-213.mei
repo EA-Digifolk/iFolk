@@ -196,8 +196,8 @@
                         </supplied>
                         <supplied type="phrases">
                             <phrase n="1" startid="#ne49vxy" endid="#ny13qgf" type="A"/>
-                            <phrase n="2" startid="#n1t6qivz" endid="#n1u4dgpf" type="A"/>
-                            <phrase n="3" startid="" endid="#nf0cikg" type="A2"/>
+                            <phrase n="2" startid="#n1t6qivz" endid="#n1x2voaf" type="A1"/>
+                            <phrase n="3" startid="#n8je3td" endid="#nf0cikg" type="A2"/>
                             <phrase n="4" startid="#n2103nh" endid="#n1dqawwe" type="A3"/>
                             <phrase n="5" startid="#n8sii49" endid="#n1bqlqnv" type="A4"/>
                             <phrase n="6" startid="#n1bmsomr" endid="#n1ymeafa" type="A5"/>
@@ -219,11 +219,7 @@
                             </staff>
                             <tempo xml:id="taglsxt" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="116.000000" mm="116.000000" mm.unit="4">
                                 <rend xml:id="r1vlgq8u" fontfam="FreeSerif" fontweight="bold">
-                                    Allegretto. (M.M.
-                                </rend>
-                                <lb xml:id="ldhi293"/>
-                                <rend xml:id="rmqc9cr" fontfam="FreeSerif" fontweight="bold">
-                                    )
+                                    Allegretto. (M.M.)
                                 </rend>
                                 <rend xml:id="r1dritlh" fontfam="smufl">
                                     
