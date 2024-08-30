@@ -192,10 +192,6 @@
                         <supplied type="phrases">
                             <phrase n="1" startid="#n1sgzl6e" endid="#n1d2k6s3" type="A"/>
                             <phrase n="2" startid="#nuu570j" endid="#nstlpqq" type="CODA"/>
-                            <phrase n="5" startid="#nuu570j" endid="" type="CODA"/>
-                            <phrase n="3" startid="" endid="#n1d2k6s3" type="A"/>
-                            <phrase n="4" startid="#nuu570j" endid="#nstlpqq" type="CODA"/>
-                            <phrase n="6" startid="#nuu570j" endid="" type="CODA"/>
                         </supplied>
                         <pb xml:id="pycs8rd"/>
                         <measure xml:id="mpjozsj" n="1">
