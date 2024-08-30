@@ -277,12 +277,9 @@
                             </staff>
                             <tempo xml:id="t1yzq696" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="50.000000" mm="50.000000" mm.unit="4">
                                 <rend xml:id="r1wpyymx" fontfam="FreeSerif" fontweight="bold">
-                                    Andante casi Adagio. (M.M.
+                                    Andante casi Adagio. (M.M.)
                                 </rend>
                                 <lb xml:id="luazc7h"/>
-                                <rend xml:id="r1y30dxq" fontfam="FreeSerif" fontweight="bold">
-                                    )
-                                </rend>
                                 <rend xml:id="rylfmy8" fontfam="smufl">
                                     
                                 </rend>
