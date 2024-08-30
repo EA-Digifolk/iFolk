@@ -37,7 +37,7 @@ Dataset of Spanish, Italian and Portuguese folk tunes in symbolic MEI (Music Enc
 - [ ] IT-XXXX-VE-VA-025
 - [ ] IT-XXXX-VE-VA-027
 - [ ] IT-XXXX-VI-PA-059
-- [ ] PT-1998-XX-DM-009
+- [x] PT-1998-XX-DM-009
 - [ ] ES-1943-SA-ASF-094
 - [ ] ES-1943-SA-ASF-123
 - [ ] ES-1943-SA-ASF-209
