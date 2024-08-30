@@ -200,10 +200,8 @@
                             <note dur="8" tie="t"/>
                         </supplied>
                         <supplied type="phrases">
-                            <phrase n="1" startid="#ni0dams" endid="#nmgyye2" type="A"/>
-                            <phrase n="3" startid="#ni0dams" endid="" type="A"/>
-                            <phrase n="2" startid="#ni0dams" endid="#nmgyye2" type="A"/>
-                            <phrase n="4" startid="#ni0dams" endid="" type="A"/>
+                            <phrase n="1" startid="#ni0dams" endid="#ntki0el" type="A"/>
+                            <phrase n="2" startid="#n1h1tgdi" endid="#nmgyye2" type="A"/>
                         </supplied>
                         <measure xml:id="m1ofg87h" n="1">
                             <staff xml:id="s1cqoq37" n="1">
