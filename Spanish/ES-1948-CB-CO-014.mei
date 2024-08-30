@@ -178,11 +178,9 @@
                             <rest dur="8"/>
                         </supplied>
                         <supplied type="phrases">
-                            <phrase n="1" startid="#n1g5ccn7" endid="#nkuk6pz" type="A"/>
-                            <phrase n="2" startid="#nzkqn4h" endid="#ncvqk3t" type="CODA"/>
-                            <phrase n="4" startid="#nzkqn4h" endid="" type="CODA"/>
-                            <phrase n="3" startid="#nzkqn4h" endid="#ncvqk3t" type="CODA"/>
-                            <phrase n="5" startid="#nzkqn4h" endid="" type="CODA"/>
+                            <phrase n="1" startid="#n1g5ccn7" endid="#n1gp320m" type="A"/>
+                            <phrase n="2" startid="#n10b61q6" endid="#nkuk6pz" type="A2"/>
+                            <phrase n="3" startid="#nzkqn4h" endid="#cvqk3t" type="A3"/>
                         </supplied>
                         <pb xml:id="px26g6p"/>
                         <measure xml:id="mhq8iha" n="1">
