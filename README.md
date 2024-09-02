@@ -116,30 +116,30 @@ Dataset of Spanish, Italian and Portuguese folk tunes in symbolic MEI (Music Enc
 - [x] ES-1948-CB-CO-321
 - [x] ES-1948-CB-CO-327
 - [x] ES-1948-CB-CO-329
-- [ ] ES-1948-CB-CO-339
-- [ ] ES-1948-CB-CO-341
-- [ ] ES-1948-CB-CO-342
-- [ ] ES-1948-CB-CO-355
-- [ ] ES-1948-CB-CO-360
-- [ ] ES-1948-CB-CO-361
-- [ ] ES-1948-CB-CO-363
-- [ ] ES-1948-CB-CO-368
-- [ ] ES-1948-CB-CO-369
-- [ ] ES-1948-CB-CO-370
-- [ ] ES-1948-CB-CO-372
-- [ ] ES-1948-CB-CO-373
-- [ ] ES-1948-CB-CO-374
-- [ ] ES-1948-CB-CO-375
-- [ ] ES-1948-CB-CO-377
-- [ ] ES-1948-CB-CO-383
-- [ ] ES-1948-CB-CO-386
-- [ ] ES-1948-CB-CO-388
-- [ ] ES-1948-CB-CO-389
-- [ ] ES-1948-CB-CO-390
-- [ ] ES-1948-CB-CO-392
-- [ ] ES-1948-CB-CO-393
-- [ ] ES-1948-CB-CO-396
-- [ ] ES-1948-CB-CO-397
+- [x] ES-1948-CB-CO-339
+- [x] ES-1948-CB-CO-341
+- [x] ES-1948-CB-CO-342
+- [x] ES-1948-CB-CO-355
+- [x] ES-1948-CB-CO-360
+- [x] ES-1948-CB-CO-361
+- [x] ES-1948-CB-CO-363
+- [x] ES-1948-CB-CO-368
+- [x] ES-1948-CB-CO-369
+- [x] ES-1948-CB-CO-370
+- [x] ES-1948-CB-CO-372
+- [x] ES-1948-CB-CO-373
+- [x] ES-1948-CB-CO-374
+- [x] ES-1948-CB-CO-375
+- [x] ES-1948-CB-CO-377
+- [x] ES-1948-CB-CO-383
+- [x] ES-1948-CB-CO-386
+- [x] ES-1948-CB-CO-388
+- [x] ES-1948-CB-CO-389
+- [x] ES-1948-CB-CO-390
+- [x] ES-1948-CB-CO-392
+- [x] ES-1948-CB-CO-393
+- [x] ES-1948-CB-CO-396
+- [x] ES-1948-CB-CO-397
 - [ ] ES-1948-CB-CO-400
 - [ ] ES-1948-CB-CO-401
 - [ ] ES-1948-CB-CO-403
