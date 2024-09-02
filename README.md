@@ -36,35 +36,6 @@ Dataset of Spanish, Italian and Portuguese folk tunes in symbolic MEI (Music Enc
 - [ ] IT-XXXX-VE-VA-025
 - [ ] IT-XXXX-VE-VA-027
 - [ ] IT-XXXX-VI-PA-059
-- [ ] ES-1948-IB-FP-008
-- [ ] ES-1948-IB-FP-009
-- [ ] ES-1948-M-FP-020
-- [ ] ES-1948-SS-FP-017
-- [ ] ES-1948-T-FP-010
-- [ ] ES-1948-T-FP-012
-- [ ] ES-1948-T-FP-019
-- [ ] ES-1980-CB-CO-336
-- [ ] ES-1980-CB-CO-347
-- [ ] ES-1980-CB-CO-358
-- [ ] ES-1980-CB-CO-378
-- [ ] ES-1980-CB-CO-383
-- [ ] ES-2006-TE-MAL-061
-- [ ] ES-2006-TE-MAL-207
-- [ ] ES-2008-SA-DL-001 
-- [ ] ES-2008-SA-DL-002 
-- [ ] ES-2008-SA-DL-003 
-- [ ] ES-2008-SA-DL-004 
-- [ ] ES-2008-SA-DL-005 
-- [ ] ES-2008-SA-DL-006 
-- [ ] ES-2008-SA-DL-007 
-- [ ] ES-2008-SA-DL-008 
-- [ ] ES-2008-SA-DL-009 
-- [ ] ES-2008-SA-DL-010 
-- [ ] ES-2008-SA-DL-011 
-- [ ] ES-2008-SA-DL-012 
-- [ ] ES-2008-SA-DL-013 
-- [ ] ES-2008-SA-DL-014 
-- [ ] ES-2008-SA-DL-015 
 
 #### No information:
 
