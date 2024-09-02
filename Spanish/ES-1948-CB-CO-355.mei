@@ -184,12 +184,10 @@
                             <note dur="8"/>
                         </supplied>
                         <supplied type="phrases">
-                            <phrase n="1" startid="" endid="#n1rjmkrs" type="A"/>
+                            <phrase n="1" startid="#n1abqe9w" endid="#n1rjmkrs" type="A"/>
                             <phrase n="2" startid="#ncnxkbe" endid="#n14lkvok" type="B"/>
-                            <phrase n="5" startid="#ncnxkbe" endid="#n1uup4rr" type="B"/>
-                            <phrase n="3" startid="" endid="#n1rjmkrs" type="A"/>
-                            <phrase n="4" startid="#ncnxkbe" endid="#n14lkvok" type="B"/>
-                            <phrase n="6" startid="#ncnxkbe" endid="#n1uup4rr" type="B"/>
+                            <phrase n="3" startid="#n1mamheq" endid="#n1rjmkrs" type="A"/>
+                            <phrase n="4" startid="#ncnxkbe" endid="#n1uup4rr" type="B"/>
                         </supplied>
                         <pb xml:id="p1i4h6i1"/>
                         <measure xml:id="m19d3mr8" n="0">
