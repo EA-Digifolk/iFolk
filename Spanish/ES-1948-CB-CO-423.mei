@@ -204,7 +204,10 @@
                                 <phrase n="1" startid="#d1e107" endid="#d1e658" type="A"/>
                             </supplied>
                         </supplied>
-                        <supplied type="phrases"/>
+                       <supplied type="phrases">
+                            <phrase n="1" startid="#n1ozszow" endid="#n7vbuy5" type="A1"/>
+                            <phrase n="2" startid="#ng26ez" endid="#n1c9orxs" type="A2"/>
+                        </supplied>
                         <pb xml:id="p1qwpcdv"/>
                         <measure xml:id="m1bpvqgz" n="0">
                             <mNum xml:id="mwchsvr"/>
