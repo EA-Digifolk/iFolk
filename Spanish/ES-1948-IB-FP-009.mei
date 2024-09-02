@@ -190,8 +190,9 @@
                     <section xml:id="s1fd1z0m">
                         <supplied type="rythymn pattern"/>
                         <supplied type="phrases">
-                            <phrase n="1" startid="" endid="#n1ucfshl" type="A"/>
-                            <phrase n="2" startid="#n57sqk4" endid="#n1i5ps9v" type="B"/>
+                            <phrase n="1" startid="#ntaj28a" endid="#ne6j1d" type="A1"/>
+                            <phrase n="2" startid="#n844edz" endid="#n57sqk4" type="A2"/>
+                            <phrase n="3" startid="#n5vd9ix" endid="#n3996us" type="B"/>
                         </supplied>
                         <pb xml:id="p1ao3qcv"/>
                         <measure xml:id="m11fpz5o" n="1">
