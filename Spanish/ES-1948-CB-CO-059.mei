@@ -182,8 +182,13 @@
                     <section xml:id="s1pwuac5">
                         <supplied type="rythymn pattern">
                          <beam>
-                            <note dots="1" dur="8"/>
                             <note dur="16"/>
+                            <note dur="16"/>
+                         </beam>
+                           <beam>
+                            <note dur="8"/>
+                            <note dur="8"/>
+                            <note dur="8"/>
                          </beam>
                         </supplied>
                         <supplied type="phrases">
