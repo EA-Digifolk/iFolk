@@ -186,12 +186,8 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                            <phrase n="1" startid="" endid="#nmorp4b" type="A"/>
+                            <phrase n="1" startid="#n1nuvbje" endid="#nmorp4b" type="A"/>
                             <phrase n="2" startid="#nq6suxk" endid="#nrm8wbz" type="CODA"/>
-                            <phrase n="5" startid="#nq6suxk" endid="" type="CODA"/>
-                            <phrase n="3" startid="" endid="#nmorp4b" type="A"/>
-                            <phrase n="4" startid="#nq6suxk" endid="#nrm8wbz" type="CODA"/>
-                            <phrase n="6" startid="#nq6suxk" endid="" type="CODA"/>
                         </supplied>
                         <pb xml:id="p1sdecyd"/>
                         <measure xml:id="m1xnvx64" n="1">
