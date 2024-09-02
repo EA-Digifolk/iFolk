@@ -88,14 +88,14 @@ Dataset of Spanish, Italian and Portuguese folk tunes in symbolic MEI (Music Enc
 - [x] ES-1948-CB-CO-198
 - [x] ES-1948-CB-CO-199
 - [x] ES-1948-CB-CO-200
-- [ ] ES-1948-CB-CO-204
-- [ ] ES-1948-CB-CO-207
-- [ ] ES-1948-CB-CO-210
-- [ ] ES-1948-CB-CO-219
-- [ ] ES-1948-CB-CO-225
-- [ ] ES-1948-CB-CO-226
-- [ ] ES-1948-CB-CO-228
-- [ ] ES-1948-CB-CO-234
+- [x] ES-1948-CB-CO-204
+- [x] ES-1948-CB-CO-207
+- [x] ES-1948-CB-CO-210
+- [x] ES-1948-CB-CO-219
+- [x] ES-1948-CB-CO-225
+- [x] ES-1948-CB-CO-226
+- [x] ES-1948-CB-CO-228
+- [x] ES-1948-CB-CO-234
 - [ ] ES-1948-CB-CO-235
 - [ ] ES-1948-CB-CO-236
 - [ ] ES-1948-CB-CO-264
