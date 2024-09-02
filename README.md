@@ -48,13 +48,13 @@ Dataset of Spanish, Italian and Portuguese folk tunes in symbolic MEI (Music Enc
 - [ ] IT-XXXX-VI-PA-048
 - [ ] IT-XXXX-VI-PA-049
 - [ ] IT-XXXX-VI-PA-052
-- [ ] ES-1980-BU-AJMP-001
-- [ ] ES-1980-BU-AJMP-003
-- [ ] ES-1980-BU-AJMP-004
-- [ ] ES-1980-BU-AJMP-005
-- [ ] ES-1980-BU-AJMP-007
-- [ ] ES-1980-BU-AJMP-008
-- [ ] ES-1980-BU-AJMP-009
+- [x] ES-1980-BU-AJMP-001
+- [x] ES-1980-BU-AJMP-003
+- [x] ES-1980-BU-AJMP-004
+- [x] ES-1980-BU-AJMP-005
+- [x] ES-1980-BU-AJMP-007
+- [x] ES-1980-BU-AJMP-008
+- [x] ES-1980-BU-AJMP-009
 - [ ] ES-1980-BU-AJMP-010
 - [ ] ES-1980-BU-AJMP-011
 - [ ] ES-1980-BU-AJMP-012
