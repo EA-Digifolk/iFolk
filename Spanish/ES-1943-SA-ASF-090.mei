@@ -197,7 +197,7 @@
                                 <note dur="16"/>
                                 <note dur="16"/>
                             </beam>
-                            <supplied>
+                            <supplied type="phrases">
                                 <phrase n="1" startid="#d1e124" endid="#d1e653" type="A"/>
                                 <phrase n="2" startid="#d1e702" endid="#d1e1660" type="A2"/>
                                 <phrase n="3" startid="#d1e1699" endid="#d1e2085" type="B"/>
