@@ -170,7 +170,10 @@
                             <note dur="4" dots="1"/>
                             <note dur="8"/>
                         </supplied>
-                        <supplied type="phrases"/>
+                        <supplied type="phrases">
+                           <phrase n="1" startid="#n5a0n7r" endid="#n19k97zw" type="A"/>
+                           <phrase n="2" startid="#no4bj36" endid="#nhvq0wo" type="B"/>
+                       </supplied>
                         <pb xml:id="p1m4ouy6"/>
                         <measure xml:id="m195n6y7" n="1">
                             <staff xml:id="sybx28c" n="1">
