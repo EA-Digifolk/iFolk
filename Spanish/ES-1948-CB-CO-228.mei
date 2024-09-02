@@ -215,10 +215,6 @@
                         <supplied type="phrases">
                             <phrase n="1" startid="#n1hzgvg8" endid="#njc29jf" type="A"/>
                             <phrase n="2" startid="#njm3yix" endid="#nl9uosc" type="B"/>
-                            <phrase n="5" startid="#njm3yix" endid="" type="B"/>
-                            <phrase n="3" startid="#n1hzgvg8" endid="#njc29jf" type="A"/>
-                            <phrase n="4" startid="#njm3yix" endid="#nl9uosc" type="B"/>
-                            <phrase n="6" startid="#njm3yix" endid="" type="B"/>
                         </supplied>
                         <pb xml:id="p1r7v7dj"/>
                         <measure xml:id="mbyyrtc" n="1">
