@@ -174,7 +174,13 @@
                             <note dur="4"/>
                             <note dur="4"/>
                         </supplied>
-                        <supplied type="phrases"/>
+                        <supplied type="phrases">
+                           <phrase n="1" startid="#n10pef8a" endid="#n9mendj" type="A"/>
+                           <phrase n="2" startid="#nax1sx5" endid="#n1zqw9d" type="B"/>
+                           <phrase n="3" startid="#nq6rqw9" endid="#njsqow0" type="CODA"/>
+                           <phrase n="4" startid="#n1ky5qsx" endid="#n9mendj" type="A"/>
+                           <phrase n="5" startid="#nq6rqw9" endid="#nyokf8q" type="CODA"/>
+                       	</supplied>
                         <pb xml:id="p96qu9t"/>
                         <measure xml:id="m17v6cmc" n="1">
                             <staff xml:id="s1e46f4r" n="1">
