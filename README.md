@@ -159,8 +159,6 @@ Dataset of Spanish, Italian and Portuguese folk tunes in symbolic MEI (Music Enc
 - [ ] ES-2000-CC-MGM-005 
 - [ ] ES-2000-CC-MGM-006 
 - [ ] ES-2000-CC-MGM-007 
-- [ ] ES-2006-TE-MAL-001 
-- [ ] ES-2006-TE-MAL-002
 - [ ] ES-2008-SA-DL-001 
 - [ ] ES-2008-SA-DL-002 
 - [ ] ES-2008-SA-DL-003 
