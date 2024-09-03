@@ -176,7 +176,9 @@
                             </beam>
                             <note dur="4"/>
                         </supplied>
-                        <supplied type="phrases"/>
+                        <supplied type="phrases">
+                           
+                       </supplied>
                         <pb xml:id="puzkkrv"/>
                         <measure xml:id="m10tfgkr" n="1">
                             <staff xml:id="s1bfs4k0" n="1">
