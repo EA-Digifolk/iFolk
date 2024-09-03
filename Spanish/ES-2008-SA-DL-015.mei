@@ -180,7 +180,14 @@
                             <note dur="4" dots="1"/>
                             <note dur="8"/>
                         </supplied>
-                        <supplied type="phrases"/>
+                        <supplied type="phrases">
+                           <phrase n="1" startid="#n12mqw0e" endid="#n12nuzki" type="A1"/>
+                           <phrase n="2" startid="#nwa68th" endid="#nu9izvx" type="B"/>
+                           <phrase n="3" startid="#n1wj5sk8" endid="#n1skhgoo" type="A2"/>
+                           <phrase n="4" startid="#nzy49rc" endid="#nxxbtve" type="C"/>
+                           <phrase n="5" startid="#n1ftbozk" endid="#n1468ah0" type="D1"/>
+                           <phrase n="6" startid="#norke9n" endid="#nuo8klh" type="D2"/>
+                       </supplied>
                         <pb xml:id="pdl2b9r"/>
                         <measure xml:id="m10d1jy8" n="1">
                             <staff xml:id="soy4y5c" n="1">
