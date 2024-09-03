@@ -175,7 +175,14 @@
                                 <note dur="16"/>
                             </beam>
                         </supplied>
-                        <supplied type="phrases"/>
+                        <supplied type="phrases">
+                           <phrase n="1" startid="#ntgk54b" endid="#nxreecx" type="A"/>
+                           <phrase n="2" startid="#n1km13nb" endid="#n1ee6ijj" type="B1"/>
+                           <phrase n="3" startid="#n6zwcuk" endid="#nej9jbs" type="A"/>
+                           <phrase n="4" startid="#nfdnkn8" endid="#n1601q9e" type="B2"/>
+                           <phrase n="5" startid="#n18rd3n7" endid="#nxreecx" type="A"/>
+                           <phrase n="6" startid="#nfdnkn8" endid="#n8dqt9i" type="B2"/>
+                       </supplied>
                         <pb xml:id="pf76em5"/>
                         <measure xml:id="mainl8o" n="1">
                             <staff xml:id="s19yz70" n="1">
