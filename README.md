@@ -48,9 +48,9 @@ Dataset of Spanish, Italian and Portuguese folk tunes in symbolic MEI (Music Enc
 - [ ] IT-XXXX-VI-PA-048
 - [ ] IT-XXXX-VI-PA-049
 - [ ] IT-XXXX-VI-PA-052
-- [ ] ES-1980-V-AJMP-006
-- [ ] ES-1991-AV-KS-070
-- [ ] ES-1991-AV-KS-077
+- [x] ES-1980-V-AJMP-006
+- [x] ES-1991-AV-KS-070
+- [x] ES-1991-AV-KS-077
 - [ ] ES-1991-AV-KS-153
 - [ ] ES-1991-AV-KS-189
 - [ ] ES-1991-BA-KS-194
