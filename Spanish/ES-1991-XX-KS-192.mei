@@ -183,7 +183,11 @@
                             </beam>
                             <note dur="4"/>
                         </supplied>
-                        <supplied type="phrases"/>
+                        <supplied type="phrases">
+                           <phrase n="1" startid="#n1d7iae7" endid="#n1uxmiqo" type="A"/>
+                           <phrase n="2" startid="#ntey8ek" endid="#n27i4ux" type="A"/>
+                           <phrase n="3" startid="#nwvrnty" endid="#n8wt9m9" type="CODA"/>
+                       </supplied>
                         <pb xml:id="pymus4e"/>
                         <measure xml:id="m1e7gn3g" n="1">
                             <staff xml:id="s1tzfv1u" n="1">
