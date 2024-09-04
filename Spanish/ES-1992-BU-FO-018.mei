@@ -183,7 +183,10 @@
                                 <note dur="8"/>
                             </beam>
                         </supplied>
-                        <supplied type="phrases"/>
+                        <supplied type="phrases">
+                           <phrase n="1" startid="#n1h8gbfr" endid="#nukqx0q" type="A"/>
+                           <phrase n="2" startid="#n13x12nc" endid="#n1b7dexq" type="B"/>
+                        </supplied>
                         <pb xml:id="p5jzs9u"/>
                         <measure xml:id="m31prac" n="1">
                             <staff xml:id="s7u4toe" n="1">
@@ -233,23 +236,20 @@
                                             </verse>
                                         </note>
                                     </beam>
-                                    <beam xml:id="b5zchvb">
-                                        <note xml:id="n1smcleb" dur.ppq="2" dur="8" oct="5" pname="d" stem.dir="down">
-                                            <verse xml:id="vdoqc4g" n="1">
-                                                <syl xml:id="s1kkcyfk" con="d" wordpos="i">
-                                                    llo
-                                                </syl>
-                                            </verse>
-                                        </note>
-                                        <note xml:id="n1ib6pkw" dur.ppq="2" dur="8" oct="5" pname="d" stem.dir="down">
-                                            <verse xml:id="v1v25h73" n="1">
-                                                <syl xml:id="s1wr9pqh" con="u" wordpos="t">
-                                                    ra
-                                                </syl>
-                                            </verse>
-                                        </note>
-                                        <note xml:id="nlf6r83" dur.ppq="2" dur="8" oct="5" pname="d" stem.dir="down"/>
-                                    </beam>
+                                   <note xml:id="n1smcleb" dur.ppq="2" dur="8" oct="5" pname="d" stem.dir="down">
+                                      <verse xml:id="vdoqc4g" n="1">
+                                         <syl xml:id="s1kkcyfk" con="d" wordpos="i">
+                                            llo
+                                         </syl>
+                                      </verse>
+                                   </note>
+                                   <note xml:id="n1ib6pkw" dur.ppq="2" dur="4" oct="5" pname="d" stem.dir="down">
+                                      <verse xml:id="v1v25h73" n="1">
+                                         <syl xml:id="s1wr9pqh" con="u" wordpos="t">
+                                            ra
+                                         </syl>
+                                      </verse>
+                                   </note>
                                 </layer>
                             </staff>
                             <slur xml:id="s1utd6t3" startid="#n1ib6pkw" endid="#nlf6r83" curvedir="above"/>
