@@ -182,7 +182,11 @@
                                 <note dur="16"/>
                             </beam>
                         </supplied>
-                        <supplied type="phrases"/>
+                        <supplied type="phrases">
+                           <phrase n="1" startid="#n2bk5ra" endid="#n1g67i9h" type="A"/>
+                           <phrase n="2" startid="#n1gn8tqq" endid="#nnxiwxc" type="A"/>
+                           <phrase n="3" startid="#n1ow66hq" endid="#n33ywr0" type="CODA"/>
+                       </supplied>
                         <pb xml:id="p1qssvzx"/>
                         <measure xml:id="mbpquvn" n="1">
                             <staff xml:id="szhy2a5" n="1">
