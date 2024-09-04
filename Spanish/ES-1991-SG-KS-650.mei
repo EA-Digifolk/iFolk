@@ -193,7 +193,10 @@
                             <note dur="4"/>
                             <note dur="4"/>
                         </supplied>
-                        <supplied type="phrases"/>
+                        <supplied type="phrases">
+                        	<phrase n="1" startid="#nrg26r3" endid="#nf40r32" type="A"/>
+									<phrase n="2" startid="#n1dh0dpy" endid="#n15rcg60" type="B"/>
+                        </supplied>
                         <pb xml:id="p1wm2czn"/>
                         <measure xml:id="mfshgiq" left="rptstart" n="1">
                             <staff xml:id="s12ainj9" n="1">
