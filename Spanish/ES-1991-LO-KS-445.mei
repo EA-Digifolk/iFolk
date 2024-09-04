@@ -197,7 +197,12 @@
                             <note dur="8"/>
                             <note dur="4"/>
                         </supplied>
-                        <supplied type="phrases"/>
+                        <supplied type="phrases">
+                           <phrase n="1" startid="#n70wi9m" endid="#n18kq6tr" type="A1"/>
+                           <phrase n="2" startid="#n12y7q28" endid="#nhd3sgt" type="A2"/>
+                           <phrase n="3" startid="#n12vwuy6" endid="#nqtufwc" type="B1"/>
+                           <phrase n="4" startid="#nfnya6a" endid="#nb0buin" type="B2"/>
+                        </supplied>
                         <pb xml:id="plsp1hr"/>
                         <measure xml:id="mru35l9" n="1">
                             <staff xml:id="s56txu9" n="1">
