@@ -176,7 +176,16 @@
                             <note dur="4"/>
                             <note dur="4"/>
                         </supplied>
-                        <supplied type="phrases"/>
+                        <supplied type="phrases">
+                           <phrase n="1" startid="#n1ua8fbv" endid="#nogd9xn" type="A"/>
+                           <phrase n="2" startid="#nabnnyc" endid="#njvi1y" type="B"/>
+                           <phrase n="3" startid="#nkhwca4" endid="#nwtwhg8" type="A"/>
+                           <phrase n="4" startid="#nkvl80j" endid="#n12p1voj" type="B"/>
+                           <phrase n="5" startid="#n1uo3m8v" endid="#npit4c1" type="A"/>
+                           <phrase n="6" startid="#n4cx8r" endid="#nx81mxk" type="B"/>
+                           <phrase n="7" startid="#n1f5hcrx" endid="#n1h3ye16" type="B"/>
+                           <phrase n="8" startid="#n18q5h65" endid="#ny3lth" type="B"/>
+                       </supplied>
                         <pb xml:id="p1eze9"/>
                         <measure xml:id="m1kigtcw" n="1">
                             <staff xml:id="s14th2al" n="1">
