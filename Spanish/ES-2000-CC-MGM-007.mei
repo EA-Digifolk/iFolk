@@ -185,7 +185,12 @@
                                 <note dur="8"/>
                             </beam>
                         </supplied>
-                        <supplied type="phrases"/>
+                        <supplied type="phrases">
+                           <phrase n="1" startid="#n1n6hgo1" endid="#nl3pkfx" type="A"/>
+                           <phrase n="2" startid="#nn034rx" endid="#n1e65ao" type="B"/>
+                           <phrase n="3" startid="#n89voko" endid="#n4o9i8z" type="A"/>
+                           <phrase n="4" startid="#ncx91ri" endid="#n1n6zous" type="B"/>
+                        </supplied>
                         <pb xml:id="pbgh5bu"/>
                         <measure xml:id="m1c8v8vk" n="1">
                             <staff xml:id="s11h8fij" n="1">
@@ -321,6 +326,7 @@
                                 </layer>
                             </staff>
                         </measure>
+                        <sb xml:id="s15jj9j6"/>
                         <measure xml:id="m2od228" n="5">
                             <staff xml:id="s1cewtm6" n="1">
                                 <layer xml:id="l3yuae3" n="1">
@@ -359,7 +365,6 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <sb xml:id="s15jj9j6"/>
                         <measure xml:id="m1biusyq" n="6">
                             <staff xml:id="s12wpukn" n="1">
                                 <layer xml:id="l1ypi86c" n="1">
@@ -447,6 +452,7 @@
                                 </layer>
                             </staff>
                         </measure>
+                        <sb xml:id="s15jj9j7"/>
                         <measure xml:id="mqgsw2z" n="9">
                             <staff xml:id="s1r5ocl0" n="1">
                                 <layer xml:id="l1zy8dx" n="1">
@@ -505,7 +511,6 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <sb xml:id="s8xyyua"/>
                         <measure xml:id="m12blz4y" n="11">
                             <staff xml:id="s8qpbl9" n="1">
                                 <layer xml:id="lbm658b" n="1">
@@ -564,6 +569,7 @@
                                 </layer>
                             </staff>
                         </measure>
+                        <sb xml:id="s8xyyua"/>
                         <measure xml:id="m1rps8v3" n="13">
                             <staff xml:id="sr2jso1" n="1">
                                 <layer xml:id="l12mgfu3" n="1">
