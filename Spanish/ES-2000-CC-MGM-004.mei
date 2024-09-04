@@ -190,7 +190,12 @@
                             <note dur="4"/>
                             <note dur="4"/>
                         </supplied>
-                        <supplied type="phrases"/>
+                        <supplied type="phrases">
+                           <phrase n="1" startid="#n17nx2xn" endid="#n1b9rkt0" type="A"/>
+                           <phrase n="2" startid="#nf1ar8f" endid="#n1wm25sq" type="CODA"/>
+                           <phrase n="3" startid="#n1hhvs6l" endid="#n1b9rkt0" type="A"/>
+                           <phrase n="4" startid="#nf1ar8f" endid="#n1ndre41" type="CODA"/>
+                       </supplied>
                         <pb xml:id="p12rpylr"/>
                         <measure xml:id="m1x49hli" n="1">
                             <staff xml:id="s46joxe" n="1">
