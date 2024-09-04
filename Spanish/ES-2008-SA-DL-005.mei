@@ -181,7 +181,9 @@
                             <note dur="16"/>
                             <note dur="4"/>
                         </supplied>
-                        <supplied type="phrases"/>
+                        <supplied type="phrases">
+                           
+                        </supplied>
                         <pb xml:id="p35zbtn"/>
                         <measure xml:id="m1l02dqz" n="1">
                             <staff xml:id="sxv7zmb" n="1">
