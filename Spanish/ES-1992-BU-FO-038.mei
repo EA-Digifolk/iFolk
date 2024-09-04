@@ -185,7 +185,14 @@
                                 <note dur="8"/>
                             </beam>
                         </supplied>
-                        <supplied type="phrases"/>
+                        <supplied type="phrases">
+                        	<phrase n="1" startid="#nfi8rt1" endid="#n1se8r0t" type="A1"/>
+                           <phrase n="2" startid="#nczk8hx" endid="#n1uns1nq" type="A2"/>
+                           <phrase n="3" startid="#nx6p6qh" endid="#n5sebm9" type="B1"/>
+                           <phrase n="4" startid="#n19kdbyq" endid="#n19r4709" type="B2"/>
+                           <phrase n="5" startid="#nu0zjlp" endid="#n12goi4q" type="A3"/>
+                           <phrase n="6" startid="#n1c50hm" endid="#no8z0sx" type="A4"/>
+                        </supplied>
                         <pb xml:id="p1jmot5k"/>
                         <measure xml:id="m12ilsnp" n="1">
                             <staff xml:id="s195t74c" n="1">
