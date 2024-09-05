@@ -195,7 +195,10 @@
                                 <note dur="8"/>
                             </beam>
                         </supplied>
-                        <supplied type="phrases"/>
+                        <supplied type="phrases">
+                        	<phrase n="1" startid="#n1bypif6" endid="#napakqr" type="A1"/>
+                           <phrase n="2" startid="#nqeabs2" endid="#n420qbx" type="A2"/>
+                        </supplied>
                         <measure xml:id="mpupbdo" n="1">
                             <staff xml:id="swjnurs" n="1">
                                 <layer xml:id="l16kmc65" n="1">
