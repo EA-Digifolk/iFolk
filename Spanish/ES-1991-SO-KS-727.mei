@@ -187,7 +187,18 @@
                             <note dur="4"/>
                             <note dur="8"/>
                         </supplied>
-                        <supplied type="phrases"/>
+                        <supplied type="phrases">
+                           <phrase n="1" startid="#n1lesat4" endid="#n1fzejnl" type="A1"/>
+                           <phrase n="2" startid="#nbce87x" endid="#n1s0f9o6" type="A2"/>
+                           <phrase n="3" startid="#nt35oz5" endid="#n1vqn35i" type="B1"/>
+                           <phrase n="4" startid="#nz6wv6h" endid="#n1psna33" type="B2"/>
+                           <phrase n="5" startid="#n1r8ttdp" endid="#n1ty88yt" type="C1"/>
+                           <phrase n="6" startid="#n1oonb44" endid="#n8yh2et" type="C2"/>
+                           <phrase n="7" startid="#npy0tt5" endid="#n1e60ffr" type="C1"/>
+                           <phrase n="8" startid="#nobek23" endid="#n15zmjq8" type="C2"/>
+                           <phrase n="9" startid="#n1oa4582" endid="#n6layzd" type="D1"/>
+                           <phrase n="10" startid="#n121ouox" endid="#n4lg41n" type="D2"/>
+                        </supplied>
                         <pb xml:id="p1nwvttk"/>
                         <measure xml:id="m15kobg3" left="rptstart" n="1">
                             <staff xml:id="si2ox2v" n="1">
