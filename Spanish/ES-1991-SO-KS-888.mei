@@ -186,7 +186,10 @@
                             <note dur="4"/>
                             <note dur="4"/>
                         </supplied>
-                        <supplied type="phrases"/>
+                        <supplied type="phrases">
+                       		<phrase n="1" startid="#n14g45sk" endid="#n1r3zmk1" type="A"/>
+									<phrase n="2" startid="#n13qzjk8" endid="#nsrxy4g" type="B"/>
+                        </supplied>
                         <measure xml:id="moiuk3t" n="1">
                             <staff xml:id="sw3teek" n="1">
                                 <layer xml:id="lr1w6o3" n="1">
