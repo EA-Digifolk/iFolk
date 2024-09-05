@@ -190,7 +190,16 @@
                             <note dur="2"/>
                             <note dur="4"/>
                         </supplied>
-                        <supplied type="phrases"/>
+                        <supplied type="phrases">
+                        	<phrase n="1" startid="#nxlfpu3" endid="#n142vcth" type="A1"/>
+                           <phrase n="2" startid="#n16gqnkd" endid="#n1dq29kg" type="A1"/>
+                           <phrase n="3" startid="#nhxtqy8" endid="#n1tcrgut" type="A1"/>
+                           <phrase n="4" startid="#n1lv1cs3" endid="#n40gtx7" type="A1"/>
+                           <phrase n="5" startid="#nynjksf" endid="#n12x4prr" type="A1"/>
+                           <phrase n="6" startid="#nszmckz" endid="#n1l9lf9z" type="A1"/>
+                           <phrase n="7" startid="#n1zzzkc" endid="#nxexj75" type="A2"/>
+                           <phrase n="8" startid="#n1a0ya51" endid="#n1ch2mty" type="A2"/>
+                        </supplied>
                         <pb xml:id="p1twu1wn"/>
                         <measure xml:id="m11wgy7k" n="1">
                             <staff xml:id="sp9yk0w" n="1">
