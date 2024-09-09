@@ -208,11 +208,7 @@
                         </supplied>
                         <supplied type="phrases">
                             <phrase n="1" startid="#n1v0e0ej" endid="#nt9lbkm" type="A"/>
-                            <phrase n="2" startid="#nkq3msb" endid="#n1482thn" type="A2"/>
-                            <phrase n="5" startid="#nkq3msb" endid="" type="A2"/>
-                            <phrase n="3" startid="#n10zqf28" endid="#nt9lbkm" type="A"/>
-                            <phrase n="4" startid="#nkq3msb" endid="#n1482thn" type="A2"/>
-                            <phrase n="6" startid="#nkq3msb" endid="" type="A2"/>
+                            <phrase n="2" startid="#nkq3msb" endid="#n10zqf28" type="B"/>
                         </supplied>
                         <pb xml:id="p7echlv"/>
                         <measure xml:id="m13vfat3" n="1">
