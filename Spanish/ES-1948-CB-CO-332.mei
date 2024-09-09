@@ -115,8 +115,8 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="major">
-                    C
+                <key mode="mixolydian">
+                    G
                 </key>
                 <meter>
                     Binary
@@ -200,8 +200,33 @@
                                 <meterSig xml:id="m1j14av6" count="2" unit="4"/>
                             </staffDef>
                         </staffGrp>
+                       <ambitus>
+                            <ambNote type="lowest" oct="4" pname="c"/>
+                            <ambNote type="highest" oct="5" pname="c"/>
+                        </ambitus>
                     </scoreDef>
                     <section xml:id="s1xbfgz8">
+                       <supplied type="rythymn pattern">
+                            <note dur="8"/>
+                            <beam>
+                                <note dur="8"/>
+                                <note dur="8"/>
+                            </beam>
+                            <beam>
+                                <note dur="8"/>
+                                <note dur="8"/>
+                            </beam>
+                        </supplied>
+                        <supplied type="phrases">
+                           <phrase n="1" startid="#nqr0mqv" endid="#nhtg6g8" type="A1"/>
+                           <phrase n="2" startid="#n5umseo" endid="#n16h8a2y" type="A2"/>
+                           <phrase n="3" startid="#n12t621x" endid="#nmlnetj" type="A1"/>
+                           <phrase n="4" startid="#nclpvfj" endid="#n1bcs6wx" type="A2"/>
+                           <phrase n="5" startid="#nw8vtmo" endid="#nq2kktn" type="B1"/>
+                           <phrase n="6" startid="#nde7x3w" endid="#ngx34qa" type="B2"/>
+                           <phrase n="7" startid="#n1rh7nq7" endid="#nhtg6g8" type="A1"/>
+                           <phrase n="8" startid="#nde7x3w" endid="#n17yftuj" type="B2"/>
+                        </supplied>
                         <pb xml:id="p14d4mxu"/>
                         <measure xml:id="mo7cy4c" n="0">
                             <mNum xml:id="mi09avp"/>
