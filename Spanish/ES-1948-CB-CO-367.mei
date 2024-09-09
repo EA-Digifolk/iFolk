@@ -185,6 +185,10 @@
                           <note dur="4"/>
                         </supplied>
                         <supplied type="phrases">
+                           <phrase n="1" startid="#n1oozw92" endid="#n3idg5e" type="A"/>
+                           <phrase n="2" startid="#n1w76p8l" endid="#n1pig9et" type="B"/>
+                           <phrase n="3" startid="#no2m3ey" endid="#n113th3g" type="C"/>
+                           <phrase n="4" startid="#ndopeen" endid="#nntifv8" type="D"/>
                         </supplied>
                         <pb xml:id="pknmg4b"/>
                         <measure xml:id="ms0ofed" n="1">
