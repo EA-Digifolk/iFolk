@@ -178,7 +178,7 @@
                         </supplied>
                        <supplied type="phrases">
                           <phrase n="1" startid="#nhf0269" endid="#n12o8yng" type="A"/>
-                          <phrase n="2" startid="#n5dwhf6" endid="#sawav4g" type="B"/>
+                          <phrase n="2" startid="#n5dwhf6" endid="#n1sb7pqk" type="B"/>
                        </supplied>
                         <pb xml:id="p8hq0jl"/>
                         <measure xml:id="mlj31xe" n="1">
@@ -538,6 +538,7 @@
                                 </staff>
                             </measure>
                         </ending>
+                       <ending xml:id="edr4gan2" lendsym="angledown" n="2">
                         <measure xml:id="m1sealnw" right="end" n="9">
                             <staff xml:id="sawav4g" n="1">
                                 <layer xml:id="ljjclf1" n="1">
@@ -551,6 +552,7 @@
                                 </layer>
                             </staff>
                         </measure>
+                       </ending>
                     </section>
                 </score>
             </mdiv>
