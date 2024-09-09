@@ -193,13 +193,8 @@
                             <note dur="4"/>
                         </supplied>
                         <supplied type="phrases">
-                            <phrase n="1" startid="#nwip4m0" endid="#n1gjplo9" type="A"/>
-                            <phrase n="5" startid="#n161tnzf" endid="#n1gjplo9" type="A"/>
-                            <phrase n="2" startid="#n6l9otd" endid="#n413yn3" type="A2"/>
-                            <phrase n="6" startid="#n6l9otd" endid="" type="A2"/>
-                            <phrase n="3" startid="" endid="#n1gjplo9" type="A"/>
-                            <phrase n="4" startid="#n6l9otd" endid="#n413yn3" type="A2"/>
-                            <phrase n="7" startid="#n6l9otd" endid="" type="A2"/>
+                            <phrase n="1" startid="#nwip4m0" endid="#n413yn3" type="A"/>>
+                            <phrase n="2" startid="#n1c67jqu" endid="#n413yn3" type="A2"/>
                         </supplied>
                         <pb xml:id="p19gyh6d"/>
                         <measure xml:id="m982ero" n="0">
@@ -254,9 +249,9 @@
                                     <beam xml:id="b1sav1mu">
                                         <note xml:id="n1c67jqu" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down">
                                             <verse xml:id="vb8iydl" n="1">
-                                                <syl xml:id="s1az24p8" con="s" wordpos="s">
+                                               <syl xml:id="s1az24p8" con="s" wordpos="s">
                                                     Vd
-                                                </syl>
+                                               </syl>
                                             </verse>
                                         </note>
                                         <note xml:id="n1i9egyo" dur.ppq="1" dur="16" oct="4" pname="b" stem.dir="down">
