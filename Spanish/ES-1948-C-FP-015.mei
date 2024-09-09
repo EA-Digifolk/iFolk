@@ -184,9 +184,10 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                            <phrase n="1" startid="#n19hnlgb" endid="#n1ib8rfg" type="A"/>
-                            <phrase n="3" startid="#n19hnlgb" endid="#n1wmojce" type="A"/>
-                            <phrase n="2" startid="#n1wmojce" endid="" type="A2"/>
+                            <phrase n="1" startid="#n19hnlgb" endid="#nxhlz5r" type="A"/>
+                            <phrase n="2" startid="#n19hnlgb" endid="#nxhlz5r" type="A"/>
+                            <phrase n="3" startid="#n13glder" endid="#n1ib8rfg" type="B"/>
+                            <phrase n="4" startid="#n13glder" endid="#n1wmojce" type="B"/>
                         </supplied>
                         <measure xml:id="m1kwlb3x" left="rptstart" n="1">
                             <staff xml:id="s1y6yxnl" n="1">
@@ -292,7 +293,7 @@
                                             </verse>
                                         </note>
                                     </beam>
-                                    <note xml:id="nxhlz5r" dur.ppq="4" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f">
+                                    <note xml:id="" dur.ppq="4" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f">
                                         <verse xml:id="v19ssedr" n="1">
                                             <syl xml:id="s10gomfw" con="s" wordpos="t">
                                                 ulle
