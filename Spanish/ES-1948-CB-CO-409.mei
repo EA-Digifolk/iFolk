@@ -3,18 +3,78 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title>
-                    409. De piedra berroqueña.
+                <title type="main" xml:id="ES-1948-CB-CO-409">
+                   De piedra berroqueña
                 </title>
-                <respStmt/>
+                <title type="subtitle">
+                   409. De piedra berroqueña.
+                </title>
+                <respStmt>
+                    <persName role="compiler">
+                        Córdova y Oña
+                    </persName>
+                    <persName role="informer">
+                        <geogName/>
+                    </persName>
+                    <persName role="encoder">
+                        Sara González
+                    </persName>
+                    <persName role="editor"/>
+                </respStmt>
             </titleStmt>
             <pubStmt>
-                <date isodate="2022-11-28" type="encoding-date">
-                    2022-11-28
+                <publisher>
+                    co_POEM Reseach Project
+                </publisher>
+                <date>
+                    2023
                 </date>
+                <availability>
+                    To the best of our knowledge,
+                the full compositions on this site are in the public domain,
+                the excerpts are in the public domain or are allowable under fair-use,
+                and the few compositions that are still under copyright are used by permission.
+                These scores, are provided for educational use only and are not to be used commercially.
+                </availability>
             </pubStmt>
+            <sourceDesc>
+                <source xml:id="to_add">
+                    <biblStruct>
+                        <monogr>
+                            <imprint>
+                                <title>
+                                    Cancionero Popular De La Provincia De Santander
+                                </title>
+                                <title type="subordinate">
+                                    Cancionero Infantil Español, Libro Primero
+                                </title>
+                                <respStmt>
+                                    <persName role="compiler">
+                                        Sixto Córdova Y Oña
+                                    </persName>
+                                    <persName role="bibliography"/>
+                                    <persName role="introduction"/>
+                                    <persName role="edition"/>
+                                </respStmt>
+                                <publisher>
+                                    Excma. Diputación Provincial De Santander
+                                </publisher>
+                                <pubPlace>
+                                    Santander
+                                </pubPlace>
+                                <date>
+                                    1948
+                                </date>
+                                <extent type="pages">
+                                    391.0
+                                </extent>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+                </source>
+            </sourceDesc>
         </fileDesc>
-        <encodingDesc xml:id="encodingdesc-sjke8x">
+       <encodingDesc xml:id="encodingdesc-sjke8x">
             <appInfo xml:id="appinfo-w8xccn">
                 <application xml:id="application-67rjnz" isodate="2023-02-22T22:18:31" version="3.14.0-1474e80">
                     <name xml:id="name-nhy7aj">
@@ -26,6 +86,162 @@
                 </application>
             </appInfo>
         </encodingDesc>
+       <workList>
+            <work>
+                <title type="main">
+                   De piedra berroqueña
+                </title>
+                <author type="informant">
+                    Anonymous
+                </author>
+                <incip type="lyrics">
+                    <incipText>
+                        <head>
+                   			De piedra berroqueña, 
+                           más dura que el granito,
+                           nos manda el maquesito
+                           su palacio labrar,
+                           labrar, labrar, labrar.
+                           
+                           Bregando con el hierro
+                           y firme a la tenaza
+                           y dale con la maza,
+                           corre mi vida feliz,
+                           feliz, feliz, feliz.
+                           
+                           Despacio, conpañeros;
+                           piquemos más despacio,
+                           que el amo del palacio
+                           nos quiere jorobar,
+                           nos quiere jorobar,
+                           jorobar.
+                           
+                           Y si, entanto, los chicos
+                           me enredan en la fragua,
+                           con un asperges de agua
+                           los manda yo a Pekín,
+                           los mando yo a Pekín, 
+                           a Pekín.
+                           
+                           Mas fastidia del martillo
+                           el continuo repicar;
+                           pica, pica, que te pica,
+                           pica, pica, sin cesar,
+                           sin cesar, pi, pi, pi, pi,
+                           pica, pica, sin cesar;
+                           pica, pica, que te pica,
+                           pica, pica, sin cesar,
+                           sin cesar, pi, pi, pi, pi,
+                           pica, pica, sin cesar;
+                           pica, pica, sin cesar,
+                           pi, pi, pi, pi, pi, pi, pi, pi.
+                           
+                           Que se te ha apagado el fuego,
+                           dale al fuelle, perillán,
+                           y que se oiga de mi fuelle
+                           el monótono soplar,
+                           soplar, soplar, flifla, flifla,
+                           el monótono soplar;
+                           y que se oiga de mi fuelle
+                           el monótono soplar,
+                           soplar, soplar, flifla, flifla,
+                           el monótono soplar,
+                           el monótono soplar,
+                           flifla, flifla, flifla, flifla.
+                        </head>
+                    </incipText>
+                </incip>
+                <key mode="ionian">
+                    G
+                </key>
+                <meter>
+                   Binary
+                </meter>
+                <tempo>
+                    Aire De Rueda
+                </tempo>
+                <incip type="musical">
+                    <score>
+                        <section>
+                            <measure copyof="#m1x25lde"/>
+                            <measure copyof="#m13ffakp"/>
+                        </section>
+                    </score>
+                </incip>
+                <langUsage>
+                    <language xml:lang="es"/>
+                </langUsage>
+                <notesStmt>
+                    <annot>
+                   			De piedra berroqueña, 
+                           más dura que el granito,
+                           nos manda el maquesito
+                           su palacio labrar,
+                           labrar, labrar, labrar.
+                           
+                           Bregando con el hierro
+                           y firme a la tenaza
+                           y dale con la maza,
+                           corre mi vida feliz,
+                           feliz, feliz, feliz.
+                           
+                           Despacio, conpañeros;
+                           piquemos más despacio,
+                           que el amo del palacio
+                           nos quiere jorobar,
+                           nos quiere jorobar,
+                           jorobar.
+                           
+                           Y si, entanto, los chicos
+                           me enredan en la fragua,
+                           con un asperges de agua
+                           los manda yo a Pekín,
+                           los mando yo a Pekín, 
+                           a Pekín.
+                           
+                           Mas fastidia del martillo
+                           el continuo repicar;
+                           pica, pica, que te pica,
+                           pica, pica, sin cesar,
+                           sin cesar, pi, pi, pi, pi,
+                           pica, pica, sin cesar;
+                           pica, pica, que te pica,
+                           pica, pica, sin cesar,
+                           sin cesar, pi, pi, pi, pi,
+                           pica, pica, sin cesar;
+                           pica, pica, sin cesar,
+                           pi, pi, pi, pi, pi, pi, pi, pi.
+                           
+                           Que se te ha apagado el fuego,
+                           dale al fuelle, perillán,
+                           y que se oiga de mi fuelle
+                           el monótono soplar,
+                           soplar, soplar, flifla, flifla,
+                           el monótono soplar;
+                           y que se oiga de mi fuelle
+                           el monótono soplar,
+                           soplar, soplar, flifla, flifla,
+                           el monótono soplar,
+                           el monótono soplar,
+                           flifla, flifla, flifla, flifla.
+                    </annot>
+                </notesStmt>
+                <classification>
+                    <termList>
+                        <term type="genre">
+                            Children song
+                        </term>
+                        <term type="region">
+                            Cantabria
+                        </term>
+                        <term type="district">
+                            Santander
+                        </term>
+                        <term type="city"/>
+                    </termList>
+                </classification>
+            </work>
+        </workList>
     </meiHead>
     <music>
         <body>
@@ -51,8 +267,40 @@
                                 <meterSig xml:id="m1ds8ays" count="2" unit="4"/>
                             </staffDef>
                         </staffGrp>
+                        <ambitus>
+                          <ambNote type="lowest" oct="3" pname="a"/>
+                          <ambNote type="highest" oct="5" pname="g"/>
+                        </ambitus>
                     </scoreDef>
                     <section xml:id="sqa89op">
+                       <supplied type="rythymn pattern">
+                                <note dur="8"/>
+                            <beam>
+                                <note dur="8"/>
+                                <note dur="8"/>
+                            </beam>
+                            <beam>
+                                <note dur="8"/>
+                                <note dur="8"/>
+                            </beam>
+                        </supplied>
+                        <supplied type="phrases">
+                           <phrase n="1" startid="#n1pqysxd" endid="#n1trcuti" type="A1"/>
+                           <phrase n="2" startid="#n6l83mf" endid="#nkycthv" type="A2"/>
+                           <phrase n="3" startid="#n1tvsl0a" endid="#n1trcuti" type="A1"/>
+                           <phrase n="4" startid="#n6l83mf" endid="#n1yxdvph" type="A2"/>
+                           <phrase n="5" startid="#n1uc7xbo" endid="#nj87cmq" type="B1"/>
+                           <phrase n="6" startid="#n85ltu0" endid="#n12djv9o" type="B2"/>
+                           <phrase n="7" startid="#ndzz473" endid="#nj87cmq" type="B1"/>
+                           <phrase n="8" startid="#n85ltu0" endid="#nkfimeh" type="B2"/>
+                           <phrase n="9" startid="#ngljpgl" endid="#n1gzbb87" type="C1"/>
+                           <phrase n="10" startid="#ni0c2rw" endid="#nro6wrc" type="C2"/>
+                           <phrase n="11" startid="#n90ob3c" endid="#n1mx42an" type="C3"/>
+                           <phrase n="12" startid="#n1xczw20" endid="#n1gzbb87" type="C1"/>
+                           <phrase n="13" startid="#ni0c2rw" endid="#nro6wrc" type="C2"/>
+                           <phrase n="14" startid="#n90ob3c" endid="#n12y1ei3" type="C3"/>
+                           <phrase n="15" startid="#nhaddbr" endid="#n71yls8" type="CODA"/>
+                        </supplied>
                         <pb xml:id="p7xj6gk"/>
                         <measure xml:id="m1swu7t8" n="0">
                             <mNum xml:id="m1vcv7wn"/>
