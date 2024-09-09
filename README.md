@@ -6,7 +6,8 @@ Dataset of Spanish, Italian and Portuguese folk tunes in symbolic MEI (Music Enc
 
 ### Files that are not correct yet (No segmentation, nor metadata):
 - [ ] IT-1954-Friuli-Fl-XXX.mei
-      
+- [ ] ES-1948-FP-GUI-017b.mei (No information on source, etc...)
+
 ### Segmentation:
 
 #### Incomplete/Wrong:
