@@ -181,12 +181,9 @@
                         </supplied>
                         <supplied type="phrases">
                             <phrase n="1" startid="#n11nx1u2" endid="#nv0taqw" type="A"/>
-                            <phrase n="6" startid="#negr1p6" endid="#nv0taqw" type="A"/>
                             <phrase n="2" startid="#negr1p6" endid="#n1roicf6" type="A"/>
                             <phrase n="3" startid="#nw3stnh" endid="#n1yh9ez5" type="A2"/>
-                            <phrase n="7" startid="#negr1p6" endid="#n1yh9ez5" type="A2"/>
-                            <phrase n="4" startid="#nw3stnh" endid="#n1ajlgxz" type="A2"/>
-                            <phrase n="8" startid="#negr1p6" endid="#n1ajlgxz" type="A2"/>
+                            <phrase n="4" startid="#n1hrvh5g" endid="#n1ajlgxz" type="A2"/>
                             <phrase n="5" startid="#n13xy1gp" endid="#nybcorr" type="CODA"/>
                         </supplied>
                         <pb xml:id="p18xl0vs"/>
