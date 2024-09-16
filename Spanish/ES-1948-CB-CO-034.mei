@@ -481,7 +481,8 @@
                             </measure>
                         </ending>
                         <sb xml:id="s10rup6b"/>
-                        <measure xml:id="m1v5zf93" n="7">
+                       <ending xml:id="embzx52" lendsym="angledown" n="2">
+                         <measure xml:id="m1v5zf93" n="7">
                             <staff xml:id="ssx7oou" n="1">
                                 <layer xml:id="l9lypyq" n="1">
                                     <note xml:id="n1u6xnpl" dur.ppq="6" dur="4" oct="4" pname="g" stem.dir="up">
@@ -502,6 +503,7 @@
                                 </layer>
                             </staff>
                         </measure>
+                        </ending>
                         <measure xml:id="m1k6jwk7" left="rptstart" n="8">
                             <staff xml:id="s5bhtm4" n="1">
                                 <layer xml:id="l5012tg" n="1">
