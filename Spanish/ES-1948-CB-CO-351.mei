@@ -197,8 +197,10 @@
                             <note dur="8"/>
                         </supplied>
                         <supplied type="phrases">
-                            <phrase n="1" startid="#n1my3om" endid="#nt1rjc9" type="A"/>
-                            <phrase n="2" startid="#n1i8gwyl" endid="#n3kep6t" type="B"/>
+                            <phrase n="1" startid="#n1my3om" endid="#n1q2hys3" type="A1"/>
+                            <phrase n="2" startid="#n82vjz3" endid="#nt1rjc9" type="A2"/>
+                            <phrase n="3" startid="#n1i8gwyl" endid="#nia69n4" type="B1"/>
+                            <phrase n="4" startid="#n1b9f5zx" endid="#n3kep6t" type="B2"/>
                         </supplied>
                         <pb xml:id="pgn8p3b"/>
                         <measure xml:id="m10er1eq" n="1">
