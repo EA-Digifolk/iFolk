@@ -174,9 +174,8 @@
                         <supplied type="rythymn pattern"/>
                         <supplied type="phrases">
                             <phrase n="1" startid="#n1ndjzrh" endid="#n1q7b6lx" type="A"/>
-                            <phrase n="3" startid="#n1ndjzrh" endid="#n1ktpue1" type="A"/>
-                            <phrase n="2" startid="#n1ndjzrh" endid="#n15p92j" type="A"/>
-                            <phrase n="2" startid="#n1dunfat" endid="#nyeudx0" type="B"/>
+                            <phrase n="2" startid="#n1ndjzrh2" endid="#n15p92j" type="A"/>
+                            <phrase n="4" startid="#n1dunfat" endid="#nyeudx0" type="B"/>
                         </supplied>
                         <pb xml:id="p1igt4n"/>
                         <measure xml:id="mb2qk9b" n="0">
@@ -190,21 +189,11 @@
                                                     El
                                                 </syl>
                                             </verse>
-                                            <verse xml:id="vib569l" n="2">
-                                                <syl xml:id="sove6bf" con="s" wordpos="s">
-                                                    si
-                                                </syl>
-                                            </verse>
                                         </note>
                                         <note xml:id="nsnr8oa" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up">
                                             <verse xml:id="v2204x0" n="1">
                                                 <syl xml:id="s1tn890i" con="s" wordpos="s">
                                                     mi
-                                                </syl>
-                                            </verse>
-                                            <verse xml:id="vdhk2c6" n="2">
-                                                <syl xml:id="s1reb00q" con="s" wordpos="s">
-                                                    le
                                                 </syl>
                                             </verse>
                                         </note>
@@ -221,7 +210,7 @@
                                 = 56
                             </tempo>
                         </measure>
-                        <measure xml:id="mpi0c62" n="1">
+                        <measure xml:id="mpi0c62" n="1" left="rptstart">
                             <staff xml:id="sg6xnj6" n="1">
                                 <layer xml:id="lrfak4x" n="1">
                                     <note xml:id="nphfwqm" dots="1" dur.ppq="3" dur="4" oct="4" pname="a" stem.dir="up">
@@ -408,6 +397,22 @@
                                             </verse>
                                         </note>
                                         <note xml:id="n1q7b6lx" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up" type="R"/>
+                                       <beam xml:id="b3nowwn2">
+                                        <note xml:id="n1ndjzrh2" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up">
+                                            <verse xml:id="vib569l" n="1">
+                                                <syl xml:id="sove6bf" con="s" wordpos="s">
+                                                    si
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                        <note xml:id="nsnr8oa2" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up">
+                                            <verse xml:id="vdhk2c6" n="1">
+                                                <syl xml:id="s1reb00q" con="s" wordpos="s">
+                                                    le
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </beam>
                                     </layer>
                                 </staff>
                                 <tie xml:id="t1yrfuu9" startid="#n15uyt6l" endid="#n1q7b6lx"/>
