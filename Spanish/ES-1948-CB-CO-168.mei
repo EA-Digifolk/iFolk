@@ -101,9 +101,7 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="major">
-                    G
-                </key>
+                <key mode="major">G</key>
                 <meter>
                     Binary
                 </meter>
@@ -1093,7 +1091,7 @@
                             </staff>
                         </measure>
                        <ending xml:id="e1r3ryre" lendsym="angledown" n="1">
-                        <measure xml:id="m3x3au7" right="rptend" n="28" >
+                        <measure xml:id="m3x3au7" right="rptend" n="28">
                             <staff xml:id="sbotp7j" n="1">
                                 <layer xml:id="l1ygxwc6" n="1">
                                     <note xml:id="n5epgye" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">

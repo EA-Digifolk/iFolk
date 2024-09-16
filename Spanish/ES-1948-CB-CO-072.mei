@@ -99,9 +99,7 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="f">
-                    F
-                </key>
+                <key mode="major">F</key>
                 <meter>
                     binario
                 </meter>

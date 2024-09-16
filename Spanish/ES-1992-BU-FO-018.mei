@@ -103,9 +103,7 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="jonic">
-                    G
-                </key>
+                <key mode="major">G</key>
                 <meter>
                     Binary
                 </meter>

@@ -99,9 +99,7 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="eb">
-                    Eb
-                </key>
+                <key mode="major">E Flat</key>
                 <meter>
                     ternario
                 </meter>

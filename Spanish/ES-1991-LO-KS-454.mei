@@ -105,9 +105,7 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="jonic">
-                    E
-                </key>
+                <key mode="major">E</key>
                 <meter>
                     Ternary
                 </meter>

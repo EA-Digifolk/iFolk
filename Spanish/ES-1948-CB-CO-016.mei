@@ -99,9 +99,7 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="c">
-                    C
-                </key>
+                <key mode="major">C</key>
                 <meter>
                     binario
                 </meter>
@@ -179,8 +177,8 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                            <phrase n="1" startid="#no6yr47"  endid="#nyba5qn"  type="A"/>
-                            <phrase n="2" startid="#non9ufx"  endid="#n1nkqbuw" type="A2"/>
+                            <phrase n="1" startid="#no6yr47" endid="#nyba5qn" type="A"/>
+                            <phrase n="2" startid="#non9ufx" endid="#n1nkqbuw" type="A2"/>
                             <phrase n="3" startid="#n1s3yih6" endid="#n1adwl0h" type="B"/>
                         </supplied>
                         <pb xml:id="p1jf9d33"/>

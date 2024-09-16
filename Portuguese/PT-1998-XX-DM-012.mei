@@ -101,7 +101,7 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="phrygian"/>
+                <key mode="phrygian">E</key>
                 <meter>
                     Binary
                 </meter>

@@ -102,9 +102,7 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="ionian">
-                    G
-                </key>
+                <key mode="major">G</key>
                 <meter>
                     Polyrhythmic
                 </meter>
