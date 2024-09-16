@@ -105,9 +105,7 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="majorminor">
-                    D
-                </key>
+                <key mode="majorminor">                    D                </key>
                 <meter>
                     Ternary
                 </meter>

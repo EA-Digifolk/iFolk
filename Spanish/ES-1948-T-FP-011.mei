@@ -102,9 +102,7 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="locrian">
-                    E
-                </key>
+                <key mode="locrian">                    E                </key>
                 <meter>
                     Ternary
                 </meter>

@@ -101,9 +101,7 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="ionian">
-                    C
-                </key>
+                <key mode="ionian">                    C                </key>
                 <meter>
                     Binary
                 </meter>

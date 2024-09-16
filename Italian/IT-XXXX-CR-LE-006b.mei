@@ -97,9 +97,7 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="dorian">
-                    B
-                </key>
+                <key mode="dorian">                    B                </key>
                 <meter>
                     Binary
                 </meter>

@@ -105,9 +105,7 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="phrygian">
-                    C
-                </key>
+                <key mode="phrygian">                    C                </key>
                 <meter>
                     Binary
                 </meter>

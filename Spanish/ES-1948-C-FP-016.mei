@@ -99,9 +99,7 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="locrian">
-                    G
-                </key>
+                <key mode="locrian">                    G                </key>
                 <meter>
                     Ternary
                 </meter>
