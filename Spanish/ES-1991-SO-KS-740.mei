@@ -188,10 +188,10 @@
                             <note dur="4"/>
                         </supplied>
                         <supplied type="phrases">
-                        	<phrase n="1" startid="#n18d77kl" endid="#n1e3o0xc" type="A"/>
-                           <phrase n="2" startid="#n1hhqft5" endid="#nzow52x" type="B"/>
-                           <phrase n="3" startid="#n1tfl5w5" endid="#n1nqo57n" type="A"/>
-                           <phrase n="4" startid="#nz9xmzx" endid="#naowbqv" type="B"/>
+                            <phrase n="1" startid="#n18d77kl" endid="#n1e3o0xc" type="A"/>
+                            <phrase n="2" startid="#n1hhqft5" endid="#nzow52x" type="B"/>
+                            <phrase n="3" startid="#n1tfl5w5" endid="#n1nqo57n" type="A"/>
+                            <phrase n="4" startid="#nz9xmzx" endid="#naowbqv" type="B"/>
                         </supplied>
                         <pb xml:id="p1l7zukf"/>
                         <measure xml:id="m1e4xjaa" n="1">

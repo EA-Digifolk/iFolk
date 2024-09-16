@@ -185,14 +185,14 @@
                                 <note dur="4"/>
                             </beam>
                         </supplied>
-                       <supplied type="phrases">
-                       		<phrase n="1" startid="#ngfly7m" endid="#n1k7cuaw" type="A"/>
-                           <phrase n="2" startid="#n16b7z20" endid="#n1ex7zqv" type="B"/>
-                           <phrase n="3" startid="#nqgubbd" endid="#nsjxjxi" type="C"/>
-                           <phrase n="4" startid="#nfqhsmg" endid="#n1k7cuaw" type="A"/>
-                           <phrase n="5" startid="#n16b7z20" endid="#n1ex7zqv" type="B"/>
-                           <phrase n="6" startid="#nqgubbd" endid="#nrduyaj" type="C"/>
-                       </supplied>
+                        <supplied type="phrases">
+                            <phrase n="1" startid="#ngfly7m" endid="#n1k7cuaw" type="A"/>
+                            <phrase n="2" startid="#n16b7z20" endid="#n1ex7zqv" type="B"/>
+                            <phrase n="3" startid="#nqgubbd" endid="#nsjxjxi" type="C"/>
+                            <phrase n="4" startid="#nfqhsmg" endid="#n1k7cuaw" type="A"/>
+                            <phrase n="5" startid="#n16b7z20" endid="#n1ex7zqv" type="B"/>
+                            <phrase n="6" startid="#nqgubbd" endid="#nrduyaj" type="C"/>
+                        </supplied>
                         <pb xml:id="p1tikp7s"/>
                         <measure xml:id="m6nj599" n="1">
                             <staff xml:id="s18giuii" n="1">

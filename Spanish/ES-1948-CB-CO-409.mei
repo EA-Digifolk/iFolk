@@ -4,10 +4,10 @@
         <fileDesc>
             <titleStmt>
                 <title type="main" xml:id="ES-1948-CB-CO-409">
-                   De piedra berroqueña
+                    De piedra berroqueña
                 </title>
                 <title type="subtitle">
-                   409. De piedra berroqueña.
+                    409. De piedra berroqueña.
                 </title>
                 <respStmt>
                     <persName role="compiler">
@@ -74,7 +74,7 @@
                 </source>
             </sourceDesc>
         </fileDesc>
-       <encodingDesc xml:id="encodingdesc-sjke8x">
+        <encodingDesc xml:id="encodingdesc-sjke8x">
             <appInfo xml:id="appinfo-w8xccn">
                 <application xml:id="application-67rjnz" isodate="2023-02-22T22:18:31" version="3.14.0-1474e80">
                     <name xml:id="name-nhy7aj">
@@ -86,10 +86,10 @@
                 </application>
             </appInfo>
         </encodingDesc>
-       <workList>
+        <workList>
             <work>
                 <title type="main">
-                   De piedra berroqueña
+                    De piedra berroqueña
                 </title>
                 <author type="informant">
                     Anonymous
@@ -97,7 +97,7 @@
                 <incip type="lyrics">
                     <incipText>
                         <head>
-                   			De piedra berroqueña, 
+                            De piedra berroqueña, 
                            más dura que el granito,
                            nos manda el maquesito
                            su palacio labrar,
@@ -155,7 +155,7 @@
                     G
                 </key>
                 <meter>
-                   Binary
+                    Binary
                 </meter>
                 <tempo>
                     Aire De Rueda
@@ -173,7 +173,7 @@
                 </langUsage>
                 <notesStmt>
                     <annot>
-                   			De piedra berroqueña, 
+                        De piedra berroqueña, 
                            más dura que el granito,
                            nos manda el maquesito
                            su palacio labrar,
@@ -268,13 +268,13 @@
                             </staffDef>
                         </staffGrp>
                         <ambitus>
-                          <ambNote type="lowest" oct="3" pname="a"/>
-                          <ambNote type="highest" oct="5" pname="g"/>
+                            <ambNote type="lowest" oct="3" pname="a"/>
+                            <ambNote type="highest" oct="5" pname="g"/>
                         </ambitus>
                     </scoreDef>
                     <section xml:id="sqa89op">
-                       <supplied type="rythymn pattern">
-                                <note dur="8"/>
+                        <supplied type="rythymn pattern">
+                            <note dur="8"/>
                             <beam>
                                 <note dur="8"/>
                                 <note dur="8"/>
@@ -285,21 +285,21 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#n1pqysxd" endid="#n1trcuti" type="A1"/>
-                           <phrase n="2" startid="#n6l83mf" endid="#nkycthv" type="A2"/>
-                           <phrase n="3" startid="#n1tvsl0a" endid="#n1trcuti" type="A1"/>
-                           <phrase n="4" startid="#n6l83mf" endid="#n1yxdvph" type="A2"/>
-                           <phrase n="5" startid="#n1uc7xbo" endid="#nj87cmq" type="B1"/>
-                           <phrase n="6" startid="#n85ltu0" endid="#n12djv9o" type="B2"/>
-                           <phrase n="7" startid="#ndzz473" endid="#nj87cmq" type="B1"/>
-                           <phrase n="8" startid="#n85ltu0" endid="#nkfimeh" type="B2"/>
-                           <phrase n="9" startid="#ngljpgl" endid="#n1gzbb87" type="C1"/>
-                           <phrase n="10" startid="#ni0c2rw" endid="#nro6wrc" type="C2"/>
-                           <phrase n="11" startid="#n90ob3c" endid="#n1mx42an" type="C3"/>
-                           <phrase n="12" startid="#n1xczw20" endid="#n1gzbb87" type="C1"/>
-                           <phrase n="13" startid="#ni0c2rw" endid="#nro6wrc" type="C2"/>
-                           <phrase n="14" startid="#n90ob3c" endid="#n12y1ei3" type="C3"/>
-                           <phrase n="15" startid="#nhaddbr" endid="#n71yls8" type="CODA"/>
+                            <phrase n="1" startid="#n1pqysxd" endid="#n1trcuti" type="A1"/>
+                            <phrase n="2" startid="#n6l83mf" endid="#nkycthv" type="A2"/>
+                            <phrase n="3" startid="#n1tvsl0a" endid="#n1trcuti" type="A1"/>
+                            <phrase n="4" startid="#n6l83mf" endid="#n1yxdvph" type="A2"/>
+                            <phrase n="5" startid="#n1uc7xbo" endid="#nj87cmq" type="B1"/>
+                            <phrase n="6" startid="#n85ltu0" endid="#n12djv9o" type="B2"/>
+                            <phrase n="7" startid="#ndzz473" endid="#nj87cmq" type="B1"/>
+                            <phrase n="8" startid="#n85ltu0" endid="#nkfimeh" type="B2"/>
+                            <phrase n="9" startid="#ngljpgl" endid="#n1gzbb87" type="C1"/>
+                            <phrase n="10" startid="#ni0c2rw" endid="#nro6wrc" type="C2"/>
+                            <phrase n="11" startid="#n90ob3c" endid="#n1mx42an" type="C3"/>
+                            <phrase n="12" startid="#n1xczw20" endid="#n1gzbb87" type="C1"/>
+                            <phrase n="13" startid="#ni0c2rw" endid="#nro6wrc" type="C2"/>
+                            <phrase n="14" startid="#n90ob3c" endid="#n12y1ei3" type="C3"/>
+                            <phrase n="15" startid="#nhaddbr" endid="#n71yls8" type="CODA"/>
                         </supplied>
                         <pb xml:id="p7xj6gk"/>
                         <measure xml:id="m1swu7t8" n="0">

@@ -182,15 +182,15 @@
                             <note dur="4"/>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#n1wrtj2r" endid="#naf49ml" type="A1"/>
-                           <phrase n="2" startid="#nk6zedv" endid="#nysf1bt" type="A2"/>
-                           <phrase n="3" startid="#nku3vld" endid="#n12tvdyj" type="A1"/>
-                           <phrase n="4" startid="#np1dph1" endid="#n1graaf1" type="A2"/>
-                           <phrase n="5" startid="#nq1h1hq" endid="#n1ptfsda" type="A1"/>
-                           <phrase n="6" startid="#nezchil" endid="#n153yi1v" type="A2"/>
-                           <phrase n="7" startid="#nkt22uc" endid="#n1cotk5l" type="A1"/>
-                           <phrase n="8" startid="#nlbpghw" endid="#n19h7mka" type="CODA"/>
-                       </supplied>
+                            <phrase n="1" startid="#n1wrtj2r" endid="#naf49ml" type="A1"/>
+                            <phrase n="2" startid="#nk6zedv" endid="#nysf1bt" type="A2"/>
+                            <phrase n="3" startid="#nku3vld" endid="#n12tvdyj" type="A1"/>
+                            <phrase n="4" startid="#np1dph1" endid="#n1graaf1" type="A2"/>
+                            <phrase n="5" startid="#nq1h1hq" endid="#n1ptfsda" type="A1"/>
+                            <phrase n="6" startid="#nezchil" endid="#n153yi1v" type="A2"/>
+                            <phrase n="7" startid="#nkt22uc" endid="#n1cotk5l" type="A1"/>
+                            <phrase n="8" startid="#nlbpghw" endid="#n19h7mka" type="CODA"/>
+                        </supplied>
                         <pb xml:id="p1v74ccu"/>
                         <measure xml:id="m1ry8dr9" n="1">
                             <staff xml:id="s9x2o96" n="1">

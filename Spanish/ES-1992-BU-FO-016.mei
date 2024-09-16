@@ -181,11 +181,11 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#n1euop98" endid="#n17zeq58" type="A"/>
-                           <phrase n="2" startid="#n1us1qv6" endid="#nxa95it" type="B"/>
-                           <phrase n="3" startid="#nncgwrd" endid="#n17zeq58" type="A"/>
-                           <phrase n="4" startid="#n1us1qv6" endid="#n1nun6qy" type="B"/>
-                       </supplied>
+                            <phrase n="1" startid="#n1euop98" endid="#n17zeq58" type="A"/>
+                            <phrase n="2" startid="#n1us1qv6" endid="#nxa95it" type="B"/>
+                            <phrase n="3" startid="#nncgwrd" endid="#n17zeq58" type="A"/>
+                            <phrase n="4" startid="#n1us1qv6" endid="#n1nun6qy" type="B"/>
+                        </supplied>
                         <pb xml:id="pyeviue"/>
                         <measure xml:id="mcv8te2" n="1">
                             <staff xml:id="s1vscpk2" n="1">

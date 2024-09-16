@@ -177,10 +177,10 @@
                             <note dur="4" dots="1"/>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#nh44qfm" endid="#ntrvyf5" type="A"/>
-                           <phrase n="2" startid="#n1b93b0z" endid="#n1vfi8fe" type="A"/>
-                           <phrase n="3" startid="#n18m1m93" endid="#ntpx0po" type="B"/>
-                           <phrase n="4" startid="#n4sj3r2" endid="#nzicf9e" type="C"/>
+                            <phrase n="1" startid="#nh44qfm" endid="#ntrvyf5" type="A"/>
+                            <phrase n="2" startid="#n1b93b0z" endid="#n1vfi8fe" type="A"/>
+                            <phrase n="3" startid="#n18m1m93" endid="#ntpx0po" type="B"/>
+                            <phrase n="4" startid="#n4sj3r2" endid="#nzicf9e" type="C"/>
                         </supplied>
                         <pb xml:id="p7z4uip"/>
                         <measure xml:id="m30b2u7" n="1">

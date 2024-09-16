@@ -192,9 +192,9 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#nz7sosb" endid="#nutlfnx" type="A"/>
-									<phrase n="2" startid="#n1usnmuo" endid="#n172p6q5" type="B"/>
-                       </supplied>
+                            <phrase n="1" startid="#nz7sosb" endid="#nutlfnx" type="A"/>
+                            <phrase n="2" startid="#n1usnmuo" endid="#n172p6q5" type="B"/>
+                        </supplied>
                         <pb xml:id="p1ndydqb"/>
                         <measure xml:id="m1gs0vbe" n="1">
                             <staff xml:id="svld2zj" n="1">

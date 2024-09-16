@@ -187,10 +187,10 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#nz4860e" endid="#n1irxu9w" type="A"/>
-                           <phrase n="2" startid="#njna623" endid="#ntnkb2d" type="B"/>
-                           <phrase n="3" startid="#naccjdq" endid="#np3ias3" type="A"/>
-                       </supplied>
+                            <phrase n="1" startid="#nz4860e" endid="#n1irxu9w" type="A"/>
+                            <phrase n="2" startid="#njna623" endid="#ntnkb2d" type="B"/>
+                            <phrase n="3" startid="#naccjdq" endid="#np3ias3" type="A"/>
+                        </supplied>
                         <pb xml:id="pz6rcab"/>
                         <measure xml:id="m1dtlmph" n="1">
                             <staff xml:id="s19g3t46" n="1">
