@@ -103,7 +103,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="mixolydian">B Flat</key>
+                <key mode="mixolydian">
+                    B Flat
+                </key>
                 <meter>
                     Binary
                 </meter>
@@ -183,9 +185,9 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                        	<phrase n="1" startid="#nlwv136" endid="#nq2568z" type="A"/>
-                           <phrase n="2" startid="#nk7l9qh" endid="#n1j6dvzl" type="A"/>
-                           <phrase n="3" startid="#nug9fmr" endid="#n7j6893" type="B"/>
+                            <phrase n="1" startid="#nlwv136" endid="#nq2568z" type="A"/>
+                            <phrase n="2" startid="#nk7l9qh" endid="#n1j6dvzl" type="A"/>
+                            <phrase n="3" startid="#nug9fmr" endid="#n7j6893" type="B"/>
                         </supplied>
                         <pb xml:id="p172klle"/>
                         <measure xml:id="mnfrgu1" n="1">

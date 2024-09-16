@@ -172,12 +172,12 @@
                             <note dur="8"/>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#nmijczo" endid="#n5dr3r7" type="A"/>
-                           <phrase n="2" startid="#n188kntn" endid="#nd9u3lx" type="B"/>
-                           <phrase n="3" startid="#nvnn3ee" endid="#n1vlk6q3" type="C"/>
-                           <phrase n="4" startid="#n6mhj8i" endid="#n1r0e3n0" type="C"/>
-                           <phrase n="5" startid="#n13ot82v" endid="#n1pvte5s" type="CODA"/>
-                       </supplied>
+                            <phrase n="1" startid="#nmijczo" endid="#n5dr3r7" type="A"/>
+                            <phrase n="2" startid="#n188kntn" endid="#nd9u3lx" type="B"/>
+                            <phrase n="3" startid="#nvnn3ee" endid="#n1vlk6q3" type="C"/>
+                            <phrase n="4" startid="#n6mhj8i" endid="#n1r0e3n0" type="C"/>
+                            <phrase n="5" startid="#n13ot82v" endid="#n1pvte5s" type="CODA"/>
+                        </supplied>
                         <pb xml:id="p1gwa7pv"/>
                         <measure xml:id="m6mq754" n="1">
                             <staff xml:id="s12wu0xc" n="1">

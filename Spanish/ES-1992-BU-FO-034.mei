@@ -103,7 +103,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="major">C</key>
+                <key mode="major">
+                    C
+                </key>
                 <meter>
                     Ternary
                 </meter>
@@ -184,15 +186,15 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                        	<phrase n="1" startid="#n1wfqvhp" endid="#n13yp9y1" type="A1"/>
-                           <phrase n="2" startid="#nh892hh" endid="#ndgs7so" type="A1"/>
-                           <phrase n="3" startid="#nemhsqm" endid="#nranc40" type="B1"/>
-                           <phrase n="4" startid="#n1a3bkaj" endid="#n1srjm9" type="A1"/>
-                           <phrase n="5" startid="#nsxwmt" endid="#n5tjfkd" type="B2"/>
-                           <phrase n="6" startid="#npn0na0" endid="#np8548k" type="A2"/>
-                           <phrase n="7" startid="#n1qx3it1" endid="#n9h8u1p" type="B3"/>
-                           <phrase n="8" startid="#n9m6y0k" endid="#nxt3u16" type="A3"/>
-                           <phrase n="9" startid="#nla2wa8" endid="#n1akw79s" type="A4"/>
+                            <phrase n="1" startid="#n1wfqvhp" endid="#n13yp9y1" type="A1"/>
+                            <phrase n="2" startid="#nh892hh" endid="#ndgs7so" type="A1"/>
+                            <phrase n="3" startid="#nemhsqm" endid="#nranc40" type="B1"/>
+                            <phrase n="4" startid="#n1a3bkaj" endid="#n1srjm9" type="A1"/>
+                            <phrase n="5" startid="#nsxwmt" endid="#n5tjfkd" type="B2"/>
+                            <phrase n="6" startid="#npn0na0" endid="#np8548k" type="A2"/>
+                            <phrase n="7" startid="#n1qx3it1" endid="#n9h8u1p" type="B3"/>
+                            <phrase n="8" startid="#n9m6y0k" endid="#nxt3u16" type="A3"/>
+                            <phrase n="9" startid="#nla2wa8" endid="#n1akw79s" type="A4"/>
                         </supplied>
                         <pb xml:id="p1lygqjd"/>
                         <measure xml:id="m17hyep6" n="1">

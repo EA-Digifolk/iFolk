@@ -105,7 +105,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="protomelodic">C</key>
+                <key mode="protomelodic">
+                    C
+                </key>
                 <meter>
                     Binary
                 </meter>
@@ -194,8 +196,8 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                        	<phrase n="1" startid="#n1bypif6" endid="#napakqr" type="A1"/>
-                           <phrase n="2" startid="#nqeabs2" endid="#n420qbx" type="A2"/>
+                            <phrase n="1" startid="#n1bypif6" endid="#napakqr" type="A1"/>
+                            <phrase n="2" startid="#nqeabs2" endid="#n420qbx" type="A2"/>
                         </supplied>
                         <measure xml:id="mpupbdo" n="1">
                             <staff xml:id="swjnurs" n="1">

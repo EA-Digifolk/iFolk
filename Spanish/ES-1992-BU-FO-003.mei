@@ -103,7 +103,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="aeolian67">A</key>
+                <key mode="aeolian67">
+                    A
+                </key>
                 <meter>
                     Binary
                 </meter>
@@ -180,14 +182,14 @@
                             <note dur="2"/>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#nv0orce" endid="#n1td6v11" type="A1"/>
-                           <phrase n="2" startid="#n8spe3x" endid="#n2ngqyv" type="A2"/>
-                           <phrase n="3" startid="#n16w0ggn" endid="#n1td6v11" type="A1"/>
-                           <phrase n="4" startid="#n8spe3x" endid="#nswjox6" type="A2"/>
-                           <phrase n="5" startid="#npxtixx" endid="#n10yug04" type="B1"/>
-                           <phrase n="6" startid="#nwjq6jp" endid="#ntjpboo" type="B2"/>
-                           <phrase n="7" startid="#n1hea948" endid="#n12s0iia" type="B1"/>
-                           <phrase n="8" startid="#nzqrrq2" endid="#n12g9ju9" type="B2"/>
+                            <phrase n="1" startid="#nv0orce" endid="#n1td6v11" type="A1"/>
+                            <phrase n="2" startid="#n8spe3x" endid="#n2ngqyv" type="A2"/>
+                            <phrase n="3" startid="#n16w0ggn" endid="#n1td6v11" type="A1"/>
+                            <phrase n="4" startid="#n8spe3x" endid="#nswjox6" type="A2"/>
+                            <phrase n="5" startid="#npxtixx" endid="#n10yug04" type="B1"/>
+                            <phrase n="6" startid="#nwjq6jp" endid="#ntjpboo" type="B2"/>
+                            <phrase n="7" startid="#n1hea948" endid="#n12s0iia" type="B1"/>
+                            <phrase n="8" startid="#nzqrrq2" endid="#n12g9ju9" type="B2"/>
                         </supplied>
                         <pb xml:id="p1wb00dn"/>
                         <measure xml:id="m1q03dfg" n="1">

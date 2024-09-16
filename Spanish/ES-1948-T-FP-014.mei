@@ -102,7 +102,9 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="phrygian3">F Sharp</key>
+                <key mode="phrygian3">
+                    F Sharp
+                </key>
                 <meter>
                     Ternary
                 </meter>

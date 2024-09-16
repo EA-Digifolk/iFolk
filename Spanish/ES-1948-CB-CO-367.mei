@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main" xml:id="ES-1948-CB-CO-367">
-                   ¡Ah, Señor! 
+                    ¡Ah, Señor!
                 </title>
                 <title type="subtitle">
                     367. ¡Ah, Señor! (Cuatro Voces).
@@ -74,7 +74,7 @@
                 </source>
             </sourceDesc>
         </fileDesc>
-       <encodingDesc xml:id="encodingdesc-9udw87">
+        <encodingDesc xml:id="encodingdesc-9udw87">
             <appInfo xml:id="appinfo-1cfdonh">
                 <application xml:id="application-1c5ibe5" isodate="2023-02-22T22:18:30" version="3.14.0-1474e80">
                     <name xml:id="name-1gl0lp1">
@@ -86,10 +86,10 @@
                 </application>
             </appInfo>
         </encodingDesc>
-       <workList>
+        <workList>
             <work>
                 <title type="main">
-                   ¡Ah, Señor!
+                    ¡Ah, Señor!
                 </title>
                 <author type="informant">
                     Anonymous
@@ -97,7 +97,7 @@
                 <incip type="lyrics">
                     <incipText>
                         <head>
-                           ¡Ah, Señor!, postrados a tus plantas;
+                            ¡Ah, Señor!, postrados a tus plantas;
                            ¡ah, Señor!, imploran tu piedad.
                            Ten, Señor, piedad, Señor, piedad.
                            Ten, Señor, piedad. Ten, Señor, piedad.
@@ -108,10 +108,10 @@
                     B Flat
                 </key>
                 <meter>
-                   Binary
+                    Binary
                 </meter>
                 <tempo>
-                   Moderado
+                    Moderado
                 </tempo>
                 <incip type="musical">
                     <score>
@@ -125,8 +125,8 @@
                     <language xml:lang="es"/>
                 </langUsage>
                 <notesStmt>
-                   <annot>
-                      ¡Ah, Señor!, postrados a tus plantas;
+                    <annot>
+                        ¡Ah, Señor!, postrados a tus plantas;
                       ¡ah, Señor!, imploran tu piedad.
                       Ten, Señor, piedad, Señor, piedad.
                       Ten, Señor, piedad. Ten, Señor, piedad.
@@ -173,22 +173,22 @@
                                 <meterSig xml:id="mwsp6hj" count="4" sym="common" unit="4"/>
                             </staffDef>
                         </staffGrp>
-                       <ambitus>
+                        <ambitus>
                             <ambNote type="lowest" oct="3" pname="b flat"/>
                             <ambNote type="highest" oct="5" pname="e flat"/>
                         </ambitus>
                     </scoreDef>
                     <section xml:id="s1rs21hn">
-                       <supplied type="rythymn pattern">
-                          <note dur="4"/>
-                          <note dur="4"/>
-                          <note dur="4"/>
+                        <supplied type="rythymn pattern">
+                            <note dur="4"/>
+                            <note dur="4"/>
+                            <note dur="4"/>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#n1oozw92" endid="#n3idg5e" type="A"/>
-                           <phrase n="2" startid="#n1w76p8l" endid="#n1pig9et" type="B"/>
-                           <phrase n="3" startid="#no2m3ey" endid="#n113th3g" type="C"/>
-                           <phrase n="4" startid="#ndopeen" endid="#nntifv8" type="D"/>
+                            <phrase n="1" startid="#n1oozw92" endid="#n3idg5e" type="A"/>
+                            <phrase n="2" startid="#n1w76p8l" endid="#n1pig9et" type="B"/>
+                            <phrase n="3" startid="#no2m3ey" endid="#n113th3g" type="C"/>
+                            <phrase n="4" startid="#ndopeen" endid="#nntifv8" type="D"/>
                         </supplied>
                         <pb xml:id="pknmg4b"/>
                         <measure xml:id="ms0ofed" n="1">

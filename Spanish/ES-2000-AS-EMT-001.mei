@@ -101,7 +101,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="major">G</key>
+                <key mode="major">
+                    G
+                </key>
                 <meter>
                     Binary
                 </meter>
@@ -169,19 +171,19 @@
                             <note dur="8"/>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#ny09dzm" endid="#n12zvrlz" type="A"/>
-                           <phrase n="2" startid="#npbousm" endid="#n4art2t" type="B1"/>
-                           <phrase n="3" startid="#n1ipp0mp" endid="#neafsrl" type="A"/>
-                           <phrase n="4" startid="#n1pzyu8n" endid="#n11tkl06" type="B1"/>
-                           <phrase n="5" startid="#n8c7okr" endid="#n1gx7k9i" type="A"/>
-                           <phrase n="6" startid="#n5sii2d" endid="#n130nhi3" type="B1"/>
-                           <phrase n="7" startid="#n1oazq8l" endid="#n4dgbqi" type="A"/>
-                           <phrase n="8" startid="#n1wee9g2" endid="#n7cgls5" type="B2"/>
-                           <phrase n="9" startid="#n70l38g" endid="#nhyximg" type="B2"/>
-                           <phrase n="10" startid="#n13jbrj9" endid="#nlb4aoq" type="B3"/>
-                           <phrase n="11" startid="#nvve96u" endid="#ncys6sd" type="B2"/>
-                           <phrase n="12" startid="#nqie44r" endid="#nt5bec" type="A"/>
-                       </supplied>
+                            <phrase n="1" startid="#ny09dzm" endid="#n12zvrlz" type="A"/>
+                            <phrase n="2" startid="#npbousm" endid="#n4art2t" type="B1"/>
+                            <phrase n="3" startid="#n1ipp0mp" endid="#neafsrl" type="A"/>
+                            <phrase n="4" startid="#n1pzyu8n" endid="#n11tkl06" type="B1"/>
+                            <phrase n="5" startid="#n8c7okr" endid="#n1gx7k9i" type="A"/>
+                            <phrase n="6" startid="#n5sii2d" endid="#n130nhi3" type="B1"/>
+                            <phrase n="7" startid="#n1oazq8l" endid="#n4dgbqi" type="A"/>
+                            <phrase n="8" startid="#n1wee9g2" endid="#n7cgls5" type="B2"/>
+                            <phrase n="9" startid="#n70l38g" endid="#nhyximg" type="B2"/>
+                            <phrase n="10" startid="#n13jbrj9" endid="#nlb4aoq" type="B3"/>
+                            <phrase n="11" startid="#nvve96u" endid="#ncys6sd" type="B2"/>
+                            <phrase n="12" startid="#nqie44r" endid="#nt5bec" type="A"/>
+                        </supplied>
                         <pb xml:id="pn8vl4z"/>
                         <measure xml:id="m1hxlru9" n="1">
                             <staff xml:id="s1yf87oj" n="1">

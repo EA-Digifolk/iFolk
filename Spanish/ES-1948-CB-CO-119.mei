@@ -101,7 +101,9 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="phrygian">F Sharp</key>
+                <key mode="phrygian">
+                    F Sharp
+                </key>
                 <meter>
                     Binary
                 </meter>

@@ -103,7 +103,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="major">G</key>
+                <key mode="major">
+                    G
+                </key>
                 <meter>
                     Ternary
                 </meter>
@@ -192,14 +194,14 @@
                             <note dur="4"/>
                         </supplied>
                         <supplied type="phrases">
-                        	<phrase n="1" startid="#n1sfd03z" endid="#nm547fl" type="A1"/>
-                           <phrase n="2" startid="#n16l7gzd" endid="#n8vdclv" type="B"/>
-                           <phrase n="3" startid="#n51imct" endid="#nox5lzi" type="A2"/>
-                           <phrase n="4" startid="#n1flo14s" endid="#nllido5" type="B"/>
-                           <phrase n="5" startid="#n2q1orr" endid="#nm547fl" type="A1"/>
-                           <phrase n="6" startid="#n1flo14s" endid="#n88xlgr" type="B"/>
-                           <phrase n="7" startid="#n1ob1u4v" endid="#ndqbyc0" type="A2"/>
-                           <phrase n="8" startid="#n8npgh" endid="#n1wkrzer" type="B"/>
+                            <phrase n="1" startid="#n1sfd03z" endid="#nm547fl" type="A1"/>
+                            <phrase n="2" startid="#n16l7gzd" endid="#n8vdclv" type="B"/>
+                            <phrase n="3" startid="#n51imct" endid="#nox5lzi" type="A2"/>
+                            <phrase n="4" startid="#n1flo14s" endid="#nllido5" type="B"/>
+                            <phrase n="5" startid="#n2q1orr" endid="#nm547fl" type="A1"/>
+                            <phrase n="6" startid="#n1flo14s" endid="#n88xlgr" type="B"/>
+                            <phrase n="7" startid="#n1ob1u4v" endid="#ndqbyc0" type="A2"/>
+                            <phrase n="8" startid="#n8npgh" endid="#n1wkrzer" type="B"/>
                         </supplied>
                         <pb xml:id="p1w04awr"/>
                         <measure xml:id="mwly1ui" n="1">

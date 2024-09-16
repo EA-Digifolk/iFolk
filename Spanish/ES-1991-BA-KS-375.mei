@@ -190,11 +190,11 @@
                             <note dur="2"/>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#n1emo27x" endid="#nkktsq7" type="A"/>
-                           <phrase n="2" startid="#n1c37vsb" endid="#nf69lmg" type="B"/>
-                           <phrase n="3" startid="#n1v8p66d" endid="#nkktsq7" type="A"/>
-                           <phrase n="4" startid="#n1c37vsb" endid="#ny8hzs9" type="B"/>
-                       </supplied>
+                            <phrase n="1" startid="#n1emo27x" endid="#nkktsq7" type="A"/>
+                            <phrase n="2" startid="#n1c37vsb" endid="#nf69lmg" type="B"/>
+                            <phrase n="3" startid="#n1v8p66d" endid="#nkktsq7" type="A"/>
+                            <phrase n="4" startid="#n1c37vsb" endid="#ny8hzs9" type="B"/>
+                        </supplied>
                         <pb xml:id="p1pqgc07"/>
                         <measure xml:id="m19y9q98" n="1">
                             <staff xml:id="sva1lg5" n="1">

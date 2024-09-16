@@ -107,7 +107,9 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="phrygian23">G</key>
+                <key mode="phrygian23">
+                    G
+                </key>
                 <meter>
                     Ternary
                 </meter>

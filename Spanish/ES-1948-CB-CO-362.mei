@@ -4,10 +4,10 @@
         <fileDesc>
             <titleStmt>
                 <title type="main" xml:id="ES-1948-CB-CO-362">
-                   Madre, a la puerta hay un niño.
+                    Madre, a la puerta hay un niño.
                 </title>
                 <title type="subtitle">
-                   362. Madre, a la puerta hay un niño. - Tercera versión.
+                    362. Madre, a la puerta hay un niño. - Tercera versión.
                 </title>
                 <respStmt>
                     <persName role="compiler">
@@ -74,7 +74,7 @@
                 </source>
             </sourceDesc>
         </fileDesc>
-       <encodingDesc xml:id="encodingdesc-d5imnr">
+        <encodingDesc xml:id="encodingdesc-d5imnr">
             <appInfo xml:id="appinfo-kemh86">
                 <application xml:id="application-15kq9ji" isodate="2023-02-22T22:18:30" version="3.14.0-1474e80">
                     <name xml:id="name-1jcx81b">
@@ -86,10 +86,10 @@
                 </application>
             </appInfo>
         </encodingDesc>
-       <workList>
+        <workList>
             <work>
                 <title type="main">
-                   Madre, a la puerta hay un niño.
+                    Madre, a la puerta hay un niño.
                 </title>
                 <author type="informant">
                     Anonymous
@@ -97,7 +97,7 @@
                 <incip type="lyrics">
                     <incipText>
                         <head>
-                  			Madre, a la puerta está un niño,
+                            Madre, a la puerta está un niño,
                           	más hermoso que el sol bello,
                            que dice que tiene frío,
                            porque viene medio encueros;
@@ -114,10 +114,10 @@
                     E
                 </key>
                 <meter>
-                   Compound
+                    Compound
                 </meter>
                 <tempo>
-                   Moderado
+                    Moderado
                 </tempo>
                 <incip type="musical">
                     <score>
@@ -132,7 +132,7 @@
                 </langUsage>
                 <notesStmt>
                     <annot>
-                  			Madre, a la puerta está un niño,
+                        Madre, a la puerta está un niño,
                           	más hermoso que el sol bello,
                            que dice que tiene frío,
                            porque viene medio encueros;
@@ -185,33 +185,33 @@
                                 <meterSig xml:id="mhorswl" count="6" unit="8"/>
                             </staffDef>
                         </staffGrp>
-                       <ambitus>
+                        <ambitus>
                             <ambNote type="lowest" oct="4" pname="c"/>
                             <ambNote type="highest" oct="5" pname="c"/>
                         </ambitus>
                     </scoreDef>
                     <section xml:id="sp7oiqq">
-                       <supplied type="rythymn pattern">
-                          <beam>
-                             <note dur="16"/>
-                             <note dur="16"/>
-                          </beam>
-                          <note dur="4"/>
-                          <note dur="8"/>
-                          <beam>
-                             <note dur="8"/>
-                             <note dur="8"/>
-                             <note dur="8"/>
-                          </beam>
+                        <supplied type="rythymn pattern">
+                            <beam>
+                                <note dur="16"/>
+                                <note dur="16"/>
+                            </beam>
+                            <note dur="4"/>
+                            <note dur="8"/>
+                            <beam>
+                                <note dur="8"/>
+                                <note dur="8"/>
+                                <note dur="8"/>
+                            </beam>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#n1mzb5j" endid="#nxg5iy8" type="A1"/>
-                           <phrase n="2" startid="#n5m5oq4" endid="#njzzkic" type="B"/>
-                           <phrase n="3" startid="#n1vdxolu" endid="#n69na1y" type="A2"/>
-                           <phrase n="4" startid="#nghw5k0" endid="#n1omgds4" type="B"/>
-                           <phrase n="5" startid="#n1b1mslw" endid="#nublqk6" type="C"/>
-                           <phrase n="6" startid="#n1mzi94m" endid="#nublqk6" type="C"/>
-                           <phrase n="7" startid="#n1mzi94m" endid="#nmo0b8v" type="C"/>
+                            <phrase n="1" startid="#n1mzb5j" endid="#nxg5iy8" type="A1"/>
+                            <phrase n="2" startid="#n5m5oq4" endid="#njzzkic" type="B"/>
+                            <phrase n="3" startid="#n1vdxolu" endid="#n69na1y" type="A2"/>
+                            <phrase n="4" startid="#nghw5k0" endid="#n1omgds4" type="B"/>
+                            <phrase n="5" startid="#n1b1mslw" endid="#nublqk6" type="C"/>
+                            <phrase n="6" startid="#n1mzi94m" endid="#nublqk6" type="C"/>
+                            <phrase n="7" startid="#n1mzi94m" endid="#nmo0b8v" type="C"/>
                         </supplied>
                         <pb xml:id="p1ccvqww"/>
                         <measure xml:id="mtxvx3b" n="0">

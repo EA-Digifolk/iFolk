@@ -101,7 +101,9 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="mixolydian">G</key>
+                <key mode="mixolydian">
+                    G
+                </key>
                 <meter>
                     Ternary
                 </meter>

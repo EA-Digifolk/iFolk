@@ -7,7 +7,7 @@
                     Este niño tiene sueño
                 </title>
                 <title type="subtitle">
-                   Este niño tiene sueño
+                    Este niño tiene sueño
                 </title>
                 <respStmt>
                     <persName role="compiler">
@@ -86,7 +86,7 @@
                 </application>
             </appInfo>
         </encodingDesc>
-       <workList>
+        <workList>
             <work>
                 <title type="main">
                     Este niño tiene sueño
@@ -97,7 +97,7 @@
                 <incip type="lyrics">
                     <incipText>
                         <head>
-                           Este niño tiene sueño,
+                            Este niño tiene sueño,
                            no tiene cama ninguna;
                            San José, que es carpintero,
                            dice que le va a hacer una.
@@ -139,7 +139,7 @@
                 </langUsage>
                 <notesStmt>
                     <annot>
-                           Este niño tiene sueño,
+                        Este niño tiene sueño,
                            no tiene cama ninguna;
                            San José, que es carpintero,
                            dice que le va a hacer una.
@@ -156,7 +156,7 @@
                            al ron, ron, José;
                            que el niño tiene un diente
                            y otro va a nacer.
-                   </annot>
+                    </annot>
                 </notesStmt>
                 <classification>
                     <termList>
@@ -199,13 +199,13 @@
                                 <meterSig xml:id="mc4bgjs" count="2" unit="4"/>
                             </staffDef>
                         </staffGrp>
-								<ambitus>
+                        <ambitus>
                             <ambNote type="lowest" oct="4" pname="e"/>
                             <ambNote type="highest" oct="5" pname="b"/>
                         </ambitus>
                     </scoreDef>
                     <section xml:id="s108pvt6">
-                       <supplied type="rythymn pattern">
+                        <supplied type="rythymn pattern">
                             <beam>
                                 <note dur="8"/>
                                 <note dur="8"/>
@@ -216,11 +216,11 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#nlxct0e" endid="#nu6z12t" type="A"/>
-                           <phrase n="2" startid="#nla7pd6" endid="#n12ed3f2" type="B"/>
-                           <phrase n="3" startid="#nssfm46" endid="#n1bk34co" type="C"/>
-                           <phrase n="4" startid="#nojanwb" endid="#n1a3niom" type="C"/>
-                       </supplied>
+                            <phrase n="1" startid="#nlxct0e" endid="#nu6z12t" type="A"/>
+                            <phrase n="2" startid="#nla7pd6" endid="#n12ed3f2" type="B"/>
+                            <phrase n="3" startid="#nssfm46" endid="#n1bk34co" type="C"/>
+                            <phrase n="4" startid="#nojanwb" endid="#n1a3niom" type="C"/>
+                        </supplied>
                         <pb xml:id="p1yd2o5v"/>
                         <measure xml:id="mm8davc" n="1">
                             <staff xml:id="sh4vwo0" n="1">

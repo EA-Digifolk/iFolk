@@ -105,7 +105,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="major">E</key>
+                <key mode="major">
+                    E
+                </key>
                 <meter>
                     Ternary
                 </meter>
@@ -186,10 +188,10 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#n14bedp2" endid="#n1obzxa7" type="A"/>
-                           <phrase n="2" startid="#n22h146" endid="#n1ythfe7" type="B"/>
-                           <phrase n="3" startid="#np0k0ri" endid="#n143b403" type="C"/>
-                       </supplied>
+                            <phrase n="1" startid="#n14bedp2" endid="#n1obzxa7" type="A"/>
+                            <phrase n="2" startid="#n22h146" endid="#n1ythfe7" type="B"/>
+                            <phrase n="3" startid="#np0k0ri" endid="#n143b403" type="C"/>
+                        </supplied>
                         <pb xml:id="p1g9hpiq"/>
                         <measure xml:id="mmbsyrj" left="rptstart" n="1">
                             <staff xml:id="sda1pi9" n="1">

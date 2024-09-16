@@ -101,7 +101,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="aeolian">A</key>
+                <key mode="aeolian">
+                    A
+                </key>
                 <meter>
                     Polyrhythmic
                 </meter>
@@ -177,9 +179,9 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#n13vall3" endid="#nv1vhdi" type="A"/>
-                           <phrase n="2" startid="#n1neg3v0" endid="#n1sgbb9k" type="B"/>
-                       </supplied>
+                            <phrase n="1" startid="#n13vall3" endid="#nv1vhdi" type="A"/>
+                            <phrase n="2" startid="#n1neg3v0" endid="#n1sgbb9k" type="B"/>
+                        </supplied>
                         <pb xml:id="p1l3hm05"/>
                         <measure xml:id="mflnjln" n="1">
                             <staff xml:id="s1lu8s2s" n="1">

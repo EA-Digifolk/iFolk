@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
     <meiHead>
-       <fileDesc>
+        <fileDesc>
             <titleStmt>
                 <title type="main" xml:id="ES-1948-CB-CO-314">
                     314. Salga Usted.
@@ -86,7 +86,7 @@
                 </application>
             </appInfo>
         </encodingDesc>
-       <workList>
+        <workList>
             <work>
                 <title type="main">
                     Salga Usted.
@@ -97,7 +97,7 @@
                 <incip type="lyrics">
                     <incipText>
                         <head>
-                           Salga usted, salga usted,
+                            Salga usted, salga usted,
                            que la quiero ver bailar,
                            saltar y brincar 
                            y dar cueltas al aire.
@@ -132,8 +132,7 @@
                 </langUsage>
                 <notesStmt>
                     <annot>
-                       
-                           Salga usted, salga usted,
+                        Salga usted, salga usted,
                            que la quiero ver bailar,
                            saltar y brincar 
                            y dar cueltas al aire.
@@ -197,10 +196,10 @@
                                 <meterSig xml:id="mhojs8v" count="2" unit="4"/>
                             </staffDef>
                         </staffGrp>
-									<ambitus>
+                        <ambitus>
                             <ambNote type="lowest" oct="4" pname="c"/>
                             <ambNote type="highest" oct="5" pname="c"/>
-                       		</ambitus>
+                        </ambitus>
                     </scoreDef>
                     <section xml:id="s1ehxe4o">
                         <supplied type="rythymn pattern">
@@ -208,7 +207,7 @@
                                 <note dur="8"/>
                                 <note dur="8"/>
                             </beam>
-                           <note dur="4"/>
+                            <note dur="4"/>
                         </supplied>
                         <supplied type="phrases">
                             <phrase n="1" startid="#n1u1kq7e" endid="#n1g1vemo" type="A"/>

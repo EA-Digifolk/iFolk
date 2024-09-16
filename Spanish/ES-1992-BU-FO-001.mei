@@ -103,7 +103,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="phrygian2">G</key>
+                <key mode="phrygian2">
+                    G
+                </key>
                 <meter>
                     Binary
                 </meter>
@@ -181,13 +183,13 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#n4fwm6i" endid="#n1lxtg5l" type="A"/>
-                           <phrase n="2" startid="#nvfcb5s" endid="#nmi7guv" type="B"/>
-                           <phrase n="3" startid="#n1ay3m9f" endid="#n1yuxodl" type="CODA"/>
-                           <phrase n="4" startid="#n7lytek" endid="#nohhy8p" type="A"/>
-                           <phrase n="5" startid="#nro66id" endid="#n1h06ey5" type="B"/>
-                           <phrase n="6" startid="#n1fltl3p" endid="#ntj4ui0" type="CODA"/>
-                       </supplied>
+                            <phrase n="1" startid="#n4fwm6i" endid="#n1lxtg5l" type="A"/>
+                            <phrase n="2" startid="#nvfcb5s" endid="#nmi7guv" type="B"/>
+                            <phrase n="3" startid="#n1ay3m9f" endid="#n1yuxodl" type="CODA"/>
+                            <phrase n="4" startid="#n7lytek" endid="#nohhy8p" type="A"/>
+                            <phrase n="5" startid="#nro66id" endid="#n1h06ey5" type="B"/>
+                            <phrase n="6" startid="#n1fltl3p" endid="#ntj4ui0" type="CODA"/>
+                        </supplied>
                         <pb xml:id="p56cfsl"/>
                         <measure xml:id="mvzwirb" n="1">
                             <staff xml:id="shozvqb" n="1">

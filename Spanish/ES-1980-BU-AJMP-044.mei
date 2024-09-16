@@ -101,7 +101,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="major">G</key>
+                <key mode="major">
+                    G
+                </key>
                 <meter>
                     Irregular
                 </meter>
@@ -172,9 +174,9 @@
                             </tuplet>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#n1i09b5m" endid="#nz34ypi" type="A"/>
-                           <phrase n="2" startid="#nylpsig" endid="#npf8z3c" type="B"/>
-                       </supplied>
+                            <phrase n="1" startid="#n1i09b5m" endid="#nz34ypi" type="A"/>
+                            <phrase n="2" startid="#nylpsig" endid="#npf8z3c" type="B"/>
+                        </supplied>
                         <pb xml:id="p1i9e6fu"/>
                         <measure xml:id="mc0ag8c" n="1">
                             <staff xml:id="s112oyfi" n="1">

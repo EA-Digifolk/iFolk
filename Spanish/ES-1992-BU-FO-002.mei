@@ -103,7 +103,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="phrygian2">F Sharp</key>
+                <key mode="phrygian2">
+                    F Sharp
+                </key>
                 <meter>
                     Binary
                 </meter>
@@ -181,8 +183,8 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                        	<phrase n="1" startid="#nbrbnzy" endid="#ngk40if" type="A"/>
-                           <phrase n="2" startid="#n1fcj462" endid="#ntpt3lr" type="A"/>
+                            <phrase n="1" startid="#nbrbnzy" endid="#ngk40if" type="A"/>
+                            <phrase n="2" startid="#n1fcj462" endid="#ntpt3lr" type="A"/>
                         </supplied>
                         <pb xml:id="pt3s6y5"/>
                         <measure xml:id="ma0cxj" n="1">

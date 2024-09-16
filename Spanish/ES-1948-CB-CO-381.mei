@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title type="main" xml:id="ES-1948-CB-CO-381">
-                   Estoy Cojo.
+                    Estoy Cojo.
                 </title>
                 <title type="subtitle">
                     381. Estoy cojo. (Tres Voces).
@@ -74,7 +74,7 @@
                 </source>
             </sourceDesc>
         </fileDesc>
-       <encodingDesc xml:id="encodingdesc-cxxitn">
+        <encodingDesc xml:id="encodingdesc-cxxitn">
             <appInfo xml:id="appinfo-cznbbk">
                 <application xml:id="application-12cffic" isodate="2023-02-22T22:18:31" version="3.14.0-1474e80">
                     <name xml:id="name-1t7dque">
@@ -86,10 +86,10 @@
                 </application>
             </appInfo>
         </encodingDesc>
-       <workList>
+        <workList>
             <work>
                 <title type="main">
-                   Estoy Cojo.
+                    Estoy Cojo.
                 </title>
                 <author type="informant">
                     Anonymous
@@ -97,7 +97,7 @@
                 <incip type="lyrics">
                     <incipText>
                         <head>
-                           Estoy cojo de un pie y no puedo caminar;
+                            Estoy cojo de un pie y no puedo caminar;
                            y no puedo y no puedo, no puedo caminar.
                            
                            Voy siguiendo una liebre, no la puedo alcanzar
@@ -130,8 +130,8 @@
                     <language xml:lang="es"/>
                 </langUsage>
                 <notesStmt>
-                   <annot>
-                      Estoy cojo de un pie y no puedo caminar;
+                    <annot>
+                        Estoy cojo de un pie y no puedo caminar;
                       y no puedo y no puedo, no puedo caminar.
 
                       Voy siguiendo una liebre, no la puedo alcanzar
@@ -183,30 +183,30 @@
                                 <meterSig xml:id="m1f84zfj" count="2" unit="4"/>
                             </staffDef>
                         </staffGrp>
-                       <ambitus>
+                        <ambitus>
                             <ambNote type="lowest" oct="4" pname="c"/>
                             <ambNote type="highest" oct="5" pname="d"/>
                         </ambitus>
                     </scoreDef>
                     <section xml:id="s1rcj1hr">
-                       <supplied type="rythymn pattern">
+                        <supplied type="rythymn pattern">
                             <note dur="8"/>
                             <beam>
-                               <note dur="8"/>
-                               <note dur="8"/>
+                                <note dur="8"/>
+                                <note dur="8"/>
                             </beam>
                             <beam>
-                               <note dur="8"/>
-                               <note dur="8"/>
+                                <note dur="8"/>
+                                <note dur="8"/>
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#n5dqitd" endid="#nwna0w6" type="A"/>
-                           <phrase n="2" startid="#n6ope5a" endid="#ngs0xf" type="B"/>
-                           <phrase n="3" startid="#n1f6rg0e" endid="#n1ywqeaw" type="C"/>
-                           <phrase n="4" startid="#n1j4yjxt" endid="#nwna0w6" type="A"/>
-                           <phrase n="5" startid="#n6ope5a" endid="#ngs0xf" type="B"/>
-                           <phrase n="6" startid="#n1f6rg0e" endid="#ngxpmiv" type="C"/>
+                            <phrase n="1" startid="#n5dqitd" endid="#nwna0w6" type="A"/>
+                            <phrase n="2" startid="#n6ope5a" endid="#ngs0xf" type="B"/>
+                            <phrase n="3" startid="#n1f6rg0e" endid="#n1ywqeaw" type="C"/>
+                            <phrase n="4" startid="#n1j4yjxt" endid="#nwna0w6" type="A"/>
+                            <phrase n="5" startid="#n6ope5a" endid="#ngs0xf" type="B"/>
+                            <phrase n="6" startid="#n1f6rg0e" endid="#ngxpmiv" type="C"/>
                         </supplied>
                         <pb xml:id="p89866f"/>
                         <measure xml:id="ma8dktb" n="0">

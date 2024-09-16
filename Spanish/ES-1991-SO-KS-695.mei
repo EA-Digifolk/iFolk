@@ -105,7 +105,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="aeolian">G</key>
+                <key mode="aeolian">
+                    G
+                </key>
                 <meter>
                     Ternary
                 </meter>
@@ -188,10 +190,10 @@
                             <note dur="4"/>
                         </supplied>
                         <supplied type="phrases">
-                        	<phrase n="1" startid="#nnk0q72" endid="#nf0222a" type="A"/>
-                           <phrase n="2" startid="#nefzas6" endid="#n1ddgirk" type="A"/>
-                           <phrase n="3" startid="#nbs1vlo" endid="#n10fv08v" type="B1"/>
-                           <phrase n="4" startid="#nqal09r" endid="#nbn5wl9" type="B2"/>
+                            <phrase n="1" startid="#nnk0q72" endid="#nf0222a" type="A"/>
+                            <phrase n="2" startid="#nefzas6" endid="#n1ddgirk" type="A"/>
+                            <phrase n="3" startid="#nbs1vlo" endid="#n10fv08v" type="B1"/>
+                            <phrase n="4" startid="#nqal09r" endid="#nbn5wl9" type="B2"/>
                         </supplied>
                         <pb xml:id="pdkb1qi"/>
                         <measure xml:id="mffrhai" n="1">

@@ -98,7 +98,9 @@
                         </lg>
                     </incipText>
                 </incip>
-                <key mode="aeolian37">E</key>
+                <key mode="aeolian37">
+                    E
+                </key>
                 <meter>
                     Binary
                 </meter>

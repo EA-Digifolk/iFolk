@@ -105,7 +105,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="major">G</key>
+                <key mode="major">
+                    G
+                </key>
                 <meter>
                     Binary
                 </meter>
@@ -187,14 +189,14 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#nz3fn9a" endid="#n1laebxa" type="A1"/>
-                           <phrase n="2" startid="#n12bnwr6" endid="#n1pymbll" type="A1"/>
-                           <phrase n="3" startid="#n7x3li3" endid="#n1yqeu9y" type="B"/>
-                           <phrase n="4" startid="#n1umx8bv" endid="#nsq08ya" type="B"/>
-                           <phrase n="5" startid="#nuzk0c0" endid="#na8qfs5" type="A2"/>
-                           <phrase n="6" startid="#nwtzi03" endid="#nis6m3e" type="A3"/>
-                           <phrase n="7" startid="#n1eulgn7" endid="#n1laebxa" type="A1"/>
-                           <phrase n="8" startid="#nwtzi03" endid="#n1glrfy" type="A3"/>
+                            <phrase n="1" startid="#nz3fn9a" endid="#n1laebxa" type="A1"/>
+                            <phrase n="2" startid="#n12bnwr6" endid="#n1pymbll" type="A1"/>
+                            <phrase n="3" startid="#n7x3li3" endid="#n1yqeu9y" type="B"/>
+                            <phrase n="4" startid="#n1umx8bv" endid="#nsq08ya" type="B"/>
+                            <phrase n="5" startid="#nuzk0c0" endid="#na8qfs5" type="A2"/>
+                            <phrase n="6" startid="#nwtzi03" endid="#nis6m3e" type="A3"/>
+                            <phrase n="7" startid="#n1eulgn7" endid="#n1laebxa" type="A1"/>
+                            <phrase n="8" startid="#nwtzi03" endid="#n1glrfy" type="A3"/>
                         </supplied>
                         <pb xml:id="ps8v0q1"/>
                         <measure xml:id="m1uxyfbq" n="1">

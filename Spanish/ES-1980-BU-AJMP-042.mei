@@ -103,7 +103,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="aeolian7">E</key>
+                <key mode="aeolian7">
+                    E
+                </key>
                 <meter>
                     Polyrhythmic
                 </meter>
@@ -183,12 +185,12 @@
                             <note dur="4"/>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#n14s33mg" endid="#ngxg59c" type="A1"/>
-                           <phrase n="2" startid="#n1f8qnj1" endid="#n1sosydg" type="A2"/>
-                           <phrase n="3" startid="#n15zorst" endid="#n4i4fsq" type="B"/>
-                           <phrase n="4" startid="#n1vj7eqa" endid="#n171i6z2" type="A3"/>
-                           <phrase n="5" startid="#ntb1ell" endid="#nmn2d8c" type="A2"/>
-                       </supplied>
+                            <phrase n="1" startid="#n14s33mg" endid="#ngxg59c" type="A1"/>
+                            <phrase n="2" startid="#n1f8qnj1" endid="#n1sosydg" type="A2"/>
+                            <phrase n="3" startid="#n15zorst" endid="#n4i4fsq" type="B"/>
+                            <phrase n="4" startid="#n1vj7eqa" endid="#n171i6z2" type="A3"/>
+                            <phrase n="5" startid="#ntb1ell" endid="#nmn2d8c" type="A2"/>
+                        </supplied>
                         <pb xml:id="pul5bp"/>
                         <measure xml:id="m1i1ebpc" n="0">
                             <mNum xml:id="mw2ev04"/>

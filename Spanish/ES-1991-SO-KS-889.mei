@@ -105,7 +105,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="major">A</key>
+                <key mode="major">
+                    A
+                </key>
                 <meter>
                     Ternary
                 </meter>
@@ -207,14 +209,14 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                        	<phrase n="1" startid="#n1hvjlsi" endid="#n9mlpjg" type="A1"/>
-                           <phrase n="2" startid="#n1pxwz5f" endid="#nxwu2m1" type="A2"/>
-                           <phrase n="3" startid="#nulmjy1" endid="#n9mlpjg" type="A1"/>
-                           <phrase n="4" startid="#n1pxwz5f" endid="#n3z8x4x" type="A2"/>
-                           <phrase n="5" startid="#nhjyoe5" endid="#n1hitvcp" type="B1"/>
-                           <phrase n="6" startid="#nxbt0vf" endid="#nohla2u" type="B2"/>
-                           <phrase n="7" startid="#n11vyrmt" endid="#n1hitvcp" type="B1"/>
-                           <phrase n="8" startid="#nxbt0vf" endid="#nm9fjdw" type="B2"/>
+                            <phrase n="1" startid="#n1hvjlsi" endid="#n9mlpjg" type="A1"/>
+                            <phrase n="2" startid="#n1pxwz5f" endid="#nxwu2m1" type="A2"/>
+                            <phrase n="3" startid="#nulmjy1" endid="#n9mlpjg" type="A1"/>
+                            <phrase n="4" startid="#n1pxwz5f" endid="#n3z8x4x" type="A2"/>
+                            <phrase n="5" startid="#nhjyoe5" endid="#n1hitvcp" type="B1"/>
+                            <phrase n="6" startid="#nxbt0vf" endid="#nohla2u" type="B2"/>
+                            <phrase n="7" startid="#n11vyrmt" endid="#n1hitvcp" type="B1"/>
+                            <phrase n="8" startid="#nxbt0vf" endid="#nm9fjdw" type="B2"/>
                         </supplied>
                         <pb xml:id="p1nbiybj"/>
                         <measure xml:id="mcwe9vm" n="1">

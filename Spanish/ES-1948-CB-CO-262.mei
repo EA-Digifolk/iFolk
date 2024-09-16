@@ -101,7 +101,9 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="minor">D</key>
+                <key mode="minor">
+                    D
+                </key>
                 <meter>
                     Binary
                 </meter>

@@ -184,11 +184,11 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#n1lns50t" endid="#nmqf2nr" type="A"/>
-                           <phrase n="2" startid="#n1llgnpu" endid="#n1kp38q7" type="B"/>
-                           <phrase n="3" startid="#n9b47pw" endid="#n1gwnu7u" type="C"/>
-                           <phrase n="4" startid="#n11waem3" endid="#n1cvwtnh" type="D"/>
-                       </supplied>
+                            <phrase n="1" startid="#n1lns50t" endid="#nmqf2nr" type="A"/>
+                            <phrase n="2" startid="#n1llgnpu" endid="#n1kp38q7" type="B"/>
+                            <phrase n="3" startid="#n9b47pw" endid="#n1gwnu7u" type="C"/>
+                            <phrase n="4" startid="#n11waem3" endid="#n1cvwtnh" type="D"/>
+                        </supplied>
                         <pb xml:id="ptemj1c"/>
                         <measure xml:id="mnyczrd" n="1">
                             <staff xml:id="szsmq4w" n="1">

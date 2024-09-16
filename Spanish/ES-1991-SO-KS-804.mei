@@ -105,7 +105,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="major">C</key>
+                <key mode="major">
+                    C
+                </key>
                 <meter>
                     Polyrhythmic
                 </meter>
@@ -194,13 +196,13 @@
                             <note dur="8"/>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#nv7bp2i" endid="#n1axqe2z" type="A"/>
-                           <phrase n="2" startid="#n1rghsxi" endid="#nk8akr5" type="B"/>
-                           <phrase n="3" startid="#nx81io8" endid="#n2hvydp" type="B"/>
-                           <phrase n="4" startid="#nklvdbs" endid="#n1axqe2z" type="A"/>
-                           <phrase n="5" startid="#n1rghsxi" endid="#nk8akr5" type="B"/>
-                           <phrase n="6" startid="#n1rghsxi" endid="#ngjqf49" type="B"/>
-                       </supplied>
+                            <phrase n="1" startid="#nv7bp2i" endid="#n1axqe2z" type="A"/>
+                            <phrase n="2" startid="#n1rghsxi" endid="#nk8akr5" type="B"/>
+                            <phrase n="3" startid="#nx81io8" endid="#n2hvydp" type="B"/>
+                            <phrase n="4" startid="#nklvdbs" endid="#n1axqe2z" type="A"/>
+                            <phrase n="5" startid="#n1rghsxi" endid="#nk8akr5" type="B"/>
+                            <phrase n="6" startid="#n1rghsxi" endid="#ngjqf49" type="B"/>
+                        </supplied>
                         <pb xml:id="p1geajdt"/>
                         <measure xml:id="m6xgyi8" n="1">
                             <staff xml:id="s1687hr" n="1">

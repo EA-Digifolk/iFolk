@@ -105,7 +105,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="major">C</key>
+                <key mode="major">
+                    C
+                </key>
                 <meter>
                     Binary
                 </meter>
@@ -186,8 +188,8 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#n72f6r6" endid="#n6irld4" type="A1"/>
-                           <phrase n="2" startid="#n1wxflsr" endid="#n1kqobjw" type="A2"/>
+                            <phrase n="1" startid="#n72f6r6" endid="#n6irld4" type="A1"/>
+                            <phrase n="2" startid="#n1wxflsr" endid="#n1kqobjw" type="A2"/>
                         </supplied>
                         <pb xml:id="pv61942"/>
                         <measure xml:id="m14vp3em" left="rptstart" n="1">

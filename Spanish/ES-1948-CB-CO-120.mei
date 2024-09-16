@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
     <meiHead>
         <fileDesc>
             <titleStmt>
@@ -37,7 +35,7 @@
                 These scores, are provided for educational use only and are not to be used commercially.
                 </availability>
             </pubStmt>
-           <sourceDesc>
+            <sourceDesc>
                 <source xml:id="to_add">
                     <biblStruct>
                         <monogr>
@@ -86,10 +84,10 @@
                 </application>
             </appInfo>
         </encodingDesc>
-       <worklist>
-       	<work>
+        <worklist>
+            <work>
                 <title type="main">
-                   120. El Pompón
+                    120. El Pompón
                 </title>
                 <author type="informant"/>
                 <incip type="lyrics">
@@ -120,14 +118,14 @@
                     <language xml:lang="es"/>
                 </langUsage>
                 <notesStmt>
-                   <annot>
-                   	El pompón, el pompón, 
+                    <annot>
+                        El pompón, el pompón, 
                      y el dinerito en el bolsón;
                      y las tortitas, 
                      y las tortitas;
                      para su madre
                      las más bonitas.
-                   </annot>
+                    </annot>
                 </notesStmt>
                 <classification>
                     <termList>
@@ -140,7 +138,7 @@
                     </termList>
                 </classification>
             </work>
-       </worklist>
+        </worklist>
     </meiHead>
     <music>
         <body>
@@ -166,19 +164,19 @@
                                 <meterSig xml:id="m1esnn6q" count="2" unit="4"/>
                             </staffDef>
                         </staffGrp>
-                       <ambitus>
-                          <ambNote type="lowest" oct="4" pname="f"/>
-                          <ambNote type="highest" oct="5" pname="d"/>
-                       </ambitus>
+                        <ambitus>
+                            <ambNote type="lowest" oct="4" pname="f"/>
+                            <ambNote type="highest" oct="5" pname="d"/>
+                        </ambitus>
                     </scoreDef>
                     <section xml:id="sd7hq7i">
-                       <supplied type="rythymn pattern">
+                        <supplied type="rythymn pattern">
                             <beam>
-                               <note dur="8"/>
-                               <note dur="8"/>
+                                <note dur="8"/>
+                                <note dur="8"/>
                             </beam>
                             <beam>
-                               <note dur="4"/>
+                                <note dur="4"/>
                             </beam>
                         </supplied>
                         <supplied type="phrases">
@@ -219,7 +217,7 @@
                                     Alegro moderato.
                                 </rend>
                                 <rend xml:id="r5cpev4" fontfam="Edwin">
-                                   ♩ = 114
+                                    ♩ = 114
                                 </rend>
                             </tempo>
                         </measure>

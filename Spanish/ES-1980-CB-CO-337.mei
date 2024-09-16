@@ -101,7 +101,9 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="aeolian">D</key>
+                <key mode="aeolian">
+                    D
+                </key>
                 <meter>
                     Ternary
                 </meter>

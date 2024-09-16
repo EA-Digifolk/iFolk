@@ -103,7 +103,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="mixolydian">D</key>
+                <key mode="mixolydian">
+                    D
+                </key>
                 <meter>
                     Binary
                 </meter>

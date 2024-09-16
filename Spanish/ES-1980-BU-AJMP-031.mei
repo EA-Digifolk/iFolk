@@ -101,7 +101,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="major">C</key>
+                <key mode="major">
+                    C
+                </key>
                 <meter>
                     Binary
                 </meter>
@@ -171,17 +173,17 @@
                                 <note dur="8"/>
                             </beam>
                         </supplied>
-                       <supplied type="phrases">
-                           <phrase n="1" startid="#nlu31ch" endid="#n10j0xin" type="A1"/>
-                           <phrase n="2" startid="#n16h0vs4" endid="#n1gaxvj9" type="A2"/>
-                           <phrase n="3" startid="#n11dvial" endid="#nh1tb82" type="A3"/>
-                           <phrase n="4" startid="#nnqawbk" endid="#nhzugjm" type="A4"/>
-                           <phrase n="5" startid="#ny9fjl7" endid="#n1kdlccw" type="A1"/>
-                           <phrase n="6" startid="#ndd0jcc" endid="#nrjey7s" type="A2"/>
-                           <phrase n="7" startid="#n1wec927" endid="#n13jcxv2" type="A5"/>
-                           <phrase n="8" startid="#nveknw8" endid="#nkkan1m" type="B"/>
-                           <phrase n="9" startid="#n13o5fm3" endid="#n2yhvf5" type="B"/>
-                       </supplied>
+                        <supplied type="phrases">
+                            <phrase n="1" startid="#nlu31ch" endid="#n10j0xin" type="A1"/>
+                            <phrase n="2" startid="#n16h0vs4" endid="#n1gaxvj9" type="A2"/>
+                            <phrase n="3" startid="#n11dvial" endid="#nh1tb82" type="A3"/>
+                            <phrase n="4" startid="#nnqawbk" endid="#nhzugjm" type="A4"/>
+                            <phrase n="5" startid="#ny9fjl7" endid="#n1kdlccw" type="A1"/>
+                            <phrase n="6" startid="#ndd0jcc" endid="#nrjey7s" type="A2"/>
+                            <phrase n="7" startid="#n1wec927" endid="#n13jcxv2" type="A5"/>
+                            <phrase n="8" startid="#nveknw8" endid="#nkkan1m" type="B"/>
+                            <phrase n="9" startid="#n13o5fm3" endid="#n2yhvf5" type="B"/>
+                        </supplied>
                         <pb xml:id="po5idfv"/>
                         <measure xml:id="m13igauk" n="1">
                             <staff xml:id="sdc2iil" n="1">

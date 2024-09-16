@@ -105,7 +105,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="phrygian">E</key>
+                <key mode="phrygian">
+                    E
+                </key>
                 <meter>
                     Binary
                 </meter>
@@ -191,10 +193,10 @@
                             <note dur="4"/>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#nmcxflf" endid="#nc3oe2w" type="A1"/>
-                           <phrase n="2" startid="#n1yq0qmr" endid="#nhubyx7" type="A2"/>
-                           <phrase n="3" startid="#n17hh2we" endid="#n10r3xp6" type="B1"/>
-                           <phrase n="4" startid="#n1nzxx3t" endid="#ngkxjed" type="B2"/>
+                            <phrase n="1" startid="#nmcxflf" endid="#nc3oe2w" type="A1"/>
+                            <phrase n="2" startid="#n1yq0qmr" endid="#nhubyx7" type="A2"/>
+                            <phrase n="3" startid="#n17hh2we" endid="#n10r3xp6" type="B1"/>
+                            <phrase n="4" startid="#n1nzxx3t" endid="#ngkxjed" type="B2"/>
                         </supplied>
                         <pb xml:id="p1gg3gdo"/>
                         <measure xml:id="m8pozzj" n="1">

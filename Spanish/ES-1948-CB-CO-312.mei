@@ -74,7 +74,7 @@
                 </source>
             </sourceDesc>
         </fileDesc>
-       <encodingDesc xml:id="encodingdesc-1yq9xi">
+        <encodingDesc xml:id="encodingdesc-1yq9xi">
             <appInfo xml:id="appinfo-13vuip5">
                 <application xml:id="application-ez0ayc" isodate="2023-02-22T22:18:29" version="3.14.0-1474e80">
                     <name xml:id="name-1h0txfr">
@@ -86,7 +86,7 @@
                 </application>
             </appInfo>
         </encodingDesc>
-       <workList>
+        <workList>
             <work>
                 <title type="main">
                     Quítate de esa esquina
@@ -97,7 +97,7 @@
                 <incip type="lyrics">
                     <incipText>
                         <head>
-                           Nina 1ª
+                            Nina 1ª
                            Quítate de esa esquina, galán, 
                            que llueve, galán, que llueve;
                            deja correr el agua por donde suele.  
@@ -242,7 +242,7 @@
                         <ambitus>
                             <ambNote type="lowest" oct="4" pname="d"/>
                             <ambNote type="highest" oct="5" pname="c"/>
-                       </ambitus>
+                        </ambitus>
                     </scoreDef>
                     <section xml:id="s1pgxu73">
                         <supplied type="rythymn pattern">
@@ -250,14 +250,14 @@
                                 <note dur="8"/>
                                 <note dur="8"/>
                             </beam>
-                           <note dur="4"/>
+                            <note dur="4"/>
                         </supplied>
                         <supplied type="phrases">
                             <phrase n="1" startid="#n19zxt2c" endid="#n1v62ufd" type="A1"/>
-                            <phrase n="2" startid="#n1r5eet2" endid="#ndey3ua"  type="A2"/>
-                            <phrase n="3" startid="#ni5p36m"  endid="#n1v62ufd" type="A1"/>
-                            <phrase n="4" startid="#n1r5eet2" endid="#nangee2"  type="A2"/>
-                            <phrase n="5" startid="#ne6eae9"  endid="#n131i1t5" type="B"/>
+                            <phrase n="2" startid="#n1r5eet2" endid="#ndey3ua" type="A2"/>
+                            <phrase n="3" startid="#ni5p36m" endid="#n1v62ufd" type="A1"/>
+                            <phrase n="4" startid="#n1r5eet2" endid="#nangee2" type="A2"/>
+                            <phrase n="5" startid="#ne6eae9" endid="#n131i1t5" type="B"/>
                         </supplied>
                         <pb xml:id="p1nqsmti"/>
                         <measure xml:id="m1ijl8eb" n="0">

@@ -105,7 +105,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="mixolydian">C</key>
+                <key mode="mixolydian">
+                    C
+                </key>
                 <meter>
                     Ternary
                 </meter>
@@ -187,11 +189,11 @@
                             <note dur="4" dots="1"/>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#nxzi08u" endid="#n1qufxv0" type="A1"/>
-                           <phrase n="2" startid="#n11kbznn" endid="#n1prijzc" type="A2"/>
-                           <phrase n="3" startid="#nwqzf7q" endid="#n1nfku5t" type="CODA"/>
-                           <phrase n="4" startid="#n1qhfc3w" endid="#n1qufxv0" type="A1"/>
-                           <supplied n="5" startid="#nwqzf7q" endid="#njc1pb4" type="CODA"/>
+                            <phrase n="1" startid="#nxzi08u" endid="#n1qufxv0" type="A1"/>
+                            <phrase n="2" startid="#n11kbznn" endid="#n1prijzc" type="A2"/>
+                            <phrase n="3" startid="#nwqzf7q" endid="#n1nfku5t" type="CODA"/>
+                            <phrase n="4" startid="#n1qhfc3w" endid="#n1qufxv0" type="A1"/>
+                            <supplied n="5" startid="#nwqzf7q" endid="#njc1pb4" type="CODA"/>
                         </supplied>
                         <pb xml:id="p7ee91p"/>
                         <measure xml:id="m1kv8pzf" n="1">

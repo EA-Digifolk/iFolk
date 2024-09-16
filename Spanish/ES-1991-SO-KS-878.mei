@@ -105,7 +105,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="major">D</key>
+                <key mode="major">
+                    D
+                </key>
                 <meter>
                     Ternary
                 </meter>
@@ -198,8 +200,8 @@
                             <note dur="2"/>
                         </supplied>
                         <supplied type="phrases">
-                        	<phrase n="1" startid="#n3vnsyv" endid="#n17wosod" type="A1"/>
-									<phrase n="2" startid="#n14autrp" endid="#n1ms2pj8" type="A2"/>
+                            <phrase n="1" startid="#n3vnsyv" endid="#n17wosod" type="A1"/>
+                            <phrase n="2" startid="#n14autrp" endid="#n1ms2pj8" type="A2"/>
                         </supplied>
                         <pb xml:id="phj5hce"/>
                         <measure xml:id="mioyd6f" n="1">

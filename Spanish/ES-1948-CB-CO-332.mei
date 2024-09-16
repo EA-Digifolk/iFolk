@@ -74,7 +74,7 @@
                 </source>
             </sourceDesc>
         </fileDesc>
-       <encodingDesc xml:id="encodingdesc-2vk77h">
+        <encodingDesc xml:id="encodingdesc-2vk77h">
             <appInfo xml:id="appinfo-umqv1">
                 <application xml:id="application-18aqhm5" isodate="2023-02-22T22:18:30" version="3.14.0-1474e80">
                     <name xml:id="name-omh4zk">
@@ -86,7 +86,7 @@
                 </application>
             </appInfo>
         </encodingDesc>
-       <workList>
+        <workList>
             <work>
                 <title type="main">
                     Con los ojos del alma. Río Verde.
@@ -97,7 +97,7 @@
                 <incip type="lyrics">
                     <incipText>
                         <head>
-                           Con los ojos del alma te estoy mirando
+                            Con los ojos del alma te estoy mirando
                            y con los dela cara, disimulando.
                            
                            Río, río verde, trilara lará,
@@ -137,8 +137,7 @@
                 </langUsage>
                 <notesStmt>
                     <annot>
-                        
-                           Con los ojos del alma te estoy mirando
+                        Con los ojos del alma te estoy mirando
                            y con los dela cara, disimulando.
                            
                            Río, río verde, trilara lará,
@@ -200,13 +199,13 @@
                                 <meterSig xml:id="m1j14av6" count="2" unit="4"/>
                             </staffDef>
                         </staffGrp>
-                       <ambitus>
+                        <ambitus>
                             <ambNote type="lowest" oct="4" pname="c"/>
                             <ambNote type="highest" oct="5" pname="c"/>
                         </ambitus>
                     </scoreDef>
                     <section xml:id="s1xbfgz8">
-                       <supplied type="rythymn pattern">
+                        <supplied type="rythymn pattern">
                             <note dur="8"/>
                             <beam>
                                 <note dur="8"/>
@@ -218,14 +217,14 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#nqr0mqv" endid="#nhtg6g8" type="A1"/>
-                           <phrase n="2" startid="#n5umseo" endid="#n16h8a2y" type="A2"/>
-                           <phrase n="3" startid="#n12t621x" endid="#nmlnetj" type="A1"/>
-                           <phrase n="4" startid="#nclpvfj" endid="#n1bcs6wx" type="A2"/>
-                           <phrase n="5" startid="#nw8vtmo" endid="#nq2kktn" type="B1"/>
-                           <phrase n="6" startid="#nde7x3w" endid="#ngx34qa" type="B2"/>
-                           <phrase n="7" startid="#n1rh7nq7" endid="#nhtg6g8" type="A1"/>
-                           <phrase n="8" startid="#nde7x3w" endid="#n17yftuj" type="B2"/>
+                            <phrase n="1" startid="#nqr0mqv" endid="#nhtg6g8" type="A1"/>
+                            <phrase n="2" startid="#n5umseo" endid="#n16h8a2y" type="A2"/>
+                            <phrase n="3" startid="#n12t621x" endid="#nmlnetj" type="A1"/>
+                            <phrase n="4" startid="#nclpvfj" endid="#n1bcs6wx" type="A2"/>
+                            <phrase n="5" startid="#nw8vtmo" endid="#nq2kktn" type="B1"/>
+                            <phrase n="6" startid="#nde7x3w" endid="#ngx34qa" type="B2"/>
+                            <phrase n="7" startid="#n1rh7nq7" endid="#nhtg6g8" type="A1"/>
+                            <phrase n="8" startid="#nde7x3w" endid="#n17yftuj" type="B2"/>
                         </supplied>
                         <pb xml:id="p14d4mxu"/>
                         <measure xml:id="mo7cy4c" n="0">

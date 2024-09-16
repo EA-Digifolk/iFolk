@@ -101,7 +101,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="major">C</key>
+                <key mode="major">
+                    C
+                </key>
                 <meter>
                     Binary
                 </meter>
@@ -189,7 +191,7 @@
                             <phrase n="5" startid="#ngpb0d5" endid="#n1elg885" type="A1"/>
                             <phrase n="6" startid="#nyv0x15" endid="#n1yvvhmi" type="A2"/>
                         </supplied>
-								<pb xml:id="p1rv4qw"/>
+                        <pb xml:id="p1rv4qw"/>
                         <measure xml:id="m1jwcys4" n="1">
                             <staff xml:id="ssuftty" n="1">
                                 <layer xml:id="leeul1e" n="1">

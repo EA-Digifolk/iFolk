@@ -101,7 +101,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="major">G</key>
+                <key mode="major">
+                    G
+                </key>
                 <meter>
                     Polyrhythmic
                 </meter>
@@ -171,12 +173,12 @@
                                 <note dur="8"/>
                             </beam>
                         </supplied>
-                       <supplied type="phrases">
-                          <phrase n="1" startid="#ntqn3f3" endid="#n19t2app" type="A1"/>
-                          <phrase n="2" startid="#nj8v8st" endid="#n1fkea3y" type="A2"/>
-                          <phrase n="3" startid="#nr31idb" endid="#n11n2s" type="B1"/>
-                          <phrase n="4" startid="#n1548jkg" endid="#nqu1znm" type="B2"/>
-                       </supplied>
+                        <supplied type="phrases">
+                            <phrase n="1" startid="#ntqn3f3" endid="#n19t2app" type="A1"/>
+                            <phrase n="2" startid="#nj8v8st" endid="#n1fkea3y" type="A2"/>
+                            <phrase n="3" startid="#nr31idb" endid="#n11n2s" type="B1"/>
+                            <phrase n="4" startid="#n1548jkg" endid="#nqu1znm" type="B2"/>
+                        </supplied>
                         <pb xml:id="p1b6nrc"/>
                         <measure xml:id="m173agoq" n="1">
                             <staff xml:id="suno0jj" n="1">

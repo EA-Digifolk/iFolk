@@ -99,9 +99,11 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="major">C</key>
+                <key mode="major">
+                    C
+                </key>
                 <meter>
-                   Ternary
+                    Ternary
                 </meter>
                 <tempo>
                     Vivo; Vivo. 𝅘𝅥𝅭=80
@@ -179,15 +181,15 @@
                     </scoreDef>
                     <section xml:id="s1pwuac5">
                         <supplied type="rythymn pattern">
-                         <beam>
-                            <note dur="16"/>
-                            <note dur="16"/>
-                         </beam>
-                           <beam>
-                            <note dur="8"/>
-                            <note dur="8"/>
-                            <note dur="8"/>
-                         </beam>
+                            <beam>
+                                <note dur="16"/>
+                                <note dur="16"/>
+                            </beam>
+                            <beam>
+                                <note dur="8"/>
+                                <note dur="8"/>
+                                <note dur="8"/>
+                            </beam>
                         </supplied>
                         <supplied type="phrases">
                             <phrase n="1" startid="#n6edcm1" endid="#nsmai7a" type="A1"/>

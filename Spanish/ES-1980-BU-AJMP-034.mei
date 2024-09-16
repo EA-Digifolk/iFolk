@@ -101,7 +101,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="mixolydian">D</key>
+                <key mode="mixolydian">
+                    D
+                </key>
                 <meter>
                     Binary
                 </meter>
@@ -176,13 +178,13 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#n15m9xij" endid="#n1kxihg2" type="A1"/>
-                           <phrase n="2" startid="#n10swyih" endid="#nl4p6ni" type="A2"/>
-                           <phrase n="3" startid="#n1umkabi" endid="#n91ckff" type="A3"/>
-                           <phrase n="4" startid="#n18feb4c" endid="#n1kxihg2" type="A1"/>
-                           <phrase n="5" startid="#n10swyih" endid="#nl4p6ni" type="A2"/>
-                           <phrase n="6" startid="#n1umkabi" endid="#ntgk65n" type="A3"/>
-                       </supplied>
+                            <phrase n="1" startid="#n15m9xij" endid="#n1kxihg2" type="A1"/>
+                            <phrase n="2" startid="#n10swyih" endid="#nl4p6ni" type="A2"/>
+                            <phrase n="3" startid="#n1umkabi" endid="#n91ckff" type="A3"/>
+                            <phrase n="4" startid="#n18feb4c" endid="#n1kxihg2" type="A1"/>
+                            <phrase n="5" startid="#n10swyih" endid="#nl4p6ni" type="A2"/>
+                            <phrase n="6" startid="#n1umkabi" endid="#ntgk65n" type="A3"/>
+                        </supplied>
                         <pb xml:id="p1nyyb8e"/>
                         <measure xml:id="mx92cnd" n="1">
                             <staff xml:id="sdpxsyi" n="1">

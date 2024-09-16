@@ -105,7 +105,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="major">E</key>
+                <key mode="major">
+                    E
+                </key>
                 <meter>
                     Binary
                 </meter>
@@ -188,14 +190,14 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                        	<phrase n="1" startid="#n18xb0sw" endid="#nz1cw5q" type="A1"/>
-                           <phrase n="2" startid="#n12iw8hr" endid="#nvw24gq" type="B1"/>
-                           <phrase n="3" startid="#nl9983d" endid="#nz5oc41" type="C1"/>
-                           <phrase n="4" startid="#njaytr7" endid="#n16w91s" type="D1"/>
-                           <phrase n="5" startid="#n1bum2an" endid="#ncfqitr" type="A2"/>
-                           <phrase n="6" startid="#ngm963l" endid="#n1ijrygp" type="B2"/>
-                           <phrase n="7" startid="#nwvxrjt" endid="#n3bsuro" type="C2"/>
-                           <phrase n="8" startid="#nato5e7" endid="#nasfvzd" type="D2"/>
+                            <phrase n="1" startid="#n18xb0sw" endid="#nz1cw5q" type="A1"/>
+                            <phrase n="2" startid="#n12iw8hr" endid="#nvw24gq" type="B1"/>
+                            <phrase n="3" startid="#nl9983d" endid="#nz5oc41" type="C1"/>
+                            <phrase n="4" startid="#njaytr7" endid="#n16w91s" type="D1"/>
+                            <phrase n="5" startid="#n1bum2an" endid="#ncfqitr" type="A2"/>
+                            <phrase n="6" startid="#ngm963l" endid="#n1ijrygp" type="B2"/>
+                            <phrase n="7" startid="#nwvxrjt" endid="#n3bsuro" type="C2"/>
+                            <phrase n="8" startid="#nato5e7" endid="#nasfvzd" type="D2"/>
                         </supplied>
                         <pb xml:id="pbv8hu2"/>
                         <measure xml:id="m15aurju" n="1">

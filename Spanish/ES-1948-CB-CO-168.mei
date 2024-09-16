@@ -101,7 +101,9 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="major">G</key>
+                <key mode="major">
+                    G
+                </key>
                 <meter>
                     Binary
                 </meter>
@@ -180,7 +182,7 @@
                             <note dur="4"/>
                             <note dur="4"/>
                         </supplied>
-                       <supplied type="phrases">
+                        <supplied type="phrases">
                             <phrase n="1" startid="#nejfwgc" endid="#n1b7lqmx" type="A1"/>
                             <phrase n="2" startid="#n1gmrfyp" endid="#n1hyzk0z" type="A2"/>
                             <phrase n="3" startid="#n1yg5ksf" endid="#n1iaiq8n" type="A3"/>
@@ -1090,59 +1092,59 @@
                                 </layer>
                             </staff>
                         </measure>
-                       <ending xml:id="e1r3ryre" lendsym="angledown" n="1">
-                        <measure xml:id="m3x3au7" right="rptend" n="28">
-                            <staff xml:id="sbotp7j" n="1">
-                                <layer xml:id="l1ygxwc6" n="1">
-                                    <note xml:id="n5epgye" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
-                                        <verse xml:id="vdfi9n9" n="1">
-                                            <syl xml:id="s1np8of1" con="s" wordpos="s">
-                                                sol
-                                            </syl>
-                                        </verse>
-                                    </note>
-                                    <beam xml:id="bqzd0xi">
-                                        <note xml:id="n14jb6lw" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up">
-                                            <verse xml:id="v1jz3vp4" n="1">
-                                                <syl xml:id="s16wasf2" con="d" wordpos="i">
-                                                    sa
+                        <ending xml:id="e1r3ryre" lendsym="angledown" n="1">
+                            <measure xml:id="m3x3au7" right="rptend" n="28">
+                                <staff xml:id="sbotp7j" n="1">
+                                    <layer xml:id="l1ygxwc6" n="1">
+                                        <note xml:id="n5epgye" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                                            <verse xml:id="vdfi9n9" n="1">
+                                                <syl xml:id="s1np8of1" con="s" wordpos="s">
+                                                    sol
                                                 </syl>
                                             </verse>
                                         </note>
-                                        <note xml:id="n10o29nd" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up">
-                                            <verse xml:id="v10us3nw" n="1">
-                                                <syl xml:id="s1tpxux2" con="s" wordpos="t">
-                                                    le el
+                                        <beam xml:id="bqzd0xi">
+                                            <note xml:id="n14jb6lw" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up">
+                                                <verse xml:id="v1jz3vp4" n="1">
+                                                    <syl xml:id="s16wasf2" con="d" wordpos="i">
+                                                        sa
+                                                    </syl>
+                                                </verse>
+                                            </note>
+                                            <note xml:id="n10o29nd" dur.ppq="1" dur="8" oct="4" pname="d" stem.dir="up">
+                                                <verse xml:id="v10us3nw" n="1">
+                                                    <syl xml:id="s1tpxux2" con="s" wordpos="t">
+                                                        le el
+                                                    </syl>
+                                                </verse>
+                                            </note>
+                                        </beam>
+                                    </layer>
+                                </staff>
+                            </measure>
+                        </ending>
+                        <ending xml:id="e1mbi2vj" lendsym="angledown" n="2">
+                            <measure xml:id="m1124kag" right="end" n="29">
+                                <staff xml:id="sl7ua5o" n="1">
+                                    <layer xml:id="limr98s" n="1">
+                                        <note xml:id="n1i39jiq" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up" type="R">
+                                            <verse xml:id="vw8h85p" n="2">
+                                                <syl xml:id="s9fzye3" con="d" wordpos="i">
+                                                    bal
                                                 </syl>
                                             </verse>
                                         </note>
-                                    </beam>
-                                </layer>
-                            </staff>
-                        </measure>
-                          </ending>
-                       <ending xml:id="e1mbi2vj" lendsym="angledown" n="2">
-                        <measure xml:id="m1124kag" right="end" n="29">
-                            <staff xml:id="sl7ua5o" n="1">
-                                <layer xml:id="limr98s" n="1">
-                                    <note xml:id="n1i39jiq" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up" type="R">
-                                        <verse xml:id="vw8h85p" n="2">
-                                            <syl xml:id="s9fzye3" con="d" wordpos="i">
-                                                bal
-                                            </syl>
-                                        </verse>
-                                    </note>
-                                    <note xml:id="n1gaqz0w" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
-                                        <verse xml:id="v1uiclzu" n="2">
-                                            <syl xml:id="s7xgjb8" con="s" wordpos="t">
-                                                cón.
-                                            </syl>
-                                        </verse>
-                                    </note>
-                                </layer>
-                            </staff>
-                            <fermata xml:id="f1s466qp" staff="1" startid="#n1gaqz0w" form="norm" place="above"/>
-                        </measure>
+                                        <note xml:id="n1gaqz0w" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                                            <verse xml:id="v1uiclzu" n="2">
+                                                <syl xml:id="s7xgjb8" con="s" wordpos="t">
+                                                    cón.
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </layer>
+                                </staff>
+                                <fermata xml:id="f1s466qp" staff="1" startid="#n1gaqz0w" form="norm" place="above"/>
+                            </measure>
                         </ending>
                     </section>
                 </score>

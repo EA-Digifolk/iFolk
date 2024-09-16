@@ -101,7 +101,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="aeolian3">D</key>
+                <key mode="aeolian3">
+                    D
+                </key>
                 <meter>
                     Binary
                 </meter>
@@ -170,9 +172,9 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#n91ngsq" endid="#n1fby0oo" type="A"/>
-                           <phrase n="2" startid="#n11u6mm7" endid="#n1bgt3ff" type="B"/>
-                           <phrase n="3" startid="#n1mnhw3d" endid="#ndqqhki" type="C"/>
+                            <phrase n="1" startid="#n91ngsq" endid="#n1fby0oo" type="A"/>
+                            <phrase n="2" startid="#n11u6mm7" endid="#n1bgt3ff" type="B"/>
+                            <phrase n="3" startid="#n1mnhw3d" endid="#ndqqhki" type="C"/>
                         </supplied>
                         <pb xml:id="pfhrp28"/>
                         <measure xml:id="m1q3h1n7" n="1">

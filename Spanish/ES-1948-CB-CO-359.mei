@@ -4,10 +4,10 @@
         <fileDesc>
             <titleStmt>
                 <title type="main" xml:id="ES-1948-CB-CO-359">
-                   359. Cuando por el Oriente.
+                    359. Cuando por el Oriente.
                 </title>
                 <title type="subtitle">
-                   359. Cuando por el Oriente.
+                    359. Cuando por el Oriente.
                 </title>
                 <respStmt>
                     <persName role="compiler">
@@ -74,7 +74,7 @@
                 </source>
             </sourceDesc>
         </fileDesc>
-       <encodingDesc xml:id="encodingdesc-ah1acl">
+        <encodingDesc xml:id="encodingdesc-ah1acl">
             <appInfo xml:id="appinfo-8dz1yy">
                 <application xml:id="application-1uz74tg" isodate="2023-02-22T22:18:30" version="3.14.0-1474e80">
                     <name xml:id="name-33mewx">
@@ -86,10 +86,10 @@
                 </application>
             </appInfo>
         </encodingDesc>
-       <workList>
+        <workList>
             <work>
                 <title type="main">
-                   Cuando por el Oriente
+                    Cuando por el Oriente
                 </title>
                 <author type="informant">
                     Anonymous
@@ -97,7 +97,7 @@
                 <incip type="lyrics">
                     <incipText>
                         <head>
-                           Cuando por el Oriente sale la aurora,
+                            Cuando por el Oriente sale la aurora,
                            caminaba la Virgen nuestra Señora.
                            E las puras entrañas la Virgen pía,
                            la Virgen pía llevaba al Rey del cielo Jesús María.
@@ -142,7 +142,6 @@
                            los tres Reyes humildes a festejarle.
                            Le tributaron oro, incienso y mirra,
                            el Señor nos dé a todos gloria cumplida.
-                           
                         </head>
                     </incipText>
                 </incip>
@@ -152,7 +151,8 @@
                 <meter>
                     Compound
                 </meter>
-                <tempo>Moderado
+                <tempo>
+                    Moderado
                 </tempo>
                 <incip type="musical">
                     <score>
@@ -211,50 +211,50 @@
                                 <meterSig xml:id="muu32in" count="6" unit="8"/>
                             </staffDef>
                         </staffGrp>
-								<ambitus>
+                        <ambitus>
                             <ambNote type="lowest" oct="4" pname="e"/>
                             <ambNote type="highest" oct="5" pname="e"/>
                         </ambitus>
                     </scoreDef>
                     <section xml:id="s8ps27u">
                         <supplied type="rythymn pattern">
-                           <beam>
-                              <note dur="8"/>
-                              <note dur="8"/>
-                              <note dur="8"/>
-                           </beam>
-                           <note dur="4"/>
-                           <note dur="8"/>
+                            <beam>
+                                <note dur="8"/>
+                                <note dur="8"/>
+                                <note dur="8"/>
+                            </beam>
+                            <note dur="4"/>
+                            <note dur="8"/>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#na4u1le" endid="#n9u0oyl" type="A1"/>
-                           <phrase n="2" startid="#n1w5df5m" endid="#nf34x1k" type="B1"/>
-                           <phrase n="3" startid="#naet4l7" endid="#n1ckfn1s" type="A2"/>
-                           <phrase n="4" startid="#nbopusr" endid="#n1ogbs9y" type="B2"/>
-                           <phrase n="5" startid="#nbopusr" endid="#n21oeye" type="B2"/>
-                           <phrase n="6" startid="#nzz1ffs" endid="#ntjilit" type="A3"/>
-                           <phrase n="7" startid="#nxjz4cn" endid="#n1dwicjm" type="B2"/>
-                           <phrase n="8" startid="#njofoyp" endid="#n1iyokfh" type="A1"/>
-                           <phrase n="9" startid="#n17dw5kl" endid="#n7x2wfb" type="B2"/>
-                           <phrase n="10" startid="#n888vua" endid="#n1qxj0n" type="A4"/>
-                           <phrase n="11" startid="#n2gin03" endid="#nhqj5vw" type="B1"/>
-                           <phrase n="12" startid="#n1gb1u8d" endid="#n1c4lkpo" type="A1"/>
-                           <phrase n="13" startid="#nejlahs" endid="#nq4y7vo" type="B1"/>
-                           <phrase n="14" startid="#nejlahs" endid="#ne2e6xk" type="B2"/>
-                           <phrase n="15" startid="#n17ijbix" endid="#nig2chw" type="A3"/>
-                           <phrase n="16" startid="#nbswnez" endid="#n1czuctx" type="B1"/>
-                           <phrase n="17" startid="#n1fxwbri" endid="#n1psfj4z" type="A1"/>
-                           <phrase n="18" startid="#n1o45x79" endid="#nqk1q8y" type="B1"/>
-                           <phrase n="19" startid="#n1q0gkeh" endid="#n5mnybw" type="A2"/>
-                           <phrase n="20" startid="#n1booexr" endid="#n1ktpg67" type="B1"/>
-                           <phrase n="21" startid="#n5leiqd" endid="#ndqfkux" type="A1"/>
-                           <phrase n="22" startid="#nkh98tq" endid="#n1nuaknf" type="B1"/>
-                           <phrase n="23" startid="#n1hmrprd" endid="#n1pq7vw8" type="A4"/>
-                           <phrase n="24" startid="#n1nqorra" endid="#nvu7rae" type="B1"/>
-                           <phrase n="25" startid="#nvporvs" endid="#n1fy0ics" type="A1"/>
-                           <phrase n="26" startid="#nqgumdo" endid="#nmppd23" type="B2"/>
-                           <phrase n="27" startid="#nff825c" endid="#n1t8x9fd" type="A1"/>
-                           <phrase n="28" startid="#n1vzadly" endid="#nhyodnp" type="B1"/>
+                            <phrase n="1" startid="#na4u1le" endid="#n9u0oyl" type="A1"/>
+                            <phrase n="2" startid="#n1w5df5m" endid="#nf34x1k" type="B1"/>
+                            <phrase n="3" startid="#naet4l7" endid="#n1ckfn1s" type="A2"/>
+                            <phrase n="4" startid="#nbopusr" endid="#n1ogbs9y" type="B2"/>
+                            <phrase n="5" startid="#nbopusr" endid="#n21oeye" type="B2"/>
+                            <phrase n="6" startid="#nzz1ffs" endid="#ntjilit" type="A3"/>
+                            <phrase n="7" startid="#nxjz4cn" endid="#n1dwicjm" type="B2"/>
+                            <phrase n="8" startid="#njofoyp" endid="#n1iyokfh" type="A1"/>
+                            <phrase n="9" startid="#n17dw5kl" endid="#n7x2wfb" type="B2"/>
+                            <phrase n="10" startid="#n888vua" endid="#n1qxj0n" type="A4"/>
+                            <phrase n="11" startid="#n2gin03" endid="#nhqj5vw" type="B1"/>
+                            <phrase n="12" startid="#n1gb1u8d" endid="#n1c4lkpo" type="A1"/>
+                            <phrase n="13" startid="#nejlahs" endid="#nq4y7vo" type="B1"/>
+                            <phrase n="14" startid="#nejlahs" endid="#ne2e6xk" type="B2"/>
+                            <phrase n="15" startid="#n17ijbix" endid="#nig2chw" type="A3"/>
+                            <phrase n="16" startid="#nbswnez" endid="#n1czuctx" type="B1"/>
+                            <phrase n="17" startid="#n1fxwbri" endid="#n1psfj4z" type="A1"/>
+                            <phrase n="18" startid="#n1o45x79" endid="#nqk1q8y" type="B1"/>
+                            <phrase n="19" startid="#n1q0gkeh" endid="#n5mnybw" type="A2"/>
+                            <phrase n="20" startid="#n1booexr" endid="#n1ktpg67" type="B1"/>
+                            <phrase n="21" startid="#n5leiqd" endid="#ndqfkux" type="A1"/>
+                            <phrase n="22" startid="#nkh98tq" endid="#n1nuaknf" type="B1"/>
+                            <phrase n="23" startid="#n1hmrprd" endid="#n1pq7vw8" type="A4"/>
+                            <phrase n="24" startid="#n1nqorra" endid="#nvu7rae" type="B1"/>
+                            <phrase n="25" startid="#nvporvs" endid="#n1fy0ics" type="A1"/>
+                            <phrase n="26" startid="#nqgumdo" endid="#nmppd23" type="B2"/>
+                            <phrase n="27" startid="#nff825c" endid="#n1t8x9fd" type="A1"/>
+                            <phrase n="28" startid="#n1vzadly" endid="#nhyodnp" type="B1"/>
                         </supplied>
                         <pb xml:id="p5ap9a3"/>
                         <measure xml:id="m11c85jg" n="1">

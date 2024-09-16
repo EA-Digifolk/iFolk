@@ -104,7 +104,9 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="phrygian236">F</key>
+                <key mode="phrygian236">
+                    F
+                </key>
                 <meter>
                     Ternary
                 </meter>
@@ -187,7 +189,7 @@
                             <note dur="4" dots="1"/>
                             <note dur="8"/>
                         </supplied>
-                       <supplied type="phrases">
+                        <supplied type="phrases">
                             <phrase n="1" startid="#n12pjyt4" endid="#nr8nxtm" type="A"/>
                             <phrase n="2" startid="#n1jymf88" endid="#ntryz22" type="A"/>
                             <phrase n="3" startid="#n2vlgx2" endid="#n19zdz4t" type="B1"/>

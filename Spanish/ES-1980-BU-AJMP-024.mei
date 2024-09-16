@@ -101,7 +101,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="major">C</key>
+                <key mode="major">
+                    C
+                </key>
                 <meter>
                     Binary
                 </meter>
@@ -174,10 +176,10 @@
                                 <note dur="8"/>
                             </beam>
                         </supplied>
-                       <supplied type="phrases">
-                          <phrase n="1" startid="#nhf0269" endid="#n12o8yng" type="A"/>
-                          <phrase n="2" startid="#n5dwhf6" endid="#n1sb7pqk" type="B"/>
-                       </supplied>
+                        <supplied type="phrases">
+                            <phrase n="1" startid="#nhf0269" endid="#n12o8yng" type="A"/>
+                            <phrase n="2" startid="#n5dwhf6" endid="#n1sb7pqk" type="B"/>
+                        </supplied>
                         <pb xml:id="p8hq0jl"/>
                         <measure xml:id="mlj31xe" n="1">
                             <staff xml:id="s1eoj2px" n="1">
@@ -536,21 +538,21 @@
                                 </staff>
                             </measure>
                         </ending>
-                       <ending xml:id="edr4gan2" lendsym="angledown" n="2">
-                        <measure xml:id="m1sealnw" right="end" n="9">
-                            <staff xml:id="sawav4g" n="1">
-                                <layer xml:id="ljjclf1" n="1">
-                                    <note xml:id="n1sb7pqk" dur.ppq="8" dur="2" oct="4" pname="e" stem.dir="up">
-                                        <verse xml:id="vvjjini" n="2">
-                                            <syl xml:id="scvx8w1" con="s" wordpos="t">
-                                                zas
-                                            </syl>
-                                        </verse>
-                                    </note>
-                                </layer>
-                            </staff>
-                        </measure>
-                       </ending>
+                        <ending xml:id="edr4gan2" lendsym="angledown" n="2">
+                            <measure xml:id="m1sealnw" right="end" n="9">
+                                <staff xml:id="sawav4g" n="1">
+                                    <layer xml:id="ljjclf1" n="1">
+                                        <note xml:id="n1sb7pqk" dur.ppq="8" dur="2" oct="4" pname="e" stem.dir="up">
+                                            <verse xml:id="vvjjini" n="2">
+                                                <syl xml:id="scvx8w1" con="s" wordpos="t">
+                                                    zas
+                                                </syl>
+                                            </verse>
+                                        </note>
+                                    </layer>
+                                </staff>
+                            </measure>
+                        </ending>
                     </section>
                 </score>
             </mdiv>

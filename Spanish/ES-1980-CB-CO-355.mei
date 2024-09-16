@@ -97,7 +97,7 @@
                 <incip type="lyrics">
                     <incipText>
                         <head>
-                           En el pozo de Santa María
+                            En el pozo de Santa María
                            la rueda de un coche
                            a un niño tiró,
                            y su madre, triste y afligida,
@@ -122,10 +122,10 @@
                     E
                 </key>
                 <meter>
-                   Free
+                    Free
                 </meter>
                 <tempo>
-                   Allegro
+                    Allegro
                 </tempo>
                 <incip type="musical">
                     <score>
@@ -140,7 +140,7 @@
                 </langUsage>
                 <notesStmt>
                     <annot>
-                           En el pozo de Santa María
+                        En el pozo de Santa María
                            la rueda de un coche
                            a un niño tiró,
                            y su madre, triste y afligida,
@@ -158,7 +158,7 @@
                            que te llama la Virgen María 
                            para hacerte bueno:
                            mira qué primor.
-                   </annot>
+                    </annot>
                 </notesStmt>
                 <classification>
                     <termList>
@@ -201,26 +201,26 @@
                                 <meterSig xml:id="m7e4h2" count="10" unit="8"/>
                             </staffDef>
                         </staffGrp>
-                       <ambitus>
+                        <ambitus>
                             <ambNote type="lowest" oct="4" pname="e"/>
                             <ambNote type="highest" oct="5" pname="d"/>
                         </ambitus>
                     </scoreDef>
                     <section xml:id="swonpi">
-                       <supplied type="rythymn pattern">
+                        <supplied type="rythymn pattern">
                             <beam>
                                 <note dur="8"/>
                                 <note dur="8"/>
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#n2ae7ko" endid="#n18vvtob" type="A"/>
-                           <phrase n="2" startid="#n1wuz0x2" endid="#n54gvi" type="B"/>
-                           <phrase n="3" startid="#n5q8cuw" endid="#nbnycqv" type="C"/>
-                           <phrase n="4" startid="#nhhkxpg" endid="#n1d4k3z1" type="C"/>
-                           <phrase n="5" startid="#n1u206ih" endid="#nbdyhf7" type="B"/>
-                           <phrase n="6" startid="#n1522q9o" endid="#n1ks6kkt" type="A"/>
-                           <phrase n="7" startid="#n1aiafbj" endid="#n1o3k2cq" type="B"/>
+                            <phrase n="1" startid="#n2ae7ko" endid="#n18vvtob" type="A"/>
+                            <phrase n="2" startid="#n1wuz0x2" endid="#n54gvi" type="B"/>
+                            <phrase n="3" startid="#n5q8cuw" endid="#nbnycqv" type="C"/>
+                            <phrase n="4" startid="#nhhkxpg" endid="#n1d4k3z1" type="C"/>
+                            <phrase n="5" startid="#n1u206ih" endid="#nbdyhf7" type="B"/>
+                            <phrase n="6" startid="#n1522q9o" endid="#n1ks6kkt" type="A"/>
+                            <phrase n="7" startid="#n1aiafbj" endid="#n1o3k2cq" type="B"/>
                         </supplied>
                         <pb xml:id="pruye49"/>
                         <measure xml:id="m12xda7z" bar.len="4.000000" bar.place="6" right="single" n="1">

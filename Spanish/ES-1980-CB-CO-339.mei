@@ -101,7 +101,9 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="aeolian">G</key>
+                <key mode="aeolian">
+                    G
+                </key>
                 <meter>
                     Binary
                 </meter>

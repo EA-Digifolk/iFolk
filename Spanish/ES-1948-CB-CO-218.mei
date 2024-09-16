@@ -101,7 +101,9 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="major">C</key>
+                <key mode="major">
+                    C
+                </key>
                 <meter>
                     Binary
                 </meter>
@@ -209,7 +211,7 @@
                             <note dur="4" tie="i"/>
                             <note dur="8" tie="t"/>
                         </supplied>
-                       <supplied type="phrases">
+                        <supplied type="phrases">
                             <phrase n="1" startid="#n1ut8nfk" endid="#n10yxz3l" type="A1"/>
                             <phrase n="2" startid="#n8wygbg" endid="#nlkeadl" type="A2"/>
                         </supplied>

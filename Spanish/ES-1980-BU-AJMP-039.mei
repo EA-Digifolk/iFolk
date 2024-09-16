@@ -101,7 +101,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="aeolian">G</key>
+                <key mode="aeolian">
+                    G
+                </key>
                 <meter>
                     Ternary
                 </meter>
@@ -181,13 +183,13 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#n1uz5k8o" endid="#nz9nb46" type="A"/>
-									<phrase n="2" startid="#n1g4vmqb" endid="#nib1iv6" type="A"/>
-                           <phrase n="3" startid="#n1eh8372" endid="#n2npews" type="B"/>
-                           <phrase n="4" startid="#np06v0a" endid="#nz9nb46" type="A"/>
-                           <phrase n="5" startid="#n1g4vmqb" endid="#nib1iv6" type="A"/>
-                           <phrase n="6" startid="#n1eh8372" endid="#n14h0ir4" type="B"/>
-                       </supplied>
+                            <phrase n="1" startid="#n1uz5k8o" endid="#nz9nb46" type="A"/>
+                            <phrase n="2" startid="#n1g4vmqb" endid="#nib1iv6" type="A"/>
+                            <phrase n="3" startid="#n1eh8372" endid="#n2npews" type="B"/>
+                            <phrase n="4" startid="#np06v0a" endid="#nz9nb46" type="A"/>
+                            <phrase n="5" startid="#n1g4vmqb" endid="#nib1iv6" type="A"/>
+                            <phrase n="6" startid="#n1eh8372" endid="#n14h0ir4" type="B"/>
+                        </supplied>
                         <pb xml:id="pmkd7qm"/>
                         <measure xml:id="m15174ef" n="1">
                             <staff xml:id="s1mq74y1" n="1">

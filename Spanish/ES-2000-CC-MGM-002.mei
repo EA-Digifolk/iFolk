@@ -108,7 +108,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="ionian">G</key>
+                <key mode="ionian">
+                    G
+                </key>
                 <meter>
                     Polyrhythmic
                 </meter>
@@ -189,15 +191,15 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#n18mbjol" endid="#nwy9140" type="A1"/>
-                           <phrase n="2" startid="#n35lb7v" endid="#n1g81bl7" type="A2"/>
-                           <phrase n="3" startid="#noynv9" endid="#n1cade5v" type="B1"/>
-                           <phrase n="4" startid="#n1k4kn6s" endid="#n1b5klik" type="C"/>
-                           <phrase n="5" startid="#n1kr36r8" endid="#nwx12j4" type="B2"/>
-                           <phrase n="6" startid="#n1h34ixw" endid="#n1o0cvn3" type="D"/>
-                           <phrase n="7" startid="#n1npgf5j" endid="#nwy9140" type="A1"/>
-                           <phrase n="8" startid="#n1h34ixw" endid="#nkx15hs" type="D"/>
-                       </supplied>
+                            <phrase n="1" startid="#n18mbjol" endid="#nwy9140" type="A1"/>
+                            <phrase n="2" startid="#n35lb7v" endid="#n1g81bl7" type="A2"/>
+                            <phrase n="3" startid="#noynv9" endid="#n1cade5v" type="B1"/>
+                            <phrase n="4" startid="#n1k4kn6s" endid="#n1b5klik" type="C"/>
+                            <phrase n="5" startid="#n1kr36r8" endid="#nwx12j4" type="B2"/>
+                            <phrase n="6" startid="#n1h34ixw" endid="#n1o0cvn3" type="D"/>
+                            <phrase n="7" startid="#n1npgf5j" endid="#nwy9140" type="A1"/>
+                            <phrase n="8" startid="#n1h34ixw" endid="#nkx15hs" type="D"/>
+                        </supplied>
                         <pb xml:id="pa0wu7c"/>
                         <measure xml:id="mxvds1n" n="1">
                             <staff xml:id="sxg0vnd" n="1">

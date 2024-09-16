@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
     <meiHead>
-       <fileDesc>
+        <fileDesc>
             <titleStmt>
                 <title type="main" xml:id="ES-1948-CB-CO-310">
                     310. Pimpinuco
@@ -97,7 +97,7 @@
                 <incip type="lyrics">
                     <incipText>
                         <head>
-                           Pimpinuco, matilluco, 
+                            Pimpinuco, matilluco, 
                            hizo Dios un case tuco,
                            en qué calleja,
                            en la valleja.
@@ -127,7 +127,7 @@
                 </langUsage>
                 <notesStmt>
                     <annot>
-                           Pimpinuco, matilluco, 
+                        Pimpinuco, matilluco, 
                            hizo Dios un case tuco,
                            en qué calleja,
                            en la valleja.
@@ -181,7 +181,7 @@
                         </ambitus>
                     </scoreDef>
                     <section xml:id="s1e9vi73">
-                       <supplied type="rythymn pattern">
+                        <supplied type="rythymn pattern">
                             <beam>
                                 <note dur="8"/>
                                 <note dur="8"/>
@@ -193,9 +193,9 @@
                         </supplied>
                         <supplied type="phrases">
                             <phrase n="1" startid="#n1wwbgov" endid="#n1aj03d9" type="A1"/>
-                            <phrase n="2" startid="#nf6yom6"  endid="#n19rdsoi" type="A1"/>
-                            <phrase n="3" startid="#n1o59m3c" endid="#nrefn53"  type="A2"/>
-                            <phrase n="4" startid="#n93ewvz"  endid="#n14f25y1" type="B1"/>
+                            <phrase n="2" startid="#nf6yom6" endid="#n19rdsoi" type="A1"/>
+                            <phrase n="3" startid="#n1o59m3c" endid="#nrefn53" type="A2"/>
+                            <phrase n="4" startid="#n93ewvz" endid="#n14f25y1" type="B1"/>
                         </supplied>
                         <pb xml:id="pelxyyb"/>
                         <measure xml:id="m7ir902" n="0">
@@ -224,7 +224,7 @@
                                 <rend xml:id="r16fqhi7" fontfam="FreeSerif" fontweight="bold">
                                     Alegro.
                                 </rend>
-                               ♩ = 140
+                                ♩ = 140
                             </tempo>
                         </measure>
                         <measure xml:id="m1xq872l" n="1">

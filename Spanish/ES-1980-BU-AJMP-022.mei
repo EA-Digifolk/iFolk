@@ -101,7 +101,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="major">C</key>
+                <key mode="major">
+                    C
+                </key>
                 <meter>
                     Binary
                 </meter>
@@ -175,14 +177,14 @@
                                 <note dur="8"/>
                             </beam>
                         </supplied>
-                       <supplied type="phrases">
-                          <phrase n="1" startid="#noejcej" endid="#n1sfhxnk" type="A1"/>
-                          <phrase n="2" startid="#n2yjwf3" endid="#ns90ix2" type="A2"/>
-                          <phrase n="3" startid="#n1cqpwo0" endid="#nbwdme9" type="B1"/>
-                          <phrase n="4" startid="#nflfb5t" endid="#n191vpx7" type="B2"/>
-                          <phrase n="5" startid="#n136cgn" endid="#nv865vb" type="B3"/>
-                          <phrase n="6" startid="#n1gergig" endid="#n52jkb9" type="B2"/>
-                       </supplied>
+                        <supplied type="phrases">
+                            <phrase n="1" startid="#noejcej" endid="#n1sfhxnk" type="A1"/>
+                            <phrase n="2" startid="#n2yjwf3" endid="#ns90ix2" type="A2"/>
+                            <phrase n="3" startid="#n1cqpwo0" endid="#nbwdme9" type="B1"/>
+                            <phrase n="4" startid="#nflfb5t" endid="#n191vpx7" type="B2"/>
+                            <phrase n="5" startid="#n136cgn" endid="#nv865vb" type="B3"/>
+                            <phrase n="6" startid="#n1gergig" endid="#n52jkb9" type="B2"/>
+                        </supplied>
                         <pb xml:id="pffh8ex"/>
                         <measure xml:id="m50gnwz" n="1">
                             <staff xml:id="s1006sxw" n="1">

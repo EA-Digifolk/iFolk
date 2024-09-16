@@ -101,7 +101,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="phrygian3">A</key>
+                <key mode="phrygian3">
+                    A
+                </key>
                 <meter>
                     Ternary
                 </meter>
@@ -168,10 +170,10 @@
                             <note dur="4"/>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#n1mummvt" endid="#notysn6" type="A"/>
-                           <phrase n="2" startid="#nd2h89s" endid="#nn8ddfa" type="A"/>
-                           <phrase n="3" startid="#n1610ai0" endid="#n3r7kht" type="B1"/>
-                           <phrase n="4" startid="#n1cruo2l" endid="#n1apdpbx" type="B2"/>
+                            <phrase n="1" startid="#n1mummvt" endid="#notysn6" type="A"/>
+                            <phrase n="2" startid="#nd2h89s" endid="#nn8ddfa" type="A"/>
+                            <phrase n="3" startid="#n1610ai0" endid="#n3r7kht" type="B1"/>
+                            <phrase n="4" startid="#n1cruo2l" endid="#n1apdpbx" type="B2"/>
                         </supplied>
                         <pb xml:id="p1s8kfp4"/>
                         <measure xml:id="m40o79q" n="1">

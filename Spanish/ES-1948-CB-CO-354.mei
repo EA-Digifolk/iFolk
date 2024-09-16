@@ -74,7 +74,7 @@
                 </source>
             </sourceDesc>
         </fileDesc>
-       <encodingDesc xml:id="encodingdesc-xdprth">
+        <encodingDesc xml:id="encodingdesc-xdprth">
             <appInfo xml:id="appinfo-8ni0dl">
                 <application xml:id="application-14bd5bj" isodate="2023-02-22T22:18:30" version="3.14.0-1474e80">
                     <name xml:id="name-1wo9j8t">
@@ -86,10 +86,10 @@
                 </application>
             </appInfo>
         </encodingDesc>
-       <workList>
+        <workList>
             <work>
                 <title type="main">
-                   Camina la Virgen pura
+                    Camina la Virgen pura
                 </title>
                 <author type="informant">
                     Anonymous
@@ -97,7 +97,7 @@
                 <incip type="lyrics">
                     <incipText>
                         <head>
-                           Camina la Virgen pura, 
+                            Camina la Virgen pura, 
                            camina para Belén;
                            en el medio del camino 
                            pidió el Niño de beber.
@@ -136,7 +136,7 @@
                     Compound
                 </meter>
                 <tempo>
-                   Moderado
+                    Moderado
                 </tempo>
                 <incip type="musical">
                     <score>
@@ -151,7 +151,7 @@
                 </langUsage>
                 <notesStmt>
                     <annot>
-                           Camina la Virgen pura, 
+                        Camina la Virgen pura, 
                            camina para Belén;
                            en el medio del camino 
                            pidió el Niño de beber.
@@ -223,25 +223,25 @@
                                 <meterSig xml:id="m1mreq4w" count="3" unit="4"/>
                             </staffDef>
                         </staffGrp>
-                       <ambitus>
+                        <ambitus>
                             <ambNote type="lowest" oct="4" pname="e"/>
                             <ambNote type="highest" oct="5" pname="c"/>
                         </ambitus>
                     </scoreDef>
                     <section xml:id="s1y80m9t">
-                       <supplied type="rythymn pattern">
-                          <note dur="4"/>
-                          <note dur="4"/>
-                          <beam>
-                             <note dur="8"/>
-                             <note dur="8"/>
-                          </beam>
+                        <supplied type="rythymn pattern">
+                            <note dur="4"/>
+                            <note dur="4"/>
+                            <beam>
+                                <note dur="8"/>
+                                <note dur="8"/>
+                            </beam>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#nsmpdri" endid="#nrv9pqz" type="A1"/>
-                           <phrase n="2" startid="#nml9p5n" endid="#ntkyniu" type="A2"/>
-                           <phrase n="3" startid="#n10kpwp9" endid="#n1xuhfa0" type="B"/>
-                           <phrase n="4" startid="#nre3b19" endid="#nfxsgmy" type="B"/>
+                            <phrase n="1" startid="#nsmpdri" endid="#nrv9pqz" type="A1"/>
+                            <phrase n="2" startid="#nml9p5n" endid="#ntkyniu" type="A2"/>
+                            <phrase n="3" startid="#n10kpwp9" endid="#n1xuhfa0" type="B"/>
+                            <phrase n="4" startid="#nre3b19" endid="#nfxsgmy" type="B"/>
                         </supplied>
                         <pb xml:id="ph41zs9"/>
                         <measure xml:id="m1ebtkwk" n="0">

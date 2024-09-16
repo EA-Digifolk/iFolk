@@ -105,7 +105,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="aeolian3">B</key>
+                <key mode="aeolian3">
+                    B
+                </key>
                 <meter>
                     Binary
                 </meter>
@@ -195,19 +197,19 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#n4nrqy" endid="#ntqwbsf" type="A"/>
-                           <phrase n="2" startid="#ngkdqji" endid="#n89xytk" type="A"/>
-                           <phrase n="3" startid="#n1xdcal4" endid="#nhbyxw6" type="B"/>
-                           <phrase n="4" startid="#n1owy7f4" endid="#nd0fs6b" type="B"/>
-                           <phrase n="5" startid="#nl0o4v" endid="#nnf8kx8" type="A"/>
-                           <phrase n="6" startid="#nqij57v" endid="#n1d92blo" type="A"/>
-                           <phrase n="7" startid="#n102ikpd" endid="#n45v909" type="B"/>
-                           <phrase n="8" startid="#n9rcqnk" endid="#n1vob8x3" type="B"/>
-                           <phrase n="9" startid="#nmr5t6r" endid="#n165z2jw" type="A"/>
-                           <phrase n="10" startid="#n1c63b0s" endid="#nbspju0" type="A"/>
-                           <phrase n="11" startid="#n1b0cv1q" endid="#n1abzp41" type="B"/>
-                           <phrase n="12" startid="#n1fjhzrl" endid="#nh97ftc" type="B"/>
-                       </supplied>
+                            <phrase n="1" startid="#n4nrqy" endid="#ntqwbsf" type="A"/>
+                            <phrase n="2" startid="#ngkdqji" endid="#n89xytk" type="A"/>
+                            <phrase n="3" startid="#n1xdcal4" endid="#nhbyxw6" type="B"/>
+                            <phrase n="4" startid="#n1owy7f4" endid="#nd0fs6b" type="B"/>
+                            <phrase n="5" startid="#nl0o4v" endid="#nnf8kx8" type="A"/>
+                            <phrase n="6" startid="#nqij57v" endid="#n1d92blo" type="A"/>
+                            <phrase n="7" startid="#n102ikpd" endid="#n45v909" type="B"/>
+                            <phrase n="8" startid="#n9rcqnk" endid="#n1vob8x3" type="B"/>
+                            <phrase n="9" startid="#nmr5t6r" endid="#n165z2jw" type="A"/>
+                            <phrase n="10" startid="#n1c63b0s" endid="#nbspju0" type="A"/>
+                            <phrase n="11" startid="#n1b0cv1q" endid="#n1abzp41" type="B"/>
+                            <phrase n="12" startid="#n1fjhzrl" endid="#nh97ftc" type="B"/>
+                        </supplied>
                         <pb xml:id="p6kjtr6"/>
                         <measure xml:id="mgeschn" n="1">
                             <staff xml:id="s1e7ykj5" n="1">

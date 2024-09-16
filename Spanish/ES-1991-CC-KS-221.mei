@@ -105,7 +105,9 @@
                         <head/>
                     </incipText>
                 </incip>
-                <key mode="major">F</key>
+                <key mode="major">
+                    F
+                </key>
                 <meter>
                     Ternary
                 </meter>
@@ -185,13 +187,13 @@
                             <note dur="4"/>
                         </supplied>
                         <supplied type="phrases">
-                           <phrase n="1" startid="#n1t0tjll" endid="#n1tfga66" type="A"/>
-                           <phrase n="2" startid="#n1o6h2gh" endid="#n1284nmm" type="B"/>
-                           <phrase n="3" startid="#n1gfj6pw" endid="#n16r4y9j" type="C"/>
-                           <phrase n="4" startid="#n11ivqgd" endid="#n1tfga66" type="A"/>
-                           <phrase n="5" startid="#n1o6h2gh" endid="#n1284nmm" type="B"/>
-                           <phrase n="6" startid="#n1gfj6pw" endid="#n1fw8wef" type="C"/>
-                       </supplied>
+                            <phrase n="1" startid="#n1t0tjll" endid="#n1tfga66" type="A"/>
+                            <phrase n="2" startid="#n1o6h2gh" endid="#n1284nmm" type="B"/>
+                            <phrase n="3" startid="#n1gfj6pw" endid="#n16r4y9j" type="C"/>
+                            <phrase n="4" startid="#n11ivqgd" endid="#n1tfga66" type="A"/>
+                            <phrase n="5" startid="#n1o6h2gh" endid="#n1284nmm" type="B"/>
+                            <phrase n="6" startid="#n1gfj6pw" endid="#n1fw8wef" type="C"/>
+                        </supplied>
                         <pb xml:id="p1nqfpb8"/>
                         <measure xml:id="mnikvq8" n="1">
                             <staff xml:id="s1j2xnag" n="1">
