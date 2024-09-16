@@ -101,9 +101,7 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="major">
-                    G-C
-                </key>
+                <key mode="major">G-C</key>
                 <meter>
                     Binary
                 </meter>

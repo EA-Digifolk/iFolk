@@ -100,9 +100,7 @@
                         </head>
                     </incipText>
                 </incip>
-                <key mode="ionian">
-                    C
-                </key>
+                <key mode="ionian">C</key>
                 <meter>
                     Binary
                 </meter>
@@ -193,7 +191,7 @@
                             <note dur="4"/>
                         </supplied>
                         <supplied type="phrases">
-                            <phrase n="1" startid="#nwip4m0" endid="#n413yn3" type="A"/>>
+                            <phrase n="1" startid="#nwip4m0" endid="#n413yn3" type="A"/>&gt;
                             <phrase n="2" startid="#n1c67jqu" endid="#n413yn3" type="A2"/>
                         </supplied>
                         <pb xml:id="p19gyh6d"/>
