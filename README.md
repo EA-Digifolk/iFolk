@@ -10,6 +10,13 @@ Dataset of Spanish, Italian and Portuguese folk tunes in symbolic MEI (Music Enc
 
 ### Segmentation:
 
+#### Troubles relating to different voices:
+
+- [ ] ES-1948-AS-FP-006
+- [ ] ES-1948-CB-CO-376
+- [ ] ES-1948-CB-CO-418
+- [ ] ES-1991-CL-KS-147
+
 #### Incomplete/Wrong:
 
 - [ ] IT-1952-RO-CO-031a
