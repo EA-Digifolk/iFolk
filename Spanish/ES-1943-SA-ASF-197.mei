@@ -188,14 +188,10 @@
                         </supplied>
                         <supplied type="phrases">
                             <phrase n="1" startid="#nxr26rr" endid="#nsco2md" type="A"/>
-                            <phrase n="11" startid="#nfs02g8" endid="#nsco2md" type="A"/>
                             <phrase n="2" startid="#nivldpe" endid="#n1r765j5" type="B"/>
-                            <phrase n="12" startid="#nivldpe" endid="#n1ddkvew" type="B"/>
-                            <phrase n="3" startid="#nxr26rr" endid="#nsco2md" type="A"/>
-                            <phrase n="13" startid="#nfs02g8" endid="#nsco2md" type="A"/>
-                            <phrase n="4" startid="#nivldpe" endid="#n1r765j5" type="B"/>
-                            <phrase n="14" startid="#nivldpe" endid="#n1ddkvew" type="B"/>
-                            <phrase n="5" startid="#no8y7vo" endid="#n17usbb7" type="A"/>
+                            <phrase n="3" startid="#nfs02g8" endid="#nsco2md" type="A"/>
+                            <phrase n="4" startid="#nivldpe" endid="#no8y7vo" type="B"/>
+                            <phrase n="5" startid="#n1u403ag" endid="#n17usbb7" type="A"/>
                             <phrase n="6" startid="#n2khmn" endid="#n1h2iknn" type="B2"/>
                             <phrase n="7" startid="#n1rj0m77" endid="#n1qbd5b2" type="A2"/>
                             <phrase n="8" startid="#n2p4yyy" endid="#n13fu318" type="B2"/>
