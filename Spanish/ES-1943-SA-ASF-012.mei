@@ -480,8 +480,8 @@
                         <measure xml:id="ma7ewsh" n="12">
                             <staff xml:id="s9wjjfk" n="1">
                                 <layer xml:id="l1tumzq" n="1">
-                                    <note xml:id="n16r0i1d" dur.ppq="0" dur="8" oct="4" pname="b" grace="unacc" stem.dir="up" stem.mod="1slash" accid.ges="f" type="R"/>
-                                    <note xml:id="n2vlgx2" dots="1" dur.ppq="72" dur="2" oct="4" pname="b" stem.dir="down" accid.ges="f">
+                                    <note xml:id="n16r0i1d" dur.ppq="0" dur="8" oct="4" pname="b" grace="unacc" stem.dir="up" stem.mod="1slash" accid.ges="f" />
+                                    <note xml:id="n2vlgx2" dots="1" dur.ppq="72" dur="2" oct="4" pname="b" stem.dir="down" accid.ges="f" type="R">
                                         <verse xml:id="v1s0jgj7" n="1">
                                             <syl xml:id="s6puxu" con="u" wordpos="s">
                                                 ¡Ay!
