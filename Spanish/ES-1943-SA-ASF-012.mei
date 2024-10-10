@@ -190,7 +190,7 @@
                         <supplied type="phrases">
                             <phrase n="1" startid="#n12pjyt4" endid="#nr8nxtm" type="A"/>
                             <phrase n="2" startid="#n1jymf88" endid="#ntryz22" type="A"/>
-                            <phrase n="3" startid="#n2vlgx2" endid="#n19zdz4t" type="B1"/>
+                            <phrase n="3" startid="#n16r0i1d" endid="#n19zdz4t" type="B1"/>
                             <phrase n="4" startid="#n1i3ymgy" endid="#n6el5uc" type="A"/>
                             <phrase n="5" startid="#n1v87ohs" endid="#n1q8svfv" type="B2"/>
                         </supplied>
@@ -480,8 +480,8 @@
                         <measure xml:id="ma7ewsh" n="12">
                             <staff xml:id="s9wjjfk" n="1">
                                 <layer xml:id="l1tumzq" n="1">
-                                    <note xml:id="n16r0i1d" dur.ppq="0" dur="8" oct="4" pname="b" grace="unacc" stem.dir="up" stem.mod="1slash" accid.ges="f" />
-                                    <note xml:id="n2vlgx2" dots="1" dur.ppq="72" dur="2" oct="4" pname="b" stem.dir="down" accid.ges="f" type="R">
+                                    <note xml:id="n16r0i1d" dur.ppq="0" dur="8" oct="4" pname="b" grace="unacc" stem.dir="up" stem.mod="1slash" accid.ges="f" type="R"/>
+                                    <note xml:id="n2vlgx2" dots="1" dur.ppq="72" dur="2" oct="4" pname="b" stem.dir="down" accid.ges="f" >
                                         <verse xml:id="v1s0jgj7" n="1">
                                             <syl xml:id="s6puxu" con="u" wordpos="s">
                                                 ¡Ay!
