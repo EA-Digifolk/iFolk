@@ -192,9 +192,9 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                            <phrase n="1" startid="#n2585fd" endid="#n1fvyakk" type="A"/>
-                            <phrase n="2" startid="#njh8dnn" endid="#n1sj93ss" type="A2"/>
-                            <phrase n="3" startid="#n1rebpzv" endid="#ncu5r3i" type="A2"/>
+                            <phrase n="1" startid="#n1jis6i4" endid="#n1fvyakk" type="INTRO"/>
+                            <phrase n="2" startid="#njh8dnn" endid="#n1sj93ss" type="A"/>
+                            <phrase n="3" startid="#n1rebpzv" endid="#ncu5r3i" type="A"/>
                             <phrase n="4" startid="#nsms38x" endid="#n11kf3qi" type="B"/>
                             <phrase n="5" startid="#n16makid" endid="#ndlciad" type="C"/>
                             <phrase n="6" startid="#ncfyd03" endid="#njrd61d" type="CODA"/>
