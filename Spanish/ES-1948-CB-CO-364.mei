@@ -181,14 +181,10 @@
                         </supplied>
                         <supplied type="phrases">
                             <phrase n="1" startid="#nw27eg3" endid="#nswu1b1" type="A"/>
-                            <phrase n="6" startid="#n1gb8cg5" endid="#nswu1b1" type="A"/>
-                            <phrase n="2" startid="#nw27eg3" endid="#n1l85gew" type="A"/>
-                            <phrase n="7" startid="#n1gb8cg5" endid="#n1l85gew" type="A"/>
-                            <phrase n="3" startid="#nwtjo2b" endid="#n1l85gew" type="B"/>
-                            <phrase n="8" startid="#n1gb8cg5" endid="#n1l85gew" type="B"/>
-                            <phrase n="4" startid="#nwtjo2b" endid="#n1d76uqx" type="B"/>
-                            <phrase n="9" startid="#n1gb8cg5" endid="#n1d76uqx" type="B"/>
-                            <phrase n="5" startid="#nbft6ck" endid="#nxo7t0l" type="CODA"/>
+                            <phrase n="2" startid="#n1gb8cg5" endid="#n1l85gew" type="A"/>
+                            <phrase n="3" startid="#nwtjo2b" endid="#n1d76uqx" type="B"/>
+                            <phrase n="4" startid="#nbft6ck" endid="#n5dufvt" type="B"/>
+                            <phrase n="5" startid="#n1f7rots" endid="#n1bs87ac" type="CODA"/>
                         </supplied>
                         <pb xml:id="p51zzk"/>
                         <measure xml:id="mjshmbw" n="1">
