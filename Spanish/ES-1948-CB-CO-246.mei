@@ -185,14 +185,10 @@
                         </supplied>
                         <supplied type="phrases">
                             <phrase n="1" startid="#nii8vag" endid="#n3124bx" type="A"/>
-                            <phrase n="6" startid="#n9lnuza" endid="#n3124bx" type="A"/>
                             <phrase n="2" startid="#n16qfujd" endid="#n1x7fo2a" type="B"/>
-                            <phrase n="7" startid="#n16qfujd" endid="#nboxzpk" type="B"/>
-                            <phrase n="3" startid="#nii8vag" endid="#n3124bx" type="A"/>
-                            <phrase n="8" startid="#n9lnuza" endid="#n3124bx" type="A"/>
-                            <phrase n="4" startid="#n16qfujd" endid="#n1x7fo2a" type="B"/>
-                            <phrase n="9" startid="#n16qfujd" endid="#nboxzpk" type="B"/>
-                            <phrase n="5" startid="#netefsl" endid="#nkbeuy9" type="CODA"/>
+                            <phrase n="3" startid="#n9lnuza" endid="#n3124bx" type="A"/>
+                            <phrase n="4" startid="#n16qfujd" endid="#nboxzpk" type="B"/>
+                            <phrase n="5" startid="#n1mr9tot" endid="#ne1qwn5" type="CODA"/>
                         </supplied>
                         <pb xml:id="p1qahj8p"/>
                         <measure xml:id="m1gyi5dp" n="0">
