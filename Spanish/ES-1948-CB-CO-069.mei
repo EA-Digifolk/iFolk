@@ -200,6 +200,7 @@
                             <phrase n="1" startid="#n1icb6m7" endid="#ndtujvo" type="A"/>
                             <phrase n="2" startid="#nv5e87y" endid="#n7yk5cb" type="A2"/>
                             <phrase n="3" startid="#n86mfm6" endid="#nrxcrrk" type="B"/>
+                            <phrase n="4" startid="#n8dyxmo" endid="#ndfgmjy" type="CODA"/>
                         </supplied>
                         <pb xml:id="p1j2wo98"/>
                         <measure xml:id="m1x3piai" n="0">
@@ -1138,14 +1139,14 @@
                             <staff xml:id="s1x8rd1w" n="1">
                                 <layer xml:id="l1cvnmg" n="1">
                                     <beam xml:id="b1kd4miz">
-                                        <note xml:id="n8dyxmo" dur.ppq="1" dur="8" oct="5" pname="d" stem.dir="down" visible="false">
+                                        <note xml:id="n8dyxmo" dur.ppq="1" dur="8" oct="5" pname="d" stem.dir="down" visible="true">
                                             <verse xml:id="v1si2woi" n="1">
                                                 <syl xml:id="smh6i5m" con="s" wordpos="s">
                                                     ¡Ha
                                                 </syl>
                                             </verse>
                                         </note>
-                                        <note xml:id="ndfgmjy" dur.ppq="1" dur="8" oct="5" pname="d" stem.dir="down" visible="false">
+                                        <note xml:id="ndfgmjy" dur.ppq="1" dur="8" oct="5" pname="d" stem.dir="down" visible="true">
                                             <verse xml:id="vv9390j" n="1">
                                                 <syl xml:id="s1konsnm" con="s" wordpos="s">
                                                     la!
