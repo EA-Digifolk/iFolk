@@ -193,14 +193,17 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                            <phrase n="1" startid="#n1aiip1w" endid="#ngm3x10" type="A"/>
-                            <phrase n="2" startid="#njs9mnc" endid="#nf8atyf" type="A"/>
-                            <phrase n="6" startid="#n1h5kfve" endid="#nf8atyf" type="A"/>
-                            <phrase n="2" startid="#njs9mnc" endid="#nf8atyf" type="A"/>
-                            <phrase n="7" startid="#n1h5kfve" endid="#nf8atyf" type="A"/>
-                            <phrase n="3" startid="#n1h5kfve" endid="#n1ihhibq" type="A2"/>
-                            <phrase n="4" startid="#n1p12ysv" endid="#na6vedq" type="A3"/>
-                            <phrase n="5" startid="#n1rclmdu" endid="#n1y393l4" type="CODA"/>
+                           <phrase n="1" startid="#n1aiip1w" endid="#n82s29q" type="A1"/>
+                           <phrase n="2" startid="#n1fbztvm" endid="#ngm3x10" type="A2"/>
+                           <phrase n="3" startid="#njs9mnc" endid="#n1dnyrft" type="A1"/>
+                           <phrase n="4" startid="#n1t8yc9t" endid="#nf8atyf" type="A2"/>
+                           <phrase n="5" startid="#n1h5kfve" endid="#n1dnyrft" type="A1"/>
+                           <phrase n="6" startid="#n1t8yc9t" endid="#nl7d5c5" type="A2"/>
+                           <phrase n="7" startid="#n1cwa996" endid="#n1v83iva" type="A3"/>
+                           <phrase n="8" startid="#nw79dbi" endid="#n1jlvtns" type="A4"/>
+                           <phrase n="9" startid="#nq2smiw" endid="#n199jvp0" type="A5"/>
+                           <phrase n="10" startid="#n16lx9hw" endid="#nfi0v27" type="A6"/>
+                           <phrase n="11" startid="#n1r0gv23" endid="#n1n2nyx" type="CODA"/>
                         </supplied>
                         <pb xml:id="p1qxqkih"/>
                         <measure xml:id="m1ewpqwr" n="0">
