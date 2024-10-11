@@ -987,7 +987,7 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                                <dir xml:id="d6ne45w" type="dalsegno" place="above" staff="1" tstamp="3.000000" vgrp="200">
+                                <dir xml:id="d6ne45w" type="dalsegno" place="above" staff="1" tstamp="4.000000" vgrp="200">
                                     <rend xml:id="r11vp5wi" halign="right">
                                         D.S. al Coda
                                     </rend>
