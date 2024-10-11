@@ -169,8 +169,10 @@
                             <note dur="4"/>
                         </supplied>
                         <supplied type="phrases">
-                            <phrase n="1" startid="#nfpg9zm" endid="#n15dum3" type="A"/>
-                            <phrase n="2" startid="#n1fva6t4" endid="#n15dum3" type="A"/>
+                            <phrase n="1" startid="#nfpg9zm" endid="#n1hfnmzs" type="A"/>
+                            <phrase n="2" startid="#n1scfyu0" endid="#n15dum3" type="A"/>
+                           <phrase n="1" startid="#n1fva6t4" endid="#n1hfnmzs" type="A"/>
+                            <phrase n="2" startid="#n1scfyu0" endid="#n1klkjvc" type="A"/>
                         </supplied>
                         <pb xml:id="pgi5zfi"/>
                         <measure xml:id="m1ypla20" n="0">
