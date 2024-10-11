@@ -648,7 +648,7 @@
                      </measure>
                   </ending>
                   <ending xml:id="edorza5" lendsym="angledown" n="2,3">
-                     <measure xml:id="mqixae42" n="8">
+                     <measure xml:id="mqixae42" n="10">
                         <staff xml:id="s14wg2th2" n="1">
                            <layer xml:id="l1c4c1z02" n="1">
                               <note xml:id="n1mbu1y32" dur.ppq="6" dur="4" oct="4" pname="f" stem.dir="up" type="R">
@@ -662,7 +662,7 @@
                            </layer>
                         </staff>
                      </measure>
-                     <measure xml:id="mm6ekml" right="rptend" n="10">
+                     <measure xml:id="mm6ekml" right="rptend" n="11">
                         <staff xml:id="s1qcl5uw" n="1">
                            <layer xml:id="l1q88wgc" n="1">
                               <note xml:id="ncyxol6" dur.ppq="3" dur="8" oct="5" pname="c" stem.dir="down" type="SR">
@@ -691,7 +691,7 @@
                      </measure>
                   </ending>
                   <ending xml:id="e9lf5hd" lendsym="angledown" n="4">
-                     <measure xml:id="mqixae43" n="8" right="end">
+                     <measure xml:id="mqixae43" n="12" right="end">
                         <staff xml:id="s14wg2th3" n="1">
                            <layer xml:id="l1c4c1z03" n="1">
                               <note xml:id="n1mbu1y33" dur.ppq="6" dur="4" oct="4" pname="f" stem.dir="up" type="R">
