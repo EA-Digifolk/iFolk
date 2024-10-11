@@ -177,9 +177,9 @@
                         </supplied>
                         <supplied type="phrases">
                             <phrase n="1" startid="#ny0drw1" endid="#nct65fi" type="A"/>
-                            <phrase n="2" startid="#n1me9vfi" endid="#ndvjjli" type="B"/>
-                            <phrase n="4" startid="#n1oi9k20" endid="#ndvjjli" type="B"/>
-                            <phrase n="3" startid="#n1ww8110" endid="#n46zeiz" type="CODA"/>
+                            <phrase n="2" startid="#n1me9vfi" endid="#n2njvig" type="B"/>
+                            <phrase n="3" startid="#n1oi9k20" endid="#ndvjjli" type="B"/>
+                            <phrase n="4" startid="#n1ww8110" endid="#n46zeiz" type="CODA"/>
                         </supplied>
                         <pb xml:id="pontfsg"/>
                         <measure xml:id="m1e3e6pu" n="0">
