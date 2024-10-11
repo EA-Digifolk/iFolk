@@ -266,11 +266,6 @@
                            </beam>
                         </layer>
                      </staff>
-                     <dir xml:id="d1imjmqb" type="segno" place="above" staff="1" tstamp="0.000000">
-                        <rend xml:id="rjrooqr" halign="center" fontfam="smufl" fontstyle="normal">
-                           𝄋
-                        </rend>
-                     </dir>
                      <tempo xml:id="twxcyrb" place="above" staff="1" tstamp="1.000000" xml:lang="it" midi.bpm="120.000000" mm="120.000000" mm.unit="4">
                         <rend xml:id="r1c21v46" fontfam="FreeSerif" fontweight="bold">
                            Alegro moderado.
@@ -518,11 +513,6 @@
                            <rest xml:id="r1c5gy6q" dur.ppq="6" dur="4"/>
                         </layer>
                      </staff>
-                     <dir xml:id="d1scftcd" type="fine" place="above" staff="1" tstamp="3.000000" vgrp="200">
-                        <rend xml:id="remnt4y" halign="right">
-                           Fine
-                        </rend>
-                     </dir>
                   </measure>
                   <ending xml:id="e1r0ehz6" lendsym="angledown" n="1">
                      <measure xml:id="m16n4b03" right="rptend" n="9">
@@ -657,7 +647,7 @@
                         </dir>
                      </measure>
                   </ending>
-                  <ending xml:id="edorza5" lendsym="angledown" n="2">
+                  <ending xml:id="edorza5" lendsym="angledown" n="2,3">
                      <measure xml:id="mm6ekml" right="rptend" n="10">
                         <staff xml:id="s1qcl5uw" n="1">
                            <layer xml:id="l1q88wgc" n="1">
@@ -665,6 +655,11 @@
                                  <verse xml:id="vgp6lfd" n="1">
                                     <syl xml:id="s4x30ko" con="s" wordpos="s">
                                        ¡Dos!
+                                    </syl>
+                                 </verse>
+                                 <verse xml:id="vgxwb6d" n="2">
+                                    <syl xml:id="s18rtj1h" con="s" wordpos="s">
+                                       ¡Tres!
                                     </syl>
                                  </verse>
                               </note>
@@ -681,33 +676,10 @@
                         </staff>
                      </measure>
                   </ending>
-                  <ending xml:id="e9lf5hd" lendsym="angledown" n="3">
+                  <ending xml:id="e9lf5hd" lendsym="angledown" n="4">
                      <measure xml:id="m1jbm4z5" right="end" n="11">
                         <staff xml:id="sub490h" n="1">
-                           <layer xml:id="lc4pequ" n="1">
-                              <note xml:id="nte7kpv" dur.ppq="3" dur="8" oct="5" pname="c" stem.dir="down" type="SR">
-                                 <verse xml:id="vgxwb6d" n="1">
-                                    <syl xml:id="s18rtj1h" con="s" wordpos="s">
-                                       ¡Tres!
-                                    </syl>
-                                 </verse>
-                              </note>
-                              <rest xml:id="r160gocr" dur.ppq="3" dur="8"/>
-                              <rest xml:id="rnfo8dx" dur.ppq="3" dur="8"/>
-                              <note xml:id="nr8xf02" dur.ppq="3" dur="8" oct="4" pname="c" stem.dir="up">
-                                 <verse xml:id="vtzowev" n="1">
-                                    <syl xml:id="s1vs3wkd" con="s" wordpos="s">
-                                       Al
-                                    </syl>
-                                 </verse>
-                              </note>
-                           </layer>
                         </staff>
-                        <dir xml:id="d1pmqlvj" type="dalsegno" place="above" staff="1" tstamp="3.000000" vgrp="200">
-                           <rend xml:id="r1ysui84" halign="right">
-                              D.S. al Fine
-                           </rend>
-                        </dir>
                      </measure>
                   </ending>
                </section>
