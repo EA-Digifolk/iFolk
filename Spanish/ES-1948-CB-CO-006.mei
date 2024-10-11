@@ -203,7 +203,7 @@
                      <phrase n="5" startid="#nikfa1j" endid="#nlew4x9" type="A"/>
                      <phrase n="6" startid="#n9fxi51" endid="#ncyxol6" type="A2"/>
                      <phrase n="7" startid="#nikfa1j" endid="#nlew4x9" type="A"/>
-                     <phrase n="8" startid="#n9fxi51" endid="#n1mbu1y3" type="A2"/>
+                     <phrase n="8" startid="#n9fxi51" endid="#n1mbu1y33" type="A2"/>
                   </supplied>
                   <pb xml:id="prmpggp"/>
                   <measure xml:id="m18zjcik" n="0">
@@ -500,21 +500,21 @@
                      </staff>
                   </measure>
                   <sb xml:id="s145kkge"/>
-                  <measure xml:id="mqixae4" n="8">
-                     <staff xml:id="s14wg2th" n="1">
-                        <layer xml:id="l1c4c1z0" n="1">
-                           <note xml:id="n1mbu1y3" dur.ppq="6" dur="4" oct="4" pname="f" stem.dir="up" type="R">
-                              <verse xml:id="v1cp2ddm" n="1">
-                                 <syl xml:id="s1qfyv3o" con="s" wordpos="t">
-                                    quí.
-                                 </syl>
-                              </verse>
-                           </note>
-                           <rest xml:id="r1c5gy6q" dur.ppq="6" dur="4"/>
-                        </layer>
-                     </staff>
-                  </measure>
                   <ending xml:id="e1r0ehz6" lendsym="angledown" n="1">
+                     <measure xml:id="mqixae4" n="8">
+                        <staff xml:id="s14wg2th" n="1">
+                           <layer xml:id="l1c4c1z0" n="1">
+                              <note xml:id="n1mbu1y3" dur.ppq="6" dur="4" oct="4" pname="f" stem.dir="up" type="R">
+                                 <verse xml:id="v1cp2ddm" n="1">
+                                    <syl xml:id="s1qfyv3o" con="s" wordpos="t">
+                                       quí.
+                                    </syl>
+                                 </verse>
+                              </note>
+                              <rest xml:id="r1c5gy6q" dur.ppq="6" dur="4"/>
+                           </layer>
+                        </staff>
+                     </measure>
                      <measure xml:id="m16n4b03" right="rptend" n="9">
                         <staff xml:id="s13rb5vy" n="1">
                            <layer xml:id="lwdqmxx" n="1">
@@ -648,6 +648,20 @@
                      </measure>
                   </ending>
                   <ending xml:id="edorza5" lendsym="angledown" n="2,3">
+                     <measure xml:id="mqixae42" n="8">
+                        <staff xml:id="s14wg2th2" n="1">
+                           <layer xml:id="l1c4c1z02" n="1">
+                              <note xml:id="n1mbu1y32" dur.ppq="6" dur="4" oct="4" pname="f" stem.dir="up" type="R">
+                                 <verse xml:id="v1cp2ddm2" n="1">
+                                    <syl xml:id="s1qfyv3o2" con="s" wordpos="t">
+                                       quí.
+                                    </syl>
+                                 </verse>
+                              </note>
+                              <rest xml:id="r1c5gy6q2" dur.ppq="6" dur="4"/>
+                           </layer>
+                        </staff>
+                     </measure>
                      <measure xml:id="mm6ekml" right="rptend" n="10">
                         <staff xml:id="s1qcl5uw" n="1">
                            <layer xml:id="l1q88wgc" n="1">
@@ -677,8 +691,18 @@
                      </measure>
                   </ending>
                   <ending xml:id="e9lf5hd" lendsym="angledown" n="4">
-                     <measure xml:id="m1jbm4z5" right="end" n="11">
-                        <staff xml:id="sub490h" n="1">
+                     <measure xml:id="mqixae43" n="8" right="end">
+                        <staff xml:id="s14wg2th3" n="1">
+                           <layer xml:id="l1c4c1z03" n="1">
+                              <note xml:id="n1mbu1y33" dur.ppq="6" dur="4" oct="4" pname="f" stem.dir="up" type="R">
+                                 <verse xml:id="v1cp2ddm3" n="1">
+                                    <syl xml:id="s1qfyv3o3" con="s" wordpos="t">
+                                       quí.
+                                    </syl>
+                                 </verse>
+                              </note>
+                              <rest xml:id="r1c5gy6q3" dur.ppq="6" dur="4"/>
+                           </layer>
                         </staff>
                      </measure>
                   </ending>
