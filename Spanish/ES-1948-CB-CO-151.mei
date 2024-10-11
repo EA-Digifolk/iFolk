@@ -239,10 +239,8 @@
                         <supplied type="phrases">
                             <phrase n="1" startid="#n1ih7u2r" endid="#noiyml8" type="A"/>
                             <phrase n="2" startid="#n86eeus" endid="#n10w2fp1" type="A2"/>
-                            <phrase n="5" startid="#n86eeus" endid="#n99z8o6" type="A2"/>
-                            <phrase n="3" startid="#n1ih7u2r" endid="#noiyml8" type="A"/>
-                            <phrase n="4" startid="#n86eeus" endid="#n10w2fp1" type="A2"/>
-                            <phrase n="6" startid="#n86eeus" endid="#n99z8o6" type="A2"/>
+                            <phrase n="3" startid="#n184du2y" endid="#noiyml8" type="A"/>
+                            <phrase n="4" startid="#n86eeus" endid="#n99z8o6" type="A2"/>
                         </supplied>
                         <pb xml:id="pl00in0"/>
                         <measure xml:id="m1t8bzaf" n="0">
@@ -293,7 +291,7 @@
                                 = 112
                             </tempo>
                         </measure>
-                        <measure xml:id="mg0vzj7" n="1">
+                        <measure xml:id="mg0vzj7" n="1" left="rptstart">
                             <staff xml:id="s1kvpr8x" n="1">
                                 <layer xml:id="l1bfxfzs" n="1">
                                     <beam xml:id="b1bdqob0">
