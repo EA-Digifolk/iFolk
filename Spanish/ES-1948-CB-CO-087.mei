@@ -201,7 +201,7 @@
                         <supplied type="phrases">
                             <phrase n="1" startid="#n17gi4fi" endid="#n27lm29" type="A"/>
                             <phrase n="2" startid="#n16xcy2n" endid="#n14iktku" type="A"/>
-                            <phrase n="3" startid="#nj4ks1k" endid="#nq4crx8" type="A"/>
+                            <phrase n="3" startid="#nj4ks1k" endid="#nq4crx8" type="B"/>
                             <phrase n="4" startid="#n1vgr3qo" endid="#n11l0vnb" type="B"/>
                         </supplied>
                         <pb xml:id="p1fgcrm8"/>
@@ -294,11 +294,6 @@
                                     </beam>
                                 </layer>
                             </staff>
-                           <dir xml:id="dontfhz" type="segno" place="above" staff="1" tstamp="0.000000">
-                                <rend xml:id="r1svml76" halign="center" fontfam="smufl" fontstyle="normal">
-                                    𝄋
-                                </rend>
-                            </dir>
                         </measure>
                         <measure xml:id="m99gqy3" n="2">
                             <staff xml:id="s803lgj" n="1">
@@ -731,7 +726,7 @@
                                 </tempo>
                             </measure>
                         </ending>
-                        <measure xml:id="ma3kift" n="10">
+                        <measure xml:id="ma3kift" n="10" left="rptstart">
                             <staff xml:id="s1t122fk" n="1">
                                 <layer xml:id="l1avh4ot" n="1">
                                     <note xml:id="nqonv3g" dur.ppq="6" dur="4" oct="4" pname="g" stem.dir="up">
@@ -1069,13 +1064,9 @@
                                 que me quitaran el pelo.
                                 <lb xml:id="loa66jf"/>
                             </dir>
-                           <dir xml:id="d1x1apz4" type="tocoda" place="above" staff="1" tstamp="3.000000" vgrp="200">
-                                    <rend xml:id="r14oe16s" halign="right">
-                                        To Coda
-                                    </rend>
-                                </dir>
                         </measure>
-                            <measure xml:id="mgbrmwn" right="end" n="17">
+                        <ending xml:id="e15vzs40" lendsym="angledown" n="1">
+                            <measure xml:id="mgbrmwn" right="rptend" n="17">
                                 <staff xml:id="sax9dcd" n="1">
                                     <layer xml:id="lwymiih" n="1">
                                         <beam xml:id="b7fy5ru">
@@ -1112,12 +1103,9 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                               <dir xml:id="dodz0p3" type="dalsegno" place="above" staff="1" tstamp="3.000000" vgrp="200">
-                                <rend xml:id="r1tsqodq" halign="right">
-                                    D.S. al Coda
-                                </rend>
-                            </dir>
                             </measure>
+                        </ending>
+                        <ending xml:id="e2hprgo" lendsym="angledown" n="2">
                             <measure xml:id="m1hkf9x7" right="end" n="18">
                                 <staff xml:id="s137vtqh" n="1">
                                     <layer xml:id="lwxj6yf" n="1">
@@ -1139,12 +1127,8 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                               <dir xml:id="d1778rjm" type="coda" place="above" staff="1" tstamp="0.000000">
-                                <rend xml:id="r9eyc0e" halign="center" fontfam="smufl" fontstyle="normal">
-                                    𝄌
-                                </rend>
-                            </dir>
                             </measure>
+                        </ending>
                     </section>
                 </score>
             </mdiv>
