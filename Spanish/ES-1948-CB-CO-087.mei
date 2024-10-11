@@ -200,11 +200,9 @@
                         </supplied>
                         <supplied type="phrases">
                             <phrase n="1" startid="#n17gi4fi" endid="#n27lm29" type="A"/>
-                            <phrase n="5" startid="#n16xcy2n" endid="#n27lm29" type="A"/>
-                            <phrase n="2" startid="#n16xcy2n" endid="#nkbjx2m" type="B"/>
-                            <phrase n="3" startid="#n17gi4fi" endid="#n27lm29" type="A"/>
-                            <phrase n="6" startid="#n16xcy2n" endid="#n27lm29" type="A"/>
-                            <phrase n="4" startid="#n16xcy2n" endid="#nkbjx2m" type="B"/>
+                            <phrase n="2" startid="#n16xcy2n" endid="#n14iktku" type="A"/>
+                            <phrase n="3" startid="#nj4ks1k" endid="#nq4crx8" type="A"/>
+                            <phrase n="4" startid="#n1vgr3qo" endid="#n11l0vnb" type="B"/>
                         </supplied>
                         <pb xml:id="p1fgcrm8"/>
                         <measure xml:id="m1rhcpok" n="0">
