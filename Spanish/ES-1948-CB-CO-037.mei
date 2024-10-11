@@ -172,10 +172,10 @@
                             <note dur="4"/>
                         </supplied>
                         <supplied type="phrases">
-                            <phrase n="1" startid="#n4ai96u" endid="#n1vplxa2" type="A"/>
-                            <phrase n="3" startid="#nzhgnik" endid="#n1vplxa2" type="A"/>
-                            <phrase n="2" startid="#n4ai96u" endid="#n1vplxa2" type="A"/>
-                            <phrase n="4" startid="#nzhgnik" endid="#n1vplxa2" type="A"/>
+                            <phrase n="1" startid="#n4ai96u" endid="#nqsw37r" type="A"/>
+                            <phrase n="2" startid="#n10qkc13" endid="#n1vplxa2" type="A"/>
+                            <phrase n="3" startid="#nzhgnik" endid="#nqsw37r" type="A"/>
+                            <phrase n="4" startid="#n10qkc13" endid="#nqxq3gb" type="A"/>
                         </supplied>
                         <pb xml:id="pqg56m"/>
                         <measure xml:id="m1t8hd9u" n="0">
