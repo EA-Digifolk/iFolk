@@ -294,6 +294,11 @@
                                     </beam>
                                 </layer>
                             </staff>
+                           <dir xml:id="dontfhz" type="segno" place="above" staff="1" tstamp="0.000000">
+                                <rend xml:id="r1svml76" halign="center" fontfam="smufl" fontstyle="normal">
+                                    𝄋
+                                </rend>
+                            </dir>
                         </measure>
                         <measure xml:id="m99gqy3" n="2">
                             <staff xml:id="s803lgj" n="1">
@@ -1064,9 +1069,13 @@
                                 que me quitaran el pelo.
                                 <lb xml:id="loa66jf"/>
                             </dir>
+                           <dir xml:id="d1x1apz4" type="tocoda" place="above" staff="1" tstamp="3.000000" vgrp="200">
+                                    <rend xml:id="r14oe16s" halign="right">
+                                        To Coda
+                                    </rend>
+                                </dir>
                         </measure>
-                        <ending xml:id="e15vzs40" lendsym="angledown" n="1">
-                            <measure xml:id="mgbrmwn" right="rptend" n="17">
+                            <measure xml:id="mgbrmwn" right="end" n="17">
                                 <staff xml:id="sax9dcd" n="1">
                                     <layer xml:id="lwymiih" n="1">
                                         <beam xml:id="b7fy5ru">
@@ -1103,9 +1112,12 @@
                                         </beam>
                                     </layer>
                                 </staff>
+                               <dir xml:id="dodz0p3" type="dalsegno" place="above" staff="1" tstamp="3.000000" vgrp="200">
+                                <rend xml:id="r1tsqodq" halign="right">
+                                    D.S. al Coda
+                                </rend>
+                            </dir>
                             </measure>
-                        </ending>
-                        <ending xml:id="e2hprgo" lendsym="angledown" n="2">
                             <measure xml:id="m1hkf9x7" right="end" n="18">
                                 <staff xml:id="s137vtqh" n="1">
                                     <layer xml:id="lwxj6yf" n="1">
@@ -1127,8 +1139,12 @@
                                         </beam>
                                     </layer>
                                 </staff>
+                               <dir xml:id="d1778rjm" type="coda" place="above" staff="1" tstamp="0.000000">
+                                <rend xml:id="r9eyc0e" halign="center" fontfam="smufl" fontstyle="normal">
+                                    𝄌
+                                </rend>
+                            </dir>
                             </measure>
-                        </ending>
                     </section>
                 </score>
             </mdiv>
