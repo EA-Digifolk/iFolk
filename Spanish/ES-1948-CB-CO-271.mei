@@ -190,13 +190,16 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                            <phrase n="1" startid="#n1hxxf10" endid="#n1h6keyg" type="A"/>
-                            <phrase n="2" startid="#nkhc3de" endid="#n9rv2pq" type="A"/>
-                            <phrase n="3" startid="#nmcmoxy" endid="#n1v03qd2" type="A2"/>
-                            <phrase n="4" startid="#n1bi7ln0" endid="#n17ts52r" type="B"/>
-                            <phrase n="5" startid="#nfzsv8v" endid="#n1g3fghb" type="A"/>
-                            <phrase n="7" startid="#npv5ba8" endid="#n1g3fghb" type="A"/>
-                            <phrase n="6" startid="#npv5ba8" endid="#nqgfhfx" type="A"/>
+                           <phrase n="1" startid="#n1hxxf10" endid="#n1h6keyg" type="A"/>
+                           <phrase n="2" startid="#nkhc3de" endid="#n9rv2pq" type="A"/>
+                           <phrase n="3" startid="#nmcmoxy" endid="#n1v03qd2" type="B"/>
+                           <phrase n="4" startid="#n1bi7ln0" endid="#n17ts52r" type="C"/>
+                           <phrase n="5" startid="#nfzsv8v" endid="#n1g3fghb" type="A"/>
+                           <phrase n="6" startid="#npv5ba8" endid="#nqgfhfx" type="A"/>
+                           <phrase n="7" startid="#n11e7zh0" endid="#n1v03qd2" type="B"/>
+                           <phrase n="8" startid="#n1bi7ln0" endid="#n17ts52r" type="C"/>
+                           <phrase n="9" startid="#nfzsv8v" endid="#n1g3fghb" type="A"/>
+                           <phrase n="10" startid="#npv5ba8" endid="#nkg9ndy" type="A"/>
                         </supplied>
                         <pb xml:id="p9ikxn6"/>
                         <measure xml:id="m10915x2" n="0">
