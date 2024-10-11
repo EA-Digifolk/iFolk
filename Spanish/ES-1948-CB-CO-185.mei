@@ -182,10 +182,14 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                            <phrase n="1" startid="#n14irua2" endid="#n3y69q4" type="A"/>
-                            <phrase n="2" startid="#n9v9xn1" endid="#nn4g0y2" type="B"/>
-                            <phrase n="4" startid="#nr81buy" endid="#nn4g0y2" type="B"/>
-                            <phrase n="3" startid="#n14irua2" endid="#n3y69q4" type="A"/>
+                            <phrase n="1" startid="#n14irua2" endid="#n1458j83" type="A1"/>
+                            <phrase n="2" startid="#n1qeo9mm" endid="#n3y69q4" type="A2"/>
+                            <phrase n="3" startid="#n9v9xn1" endid="#nzqamph" type="B1"/>
+                            <phrase n="4" startid="#n13irv29" endid="#nn4g0y2" type="B2"/>
+                            <phrase n="5" startid="#nr81buy" endid="#nzqamph" type="B1"/>
+                            <phrase n="6" startid="#n13irv29" endid="#nh08rt2" type="B2"/>
+                            <phrase n="7" startid="#n1df5l4o" endid="#n1458j83" type="A"/>
+                            <phrase n="8" startid="#n1qeo9mm" endid="#nf9jy77" type="A2"/>
                         </supplied>
                         <pb xml:id="pwqbflj"/>
                         <measure xml:id="m1bzty9j" right="dbl" n="0">
