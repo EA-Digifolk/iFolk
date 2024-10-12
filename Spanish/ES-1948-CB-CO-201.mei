@@ -237,11 +237,11 @@
                     <section xml:id="scuxm9">
                         <supplied type="rythymn pattern"/>
                         <supplied type="phrases">
-                            <phrase n="1" startid="#n12zalzf" endid="#ntzu9ep" type="A"/>
-                            <phrase n="3" startid="#n44zl6s" endid="#ntzu9ep" type="A"/>
-                            <phrase n="2" startid="#n12zalzf" endid="#ntzu9ep" type="A"/>
-                            <phrase n="4" startid="#n44zl6s" endid="#ntzu9ep" type="A"/>
-                        </supplied>
+                            <phrase n="1" startid="#n12zalzf" endid="#nkqqz7z" type="A"/>
+                            <phrase n="2" startid="#ny2i2c8" endid="#ntzu9ep" type="B"/>
+                            <phrase n="3" startid="#n44zl6s" endid="#nkqqz7z" type="A"/>
+                       		 <phrase n="4" startid="#ny2i2c8" endid="#nfoaar4" type="B"/>
+                       </supplied>
                         <pb xml:id="p1wxirli"/>
                         <measure xml:id="miu55ay" n="0">
                             <mNum xml:id="m1f10q0l"/>
@@ -448,7 +448,7 @@
                             </staff>
                             <slur xml:id="s1ua7kvv" startid="#n1uwklfo" endid="#nkqqz7z" curvedir="above"/>
                         </measure>
-                        <pb xml:id="p1y2983q"/>
+                        <sb xml:id="p1y2983q"/>
                         <measure xml:id="micsad" n="8">
                             <staff xml:id="s1kb28t6" n="1">
                                 <layer xml:id="lghya91" n="1">
