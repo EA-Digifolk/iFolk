@@ -180,10 +180,8 @@
                         </supplied>
                         <supplied type="phrases">
                             <phrase n="1" startid="#nw5vtjs" endid="#n1n4r87q" type="A"/>
-                            <phrase n="3" startid="#nn985et" endid="#n1n4r87q" type="A"/>
-                            <phrase n="2" startid="#nw5vtjs" endid="#n1n4r87q" type="A"/>
-                            <phrase n="4" startid="#nn985et" endid="#n1n4r87q" type="A"/>
-                        </supplied>
+                            <phrase n="2" startid="#nn985et" endid="#n2nsmnp" type="A"/>
+								</supplied>
                         <measure xml:id="m1gayek2" n="0">
                             <mNum xml:id="m1bl7xkg"/>
                             <staff xml:id="szym0e5" n="1">
