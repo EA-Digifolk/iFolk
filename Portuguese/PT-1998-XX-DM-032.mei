@@ -1770,7 +1770,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <ending xml:id="ey1p8kg" lendsym="angledown" n="1, 2, 3, 4">
+                        <ending xml:id="ey1p8kg" lendsym="angledown" n="1-4">
                             <measure xml:id="m7t5h1s" right="rptend" n="16">
                                 <staff xml:id="s19ynazp" n="1">
                                     <layer xml:id="l1h6ujiw" n="1">
