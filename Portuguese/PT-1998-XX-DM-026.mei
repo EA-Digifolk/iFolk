@@ -208,10 +208,10 @@
                         <supplied type="phrases">
                             <phrase n="1" startid="#n185y31q" endid="#n4zhsob" type="A"/>
                             <phrase n="2" startid="#nnk0s5j" endid="#n1bm7r3m" type="A"/>
-                            <phrase n="3" startid="#n7g31x5" endid="#n19z3iqw" type="A2"/>
-                            <phrase n="3" startid="#n1mycpyr" endid="#n1nruryp" type="CODA"/>
-                            <phrase n="4" startid="#n274iyy" endid="#n4zhsob" type="A"/>
-                            <phrase n="5" startid="#n1mycpyr" endid="#n1pwghc3" type="CODA"/>
+                            <phrase n="3" startid="#n7g31x5" endid="#nepcva4" type="A2"/>
+                            <phrase n="4" startid="#n1buls1w" endid="#n1nruryp" type="CODA"/>
+                            <phrase n="5" startid="#n274iyy" endid="#n4zhsob" type="A"/>
+                            <phrase n="6" startid="#n1buls1w" endid="#n1pwghc3" type="CODA"/>
                         </supplied>
                         <pb xml:id="ps0fs05"/>
                         <measure xml:id="mlr9u9k" n="0">
