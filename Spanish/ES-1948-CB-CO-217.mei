@@ -182,16 +182,12 @@
                         <supplied type="phrases">
                             <phrase n="1" startid="#n1lkrhnv" endid="#n1228e8b" type="INTRO"/>
                             <phrase n="2" startid="#n1477ony" endid="#n8v54db" type="A"/>
-                            <phrase n="9" startid="#n1vhcabl" endid="#n8v54db" type="A"/>
                             <phrase n="3" startid="#n1vhcabl" endid="#n19zrztw" type="A2"/>
-                            <phrase n="10" startid="#n1vhcabl" endid="#n1mvfmta" type="A2"/>
                             <phrase n="4" startid="#n1bma469" endid="#n16pv5r8" type="A2"/>
                             <phrase n="5" startid="#nsvh14o" endid="#nf37x1r" type="B"/>
                             <phrase n="6" startid="#n11ta7l4" endid="#nbgl2um" type="B"/>
                             <phrase n="7" startid="#n19rzhwh" endid="#n1xjv0j3" type="B2"/>
-                            <phrase n="11" startid="#n9y1svz" endid="#n1xjv0j3" type="B2"/>
-                            <phrase n="8" startid="#n1iwsh0g" endid="#n1xjv0j3" type="B2"/>
-                            <phrase n="12" startid="#n1iwsh0g" endid="#n1vkqt17" type="B2"/>
+                            <phrase n="8" startid="#n1iwsh0g" endid="#n1vkqt17" type="B2"/>
                         </supplied>
                         <pb xml:id="p165m74j"/>
                         <measure xml:id="m856mlc" n="0">
@@ -752,7 +748,7 @@
                             </measure>
                         </ending>
                         <ending xml:id="ezo9btj" lendsym="none" n="2">
-                            <measure xml:id="m122j82w" n="12">
+                            <measure xml:id="m122j82w" left="rptstart" n="12">
                                 <staff xml:id="sqnjp45" n="1">
                                     <layer xml:id="l3mfp3r" n="1">
                                         <beam xml:id="b11t7t16">
