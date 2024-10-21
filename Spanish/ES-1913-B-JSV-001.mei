@@ -1,73 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title type="main" xml:id="ES-1913-B-JSV-001">
-                    El Señor Gato
-                </title>
-                <title type="subtitle">
-                    Estava El Señor Gato
-                </title>
+                <title type="main" xml:id="ES-1913-B-JSV-001">El Señor Gato                </title>
+                <title type="subtitle">Estava El Señor Gato                </title>
                 <respStmt>
-                    <persName role="compiler">
-                        Serra I Vilaró
-                    </persName>
+                    <persName role="compiler">Serra I Vilaró                    </persName>
                     <persName role="informer">
                         <geogName/>
                     </persName>
-                    <persName role="encoder">
-                        Sara G.
-                    </persName>
-                    <persName role="editor"/>
-                </respStmt>
+                    <persName role="encoder">Sara G.                    </persName>
+                    <persName role="editor"></persName>
+                <persName role="composer"></persName></respStmt>
             </titleStmt>
             <pubStmt>
-                <publisher>
-                    co_POEM Reseach Project
-                </publisher>
-                <date>
-                    2023
-                </date>
-                <availability>
-                    To the best of our knowledge,
-                the full compositions on this site are in the public domain,
-                the excerpts are in the public domain or are allowable under fair-use,
-                and the few compositions that are still under copyright are used by permission.
-                These scores, are provided for educational use only and are not to be used commercially.
-                </availability>
+                <publisher>co_POEM Reseach Project                </publisher>
+                <date>2023</date>
+                <availability>To the best of our knowledge, the full compositions on this site are in the public domain, the excerpts are in the public domain or are allowable under fair-use, and the few compositions that are still under copyright are used by permission. These scores, are provided for educational use only and are not to be used commercially.</availability>
             </pubStmt>
             <sourceDesc>
                 <source xml:id="to_add">
                     <biblStruct>
                         <monogr>
                             <imprint>
-                                <title>
-                                    El Cançoner Del Calic
-                                </title>
-                                <title type="subordinate">
-                                    Recollit I Ordenat Per Mn. Serra I Vilaró
-                                </title>
+                                <title>El Cançoner Del Calic                                </title>
+                                <title type="subordinate">Recollit I Ordenat Per Mn. Serra I Vilaró                                </title>
                                 <respStmt>
-                                    <persName role="compiler">
-                                        Joan Serra I Vilaró
-                                    </persName>
-                                    <persName role="bibliography"/>
-                                    <persName role="introduction"/>
-                                    <persName role="edition"/>
+                                    <persName role="compiler">Joan Serra I Vilaró                                    </persName>
+                                    <persName role="bibliography"></persName>
+                                    <persName role="introduction"></persName>
+                                    <persName role="edition"></persName>
                                 </respStmt>
-                                <publisher>
-                                    Butlletí Del Centre Excursionista De Catalunya (Tipografía L'Avenç, Massó, Casas Y Cª)
-                                </publisher>
-                                <pubPlace>
-                                    Barcelona
-                                </pubPlace>
-                                <date>
-                                    1913
-                                </date>
-                                <extent type="pages">
-                                    138.0
-                                </extent>
+                                <publisher>Butlletí Del Centre Excursionista De Catalunya (Tipografía L'Avenç, Massó, Casas Y Cª)                                </publisher>
+                                <pubPlace>Barcelona                                </pubPlace>
+                                <date>1913</date>
+                                <extent type="pages">138</extent>
                             </imprint>
                         </monogr>
                     </biblStruct>
@@ -88,26 +58,17 @@
         </encodingDesc>
         <workList>
             <work>
-                <title type="main">
-                    El Señor Gato
-                </title>
-                <author type="informant">
-                    Anonymous
-                </author>
+                <title type="main">El Señor Gato                </title>
+                <author type="informant">Anonymous                </author>
                 <incip type="lyrics">
                     <incipText>
-                        <head>
-                            Estava el señor gato
+                        <head>Estava el señor gato
                         </head>
                     </incipText>
                 </incip>
                 <key mode="ionian">F</key>
-                <meter>
-                    Binary
-                </meter>
-                <tempo>
-                    Andante
-                </tempo>
+                <meter>Binary                </meter>
+                <tempo>Andante                </tempo>
                 <incip type="musical">
                     <score>
                         <section>
@@ -117,11 +78,10 @@
                     </score>
                 </incip>
                 <langUsage>
-                    <language xml:lang="cat"/>
+                    <language xml:lang="ca"/>
                 </langUsage>
                 <notesStmt>
-                    <annot>
-                        El gatet se n'ha llevat:
+                    <annot>                        El gatet se n'ha llevat:
                         la cara i mans s'ha rentat.
 
                         Poseu-li an el gat la sella:
@@ -149,16 +109,10 @@
                 </notesStmt>
                 <classification>
                     <termList>
-                        <term type="genre">
-                            Children song
-                        </term>
-                        <term type="region">
-                            Cataluña
-                        </term>
-                        <term type="district">
-                            Barcelona
-                        </term>
-                        <term type="city"/>
+                        <term type="genre">Children song                        </term>
+                        <term type="region">Cataluña                        </term>
+                        <term type="district">Barcelona                        </term>
+                        <term type="city"></term>
                     </termList>
                 </classification>
             </work>
@@ -194,19 +148,7 @@
                         </ambitus>
                     </scoreDef>
                     <section xml:id="s7f5d3o">
-                        <supplied type="rhythm pattern">
-                            <beam>
-                                <note dots="1" dur="8"/>
-                                <note dur="16"/>
-                            </beam>
-                        </supplied>
-                        <supplied type="phrases">
-                            <phrase n="1" startid="#n15pex1v" endid="#nb5y2fm" type="A"/>
-                            <phrase n="3" startid="#n9j2iv2" endid="#nb5y2fm" type="A"/>
-                            <phrase n="2" startid="#nu17o9i" endid="#n1wpo07t" type="A2"/>
-                            <phrase n="4" startid="#nu17o9i" endid="#n1d73t4a" type="A2"/>
-                        </supplied>
-                        <pb xml:id="p1hlvinx"/>
+                        <supplied type="rhythm pattern"><beam><note dur="8."/><note dur="16"/></beam></supplied><supplied type="phrases"><phrase n="1" startid="#n15pex1v" endid="#nb5y2fm" type="A"/><phrase n="3" startid="#n9j2iv2" endid="#nb5y2fm" type="A"/><phrase n="2" startid="#nu17o9i" endid="#n1wpo07t" type="A2"/><phrase n="4" startid="#nu17o9i" endid="#n1d73t4a" type="A2"/></supplied><pb xml:id="p1hlvinx"/>
                         <measure xml:id="mvq9h3d" n="0">
                             <mNum xml:id="m1gxax6w"/>
                             <staff xml:id="sv4911e" n="1">
