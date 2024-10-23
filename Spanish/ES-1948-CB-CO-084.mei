@@ -114,28 +114,7 @@ cucurucú;</head>
             </ambitus>
           </scoreDef>
           <section xml:id="s1kwywqx">
-            <supplied type="rhythm pattern">
-              <beam>
-                <note dur="8"/>
-                <note dur="8"/>
-              </beam>
-              <beam>
-                <note dur="8"/>
-                <note dur="8"/>
-              </beam>
-              <beam>
-                <note dur="8"/>
-                <note dur="8"/>
-              </beam>
-              <note dur="4"/>
-            </supplied>
-            <supplied type="phrases">
-              <phrase n="1" startid="#n1q582bu" endid="#n6ap2af" type="A"/>
-              <phrase n="2" startid="#n3vsck0" endid="#ndfnjii" type="A"/>
-              <phrase n="3" startid="#n187j0mu" endid="#nkgmjnz" type="B1"/>
-              <phrase n="1" startid="#n423wk3" endid="#n1wde2qa" type="B2"/>
-            </supplied>
-            <pb xml:id="p6lhenz"/>
+            <supplied type="rhythm pattern"><beam><note dur="8"/><note dur="8"/></beam><beam><note dur="8"/><note dur="8"/></beam><beam><note dur="8"/><note dur="8"/></beam><note dur="4"/></supplied><supplied type="phrases"><phrase n="1" startid="#n1q582bu" endid="#n6ap2af" type="A"/><phrase n="2" startid="#n3vsck0" endid="#ndfnjii" type="A"/><phrase n="3" startid="#n187j0mu" endid="#nkgmjnz" type="B1"/><phrase n="4" startid="#n423wk3" endid="#n1wde2qa" type="B2"/></supplied><pb xml:id="p6lhenz"/>
             <measure xml:id="m1g7oxh" n="0">
               <mNum xml:id="mmd08tz"/>
               <staff xml:id="s1sq2xwi" n="1">
