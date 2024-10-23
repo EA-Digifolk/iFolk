@@ -1770,7 +1770,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <ending xml:id="ey1p8kg" lendsym="angledown" n="1-4">
+                        <ending xml:id="ey1p8kg" lendsym="angledown" n="1-5">
                             <measure xml:id="m7t5h1s" right="rptend" n="16">
                                 <staff xml:id="s19ynazp" n="1">
                                     <layer xml:id="l1h6ujiw" n="1">
@@ -1813,7 +1813,7 @@
                                 <fermata xml:id="fdggx4k" staff="1" startid="#n1sg7goo" form="norm" place="above"/>
                             </measure>
                         </ending>
-                        <ending xml:id="e1dnaxju" lendsym="angledown" n="5">
+                        <ending xml:id="e1dnaxju" lendsym="angledown" n="6">
                             <measure xml:id="mzckece" right="end" n="17">
                                 <staff xml:id="s1563zr9" n="1">
                                     <layer xml:id="lybr2d4" n="1">
