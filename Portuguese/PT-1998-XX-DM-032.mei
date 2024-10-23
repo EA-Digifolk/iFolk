@@ -1,40 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/dev/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title type="main" xml:id="PT-1998-XX-DM-032">
-                    Disse O Galo Prá Galinha
-                </title>
-                <title type="subtitle">
-                    Disse O Galo Prá Galinha
-                </title>
+                <title type="main" xml:id="PT-1998-XX-DM-032">Disse O Galo P'rá Galinha                </title>
+                <title type="subtitle">Disse O Galo P'rá Galinha                </title>
                 <respStmt>
-                    <persName role="compiler">
-                        Domingos Morais
-                    </persName>
+                    <persName role="compiler">Domingos Morais                    </persName>
                     <persName role="informer">
                         <geogName/>
                     </persName>
-                    <persName role="encoder">
-                        Sara González
-                    </persName>
-                    <persName role="editor"/>
-                </respStmt>
+                    <persName role="encoder">Sara González                    </persName>
+                    <persName role="editor"></persName>
+                <persName role="composer"></persName></respStmt>
             </titleStmt>
             <pubStmt>
-                <publisher>
-                    co_POEM Reseach Project
-                </publisher>
-                <date>
-                    2023
-                </date>
-                <availability>
-                    To the best of our knowledge,
-                                                        the full compositions on this site are in the public domain,
-                                                        the excerpts are in the public domain or are allowable under fair-use,
-                                                        and the few compositions that are still under copyright are used by permission.
-                                                        These scores, are provided for educational use only and are not to be used commercially.
+                <publisher>co_POEM Reseach Project                </publisher>
+                <date>2023</date>
+                <availability>To the best of our knowledge, the full compositions on this site are in the public domain, the excerpts are in the public domain or are allowable under fair-use, and the few compositions that are still under copyright are used by permission. These scores, are provided for educational use only and are not to be used commercially.
                 </availability>
             </pubStmt>
             <sourceDesc>
@@ -42,32 +27,18 @@
                     <biblStruct>
                         <monogr>
                             <imprint>
-                                <title>
-                                    Cantar Em Português
-                                </title>
-                                <title type="subordinate">
-                                    Selecção, Versões Karaoke E Notas
-                                </title>
+                                <title>Cantar Em Português                                </title>
+                                <title type="subordinate">Selecção, Versões Karaoke E Notas                                </title>
                                 <respStmt>
-                                    <persName role="compiler">
-                                        Domingos Morais
-                                    </persName>
-                                    <persName role="bibliography"/>
-                                    <persName role="introduction"/>
-                                    <persName role="edition"/>
+                                    <persName role="compiler">Domingos Morais                                    </persName>
+                                    <persName role="bibliography"></persName>
+                                    <persName role="introduction"></persName>
+                                    <persName role="edition"></persName>
                                 </respStmt>
-                                <publisher>
-                                    Universidade do Minho
-                                </publisher>
-                                <pubPlace>
-                                    Online
-                                </pubPlace>
-                                <date>
-                                    1998
-                                </date>
-                                <extent type="pages">
-                                    76.0
-                                </extent>
+                                <publisher>Universidade do Minho                                </publisher>
+                                <pubPlace>Online                                </pubPlace>
+                                <date>1998</date>
+                                <extent type="pages">76</extent>
                             </imprint>
                         </monogr>
                     </biblStruct>
@@ -88,26 +59,63 @@
         </encodingDesc>
         <workList>
             <work>
-                <title type="main">
-                    Disse O Galo Prá Galinha
-                </title>
-                <author type="informant">
-                    Anonymous
-                </author>
+                <title type="main">Disse O Galo Prá Galinha                </title>
+                <author type="informant"> Anonymous                </author>
                 <incip type="lyrics">
                     <incipText>
-                        <head>
-                            Disse o galo prá galinha
-                        </head>
+                        <head>                                                                  Disse o galo pr'á galinha,
+                                                                  - Casemos, ó prima.
+                                                                  - Sim, sim, casaremos,
+                                                                  mas, falta a madrinha.
+
+                                                                  Respondeu a cobra
+                                                                  lá da Ribeirinha,
+                                                                  que ela estava pronta
+                                                                  p'ra ser a madrinha.
+                                                                  - A madrinha já nós temos
+                                                                  e mui certa a temos,
+                                                                  agora o padrinho,
+                                                                  onde nós iremos?
+
+                                                                  Respondeu o rato
+                                                                  do seu buraquinho,
+                                                                  que ele estava pronto
+                                                                  p'ra ser o padrinho.
+                                                                  - O padrinho já nós temos
+                                                                  e mui certo o temos,
+                                                                  agora o carneiro,
+                                                                  onde nós iremos?
+
+                                                                  Respondeu o lobo
+                                                                  lá do seu lobal,
+                                                                  que ele estava pronto
+                                                                  pró carneiro dar.
+                                                                  - O carneiro já nós temos
+                                                                  e mui certo o temos,
+                                                                  agora o pão trigo,
+                                                                  onde nós iremos?
+                                                                  Responde a formiga
+                                                                  do seu formigal,
+                                                                  que ela estava pronta
+                                                                  para o trigo dar.
+                                                                  - O pão trigo já nós temos
+                                                                  e mui certo o temos,
+                                                                  mas a cozinheira,
+                                                                  onde nós iremos?
+
+                                                                  Responde a raposa,
+                                                                  por ser mais lampeira,
+                                                                  que ela estava pronta
+                                                                  p'ra ser cozinheira.
+                                                                  - Cozinheira já nós temos,
+                                                                  e mui certa a temos,
+                                                                  não nos falta nada,
+                                                                  sim, sim, casaremos.</head>
                     </incipText>
                 </incip>
                 <key mode="major">F</key>
-                <meter>
-                    Ternary
-                </meter>
-                <tempo>
-                    None
-                </tempo>
+                <meter>Ternary</meter>
+                <tempo>Presto</tempo>
                 <incip type="musical">
                     <score>
                         <section>
@@ -175,12 +183,10 @@
                 </notesStmt>
                 <classification>
                     <termList>
-                        <term type="genre">
-                            Children song
-                        </term>
-                        <term type="region"/>
-                        <term type="district"/>
-                        <term type="city"/>
+                        <term type="genre">Children Song</term>
+                        <term type="region"></term>
+                        <term type="district"></term>
+                        <term type="city"></term>
                     </termList>
                 </classification>
             </work>
@@ -211,20 +217,12 @@
                             </staffDef>
                         </staffGrp>
                         <ambitus>
-                            <ambNote type="lowest" oct="4" pname="f"/>
+                            <ambNote type="lowest" oct="4" pname="e"/>
                             <ambNote type="highest" oct="5" pname="e"/>
                         </ambitus>
                     </scoreDef>
                     <section xml:id="sz5i4sd">
-                        <supplied type="rhythm pattern"/>
-                        <supplied type="phrases">
-                            <phrase n="1" startid="#nn718rm" endid="#n7juva3" type="A1"/>
-                            <phrase n="2" startid="#n1rxmuym" endid="#n1cz14yh" type="B1"/>
-                            <phrase n="3" startid="#ndnhz7o" endid="#noy0l15" type="A2"/>
-                            <phrase n="4" startid="#n13u18uh" endid="#n1sg7goo" type="B2"/>
-                            <phrase n="4" startid="#n13u18uh" endid="#nesjap4" type="B2"/>
-                        </supplied>
-                        <pb xml:id="p1wj1360"/>
+                        <supplied type="rhythm pattern"><beam><note dur="8"/><note dur="8"/></beam></supplied><supplied type="phrases"><phrase n="1" startid="#nn718rm" endid="#n7juva3" type="A1"/><phrase n="2" startid="#n1rxmuym" endid="#n1cz14yh" type="B1"/><phrase n="3" startid="#ndnhz7o" endid="#noy0l15" type="A2"/><phrase n="4" startid="#n13u18uh" endid="#n1sg7goo" type="B2"/><phrase n="5" startid="#n13u18uh" endid="#nesjap4" type="B2"/></supplied><pb xml:id="p1wj1360"/>
                         <measure xml:id="m1sva33a" left="rptstart" n="1">
                             <staff xml:id="s1r7r12u" n="1">
                                 <layer xml:id="l173akl8" n="1">
