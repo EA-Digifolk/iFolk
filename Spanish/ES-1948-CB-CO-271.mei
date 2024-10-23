@@ -952,7 +952,7 @@ Conde de Cabra, si no a ti.</head>
                 </layer>
               </staff>
             </measure>
-            <ending xml:id="e1dp5kuw" lendsym="angledown" n="2.">
+            <ending xml:id="e1dp5kuw" lendsym="angledown" n="1">
               <measure xml:id="m14if06b" right="rptend" n="24">
                 <staff xml:id="s1fboxl" n="1">
                   <layer xml:id="legr7k0" n="1">
@@ -978,7 +978,7 @@ Conde de Cabra, si no a ti.</head>
                 </staff>
               </measure>
             </ending>
-            <ending xml:id="egokj01" lendsym="none" n="2.">
+            <ending xml:id="egokj01" lendsym="none" n="2">
               <measure xml:id="m1cg70ol" right="end" n="25">
                 <staff xml:id="s1omn68d" n="1">
                   <layer xml:id="l10fhqbo" n="1">
