@@ -515,9 +515,9 @@ Esta canción ofrece la característica de que el novio estaba balanceando a su 
                   </layer>
                 </staff>
                 <tie xml:id="t1rso75l" startid="#n115q4qv" endid="#nlsnjae"/>
-                <!--<dir xml:id="d125ygah" type="dacapo" place="above" staff="1" tstamp="4.000000" vgrp="2010">
-                  <rend xml:id="ro16yie" halign="right">DC</rend>
-                </dir>-->
+                <dir xml:id="d125ygah" type="dacapo" place="above" staff="1" tstamp="4.000000" vgrp="2010">
+                  <rend xml:id="ro16yie" halign="right">D.C.</rend>
+                </dir>
               </measure>
             </ending>
           </section>
