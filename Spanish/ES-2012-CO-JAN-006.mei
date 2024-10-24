@@ -321,7 +321,7 @@ Esta canción ofrece la característica de que el novio estaba balanceando a su 
               </staff>
             </measure>
             <sb xml:id="snp8tep"/>
-            <ending xml:id="e1hbpwql" lendsym="angledown" n="1.">
+            <ending xml:id="e1hbpwql" lendsym="angledown" n="1">
               <measure xml:id="m1m76llb" n="5">
                 <staff xml:id="s3nc0pk" n="1">
                   <layer xml:id="liwr413" n="1">
@@ -416,7 +416,7 @@ Esta canción ofrece la característica de que el novio estaba balanceando a su 
                 </staff>
               </measure>
             </ending>
-            <ending xml:id="e1i7xucg" lendsym="none" n="2.">
+            <ending xml:id="e1i7xucg" lendsym="none" n="2">
               <measure xml:id="m7acq17" n="7">
                 <staff xml:id="sx2z6dh" n="1">
                   <layer xml:id="ljno0dn" n="1">
