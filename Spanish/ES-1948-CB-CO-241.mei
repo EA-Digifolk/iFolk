@@ -98,6 +98,69 @@
                     <incipText>
                         <head>
                             Un francés vino de Francia
+                           en busca de una mujer;
+                           se encontró con una niña
+                           que le supores ponder.
+                           
+                           Francesito, francesito,
+                           si usted me quiere tener,
+                           todo lo que yo le pida,
+                           me lo habrá de conceder.
+                           
+                           Lo primero es una casa
+                           que valga cien mil millones
+                           a la orillita del mar,
+                           con ventanas y balcones:
+                           
+                           alrededor de mi casa
+                           se ha de extender un jardín
+                           y en medio una fuente de agua
+                           con cien caños de marfil.
+                           
+                           Desde mi casa a la iglesia
+                           hay que plantar una parra,
+                           para que al salir a misa
+                           no me dé el sol en la cara.
+                           
+                           Desde mi casa a la iglesia
+                           hay que poner un tablado
+                           para que cuando vaya a misa
+                           no se me ensucie el calzado.
+                           
+                           Zapato de raso blanco
+                           también me ha de ofrecer,
+                           pues tengo el pie chiquito
+                           y me lo estropearé.
+                           
+                           Desde mi casa a la iglesia
+                           barrerán con cuatro escobas,
+                           para cuando vaya a misa
+                           no se me ensucie la cola.
+                           
+                           Un coche con doce mulas
+                           será también menester,
+                           que estoy un poco gordita
+                           y me canso de ir a pie.
+                           
+                           En el cuarto que yo tenga
+                           ha de haber un techo de oro
+                           con cortinas de Damasco,
+                           para darme gusto en todo.
+                           
+                           Las cortinas de mi alcoba
+                           han de ser de oro bordado
+                           y entre cortina y cortina
+                           un corazón dibujado.
+                           
+                           En la cama donde duerma
+                           hay que poner diez colchones
+                           con las sábanas de blonda,
+                           todas llenas de primores.
+                           
+                           Quédese con Dios la niña,
+                           que mañana volveré.
+                           No es nada lo que usted pide
+                           si encuentra quién se lo dé.
                         </head>
                     </incipText>
                 </incip>
@@ -120,53 +183,7 @@
                     <language xml:lang="es"/>
                 </langUsage>
                 <notesStmt>
-                    <annot>
-                        Lo primero es una casa
-            que valga cien mil millones
-            a la orillita del mar,
-            con ventanas y balcones:
-            alrededor de mi casa
-            se ha de extender un jardín
-            y en medio una fuente de agua
-            con cien caños de marfil.
-            Desde mi casa a la iglesia
-            hay que plantar una parra,
-            para que al salir a misa
-            no me dé el sol en la cara.
-            Desde mi casa a la iglesia
-            hay que poner un tablado
-            para que cuando vaya a misa
-            no se me ensucie el calzado.
-            Zapato de raso blanco
-            también me ha de ofrecer,
-            pues tengo el pie chiquito
-            y me lo estropearé.
-            Desde mi casa a la iglesia
-            barrerán con cuatro escobas,
-            
-            para cuando vaya a misa
-            no se me ensucie la cola.
-            Un coche con doce mulas
-            será también menester,
-            que estoy un poco gordita
-            y me canso de ir a pie.
-            En el cuarto que yo tenga
-            ha de haber un techo de oro
-            con cortinas de Damasco,
-            para darme gusto en todo.
-            Las cortinas de mi alcoba
-            han de ser de oro bordado
-            y entre cortina y cortina
-            un corazón dibujado.
-            En la cama donde duerma
-            hay que poner diez colchones
-            con las sábanas de blonda,
-            todas llenas de primores.
-            Quédese con Dios la niña,
-            que mañana volveré.
-            No es nada lo que usted pide
-            si encuentra quién se lo dé.
-                    </annot>
+                    <annot/>
                 </notesStmt>
                 <classification>
                     <termList>
@@ -234,10 +251,10 @@
                             </beam>
                         </supplied>
                         <supplied type="phrases">
-                            <phrase n="1" startid="#npdwzjc" endid="#ntue9cs" type="A"/>
-                            <phrase n="2" startid="#n1fxxuux" endid="#na28xm9" type="A2"/>
-                            <phrase n="3" startid="#n18x3a22" endid="#ntue9cs" type="A"/>
-                            <phrase n="4" startid="#n1fxxuux" endid="#nf0ylr1" type="A2"/>
+                            <phrase n="1" startid="#npdwzjc" endid="#n1fxxuux" type="A"/>
+                            <phrase n="2" startid="#n1ylm30e" endid="#na28xm9" type="A2"/>
+                            <phrase n="3" startid="#n18x3a22" endid="#n1fxxuux" type="A"/>
+                            <phrase n="4" startid="#n1ylm30e" endid="#nf0ylr1" type="A2"/>
                         </supplied>
                         <pb xml:id="pmhhxl2"/>
                         <measure xml:id="m5eafxa" n="0">
@@ -564,52 +581,6 @@
                                 </layer>
                             </staff>
                             <dir xml:id="d1oirrxl" place="below" staff="1" tstamp="1.000000" vgrp="40"/>
-                            <dir xml:id="d17pt0ep" staff="1" tstamp="1.000000" vgrp="40">
-                                Lo primero es una casa
-                                <lb xml:id="l14ppm47"/>
-                                que valga cien mil millones
-                                <lb xml:id="lfoxwp6"/>
-                                a la orillita del mar,
-                                <lb xml:id="l1y18emk"/>
-                                con ventanas y balcones:
-                                <lb xml:id="l1vr3xfx"/>
-                                alrededor de mi casa
-                                <lb xml:id="l1sbyfnz"/>
-                                se ha de extender un jardín
-                                <lb xml:id="l1qgoqaa"/>
-                                y en medio una fuente de agua
-                                <lb xml:id="l8w4wgs"/>
-                                con cien caños de marfil.
-                                <lb xml:id="ljcvr66"/>
-                                Desde mi casa a la iglesia
-                                <lb xml:id="lx5z1a6"/>
-                                hay que plantar una parra,
-                                <lb xml:id="l6jb1c6"/>
-                                para que al salir a misa
-                                <lb xml:id="l1lkoofr"/>
-                                no me dé el sol en la cara.
-                                <lb xml:id="l1pl35vw"/>
-                                Desde mi casa a la iglesia
-                                <lb xml:id="lmrqq83"/>
-                                hay que poner un tablado
-                                <lb xml:id="l1oir5wv"/>
-                                para que cuando vaya a misa
-                                <lb xml:id="l1i13si2"/>
-                                no se me ensucie el calzado.
-                                <lb xml:id="lja7she"/>
-                                Zapato de raso blanco
-                                <lb xml:id="l2hnmoe"/>
-                                también me ha de ofrecer,
-                                <lb xml:id="lm2cidz"/>
-                                pues tengo el pie chiquito
-                                <lb xml:id="l1uw2zd3"/>
-                                y me lo estropearé.
-                                <lb xml:id="l1272en"/>
-                                Desde mi casa a la iglesia
-                                <lb xml:id="lzjpxnn"/>
-                                barrerán con cuatro escobas,
-                                <lb xml:id="l1ewauih"/>
-                            </dir>
                         </measure>
                         <measure xml:id="m1aii5f9" n="6">
                             <staff xml:id="ssihcjt" n="1">
@@ -726,52 +697,6 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <dir xml:id="d1earu0x" place="below" staff="1" tstamp="1.000000" vgrp="40">
-                                para cuando vaya a misa
-                                <lb xml:id="l1f20m68"/>
-                                no se me ensucie la cola.
-                                <lb xml:id="l10siv5v"/>
-                                Un coche con doce mulas
-                                <lb xml:id="l1yvwb1r"/>
-                                será también menester,
-                                <lb xml:id="l1suu14h"/>
-                                que estoy un poco gordita
-                                <lb xml:id="lmu0iii"/>
-                                y me canso de ir a pie.
-                                <lb xml:id="l1vyydi9"/>
-                                En el cuarto que yo tenga
-                                <lb xml:id="lnaibrb"/>
-                                ha de haber un techo de oro
-                                <lb xml:id="l98g16s"/>
-                                con cortinas de Damasco,
-                                <lb xml:id="l1hwlsho"/>
-                                para darme gusto en todo.
-                                <lb xml:id="l1t01vxd"/>
-                                Las cortinas de mi alcoba
-                                <lb xml:id="l1u12ww7"/>
-                                han de ser de oro bordado
-                                <lb xml:id="l146rrq6"/>
-                                y entre cortina y cortina
-                                <lb xml:id="l11opfdq"/>
-                                un corazón dibujado.
-                                <lb xml:id="l80ksxo"/>
-                                En la cama donde duerma
-                                <lb xml:id="l1karh62"/>
-                                hay que poner diez colchones
-                                <lb xml:id="l40cbs4"/>
-                                con las sábanas de blonda,
-                                <lb xml:id="l2mwwkq"/>
-                                todas llenas de primores.
-                                <lb xml:id="l5zmd12"/>
-                                Quédese con Dios la niña,
-                                <lb xml:id="lp1exev"/>
-                                que mañana volveré.
-                                <lb xml:id="l1r8u11n"/>
-                                No es nada lo que usted pide
-                                <lb xml:id="l4zf311"/>
-                                si encuentra quién se lo dé.
-                                <lb xml:id="l2exkzt"/>
-                            </dir>
                         </measure>
                         <ending xml:id="ewo2izh" lendsym="angledown" n="1">
                             <measure xml:id="mvwhc8c" right="rptend" n="8">
