@@ -265,7 +265,7 @@
               </staff>
             </measure>
             <sb xml:id="s14mr88u"/>
-            <ending xml:id="e1j0cctj" lendsym="angledown" n="1.">
+            <ending xml:id="e1j0cctj" lendsym="angledown" n="1">
               <measure xml:id="m18t8mlv" right="rptend" n="4">
                 <staff xml:id="s13qijqf" n="1">
                   <layer xml:id="lgyjqub" n="1">
@@ -290,7 +290,7 @@
                 </staff>
               </measure>
             </ending>
-            <ending xml:id="ei7vt6z" lendsym="angledown" n="2.">
+            <ending xml:id="ei7vt6z" lendsym="angledown" n="2">
               <measure xml:id="m1b3cylp" n="5">
                 <staff xml:id="s1542rfz" n="1">
                   <layer xml:id="l7u7ks7" n="1">
