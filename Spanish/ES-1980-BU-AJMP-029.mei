@@ -478,7 +478,7 @@
                                     <syl xml:id="s3mz0k0" con="d" wordpos="m">can</syl>
                                  </verse>
                                  <verse xml:id="vxtkmaj" n="2">
-                                    <syl xml:id="s5swec5" con="s" wordpos="t">mo</syl>
+                                    <syl xml:id="s5swec5" con="d" wordpos="m">mo</syl>
                                  </verse>
                                  <verse xml:id="v1ho03cw" n="3">
                                     <syl xml:id="s97h58b" con="s" wordpos="t">ro</syl>
@@ -529,7 +529,7 @@
                                  </note>
                                  <note xml:id="ngfp29s" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
                                     <verse xml:id="v1yariba" n="1">
-                                       <syl xml:id="s1g9hbaz" con="s" wordpos="t">can</syl>
+                                       <syl xml:id="s1g9hbaz" con="d" wordpos="m">can</syl>
                                     </verse>
                                  </note>
                               </beam>
