@@ -1,6 +1,6 @@
 # iFolk
 
-Dataset of Italian, Spanish, Mexican, Irish, and Portuguese folk tunes in symbolic MEI (Music Encoding Initiative) format. MEI files include information on sources and annotations for music analysis (key/mode), segmentation (only some of them), rhythm patterns, etc.
+Dataset of Italian, Spanish, Mexican, Irish, and Portuguese folk tunes in symbolic MEI (Music Encoding Initiative) format. MEI files include information on sources and annotations for music analysis (key/mode), segmentation, rhythm patterns, etc.
 
 ## Logs:
 
