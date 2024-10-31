@@ -1,22 +1,25 @@
 # iFolk
 
-Dataset of Spanish, Italian and Portuguese folk tunes in symbolic MEI (Music Encoding Initiative) format. MEI files include information on sources and annotations for music analysis (key/mode), segmentation (only some of them), rhythm patterns, etc.
+Dataset of Italian, Spanish, Mexican, Irish, and Portuguese folk tunes in symbolic MEI (Music Encoding Initiative) format. MEI files include information on sources and annotations for music analysis (key/mode), segmentation (only some of them), rhythm patterns, etc.
 
-## Errors (Checks mean already corrected for now):
+## Logs:
 
-### Files that are not correct yet (No segmentation, nor metadata):
-- [ ] IT-1954-Friuli-Fl-XXX.mei
+### Status (31/10/2024):
+- Start Adding Mexican Folk Songs
 
-### Segmentation:
+### TODO (31/10/2024):
+- Start Irish Tunes
 
-#### Troubles relating to different voices:
+### Errors:
+
+#### Troubles relating to parsing different voices's segmentation:
 
 - [ ] ES-1948-AS-FP-006
 - [ ] ES-1948-CB-CO-376
-- [ ] ES-1948-CB-CO-418
+- [ ] ES-1948-CB-CO-418 
 - [ ] ES-1991-CL-KS-147
 
-#### Incomplete/Wrong:
+#### Incomplete/Wrong Segmentation:
 
 - [ ] IT-1952-RO-CO-031a
 - [ ] IT-1957-TO-NI-169b
@@ -27,7 +30,7 @@ Dataset of Spanish, Italian and Portuguese folk tunes in symbolic MEI (Music Enc
 - [ ] IT-XXXX-VE-VA-027
 - [ ] IT-XXXX-VI-PA-059
 
-#### No information:
+#### No information on Segmentation:
 
 - [ ] IT-XXXX-CN-LE-004
 - [ ] IT-XXXX-VE-VA-014
@@ -38,4 +41,5 @@ Dataset of Spanish, Italian and Portuguese folk tunes in symbolic MEI (Music Enc
 - [ ] IT-XXXX-VI-PA-048
 - [ ] IT-XXXX-VI-PA-049
 - [ ] IT-XXXX-VI-PA-052
+- [ ] IT-1954-Friuli-Fl-XXX.mei **(No segmentation nor metadata)**
       
