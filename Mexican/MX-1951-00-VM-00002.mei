@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:id="m1g5gnzq">
+    <fileDesc xml:id="f16f3r1t">
+      <titleStmt xml:id="txji25a">
+        <title type="main" xml:id=" MX-1951-00-VM-00002">Arrullo del Niño Dios</title>
+        <title type="subtitle">(b)</title>
+        <respStmt>
+          <persName role="composer"></persName>
+          <persName role="compiler">Lénica Reyes Zúñiga</persName>
+          <persName role="informer">Carmen Galván del Río<geogName/></persName>
+          <persName role="encoder">Guillermo Mora Reguera</persName>
+          <persName role="editor"></persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt xml:id="pyxtk0d">
+        <availability>To the best of our knowledge, the full compositions on this site are in the public domain, the excerpts are in the public domain or are allowable under fair-use, and the few compositions that are still under copyright are used by permission. These scores, are provided for educational use only and are not to be used commercially.<distributor>Copyright © </distributor></availability>
+        <publisher>EA-DIGIFOLK Reseach Project</publisher>
+        <date>2024</date>
+        <availability/>
+      </pubStmt>
+      <sourceDesc>
+        <source xml:id="MX-1951-00-VM">
+          <biblStruct>
+            <monogr>
+              <imprint>
+                <title></title>
+                <title type="subordinate"></title>
+                <respStmt>
+                  <persName role="compiler"></persName>
+                  <persName role="bibliography"></persName>
+                  <persName role="introduction"></persName>
+                  <persName role="edition"></persName>
+                </respStmt>
+                <publisher></publisher>
+                <pubPlace>Mexico</pubPlace>
+                <date>1951</date>
+                <extent type="pages">0</extent>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </source>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc xml:id="enos4v2">
+      <appInfo xml:id="a16g76w2">
+        <application xml:id="a1j0smtf" isodate="2024-10-31T10:59:49" version="4.3.1-3b8cc17">
+          <name xml:id="n1n579oq">Verovio</name>
+          <p xml:id="p1dx100j">Transcoded from MusicXML</p>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <workList>
+      <work>
+        <title type="main">Arrullo del Niño Dios (b)</title>
+        <author type="informant">Anonymous</author>
+        <incip type="lyrics">
+          <incipText>
+            <head>A la rorro, rorro 
+y_a la rorrorró 
+duérmete, niñito 
+de mi corazón.
+
+A la rorro, niño,
+y a la rorrorró;
+duérmete, bien mío,
+que ya amaneció.</head>
+          </incipText>
+        </incip>
+        <key mode="mixolydian">C</key>
+        <meter>Binary</meter>
+        <tempo>Maestoso</tempo>
+        <incip type="musical">
+          <score>
+            <section>
+              <measure copyof="#mz8esnf"/>
+              <measure copyof="#mb4565u"/>
+            </section>
+          </score>
+        </incip>
+        <langUsage>
+          <language xml:lang="es"/>
+        </langUsage>
+        <notesStmt>
+          <annot></annot>
+        </notesStmt>
+        <classification>
+          <term type="genre">Lullaby</term>
+          <term type="region">Mexico</term>
+          <term type="district"></term>
+          <term type="city"></term>
+        </classification>
+      </work>
+    </workList>
+  </meiHead>
+  <music>
+    <body>
+      <mdiv xml:id="mmys26">
+        <score xml:id="s1rmc9bz">
+          <scoreDef xml:id="s3deiej">
+            <pgHead xml:id="p1m6478j">
+              <rend xml:id="r8ymbkf" halign="center" valign="top">2. ARRULLO DEL NIÑO DIOS (b)</rend>
+            </pgHead>
+            <pgFoot xml:id="p1oezaz4">
+              <rend xml:id="rdmqr28" halign="center" valign="bottom">Copyright © </rend>
+            </pgFoot>
+            <staffGrp xml:id="s1opcngj">
+              <staffDef xml:id="P1" n="1" lines="5" ppq="6">
+                <instrDef xml:id="ik5ezjk" midi.channel="0" midi.instrnum="0" midi.volume="78.00%"/>
+                <clef xml:id="c107u4wf" shape="G" line="2"/>
+                <keySig xml:id="k1sqlq8b" mode="major" sig="1f"/>
+                <meterSig xml:id="mxo3eke" count="2" unit="4"/>
+              </staffDef>
+            </staffGrp>
+            <ambitus>
+              <ambNote type="lowest" oct="4" pname="f"/>
+              <ambNote type="highest" oct="5" pname="d"/>
+            </ambitus>
+          </scoreDef>
+          <section xml:id="sysfm20">
+            <supplied type="rhythm pattern">
+              <beam>
+                <note dur="4"/>
+                <note dur="8"/>
+              </beam>
+              <beam>
+                <note dur="8"/>
+                <note dur="8"/>
+              </beam>
+              <note dur="4"/>
+              <note dur="4"/>
+            </supplied>
+            <supplied type="phrases">
+              <phrase n="1" startid="#n13zywf" endid="#n1bvpigz" type="A1"/>
+              <phrase n="2" startid="#n76l9gy" endid="#n1koiwka" type="B1"/>
+              <phrase n="3" startid="#nuf7n00" endid="#n1smr5h5" type="A2"/>
+              <phrase n="4" startid="#nw7qi1h" endid="#nlwkw1b" type="B2"/>
+            </supplied>
+            <measure xml:id="mz8esnf" n="1">
+              <staff xml:id="sqajs1n" n="1">
+                <layer xml:id="l19e4cxt" n="1">
+                  <tuplet xml:id="t1tgqbll" num="3" numbase="2" num.place="above" bracket.place="above" bracket.visible="true">
+                    <note xml:id="n13zywf" dur.ppq="4" dur="4" oct="4" pname="a" stem.dir="up">
+                      <verse xml:id="vzvzd4f" n="1">
+                        <syl xml:id="s1nws3eo" con="s" wordpos="s">A</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="n1q8a6to" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                      <verse xml:id="v1vroeer" n="1">
+                        <syl xml:id="sdxdccb" con="s" wordpos="s">la</syl>
+                      </verse>
+                    </note>
+                  </tuplet>
+                  <beam xml:id="b1ep6k5e">
+                    <note xml:id="n1mj4pid" dur.ppq="3" dur="8" oct="4" pname="a" stem.dir="up">
+                      <verse xml:id="v1epwdtr" n="1">
+                        <syl xml:id="s9h2ews" con="d" wordpos="i">ro</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="n8mzwxy" dur.ppq="3" dur="8" oct="4" pname="b" stem.dir="up" accid.ges="f">
+                      <verse xml:id="vztfvnh" n="1">
+                        <syl xml:id="s1bokhk5" con="s" wordpos="t">rro,</syl>
+                      </verse>
+                    </note>
+                  </beam>
+                </layer>
+              </staff>
+              <dir xml:id="d1nxkltq" place="below" staff="1" tstamp="1.000000" vgrp="1120">A la rorro, niño,y a la rorrorró;duérmete, bien mío,que ya amaneció.</dir>
+              <dir xml:id="dajpaa3" place="above" staff="1" tstamp="1.000000" vgrp="2220">
+                <rend xml:id="r71w5yh" fontfam="Times New Roman" fontweight="bold">Maestoso</rend>
+              </dir>
+              <tempo xml:id="tc69il9" place="above" staff="1" tstamp="1.000000" midi.bpm="70.000000" mm="70.000000" mm.unit="4"><rend xml:id="r16eseoj" glyph.auth="smufl"></rend> = 70</tempo>
+            </measure>
+            <measure xml:id="mb4565u" n="2">
+              <staff xml:id="sud5zg3" n="1">
+                <layer xml:id="l8n3wgp" n="1">
+                  <note xml:id="nwjvv2g" dur.ppq="6" dur="4" oct="5" pname="c" stem.dir="down">
+                    <verse xml:id="vuysmjb" n="1">
+                      <syl xml:id="szx54ds" con="d" wordpos="i">ro</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="n1bvpigz" dur.ppq="6" dur="4" oct="5" pname="c" stem.dir="down">
+                    <verse xml:id="v1purlbe" n="1">
+                      <syl xml:id="scv6luw" con="s" wordpos="t">rro</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="m11vis4w" n="3">
+              <staff xml:id="szy5pm8" n="1">
+                <layer xml:id="ll15497" n="1">
+                  <tuplet xml:id="t19zrzpf" num="3" numbase="2" num.place="below" bracket.place="below" bracket.visible="true">
+                    <note xml:id="n76l9gy" dur.ppq="4" dur="4" oct="5" pname="d" stem.dir="down">
+                      <verse xml:id="vcgihyn" n="1">
+                        <syl xml:id="s2evb9" con="s" wordpos="s">y_a</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="ng7aszu" dur.ppq="2" dur="8" oct="5" pname="c" stem.dir="down">
+                      <verse xml:id="v1n25qmj" n="1">
+                        <syl xml:id="s1ddw1vr" con="s" wordpos="s">la</syl>
+                      </verse>
+                    </note>
+                  </tuplet>
+                  <beam xml:id="byg7yyp">
+                    <note xml:id="navx7um" dur.ppq="3" dur="8" oct="4" pname="b" stem.dir="up" accid.ges="f">
+                      <verse xml:id="v9pqf3d" n="1">
+                        <syl xml:id="saa0y08" con="d" wordpos="i">ro</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="nymg5pb" dur.ppq="3" dur="8" oct="4" pname="a" stem.dir="up">
+                      <verse xml:id="v3hniqt" n="1">
+                        <syl xml:id="sp4iokc" con="d" wordpos="m">rro</syl>
+                      </verse>
+                    </note>
+                  </beam>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="mebw5gd" n="4">
+              <staff xml:id="s1hijwlb" n="1">
+                <layer xml:id="lov88oe" n="1">
+                  <note xml:id="n1607pb1" dur.ppq="6" dur="4" oct="4" pname="g" stem.dir="up">
+                    <verse xml:id="viz7fp9" n="1">
+                      <syl xml:id="s1mh0ahu" con="u" wordpos="t">rró</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="n1koiwka" dur.ppq="6" dur="4" oct="4" pname="g" stem.dir="up"/>
+                </layer>
+              </staff>
+              <tie xml:id="t1bc12tk" startid="#n1607pb1" endid="#n1koiwka"/>
+            </measure>
+            <measure xml:id="m1ss5emn" n="5">
+              <staff xml:id="sq226mm" n="1">
+                <layer xml:id="lorip9f" n="1">
+                  <tuplet xml:id="t14c0dan" num="3" numbase="2" num.place="below" bracket.place="below" bracket.visible="true">
+                    <note xml:id="nuf7n00" dur.ppq="4" dur="4" oct="5" pname="c" stem.dir="down">
+                      <verse xml:id="v1gynymk" n="1">
+                        <syl xml:id="sr2db3" con="d" wordpos="i">duér</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="n6rayvc" dur.ppq="2" dur="8" oct="5" pname="d" stem.dir="down">
+                      <verse xml:id="v1gt281o" n="1">
+                        <syl xml:id="sigs8m1" con="d" wordpos="m">me</syl>
+                      </verse>
+                    </note>
+                  </tuplet>
+                  <beam xml:id="b1yo12iu">
+                    <note xml:id="n1wove45" dur.ppq="3" dur="8" oct="5" pname="c" stem.dir="down">
+                      <verse xml:id="v1pex250" n="1">
+                        <syl xml:id="s138cesu" con="s" wordpos="t">te,</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="n11x1y7x" dur.ppq="3" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f">
+                      <verse xml:id="v668iy" n="1">
+                        <syl xml:id="s14i1vh7" con="d" wordpos="i">ni</syl>
+                      </verse>
+                    </note>
+                  </beam>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="mhb70rz" n="6">
+              <staff xml:id="s39wu0p" n="1">
+                <layer xml:id="l1gkdn7l" n="1">
+                  <note xml:id="n1s2w5ug" dur.ppq="6" dur="4" oct="4" pname="a" stem.dir="up">
+                    <verse xml:id="vpuibln" n="1">
+                      <syl xml:id="s16k8hq3" con="d" wordpos="m">ñi</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="n1smr5h5" dur.ppq="6" dur="4" oct="4" pname="f" stem.dir="up">
+                    <verse xml:id="v138xlnp" n="1">
+                      <syl xml:id="s1dj32ex" con="s" wordpos="t">to</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="m86ypf" n="7">
+              <staff xml:id="sl50aah" n="1">
+                <layer xml:id="l6zv8t3" n="1">
+                  <tuplet xml:id="tbllq09" num="3" numbase="2" num.place="above" bracket.place="above" bracket.visible="true">
+                    <note xml:id="nw7qi1h" dur.ppq="4" dur="4" oct="4" pname="g" stem.dir="up">
+                      <verse xml:id="vxbeivf" n="1">
+                        <syl xml:id="s1klctcy" con="s" wordpos="s">de</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="nbyirjd" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up">
+                      <verse xml:id="v1y4jdqi" n="1">
+                        <syl xml:id="sn57set" con="s" wordpos="s">mi</syl>
+                      </verse>
+                    </note>
+                  </tuplet>
+                  <beam xml:id="b1q2z2e9">
+                    <note xml:id="n1kx7g6v" dur.ppq="3" dur="8" oct="4" pname="g" stem.dir="up">
+                      <verse xml:id="v1l75jj1" n="1">
+                        <syl xml:id="s1ljzvyp" con="d" wordpos="i">co</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="n1s4y6p3" dur.ppq="3" dur="8" oct="4" pname="f" stem.dir="up">
+                      <verse xml:id="v1ymffdp" n="1">
+                        <syl xml:id="s3gi6az" con="d" wordpos="m">ra</syl>
+                      </verse>
+                    </note>
+                  </beam>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="m18cmfol" right="end" n="8">
+              <staff xml:id="s1k6n8kc" n="1">
+                <layer xml:id="lyc80fb" n="1">
+                  <note xml:id="nlwkw1b" dur.ppq="12" dur="2" oct="5" pname="c" stem.dir="down">
+                    <verse xml:id="v1a2zmnw" n="1">
+                      <syl xml:id="smpvk4d" con="s" wordpos="t">zón.</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+          </section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>
